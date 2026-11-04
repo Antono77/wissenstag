@@ -1,0 +1,43 @@
+<!doctype html>
+<html lang="de">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
+    <title>Wissenstag: jeden Tag ein bisschen klüger</title>
+    <meta name="description" content="Lernseite für Allgemeinwissen: Wissenskarten, Quiz in 24 Klassen, „Der Dümmste fliegt“ und aktuelle Nachrichten." />
+    <meta name="theme-color" content="#EBF0ED" media="(prefers-color-scheme: light)" />
+    <meta name="theme-color" content="#0E1714" media="(prefers-color-scheme: dark)" />
+    <link rel="icon" href="./favicon.svg" type="image/svg+xml" />
+    <script>
+      // Farbschema vor dem ersten Zeichnen setzen, damit nichts aufblitzt
+      try {
+        var s = JSON.parse(localStorage.getItem('wissenstag.v2') || '{}');
+        var t = s.einstellungen && s.einstellungen.theme;
+        if (t === 'hell' || t === 'dunkel') document.documentElement.dataset.theme = t;
+      } catch (e) {}
+    </script>
+  </head>
+  <body>
+    <a class="skip-link" href="#inhalt">Zum Inhalt springen</a>
+    <header class="kopf">
+      <a class="logo" href="#/" aria-label="Wissenstag, zur Startseite">Wissens<span class="logo-tag">tag</span></a>
+      <div class="kopf-rechts">
+        <span class="kopf-xp mono" id="kopf-xp" aria-label="Erfahrungspunkte"></span>
+        <button class="icon-knopf" id="theme-knopf" type="button" aria-label="Farbschema wechseln"></button>
+      </div>
+    </header>
+
+    <main id="inhalt" tabindex="-1"></main>
+
+    <nav class="tabbar" aria-label="Hauptnavigation">
+      <a href="#/" data-nav="start"><span class="tab-icon" data-icon="start"></span><span>Start</span></a>
+      <a href="#/lernen" data-nav="lernen"><span class="tab-icon" data-icon="lernen"></span><span>Lernen</span></a>
+      <a href="#/duemmste" data-nav="duemmste"><span class="tab-icon" data-icon="duemmste"></span><span>Dümmste fliegt</span></a>
+      <a href="#/aktuell" data-nav="aktuell"><span class="tab-icon" data-icon="aktuell"></span><span>Aktuell</span></a>
+      <a href="#/fortschritt" data-nav="fortschritt"><span class="tab-icon" data-icon="fortschritt"></span><span>Fortschritt</span></a>
+    </nav>
+
+    <div class="toast-bereich" id="toasts" role="status" aria-live="polite"></div>
+    <script type="module" src="/src/main.js"></script>
+  </body>
+</html>

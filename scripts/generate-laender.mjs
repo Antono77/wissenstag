@@ -109,6 +109,7 @@ for (const l of laender) {
     antwortTyp: 'flagge',
     richtig: l.code,
     falsch: falsch2.map((x) => x.code),
+    namen: Object.fromEntries([l, ...falsch2].map((x) => [x.code, x.name])),
     begruendung: `So sieht die Flagge ${von(l)} aus.`,
     karte: { ...karte, bild: { typ: 'flagge', code: l.code } },
   });
