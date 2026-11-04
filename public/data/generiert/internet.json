@@ -1,0 +1,1345 @@
+{
+ "klasse": "internet",
+ "erzeugt": "scripts/generate-fakten.mjs",
+ "fragen": [
+  {
+   "id": "int-j-facebook",
+   "schwierigkeit": "leicht",
+   "frage": "In welchem Jahr ging Facebook online?",
+   "richtig": "2004",
+   "falsch": [
+    "2009",
+    "2013",
+    "2001"
+   ],
+   "begruendung": "Facebook: 2004.",
+   "karte": {
+    "titel": "Facebook",
+    "text": "Mark Zuckerberg startete Facebook im Studentenwohnheim in Harvard.",
+    "merke": "Facebook: 2004."
+   }
+  },
+  {
+   "id": "int-j-youtube",
+   "schwierigkeit": "leicht",
+   "frage": "In welchem Jahr ging YouTube online?",
+   "richtig": "2005",
+   "falsch": [
+    "1995",
+    "2001",
+    "1994"
+   ],
+   "begruendung": "YouTube: 2005.",
+   "karte": {
+    "titel": "YouTube",
+    "text": "Das erste Video hieß „Me at the zoo“ und dauert 19 Sekunden.",
+    "merke": "YouTube: 2005."
+   }
+  },
+  {
+   "id": "int-j-twitter",
+   "schwierigkeit": "mittel",
+   "frage": "In welchem Jahr wurde Twitter gestartet?",
+   "richtig": "2006",
+   "falsch": [
+    "2013",
+    "2011",
+    "2016"
+   ],
+   "begruendung": "Twitter: 2006.",
+   "karte": {
+    "titel": "Twitter",
+    "text": "Seit 2023 heißt der Dienst X.",
+    "merke": "Twitter: 2006."
+   }
+  },
+  {
+   "id": "int-j-instagram",
+   "schwierigkeit": "leicht",
+   "frage": "In welchem Jahr startete Instagram?",
+   "richtig": "2010",
+   "falsch": [
+    "2013",
+    "2016",
+    "2004"
+   ],
+   "begruendung": "Instagram: 2010.",
+   "karte": {
+    "titel": "Instagram",
+    "text": "Facebook kaufte Instagram 2012 für rund eine Milliarde US-Dollar.",
+    "merke": "Instagram: 2010."
+   }
+  },
+  {
+   "id": "int-j-whatsapp",
+   "schwierigkeit": "mittel",
+   "frage": "In welchem Jahr erschien WhatsApp?",
+   "richtig": "2009",
+   "falsch": [
+    "2010",
+    "2005",
+    "1995"
+   ],
+   "begruendung": "WhatsApp: 2009.",
+   "karte": {
+    "titel": "WhatsApp",
+    "text": "Facebook kaufte WhatsApp 2014 für rund 19 Milliarden US-Dollar.",
+    "merke": "WhatsApp: 2009."
+   }
+  },
+  {
+   "id": "int-j-tiktok",
+   "schwierigkeit": "mittel",
+   "frage": "In welchem Jahr startete TikTok außerhalb Chinas?",
+   "richtig": "2017",
+   "falsch": [
+    "2010",
+    "2011",
+    "2004"
+   ],
+   "begruendung": "TikTok: 2017.",
+   "karte": {
+    "titel": "TikTok",
+    "text": "Die chinesische Firma ByteDance startete die Version für China 2016 unter dem Namen Douyin.",
+    "merke": "TikTok: 2017."
+   }
+  },
+  {
+   "id": "int-j-snapchat",
+   "schwierigkeit": "mittel",
+   "frage": "In welchem Jahr startete Snapchat?",
+   "richtig": "2011",
+   "falsch": [
+    "2001",
+    "2009",
+    "1995"
+   ],
+   "begruendung": "Snapchat: 2011.",
+   "karte": {
+    "titel": "Snapchat",
+    "text": "Snapchat machte Fotos bekannt, die sich nach dem Ansehen selbst löschen.",
+    "merke": "Snapchat: 2011."
+   }
+  },
+  {
+   "id": "int-j-wikipedia",
+   "schwierigkeit": "leicht",
+   "frage": "In welchem Jahr ging Wikipedia online?",
+   "richtig": "2001",
+   "falsch": [
+    "2013",
+    "2009",
+    "2015"
+   ],
+   "begruendung": "Wikipedia: 2001.",
+   "karte": {
+    "titel": "Wikipedia",
+    "text": "Die deutschsprachige Wikipedia startete noch im selben Jahr.",
+    "merke": "Wikipedia: 2001."
+   }
+  },
+  {
+   "id": "int-j-amazon",
+   "schwierigkeit": "mittel",
+   "frage": "In welchem Jahr gründete Jeff Bezos Amazon?",
+   "richtig": "1994",
+   "falsch": [
+    "2006",
+    "2016",
+    "2011"
+   ],
+   "begruendung": "Amazon: 1994.",
+   "karte": {
+    "titel": "Amazon",
+    "text": "Amazon begann als Online-Buchhandlung in einer Garage.",
+    "merke": "Amazon: 1994."
+   }
+  },
+  {
+   "id": "int-j-spotify",
+   "schwierigkeit": "mittel",
+   "frage": "In welchem Jahr wurde Spotify gegründet?",
+   "richtig": "2006",
+   "falsch": [
+    "2013",
+    "2016",
+    "2010"
+   ],
+   "begruendung": "Spotify: 2006.",
+   "karte": {
+    "titel": "Spotify",
+    "text": "Spotify startete 2008 für Nutzer in mehreren europäischen Ländern.",
+    "merke": "Spotify: 2006."
+   }
+  },
+  {
+   "id": "int-j-twitch",
+   "schwierigkeit": "mittel",
+   "frage": "In welchem Jahr startete Twitch?",
+   "richtig": "2011",
+   "falsch": [
+    "1995",
+    "2010",
+    "2013"
+   ],
+   "begruendung": "Twitch: 2011.",
+   "karte": {
+    "titel": "Twitch",
+    "text": "Amazon kaufte Twitch 2014.",
+    "merke": "Twitch: 2011."
+   }
+  },
+  {
+   "id": "int-j-discord",
+   "schwierigkeit": "mittel",
+   "frage": "In welchem Jahr startete Discord?",
+   "richtig": "2015",
+   "falsch": [
+    "2001",
+    "2010",
+    "2005"
+   ],
+   "begruendung": "Discord: 2015.",
+   "karte": {
+    "titel": "Discord",
+    "text": "Discord war ursprünglich für Gamer gedacht.",
+    "merke": "Discord: 2015."
+   }
+  },
+  {
+   "id": "int-j-ebay",
+   "schwierigkeit": "schwer",
+   "frage": "In welchem Jahr gründete Pierre Omidyar eBay?",
+   "richtig": "1995",
+   "falsch": [
+    "2004",
+    "2006",
+    "2010"
+   ],
+   "begruendung": "eBay: 1995.",
+   "karte": {
+    "titel": "eBay",
+    "text": "Angeblich war das erste verkaufte Stück ein kaputter Laserpointer.",
+    "merke": "eBay: 1995."
+   }
+  },
+  {
+   "id": "int-j-minecraft",
+   "schwierigkeit": "mittel",
+   "frage": "In welchem Jahr erschien die erste Version von Minecraft?",
+   "richtig": "2009",
+   "falsch": [
+    "2013",
+    "2006",
+    "2004"
+   ],
+   "begruendung": "Minecraft: 2009.",
+   "karte": {
+    "titel": "Minecraft",
+    "text": "Microsoft kaufte die Firma Mojang 2014 für 2,5 Milliarden US-Dollar.",
+    "merke": "Minecraft: 2009."
+   }
+  },
+  {
+   "id": "int-j-fortnite-battle-royale",
+   "schwierigkeit": "mittel",
+   "frage": "In welchem Jahr erschien Fortnite Battle Royale?",
+   "richtig": "2017",
+   "falsch": [
+    "2004",
+    "2016",
+    "2009"
+   ],
+   "begruendung": "Fortnite Battle Royale: 2017.",
+   "karte": {
+    "titel": "Fortnite Battle Royale",
+    "text": "Im Battle Royale landen 100 Spieler auf einer Insel, bis nur einer übrig bleibt.",
+    "merke": "Fortnite Battle Royale: 2017."
+   }
+  },
+  {
+   "id": "int-j-gta-v",
+   "schwierigkeit": "mittel",
+   "frage": "In welchem Jahr erschien GTA V?",
+   "richtig": "2013",
+   "falsch": [
+    "2011",
+    "2015",
+    "2004"
+   ],
+   "begruendung": "GTA V: 2013.",
+   "karte": {
+    "titel": "GTA V",
+    "text": "GTA V spielte in drei Tagen über eine Milliarde US-Dollar ein.",
+    "merke": "GTA V: 2013."
+   }
+  },
+  {
+   "id": "int-j-pokemon-go",
+   "schwierigkeit": "leicht",
+   "frage": "In welchem Jahr erschien Pokémon Go?",
+   "richtig": "2016",
+   "falsch": [
+    "2010",
+    "2004",
+    "2006"
+   ],
+   "begruendung": "Pokémon Go: 2016.",
+   "karte": {
+    "titel": "Pokémon Go",
+    "text": "Im Sommer 2016 liefen weltweit Menschen mit dem Handy durch Parks, um Pokémon zu fangen.",
+    "merke": "Pokémon Go: 2016."
+   }
+  },
+  {
+   "id": "int-j-erster-tweet",
+   "schwierigkeit": "schwer",
+   "frage": "In welchem Jahr verschickte Jack Dorsey den ersten Tweet?",
+   "richtig": "2006",
+   "falsch": [
+    "2016",
+    "2004",
+    "2015"
+   ],
+   "begruendung": "Erster Tweet: 2006.",
+   "karte": {
+    "titel": "Erster Tweet",
+    "text": "Der Text lautete „just setting up my twttr“.",
+    "merke": "Erster Tweet: 2006."
+   }
+  },
+  {
+   "id": "int-gr-facebook",
+   "schwierigkeit": "leicht",
+   "frage": "Wer gründete oder erfand Facebook?",
+   "richtig": "Mark Zuckerberg",
+   "falsch": [
+    "Satoshi Tajiri",
+    "Bill Gates und Paul Allen",
+    "Tim Berners-Lee"
+   ],
+   "begruendung": "Facebook: Mark Zuckerberg.",
+   "karte": {
+    "titel": "Facebook",
+    "text": "Facebook: Mark Zuckerberg.",
+    "merke": "Facebook: Mark Zuckerberg."
+   }
+  },
+  {
+   "id": "int-gr-amazon",
+   "schwierigkeit": "leicht",
+   "frage": "Wer gründete oder erfand Amazon?",
+   "richtig": "Jeff Bezos",
+   "falsch": [
+    "Bill Gates und Paul Allen",
+    "Jimmy Wales und Larry Sanger",
+    "Shigeru Miyamoto"
+   ],
+   "begruendung": "Amazon: Jeff Bezos.",
+   "karte": {
+    "titel": "Amazon",
+    "text": "Amazon: Jeff Bezos.",
+    "merke": "Amazon: Jeff Bezos."
+   }
+  },
+  {
+   "id": "int-gr-microsoft",
+   "schwierigkeit": "leicht",
+   "frage": "Wer gründete oder erfand Microsoft?",
+   "richtig": "Bill Gates und Paul Allen",
+   "falsch": [
+    "Jimmy Wales und Larry Sanger",
+    "Jeff Bezos",
+    "Chad Hurley, Steve Chen und Jawed Karim"
+   ],
+   "begruendung": "Microsoft: Bill Gates und Paul Allen.",
+   "karte": {
+    "titel": "Microsoft",
+    "text": "Microsoft: Bill Gates und Paul Allen.",
+    "merke": "Microsoft: Bill Gates und Paul Allen."
+   }
+  },
+  {
+   "id": "int-gr-apple",
+   "schwierigkeit": "leicht",
+   "frage": "Wer gründete oder erfand Apple?",
+   "richtig": "Steve Jobs, Steve Wozniak und Ronald Wayne",
+   "falsch": [
+    "Chad Hurley, Steve Chen und Jawed Karim",
+    "Bill Gates und Paul Allen",
+    "Satoshi Tajiri"
+   ],
+   "begruendung": "Apple: Steve Jobs, Steve Wozniak und Ronald Wayne.",
+   "karte": {
+    "titel": "Apple",
+    "text": "Apple: Steve Jobs, Steve Wozniak und Ronald Wayne.",
+    "merke": "Apple: Steve Jobs, Steve Wozniak und Ronald Wayne."
+   }
+  },
+  {
+   "id": "int-gr-spacex",
+   "schwierigkeit": "leicht",
+   "frage": "Wer gründete oder erfand SpaceX?",
+   "richtig": "Elon Musk",
+   "falsch": [
+    "Mark Zuckerberg",
+    "Tim Berners-Lee",
+    "Bill Gates und Paul Allen"
+   ],
+   "begruendung": "SpaceX: Elon Musk.",
+   "karte": {
+    "titel": "SpaceX",
+    "text": "SpaceX: Elon Musk.",
+    "merke": "SpaceX: Elon Musk."
+   }
+  },
+  {
+   "id": "int-gr-google",
+   "schwierigkeit": "leicht",
+   "frage": "Wer gründete oder erfand Google?",
+   "richtig": "Larry Page und Sergey Brin",
+   "falsch": [
+    "Jimmy Wales und Larry Sanger",
+    "Tim Berners-Lee",
+    "Alexei Paschitnow"
+   ],
+   "begruendung": "Google: Larry Page und Sergey Brin.",
+   "karte": {
+    "titel": "Google",
+    "text": "Google: Larry Page und Sergey Brin.",
+    "merke": "Google: Larry Page und Sergey Brin."
+   }
+  },
+  {
+   "id": "int-gr-wikipedia",
+   "schwierigkeit": "mittel",
+   "frage": "Wer gründete oder erfand Wikipedia?",
+   "richtig": "Jimmy Wales und Larry Sanger",
+   "falsch": [
+    "Alexei Paschitnow",
+    "Jeff Bezos",
+    "Chad Hurley, Steve Chen und Jawed Karim"
+   ],
+   "begruendung": "Wikipedia: Jimmy Wales und Larry Sanger.",
+   "karte": {
+    "titel": "Wikipedia",
+    "text": "Wikipedia: Jimmy Wales und Larry Sanger.",
+    "merke": "Wikipedia: Jimmy Wales und Larry Sanger."
+   }
+  },
+  {
+   "id": "int-gr-minecraft",
+   "schwierigkeit": "mittel",
+   "frage": "Wer gründete oder erfand Minecraft?",
+   "richtig": "Markus „Notch“ Persson",
+   "falsch": [
+    "Shigeru Miyamoto",
+    "Bill Gates und Paul Allen",
+    "Mark Zuckerberg"
+   ],
+   "begruendung": "Minecraft: Markus „Notch“ Persson.",
+   "karte": {
+    "titel": "Minecraft",
+    "text": "Minecraft: Markus „Notch“ Persson.",
+    "merke": "Minecraft: Markus „Notch“ Persson."
+   }
+  },
+  {
+   "id": "int-gr-linux",
+   "schwierigkeit": "mittel",
+   "frage": "Wer gründete oder erfand Linux?",
+   "richtig": "Linus Torvalds",
+   "falsch": [
+    "Jeff Bezos",
+    "Jimmy Wales und Larry Sanger",
+    "Elon Musk"
+   ],
+   "begruendung": "Linux: Linus Torvalds.",
+   "karte": {
+    "titel": "Linux",
+    "text": "Linux: Linus Torvalds.",
+    "merke": "Linux: Linus Torvalds."
+   }
+  },
+  {
+   "id": "int-gr-pokemon",
+   "schwierigkeit": "schwer",
+   "frage": "Wer gründete oder erfand Pokémon?",
+   "richtig": "Satoshi Tajiri",
+   "falsch": [
+    "Bill Gates und Paul Allen",
+    "Steve Jobs, Steve Wozniak und Ronald Wayne",
+    "Tim Berners-Lee"
+   ],
+   "begruendung": "Pokémon: Satoshi Tajiri.",
+   "karte": {
+    "titel": "Pokémon",
+    "text": "Pokémon: Satoshi Tajiri.",
+    "merke": "Pokémon: Satoshi Tajiri."
+   }
+  },
+  {
+   "id": "int-gr-super-mario",
+   "schwierigkeit": "mittel",
+   "frage": "Wer gründete oder erfand Super Mario?",
+   "richtig": "Shigeru Miyamoto",
+   "falsch": [
+    "Chad Hurley, Steve Chen und Jawed Karim",
+    "Jeff Bezos",
+    "Markus „Notch“ Persson"
+   ],
+   "begruendung": "Super Mario: Shigeru Miyamoto.",
+   "karte": {
+    "titel": "Super Mario",
+    "text": "Super Mario: Shigeru Miyamoto.",
+    "merke": "Super Mario: Shigeru Miyamoto."
+   }
+  },
+  {
+   "id": "int-gr-tetris",
+   "schwierigkeit": "schwer",
+   "frage": "Wer gründete oder erfand Tetris?",
+   "richtig": "Alexei Paschitnow",
+   "falsch": [
+    "Larry Page und Sergey Brin",
+    "Satoshi Tajiri",
+    "Jeff Bezos"
+   ],
+   "begruendung": "Tetris: Alexei Paschitnow.",
+   "karte": {
+    "titel": "Tetris",
+    "text": "Tetris: Alexei Paschitnow.",
+    "merke": "Tetris: Alexei Paschitnow."
+   }
+  },
+  {
+   "id": "int-gr-das-world-wide-web",
+   "schwierigkeit": "mittel",
+   "frage": "Wer gründete oder erfand das World Wide Web?",
+   "richtig": "Tim Berners-Lee",
+   "falsch": [
+    "Bill Gates und Paul Allen",
+    "Linus Torvalds",
+    "Markus „Notch“ Persson"
+   ],
+   "begruendung": "World Wide Web: Tim Berners-Lee.",
+   "karte": {
+    "titel": "World Wide Web",
+    "text": "World Wide Web: Tim Berners-Lee.",
+    "merke": "World Wide Web: Tim Berners-Lee."
+   }
+  },
+  {
+   "id": "int-gr-youtube",
+   "schwierigkeit": "schwer",
+   "frage": "Wer gründete oder erfand YouTube?",
+   "richtig": "Chad Hurley, Steve Chen und Jawed Karim",
+   "falsch": [
+    "Jeff Bezos",
+    "Steve Jobs, Steve Wozniak und Ronald Wayne",
+    "Mark Zuckerberg"
+   ],
+   "begruendung": "YouTube: Chad Hurley, Steve Chen und Jawed Karim.",
+   "karte": {
+    "titel": "YouTube",
+    "text": "YouTube: Chad Hurley, Steve Chen und Jawed Karim.",
+    "merke": "YouTube: Chad Hurley, Steve Chen und Jawed Karim."
+   }
+  },
+  {
+   "id": "int-sp-minecraft",
+   "schwierigkeit": "mittel",
+   "frage": "Welche Firma steht hinter dem Spiel „Minecraft“?",
+   "richtig": "Mojang",
+   "falsch": [
+    "FromSoftware",
+    "CD Projekt",
+    "King"
+   ],
+   "begruendung": "„Minecraft“: Mojang.",
+   "karte": {
+    "titel": "Minecraft",
+    "text": "„Minecraft“: Mojang.",
+    "merke": "„Minecraft“: Mojang."
+   }
+  },
+  {
+   "id": "int-sp-fortnite",
+   "schwierigkeit": "leicht",
+   "frage": "Welche Firma steht hinter dem Spiel „Fortnite“?",
+   "richtig": "Epic Games",
+   "falsch": [
+    "Supercell",
+    "Riot Games",
+    "Ubisoft"
+   ],
+   "begruendung": "„Fortnite“: Epic Games.",
+   "karte": {
+    "titel": "Fortnite",
+    "text": "„Fortnite“: Epic Games.",
+    "merke": "„Fortnite“: Epic Games."
+   }
+  },
+  {
+   "id": "int-sp-gta",
+   "schwierigkeit": "leicht",
+   "frage": "Welche Firma steht hinter dem Spiel „GTA“?",
+   "richtig": "Rockstar Games",
+   "falsch": [
+    "HoYoverse",
+    "Epic Games",
+    "Activision"
+   ],
+   "begruendung": "„GTA“: Rockstar Games.",
+   "karte": {
+    "titel": "GTA",
+    "text": "„GTA“: Rockstar Games.",
+    "merke": "„GTA“: Rockstar Games."
+   }
+  },
+  {
+   "id": "int-sp-ea-sports-fc",
+   "schwierigkeit": "leicht",
+   "frage": "Welche Firma steht hinter dem Spiel „EA Sports FC“?",
+   "richtig": "Electronic Arts",
+   "falsch": [
+    "Mojang",
+    "Ubisoft",
+    "Activision"
+   ],
+   "begruendung": "„EA Sports FC“: Electronic Arts.",
+   "karte": {
+    "titel": "EA Sports FC",
+    "text": "„EA Sports FC“: Electronic Arts.",
+    "merke": "„EA Sports FC“: Electronic Arts."
+   }
+  },
+  {
+   "id": "int-sp-the-legend-of-zelda",
+   "schwierigkeit": "leicht",
+   "frage": "Welche Firma steht hinter dem Spiel „The Legend of Zelda“?",
+   "richtig": "Nintendo",
+   "falsch": [
+    "Activision",
+    "FromSoftware",
+    "Blizzard"
+   ],
+   "begruendung": "„The Legend of Zelda“: Nintendo.",
+   "karte": {
+    "titel": "The Legend of Zelda",
+    "text": "„The Legend of Zelda“: Nintendo.",
+    "merke": "„The Legend of Zelda“: Nintendo."
+   }
+  },
+  {
+   "id": "int-sp-call-of-duty",
+   "schwierigkeit": "mittel",
+   "frage": "Welche Firma steht hinter dem Spiel „Call of Duty“?",
+   "richtig": "Activision",
+   "falsch": [
+    "Epic Games",
+    "Riot Games",
+    "HoYoverse"
+   ],
+   "begruendung": "„Call of Duty“: Activision.",
+   "karte": {
+    "titel": "Call of Duty",
+    "text": "„Call of Duty“: Activision.",
+    "merke": "„Call of Duty“: Activision."
+   }
+  },
+  {
+   "id": "int-sp-battlefield",
+   "schwierigkeit": "mittel",
+   "frage": "Welche Firma steht hinter dem Spiel „Battlefield“?",
+   "richtig": "Electronic Arts",
+   "falsch": [
+    "King",
+    "CD Projekt",
+    "Ubisoft"
+   ],
+   "begruendung": "„Battlefield“: Electronic Arts.",
+   "karte": {
+    "titel": "Battlefield",
+    "text": "„Battlefield“: Electronic Arts.",
+    "merke": "„Battlefield“: Electronic Arts."
+   }
+  },
+  {
+   "id": "int-sp-the-witcher-3",
+   "schwierigkeit": "mittel",
+   "frage": "Welche Firma steht hinter dem Spiel „The Witcher 3“?",
+   "richtig": "CD Projekt",
+   "falsch": [
+    "Activision",
+    "Riot Games",
+    "HoYoverse"
+   ],
+   "begruendung": "„The Witcher 3“: CD Projekt.",
+   "karte": {
+    "titel": "The Witcher 3",
+    "text": "„The Witcher 3“: CD Projekt.",
+    "merke": "„The Witcher 3“: CD Projekt."
+   }
+  },
+  {
+   "id": "int-sp-league-of-legends",
+   "schwierigkeit": "mittel",
+   "frage": "Welche Firma steht hinter dem Spiel „League of Legends“?",
+   "richtig": "Riot Games",
+   "falsch": [
+    "Rockstar Games",
+    "Electronic Arts",
+    "Valve"
+   ],
+   "begruendung": "„League of Legends“: Riot Games.",
+   "karte": {
+    "titel": "League of Legends",
+    "text": "„League of Legends“: Riot Games.",
+    "merke": "„League of Legends“: Riot Games."
+   }
+  },
+  {
+   "id": "int-sp-counter-strike",
+   "schwierigkeit": "mittel",
+   "frage": "Welche Firma steht hinter dem Spiel „Counter-Strike“?",
+   "richtig": "Valve",
+   "falsch": [
+    "CD Projekt",
+    "HoYoverse",
+    "Supercell"
+   ],
+   "begruendung": "„Counter-Strike“: Valve.",
+   "karte": {
+    "titel": "Counter-Strike",
+    "text": "„Counter-Strike“: Valve.",
+    "merke": "„Counter-Strike“: Valve."
+   }
+  },
+  {
+   "id": "int-sp-world-of-warcraft",
+   "schwierigkeit": "mittel",
+   "frage": "Welche Firma steht hinter dem Spiel „World of Warcraft“?",
+   "richtig": "Blizzard",
+   "falsch": [
+    "King",
+    "CD Projekt",
+    "Riot Games"
+   ],
+   "begruendung": "„World of Warcraft“: Blizzard.",
+   "karte": {
+    "titel": "World of Warcraft",
+    "text": "„World of Warcraft“: Blizzard.",
+    "merke": "„World of Warcraft“: Blizzard."
+   }
+  },
+  {
+   "id": "int-sp-candy-crush",
+   "schwierigkeit": "schwer",
+   "frage": "Welche Firma steht hinter dem Spiel „Candy Crush“?",
+   "richtig": "King",
+   "falsch": [
+    "HoYoverse",
+    "Valve",
+    "Rockstar Games"
+   ],
+   "begruendung": "„Candy Crush“: King.",
+   "karte": {
+    "titel": "Candy Crush",
+    "text": "„Candy Crush“: King.",
+    "merke": "„Candy Crush“: King."
+   }
+  },
+  {
+   "id": "int-sp-among-us",
+   "schwierigkeit": "schwer",
+   "frage": "Welche Firma steht hinter dem Spiel „Among Us“?",
+   "richtig": "Innersloth",
+   "falsch": [
+    "Rockstar Games",
+    "Valve",
+    "King"
+   ],
+   "begruendung": "„Among Us“: Innersloth.",
+   "karte": {
+    "titel": "Among Us",
+    "text": "„Among Us“: Innersloth.",
+    "merke": "„Among Us“: Innersloth."
+   }
+  },
+  {
+   "id": "int-sp-assassin-s-creed",
+   "schwierigkeit": "mittel",
+   "frage": "Welche Firma steht hinter dem Spiel „Assassin’s Creed“?",
+   "richtig": "Ubisoft",
+   "falsch": [
+    "Valve",
+    "CD Projekt",
+    "Epic Games"
+   ],
+   "begruendung": "„Assassin’s Creed“: Ubisoft.",
+   "karte": {
+    "titel": "Assassin’s Creed",
+    "text": "„Assassin’s Creed“: Ubisoft.",
+    "merke": "„Assassin’s Creed“: Ubisoft."
+   }
+  },
+  {
+   "id": "int-sp-clash-royale",
+   "schwierigkeit": "mittel",
+   "frage": "Welche Firma steht hinter dem Spiel „Clash Royale“?",
+   "richtig": "Supercell",
+   "falsch": [
+    "Ubisoft",
+    "FromSoftware",
+    "Valve"
+   ],
+   "begruendung": "„Clash Royale“: Supercell.",
+   "karte": {
+    "titel": "Clash Royale",
+    "text": "„Clash Royale“: Supercell.",
+    "merke": "„Clash Royale“: Supercell."
+   }
+  },
+  {
+   "id": "int-sp-genshin-impact",
+   "schwierigkeit": "schwer",
+   "frage": "Welche Firma steht hinter dem Spiel „Genshin Impact“?",
+   "richtig": "HoYoverse",
+   "falsch": [
+    "Valve",
+    "Innersloth",
+    "Rockstar Games"
+   ],
+   "begruendung": "„Genshin Impact“: HoYoverse.",
+   "karte": {
+    "titel": "Genshin Impact",
+    "text": "„Genshin Impact“: HoYoverse.",
+    "merke": "„Genshin Impact“: HoYoverse."
+   }
+  },
+  {
+   "id": "int-sp-elden-ring",
+   "schwierigkeit": "schwer",
+   "frage": "Welche Firma steht hinter dem Spiel „Elden Ring“?",
+   "richtig": "FromSoftware",
+   "falsch": [
+    "Blizzard",
+    "Innersloth",
+    "Mojang"
+   ],
+   "begruendung": "„Elden Ring“: FromSoftware.",
+   "karte": {
+    "titel": "Elden Ring",
+    "text": "„Elden Ring“: FromSoftware.",
+    "merke": "„Elden Ring“: FromSoftware."
+   }
+  },
+  {
+   "id": "int-sp-animal-crossing",
+   "schwierigkeit": "leicht",
+   "frage": "Welche Firma steht hinter dem Spiel „Animal Crossing“?",
+   "richtig": "Nintendo",
+   "falsch": [
+    "HoYoverse",
+    "Mojang",
+    "Innersloth"
+   ],
+   "begruendung": "„Animal Crossing“: Nintendo.",
+   "karte": {
+    "titel": "Animal Crossing",
+    "text": "„Animal Crossing“: Nintendo.",
+    "merke": "„Animal Crossing“: Nintendo."
+   }
+  },
+  {
+   "id": "int-sp-the-sims",
+   "schwierigkeit": "mittel",
+   "frage": "Welche Firma steht hinter dem Spiel „The Sims“?",
+   "richtig": "Electronic Arts",
+   "falsch": [
+    "Activision",
+    "Valve",
+    "Rockstar Games"
+   ],
+   "begruendung": "„The Sims“: Electronic Arts.",
+   "karte": {
+    "titel": "The Sims",
+    "text": "„The Sims“: Electronic Arts.",
+    "merke": "„The Sims“: Electronic Arts."
+   }
+  },
+  {
+   "id": "int-ab-lol",
+   "schwierigkeit": "leicht",
+   "frage": "Wofür steht „LOL“?",
+   "richtig": "laughing out loud",
+   "falsch": [
+    "too long; didn’t read",
+    "fear of missing out",
+    "good game"
+   ],
+   "begruendung": "LOL = laughing out loud.",
+   "karte": {
+    "titel": "LOL",
+    "text": "LOL = laughing out loud.",
+    "merke": "LOL = laughing out loud."
+   },
+   "ddf": true
+  },
+  {
+   "id": "int-ab-brb",
+   "schwierigkeit": "mittel",
+   "frage": "Wofür steht „BRB“?",
+   "richtig": "be right back",
+   "falsch": [
+    "fear of missing out",
+    "away from keyboard",
+    "point of view"
+   ],
+   "begruendung": "BRB = be right back.",
+   "karte": {
+    "titel": "BRB",
+    "text": "BRB = be right back.",
+    "merke": "BRB = be right back."
+   }
+  },
+  {
+   "id": "int-ab-afk",
+   "schwierigkeit": "leicht",
+   "frage": "Wofür steht „AFK“?",
+   "richtig": "away from keyboard",
+   "falsch": [
+    "in real life",
+    "laughing out loud",
+    "for your information"
+   ],
+   "begruendung": "AFK = away from keyboard.",
+   "karte": {
+    "titel": "AFK",
+    "text": "AFK = away from keyboard.",
+    "merke": "AFK = away from keyboard."
+   },
+   "ddf": true
+  },
+  {
+   "id": "int-ab-fyi",
+   "schwierigkeit": "mittel",
+   "frage": "Wofür steht „FYI“?",
+   "richtig": "for your information",
+   "falsch": [
+    "be right back",
+    "as soon as possible",
+    "point of view"
+   ],
+   "begruendung": "FYI = for your information.",
+   "karte": {
+    "titel": "FYI",
+    "text": "FYI = for your information.",
+    "merke": "FYI = for your information."
+   }
+  },
+  {
+   "id": "int-ab-imho",
+   "schwierigkeit": "schwer",
+   "frage": "Wofür steht „IMHO“?",
+   "richtig": "in my humble opinion",
+   "falsch": [
+    "laughing out loud",
+    "point of view",
+    "for your information"
+   ],
+   "begruendung": "IMHO = in my humble opinion.",
+   "karte": {
+    "titel": "IMHO",
+    "text": "IMHO = in my humble opinion.",
+    "merke": "IMHO = in my humble opinion."
+   }
+  },
+  {
+   "id": "int-ab-tl-dr",
+   "schwierigkeit": "mittel",
+   "frage": "Wofür steht „TL;DR“?",
+   "richtig": "too long; didn’t read",
+   "falsch": [
+    "be right back",
+    "in my humble opinion",
+    "point of view"
+   ],
+   "begruendung": "TL;DR = too long; didn’t read.",
+   "karte": {
+    "titel": "TL;DR",
+    "text": "TL;DR = too long; didn’t read.",
+    "merke": "TL;DR = too long; didn’t read."
+   }
+  },
+  {
+   "id": "int-ab-dm",
+   "schwierigkeit": "leicht",
+   "frage": "Wofür steht „DM“?",
+   "richtig": "direct message",
+   "falsch": [
+    "be right back",
+    "laughing out loud",
+    "in my humble opinion"
+   ],
+   "begruendung": "DM = direct message.",
+   "karte": {
+    "titel": "DM",
+    "text": "DM = direct message.",
+    "merke": "DM = direct message."
+   },
+   "ddf": true
+  },
+  {
+   "id": "int-ab-gg",
+   "schwierigkeit": "leicht",
+   "frage": "Wofür steht „GG“?",
+   "richtig": "good game",
+   "falsch": [
+    "too long; didn’t read",
+    "away from keyboard",
+    "as soon as possible"
+   ],
+   "begruendung": "GG = good game.",
+   "karte": {
+    "titel": "GG",
+    "text": "GG = good game.",
+    "merke": "GG = good game."
+   },
+   "ddf": true
+  },
+  {
+   "id": "int-ab-npc",
+   "schwierigkeit": "mittel",
+   "frage": "Wofür steht „NPC“?",
+   "richtig": "non-player character",
+   "falsch": [
+    "for your information",
+    "good game",
+    "be right back"
+   ],
+   "begruendung": "NPC = non-player character.",
+   "karte": {
+    "titel": "NPC",
+    "text": "NPC = non-player character.",
+    "merke": "NPC = non-player character."
+   }
+  },
+  {
+   "id": "int-ab-fomo",
+   "schwierigkeit": "mittel",
+   "frage": "Wofür steht „FOMO“?",
+   "richtig": "fear of missing out",
+   "falsch": [
+    "point of view",
+    "away from keyboard",
+    "in my humble opinion"
+   ],
+   "begruendung": "FOMO = fear of missing out.",
+   "karte": {
+    "titel": "FOMO",
+    "text": "FOMO = fear of missing out.",
+    "merke": "FOMO = fear of missing out."
+   }
+  },
+  {
+   "id": "int-ab-asap",
+   "schwierigkeit": "leicht",
+   "frage": "Wofür steht „ASAP“?",
+   "richtig": "as soon as possible",
+   "falsch": [
+    "fear of missing out",
+    "non-player character",
+    "for your information"
+   ],
+   "begruendung": "ASAP = as soon as possible.",
+   "karte": {
+    "titel": "ASAP",
+    "text": "ASAP = as soon as possible.",
+    "merke": "ASAP = as soon as possible."
+   },
+   "ddf": true
+  },
+  {
+   "id": "int-ab-irl",
+   "schwierigkeit": "leicht",
+   "frage": "Wofür steht „IRL“?",
+   "richtig": "in real life",
+   "falsch": [
+    "laughing out loud",
+    "for your information",
+    "in my humble opinion"
+   ],
+   "begruendung": "IRL = in real life.",
+   "karte": {
+    "titel": "IRL",
+    "text": "IRL = in real life.",
+    "merke": "IRL = in real life."
+   },
+   "ddf": true
+  },
+  {
+   "id": "int-ab-pov",
+   "schwierigkeit": "mittel",
+   "frage": "Wofür steht „POV“?",
+   "richtig": "point of view",
+   "falsch": [
+    "in real life",
+    "be right back",
+    "good game"
+   ],
+   "begruendung": "POV = point of view.",
+   "karte": {
+    "titel": "POV",
+    "text": "POV = point of view.",
+    "merke": "POV = point of view."
+   }
+  },
+  {
+   "id": "int-fi-link",
+   "schwierigkeit": "leicht",
+   "frage": "Aus welchem Spiel stammt die Figur Link?",
+   "richtig": "The Legend of Zelda",
+   "falsch": [
+    "Super Mario",
+    "Sonic the Hedgehog",
+    "The Last of Us"
+   ],
+   "begruendung": "Link: The Legend of Zelda.",
+   "karte": {
+    "titel": "Link",
+    "text": "Link: The Legend of Zelda.",
+    "merke": "Link: The Legend of Zelda."
+   },
+   "ddf": true
+  },
+  {
+   "id": "int-fi-master-chief",
+   "schwierigkeit": "mittel",
+   "frage": "Aus welchem Spiel stammt die Figur Master Chief?",
+   "richtig": "Halo",
+   "falsch": [
+    "The Legend of Zelda",
+    "Pokémon",
+    "Sonic the Hedgehog"
+   ],
+   "begruendung": "Master Chief: Halo.",
+   "karte": {
+    "titel": "Master Chief",
+    "text": "Master Chief: Halo.",
+    "merke": "Master Chief: Halo."
+   }
+  },
+  {
+   "id": "int-fi-lara-croft",
+   "schwierigkeit": "leicht",
+   "frage": "Aus welchem Spiel stammt die Figur Lara Croft?",
+   "richtig": "Tomb Raider",
+   "falsch": [
+    "God of War",
+    "The Legend of Zelda",
+    "Pokémon"
+   ],
+   "begruendung": "Lara Croft: Tomb Raider.",
+   "karte": {
+    "titel": "Lara Croft",
+    "text": "Lara Croft: Tomb Raider.",
+    "merke": "Lara Croft: Tomb Raider."
+   },
+   "ddf": true
+  },
+  {
+   "id": "int-fi-kratos",
+   "schwierigkeit": "mittel",
+   "frage": "Aus welchem Spiel stammt die Figur Kratos?",
+   "richtig": "God of War",
+   "falsch": [
+    "Halo",
+    "The Last of Us",
+    "Super Mario"
+   ],
+   "begruendung": "Kratos: God of War.",
+   "karte": {
+    "titel": "Kratos",
+    "text": "Kratos: God of War.",
+    "merke": "Kratos: God of War."
+   }
+  },
+  {
+   "id": "int-fi-pikachu",
+   "schwierigkeit": "leicht",
+   "frage": "Aus welchem Spiel stammt die Figur Pikachu?",
+   "richtig": "Pokémon",
+   "falsch": [
+    "Red Dead Redemption 2",
+    "God of War",
+    "Sonic the Hedgehog"
+   ],
+   "begruendung": "Pikachu: Pokémon.",
+   "karte": {
+    "titel": "Pikachu",
+    "text": "Pikachu: Pokémon.",
+    "merke": "Pikachu: Pokémon."
+   },
+   "ddf": true
+  },
+  {
+   "id": "int-fi-geralt-von-riva",
+   "schwierigkeit": "mittel",
+   "frage": "Aus welchem Spiel stammt die Figur Geralt von Riva?",
+   "richtig": "The Witcher",
+   "falsch": [
+    "Halo",
+    "Red Dead Redemption 2",
+    "League of Legends"
+   ],
+   "begruendung": "Geralt von Riva: The Witcher.",
+   "karte": {
+    "titel": "Geralt von Riva",
+    "text": "Geralt von Riva: The Witcher.",
+    "merke": "Geralt von Riva: The Witcher."
+   }
+  },
+  {
+   "id": "int-fi-kirby",
+   "schwierigkeit": "leicht",
+   "frage": "Aus welchem Spiel stammt die Figur Kirby?",
+   "richtig": "Kirby",
+   "falsch": [
+    "Sonic the Hedgehog",
+    "The Witcher",
+    "Super Mario"
+   ],
+   "begruendung": "Kirby: Kirby.",
+   "karte": {
+    "titel": "Kirby",
+    "text": "Kirby: Kirby.",
+    "merke": "Kirby: Kirby."
+   },
+   "ddf": true
+  },
+  {
+   "id": "int-fi-creeper",
+   "schwierigkeit": "leicht",
+   "frage": "Aus welchem Spiel stammt die Figur Creeper?",
+   "richtig": "Minecraft",
+   "falsch": [
+    "Metal Gear",
+    "Red Dead Redemption 2",
+    "The Last of Us"
+   ],
+   "begruendung": "Creeper: Minecraft.",
+   "karte": {
+    "titel": "Creeper",
+    "text": "Creeper: Minecraft.",
+    "merke": "Creeper: Minecraft."
+   },
+   "ddf": true
+  },
+  {
+   "id": "int-fi-ellie",
+   "schwierigkeit": "mittel",
+   "frage": "Aus welchem Spiel stammt die Figur Ellie?",
+   "richtig": "The Last of Us",
+   "falsch": [
+    "The Witcher",
+    "League of Legends",
+    "God of War"
+   ],
+   "begruendung": "Ellie: The Last of Us.",
+   "karte": {
+    "titel": "Ellie",
+    "text": "Ellie: The Last of Us.",
+    "merke": "Ellie: The Last of Us."
+   }
+  },
+  {
+   "id": "int-fi-arthur-morgan",
+   "schwierigkeit": "mittel",
+   "frage": "Aus welchem Spiel stammt die Figur Arthur Morgan?",
+   "richtig": "Red Dead Redemption 2",
+   "falsch": [
+    "Pokémon",
+    "Kirby",
+    "God of War"
+   ],
+   "begruendung": "Arthur Morgan: Red Dead Redemption 2.",
+   "karte": {
+    "titel": "Arthur Morgan",
+    "text": "Arthur Morgan: Red Dead Redemption 2.",
+    "merke": "Arthur Morgan: Red Dead Redemption 2."
+   }
+  },
+  {
+   "id": "int-fi-sonic",
+   "schwierigkeit": "leicht",
+   "frage": "Aus welchem Spiel stammt die Figur Sonic?",
+   "richtig": "Sonic the Hedgehog",
+   "falsch": [
+    "Super Mario",
+    "League of Legends",
+    "Tomb Raider"
+   ],
+   "begruendung": "Sonic: Sonic the Hedgehog.",
+   "karte": {
+    "titel": "Sonic",
+    "text": "Sonic: Sonic the Hedgehog.",
+    "merke": "Sonic: Sonic the Hedgehog."
+   },
+   "ddf": true
+  },
+  {
+   "id": "int-fi-bowser",
+   "schwierigkeit": "leicht",
+   "frage": "Aus welchem Spiel stammt die Figur Bowser?",
+   "richtig": "Super Mario",
+   "falsch": [
+    "Minecraft",
+    "Halo",
+    "The Legend of Zelda"
+   ],
+   "begruendung": "Bowser: Super Mario.",
+   "karte": {
+    "titel": "Bowser",
+    "text": "Bowser: Super Mario.",
+    "merke": "Bowser: Super Mario."
+   },
+   "ddf": true
+  },
+  {
+   "id": "int-fi-solid-snake",
+   "schwierigkeit": "schwer",
+   "frage": "Aus welchem Spiel stammt die Figur Solid Snake?",
+   "richtig": "Metal Gear",
+   "falsch": [
+    "The Last of Us",
+    "Super Mario",
+    "Kirby"
+   ],
+   "begruendung": "Solid Snake: Metal Gear.",
+   "karte": {
+    "titel": "Solid Snake",
+    "text": "Solid Snake: Metal Gear.",
+    "merke": "Solid Snake: Metal Gear."
+   }
+  },
+  {
+   "id": "int-fi-jinx",
+   "schwierigkeit": "mittel",
+   "frage": "Aus welchem Spiel stammt die Figur Jinx?",
+   "richtig": "League of Legends",
+   "falsch": [
+    "Halo",
+    "Metal Gear",
+    "Red Dead Redemption 2"
+   ],
+   "begruendung": "Jinx: League of Legends.",
+   "karte": {
+    "titel": "Jinx",
+    "text": "Jinx: League of Legends.",
+    "merke": "Jinx: League of Legends."
+   }
+  }
+ ]
+}

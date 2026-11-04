@@ -1,0 +1,100 @@
+// Faktentabellen Internet & Popkultur
+export default {
+  klasse: 'internet',
+  tabellen: [
+    {
+      prefix: 'int-j',
+      spalten: ['titel', 'jahr', 'satz', 's', 'info'],
+      zeilen: [
+        ['Facebook', 2004, 'ging Facebook online', 1, 'Mark Zuckerberg startete Facebook im Studentenwohnheim in Harvard.'],
+        ['YouTube', 2005, 'ging YouTube online', 1, 'Das erste Video hieß „Me at the zoo“ und dauert 19 Sekunden.'],
+        ['Twitter', 2006, 'wurde Twitter gestartet', 2, 'Seit 2023 heißt der Dienst X.'],
+        ['Instagram', 2010, 'startete Instagram', 1, 'Facebook kaufte Instagram 2012 für rund eine Milliarde US-Dollar.'],
+        ['WhatsApp', 2009, 'erschien WhatsApp', 2, 'Facebook kaufte WhatsApp 2014 für rund 19 Milliarden US-Dollar.'],
+        ['TikTok', 2017, 'startete TikTok außerhalb Chinas', 2, 'Die chinesische Firma ByteDance startete die Version für China 2016 unter dem Namen Douyin.'],
+        ['Snapchat', 2011, 'startete Snapchat', 2, 'Snapchat machte Fotos bekannt, die sich nach dem Ansehen selbst löschen.'],
+        ['Wikipedia', 2001, 'ging Wikipedia online', 1, 'Die deutschsprachige Wikipedia startete noch im selben Jahr.'],
+        ['Amazon', 1994, 'gründete Jeff Bezos Amazon', 2, 'Amazon begann als Online-Buchhandlung in einer Garage.'],
+        ['Spotify', 2006, 'wurde Spotify gegründet', 2, 'Spotify startete 2008 für Nutzer in mehreren europäischen Ländern.'],
+        ['Twitch', 2011, 'startete Twitch', 2, 'Amazon kaufte Twitch 2014.'],
+        ['Discord', 2015, 'startete Discord', 2, 'Discord war ursprünglich für Gamer gedacht.'],
+        ['eBay', 1995, 'gründete Pierre Omidyar eBay', 3, 'Angeblich war das erste verkaufte Stück ein kaputter Laserpointer.'],
+        ['Minecraft', 2009, 'erschien die erste Version von Minecraft', 2, 'Microsoft kaufte die Firma Mojang 2014 für 2,5 Milliarden US-Dollar.'],
+        ['Fortnite Battle Royale', 2017, 'erschien Fortnite Battle Royale', 2, 'Im Battle Royale landen 100 Spieler auf einer Insel, bis nur einer übrig bleibt.'],
+        ['GTA V', 2013, 'erschien GTA V', 2, 'GTA V spielte in drei Tagen über eine Milliarde US-Dollar ein.'],
+        ['Pokémon Go', 2016, 'erschien Pokémon Go', 1, 'Im Sommer 2016 liefen weltweit Menschen mit dem Handy durch Parks, um Pokémon zu fangen.'],
+        ['Erster Tweet', 2006, 'verschickte Jack Dorsey den ersten Tweet', 3, 'Der Text lautete „just setting up my twttr“.'],
+      ],
+      fragen: [{
+        typ: 'jahr',
+        frage: (r) => `In welchem Jahr ${r.satz}?`,
+        richtig: (r) => r.jahr,
+        merke: (r) => `${r.titel}: ${r.jahr}.`,
+      }],
+    },
+    {
+      prefix: 'int-gr',
+      spalten: ['sache', 'person', 's'],
+      zeilen: [
+        ['Facebook', 'Mark Zuckerberg', 1], ['Amazon', 'Jeff Bezos', 1], ['Microsoft', 'Bill Gates und Paul Allen', 1], ['Apple', 'Steve Jobs, Steve Wozniak und Ronald Wayne', 1],
+        ['SpaceX', 'Elon Musk', 1], ['Google', 'Larry Page und Sergey Brin', 1], ['Wikipedia', 'Jimmy Wales und Larry Sanger', 2], ['Minecraft', 'Markus „Notch“ Persson', 2],
+        ['Linux', 'Linus Torvalds', 2], ['Pokémon', 'Satoshi Tajiri', 3], ['Super Mario', 'Shigeru Miyamoto', 2], ['Tetris', 'Alexei Paschitnow', 3],
+        ['das World Wide Web', 'Tim Berners-Lee', 2], ['YouTube', 'Chad Hurley, Steve Chen und Jawed Karim', 3],
+      ],
+      fragen: [{
+        frage: (r) => `Wer gründete oder erfand ${r.sache}?`,
+        richtig: (r) => r.person,
+        titel: (r) => r.sache.replace(/^das /, ''),
+        merke: (r) => `${r.sache.replace(/^das /, '')}: ${r.person}.`,
+      }],
+    },
+    {
+      prefix: 'int-sp',
+      spalten: ['spiel', 'firma', 's'],
+      zeilen: [
+        ['Minecraft', 'Mojang', 2], ['Fortnite', 'Epic Games', 1], ['GTA', 'Rockstar Games', 1], ['EA Sports FC', 'Electronic Arts', 1], ['The Legend of Zelda', 'Nintendo', 1],
+        ['Call of Duty', 'Activision', 2], ['Battlefield', 'Electronic Arts', 2], ['The Witcher 3', 'CD Projekt', 2], ['League of Legends', 'Riot Games', 2],
+        ['Counter-Strike', 'Valve', 2], ['World of Warcraft', 'Blizzard', 2], ['Candy Crush', 'King', 3], ['Among Us', 'Innersloth', 3], ['Assassin’s Creed', 'Ubisoft', 2],
+        ['Clash Royale', 'Supercell', 2], ['Genshin Impact', 'HoYoverse', 3], ['Elden Ring', 'FromSoftware', 3], ['Animal Crossing', 'Nintendo', 1], ['The Sims', 'Electronic Arts', 2],
+      ],
+      fragen: [{
+        frage: (r) => `Welche Firma steht hinter dem Spiel „${r.spiel}“?`,
+        richtig: (r) => r.firma,
+        titel: (r) => r.spiel,
+        merke: (r) => `„${r.spiel}“: ${r.firma}.`,
+      }],
+    },
+    {
+      prefix: 'int-ab',
+      spalten: ['abk', 'lang', 's'],
+      zeilen: [
+        ['LOL', 'laughing out loud', 1], ['BRB', 'be right back', 2], ['AFK', 'away from keyboard', 1], ['FYI', 'for your information', 2],
+        ['IMHO', 'in my humble opinion', 3], ['TL;DR', 'too long; didn’t read', 2], ['DM', 'direct message', 1], ['GG', 'good game', 1],
+        ['NPC', 'non-player character', 2], ['FOMO', 'fear of missing out', 2], ['ASAP', 'as soon as possible', 1], ['IRL', 'in real life', 1], ['POV', 'point of view', 2],
+      ],
+      fragen: [{
+        frage: (r) => `Wofür steht „${r.abk}“?`,
+        richtig: (r) => r.lang,
+        titel: (r) => r.abk,
+        merke: (r) => `${r.abk} = ${r.lang}.`,
+        ddf: (r) => r.s === 1,
+      }],
+    },
+    {
+      prefix: 'int-fi',
+      spalten: ['figur', 'spiel', 's'],
+      zeilen: [
+        ['Link', 'The Legend of Zelda', 1], ['Master Chief', 'Halo', 2], ['Lara Croft', 'Tomb Raider', 1], ['Kratos', 'God of War', 2], ['Pikachu', 'Pokémon', 1],
+        ['Geralt von Riva', 'The Witcher', 2], ['Kirby', 'Kirby', 1], ['Creeper', 'Minecraft', 1], ['Ellie', 'The Last of Us', 2], ['Arthur Morgan', 'Red Dead Redemption 2', 2],
+        ['Sonic', 'Sonic the Hedgehog', 1], ['Bowser', 'Super Mario', 1], ['Solid Snake', 'Metal Gear', 3], ['Jinx', 'League of Legends', 2],
+      ],
+      fragen: [{
+        frage: (r) => `Aus welchem Spiel stammt die Figur ${r.figur}?`,
+        richtig: (r) => r.spiel,
+        titel: (r) => r.figur,
+        merke: (r) => `${r.figur}: ${r.spiel}.`,
+        ddf: (r) => r.s === 1,
+      }],
+    },
+  ],
+};
