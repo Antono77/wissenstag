@@ -1,0 +1,147 @@
+{
+  "klasse": "essen",
+  "fragen": [
+    {
+      "id": "ess-001", "schwierigkeit": "leicht", "ddf": true,
+      "frage": "Welche scharfe grüne Paste wird gewöhnlich zu Sushi serviert?",
+      "richtig": "Wasabi", "falsch": ["Pesto", "Guacamole", "Matcha"],
+      "begruendung": "Wasabi ist eine scharfe Paste aus einer japanischen Wurzel. Oft ist es in Wahrheit gefärbter Meerrettich.",
+      "karte": { "titel": "Wasabi", "text": "Echter Wasabi ist teuer und selten. Matcha ist grünes Teepulver.", "merke": "Sushi: Wasabi, Ingwer und Sojasoße." }
+    },
+    {
+      "id": "ess-002", "schwierigkeit": "mittel", "ddf": true,
+      "frage": "In welcher Einheit misst man die Schärfe von Chilis?",
+      "richtig": "Scoville", "falsch": ["Celsius", "Dezibel", "Kalorien"], "alias": ["Scoville-Einheiten", "SHU"],
+      "begruendung": "Die Scoville-Skala misst den Gehalt an Capsaicin. Der Chemiker Wilbur Scoville entwickelte sie 1912.",
+      "karte": { "titel": "Scoville", "text": "Paprika hat 0 Scoville, Jalapeños einige Tausend, die schärfsten Chilis über zwei Millionen.", "merke": "Chilischärfe: Scoville." }
+    },
+    {
+      "id": "ess-003", "schwierigkeit": "mittel", "ddf": true,
+      "frage": "Welches Getränk enthält klassisch fünf Zutaten und hat seinen Namen vom Hindi-Wort für fünf?",
+      "richtig": "Punsch", "falsch": ["Grog", "Glühwein", "Bowle"], "alias": ["Punch"],
+      "begruendung": "„Panch“ heißt auf Hindi fünf. Klassisch: Arrak, Zucker, Zitrone, Wasser und Tee oder Gewürze.",
+      "karte": { "titel": "Punsch", "text": "Britische Seeleute brachten das Getränk im 17. Jahrhundert aus Indien nach Europa.", "merke": "Punsch: von „panch“, fünf Zutaten." }
+    },
+    {
+      "id": "ess-004", "schwierigkeit": "leicht", "ddf": true,
+      "frage": "Welches alkoholische Getränk kommt in einen Irish Coffee?",
+      "richtig": "Whiskey", "falsch": ["Rum", "Wodka", "Gin"], "alias": ["Whisky", "Irish Whiskey"],
+      "begruendung": "Irish Coffee besteht aus heißem Kaffee, Zucker, irischem Whiskey und einer Haube aus Sahne.",
+      "karte": { "titel": "Irish Coffee", "text": "Ein Barkeeper am Flughafen Foynes in Irland soll ihn in den 1940er-Jahren für frierende Passagiere erfunden haben.", "merke": "Irish Coffee: Kaffee + irischer Whiskey + Sahne." }
+    },
+    {
+      "id": "ess-005", "schwierigkeit": "mittel", "ddf": true,
+      "frage": "Welche deutsche Speise besteht aus rohem Schweinehackfleisch?",
+      "richtig": "Mett", "falsch": ["Frikadelle", "Leberkäse", "Labskaus"], "alias": ["Hackepeter", "Gehacktes"],
+      "begruendung": "Mett ist gewürztes rohes Schweinehack, oft als Brötchen mit Zwiebeln gegessen.",
+      "karte": { "titel": "Mett", "text": "In Teilen Ostdeutschlands heißt Mett „Hackepeter“. Es muss am Tag der Herstellung verkauft werden.", "merke": "Mett = rohes Schweinehack, Hackepeter." }
+    },
+    {
+      "id": "ess-006", "schwierigkeit": "mittel",
+      "frage": "Welches Obst essen die Deutschen am meisten?",
+      "richtig": "Äpfel", "falsch": ["Bananen", "Erdbeeren", "Orangen"], "alias": ["Apfel"],
+      "begruendung": "Der Apfel ist das beliebteste Obst in Deutschland, gefolgt von der Banane.",
+      "karte": { "titel": "Lieblingsobst", "text": "Das größte zusammenhängende Obstanbaugebiet Nordeuropas ist das Alte Land bei Hamburg, berühmt für Äpfel.", "merke": "Lieblingsobst der Deutschen: Apfel." },
+      "stand": "2026-11"
+    },
+    {
+      "id": "ess-007", "schwierigkeit": "leicht",
+      "frage": "Woraus wird Butter hergestellt?",
+      "richtig": "Aus Sahne", "falsch": ["Aus Joghurt", "Aus Öl", "Aus Käse"], "alias": ["Sahne", "Rahm"],
+      "begruendung": "Beim Schlagen von Sahne trennen sich Fett und Buttermilch. Das Fett wird zu Butter.",
+      "karte": { "titel": "Butter", "text": "Für ein Kilogramm Butter braucht man gut 20 Liter Milch.", "merke": "Butter = geschlagene Sahne." }
+    },
+    {
+      "id": "ess-008", "schwierigkeit": "mittel",
+      "frage": "Welches Gewürz ist das teuerste der Welt?",
+      "richtig": "Safran", "falsch": ["Vanille", "Zimt", "Kardamom"],
+      "begruendung": "Für ein Kilogramm Safran müssen über 100.000 Krokusblüten von Hand gepflückt werden.",
+      "karte": { "titel": "Safran", "text": "Safran färbt Speisen gelb, etwa Paella oder Risotto alla milanese.", "merke": "Teuerstes Gewürz: Safran." }
+    },
+    {
+      "id": "ess-009", "schwierigkeit": "leicht", "ddf": true,
+      "frage": "Welche Zutat macht Popcorn zu Popcorn?",
+      "richtig": "Mais", "falsch": ["Reis", "Weizen", "Hafer"],
+      "begruendung": "Popcorn entsteht aus speziellem Puffmais. Beim Erhitzen verdampft Wasser im Korn und lässt es platzen.",
+      "karte": { "titel": "Popcorn", "text": "Das Korn platzt bei etwa 180 °C. Menschen in Amerika aßen schon vor Tausenden Jahren gepufften Mais.", "merke": "Popcorn = Puffmais, platzt durch Wasserdampf." }
+    },
+    {
+      "id": "ess-010", "schwierigkeit": "mittel",
+      "frage": "Wie viele Sorten Brot gibt es in Deutschland ungefähr laut Deutschem Brotinstitut?",
+      "richtig": "Über 3.000", "falsch": ["Etwa 30", "Etwa 300", "Über 30.000"],
+      "begruendung": "Im Brotregister stehen über 3.000 Brotsorten. Die deutsche Brotkultur steht im bundesweiten Verzeichnis des immateriellen Kulturerbes.",
+      "karte": { "titel": "Brotkultur", "text": "Jedes Jahr kürt das Brotinstitut ein „Brot des Jahres“.", "merke": "Deutschland: über 3.000 Brotsorten." }
+    },
+    {
+      "id": "ess-011", "schwierigkeit": "mittel",
+      "frage": "Was ist Gelatine?",
+      "richtig": "Ein Geliermittel aus tierischem Bindegewebe", "falsch": ["Ein Geliermittel aus Algen", "Ein Zuckerersatz", "Ein Pflanzenfett"],
+      "begruendung": "Gelatine wird meist aus Schweine- oder Rinderhaut und Knochen gewonnen. Deshalb sind viele Fruchtgummis nicht vegetarisch.",
+      "karte": { "titel": "Gelatine", "text": "Vegetarische Alternativen sind Agar-Agar aus Algen und Pektin aus Früchten.", "merke": "Gelatine: tierisch. Agar-Agar: aus Algen." }
+    },
+    {
+      "id": "ess-012", "schwierigkeit": "leicht",
+      "frage": "Welches Land produziert am meisten Kaffee?",
+      "richtig": "Brasilien", "falsch": ["Kolumbien", "Äthiopien", "Italien"],
+      "begruendung": "Brasilien erntet rund ein Drittel des Kaffees der Welt, vor Vietnam.",
+      "karte": { "titel": "Kaffee", "text": "Ursprünglich stammt die Kaffeepflanze aus Äthiopien. Italien röstet viel, baut aber keinen Kaffee an.", "merke": "Größter Kaffeeproduzent: Brasilien." },
+      "stand": "2026-11"
+    },
+    {
+      "id": "ess-013", "schwierigkeit": "mittel",
+      "frage": "Was steckt in einer klassischen Spaghetti Carbonara?",
+      "richtig": "Ei, Speck und Käse", "falsch": ["Sahne, Schinken und Erbsen", "Tomaten und Basilikum", "Knoblauch und Öl"],
+      "begruendung": "Das römische Original besteht aus Guanciale (Schweinebacke), Eigelb, Pecorino und Pfeffer. Sahne gehört nicht hinein.",
+      "karte": { "titel": "Carbonara", "text": "„Aglio e olio“ heißt Knoblauch und Öl. Tomaten und Basilikum sind die Basis für „al pomodoro“.", "merke": "Carbonara: Ei, Speck, Käse, keine Sahne." }
+    },
+    {
+      "id": "ess-014", "schwierigkeit": "schwer",
+      "frage": "Welche Frucht hat einen harten Kern und oranges Fruchtfleisch und kommt aus den Tropen?",
+      "richtig": "Mango", "falsch": ["Papaya", "Pfirsich", "Kaki"],
+      "begruendung": "Die Mango hat einen großen flachen Kern und gelb-oranges Fruchtfleisch. Die Papaya hat viele kleine schwarze Kerne.",
+      "karte": { "titel": "Mango", "text": "Indien ist der größte Mangoproduzent der Welt. Die Mango ist dort Nationalfrucht.", "merke": "Mango: ein großer Kern. Papaya: viele kleine Kerne." }
+    },
+    {
+      "id": "ess-015", "schwierigkeit": "mittel",
+      "frage": "Wie heißt der italienische Kaffee mit viel aufgeschäumter Milch und Milchschaum?",
+      "richtig": "Cappuccino", "falsch": ["Espresso", "Ristretto", "Americano"],
+      "begruendung": "Ein Cappuccino ist Espresso mit heißer Milch und Milchschaum. Ein Ristretto ist ein besonders kurzer Espresso.",
+      "karte": { "titel": "Cappuccino", "text": "Der Name kommt von der braunen Kutte der Kapuzinermönche.", "merke": "Cappuccino = Espresso + Milchschaum." }
+    },
+    {
+      "id": "ess-016", "schwierigkeit": "leicht",
+      "frage": "Aus welcher Pflanze wird Schokolade gemacht?",
+      "richtig": "Aus der Kakaobohne", "falsch": ["Aus der Kaffeebohne", "Aus der Vanilleschote", "Aus der Haselnuss"], "alias": ["Kakao", "Kakaobohne"],
+      "begruendung": "Schokolade entsteht aus fermentierten, gerösteten Kakaobohnen.",
+      "karte": { "titel": "Kakao", "text": "Die meisten Kakaobohnen kommen aus der Elfenbeinküste und Ghana. Weiße Schokolade enthält nur Kakaobutter.", "merke": "Schokolade: Kakaobohne. Größter Erzeuger: Elfenbeinküste." }
+    },
+    {
+      "id": "ess-017", "schwierigkeit": "mittel",
+      "frage": "Was ist Umami?",
+      "richtig": "Eine herzhafte Geschmacksrichtung", "falsch": ["Ein japanischer Reiswein", "Ein Kochmesser", "Ein Gewürzmix"],
+      "begruendung": "Umami ist neben süß, sauer, salzig und bitter die fünfte Geschmacksrichtung, ausgelöst vor allem durch Glutamat.",
+      "karte": { "titel": "Umami", "text": "Der japanische Chemiker Kikunae Ikeda beschrieb Umami 1908. Japanischer Reiswein heißt Sake.", "merke": "Umami = herzhaft, die fünfte Geschmacksrichtung." }
+    },
+    {
+      "id": "ess-018", "schwierigkeit": "leicht", "ddf": true,
+      "frage": "Welches Gemüse wird für Sauerkraut verwendet?",
+      "richtig": "Weißkohl", "falsch": ["Rotkohl", "Blumenkohl", "Spinat"], "alias": ["Kohl", "Weißkraut"],
+      "begruendung": "Sauerkraut ist fein gehobelter Weißkohl, der mit Salz vergoren wird.",
+      "karte": { "titel": "Sauerkraut", "text": "Durch die Milchsäuregärung hält Sauerkraut monatelang. Seefahrer nahmen es gegen Skorbut mit.", "merke": "Sauerkraut = vergorener Weißkohl." }
+    },
+    {
+      "id": "ess-019", "schwierigkeit": "mittel",
+      "frage": "Aus welchem Getreide wird Bier nach dem Reinheitsgebot meist gebraut?",
+      "richtig": "Gerste", "falsch": ["Hafer", "Mais", "Reis"],
+      "begruendung": "Das Reinheitsgebot von 1516 erlaubte nur Gerste, Hopfen und Wasser. Hefe kannte man noch nicht.",
+      "karte": { "titel": "Reinheitsgebot", "text": "Für Weizenbier verwendet man heute auch Weizenmalz.", "merke": "Reinheitsgebot 1516: Gerste, Hopfen, Wasser." }
+    },
+    {
+      "id": "ess-020", "schwierigkeit": "mittel",
+      "frage": "Welche Zutat färbt Currypulver gelb?",
+      "richtig": "Kurkuma", "falsch": ["Safran", "Paprika", "Senf"], "alias": ["Gelbwurz"],
+      "begruendung": "Kurkuma, auch Gelbwurz genannt, gibt Curry die gelbe Farbe.",
+      "karte": { "titel": "Kurkuma", "text": "Kurkuma ist eine Wurzel aus der Familie der Ingwergewächse.", "merke": "Curry gelb durch Kurkuma." }
+    }
+  ]
+}

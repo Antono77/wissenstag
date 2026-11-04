@@ -105,6 +105,7 @@ export default {
         ['Petrus', 'Er verleugnete Jesus dreimal, bevor der Hahn krähte', 2], ['Kain', 'Er erschlug seinen Bruder Abel', 1],
         ['Salomo', 'Der König war für seine Weisheit berühmt', 2], ['Methusalem', 'Er wurde laut Bibel 969 Jahre alt', 2],
         ['Lazarus', 'Jesus erweckte ihn von den Toten', 2], ['Abraham', 'Er sollte auf Gottes Befehl seinen Sohn Isaak opfern', 2],
+        ['Johannes der Täufer', 'Er taufte Jesus im Jordan', 2], ['Maria', 'Ein Engel verkündete ihr die Geburt Jesu', 1],
       ],
       fragen: [{
         frage: (r) => `Welche Geschichte erzählt die Bibel über ${r.person}?`,

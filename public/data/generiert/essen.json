@@ -1,0 +1,1422 @@
+{
+ "klasse": "essen",
+ "erzeugt": "scripts/generate-fakten.mjs",
+ "fragen": [
+  {
+   "id": "ess-la-paella",
+   "schwierigkeit": "leicht",
+   "frage": "Aus welchem Land stammt das Gericht Paella?",
+   "richtig": "Spanien",
+   "falsch": [
+    "Deutschland",
+    "Thailand",
+    "Österreich"
+   ],
+   "begruendung": "Paella: Spanien.",
+   "karte": {
+    "titel": "Paella",
+    "text": "Paella: Spanien.",
+    "merke": "Paella: Spanien."
+   },
+   "ddf": true
+  },
+  {
+   "id": "ess-la-sushi",
+   "schwierigkeit": "leicht",
+   "frage": "Aus welchem Land stammt das Gericht Sushi?",
+   "richtig": "Japan",
+   "falsch": [
+    "Mexiko",
+    "Deutschland",
+    "Peru"
+   ],
+   "begruendung": "Sushi: Japan.",
+   "karte": {
+    "titel": "Sushi",
+    "text": "Sushi: Japan.",
+    "merke": "Sushi: Japan."
+   },
+   "ddf": true
+  },
+  {
+   "id": "ess-la-ramen",
+   "schwierigkeit": "leicht",
+   "frage": "Aus welchem Land stammt das Gericht Ramen?",
+   "richtig": "Japan",
+   "falsch": [
+    "Mexiko",
+    "Polen",
+    "Peru"
+   ],
+   "begruendung": "Ramen: Japan.",
+   "karte": {
+    "titel": "Ramen",
+    "text": "Ramen: Japan.",
+    "merke": "Ramen: Japan."
+   },
+   "ddf": true
+  },
+  {
+   "id": "ess-la-pizza",
+   "schwierigkeit": "leicht",
+   "frage": "Aus welchem Land stammt das Gericht Pizza?",
+   "richtig": "Italien",
+   "falsch": [
+    "Frankreich",
+    "Spanien",
+    "Brasilien"
+   ],
+   "begruendung": "Pizza: Italien.",
+   "karte": {
+    "titel": "Pizza",
+    "text": "Pizza: Italien.",
+    "merke": "Pizza: Italien."
+   },
+   "ddf": true
+  },
+  {
+   "id": "ess-la-risotto",
+   "schwierigkeit": "leicht",
+   "frage": "Aus welchem Land stammt das Gericht Risotto?",
+   "richtig": "Italien",
+   "falsch": [
+    "Mexiko",
+    "Vietnam",
+    "Südkorea"
+   ],
+   "begruendung": "Risotto: Italien.",
+   "karte": {
+    "titel": "Risotto",
+    "text": "Risotto: Italien.",
+    "merke": "Risotto: Italien."
+   },
+   "ddf": true
+  },
+  {
+   "id": "ess-la-tiramisu",
+   "schwierigkeit": "leicht",
+   "frage": "Aus welchem Land stammt das Gericht Tiramisu?",
+   "richtig": "Italien",
+   "falsch": [
+    "Schweden",
+    "Mexiko",
+    "Thailand"
+   ],
+   "begruendung": "Tiramisu: Italien.",
+   "karte": {
+    "titel": "Tiramisu",
+    "text": "Tiramisu: Italien.",
+    "merke": "Tiramisu: Italien."
+   },
+   "ddf": true
+  },
+  {
+   "id": "ess-la-gulasch",
+   "schwierigkeit": "leicht",
+   "frage": "Aus welchem Land stammt das Gericht Gulasch?",
+   "richtig": "Ungarn",
+   "falsch": [
+    "Thailand",
+    "Brasilien",
+    "Japan"
+   ],
+   "begruendung": "Gulasch: Ungarn.",
+   "karte": {
+    "titel": "Gulasch",
+    "text": "Gulasch: Ungarn.",
+    "merke": "Gulasch: Ungarn."
+   },
+   "ddf": true
+  },
+  {
+   "id": "ess-la-moussaka",
+   "schwierigkeit": "leicht",
+   "frage": "Aus welchem Land stammt das Gericht Moussaka?",
+   "richtig": "Griechenland",
+   "falsch": [
+    "Südkorea",
+    "Polen",
+    "Ungarn"
+   ],
+   "begruendung": "Moussaka: Griechenland.",
+   "karte": {
+    "titel": "Moussaka",
+    "text": "Moussaka: Griechenland.",
+    "merke": "Moussaka: Griechenland."
+   },
+   "ddf": true
+  },
+  {
+   "id": "ess-la-tacos",
+   "schwierigkeit": "leicht",
+   "frage": "Aus welchem Land stammt das Gericht Tacos?",
+   "richtig": "Mexiko",
+   "falsch": [
+    "Deutschland",
+    "Thailand",
+    "Peru"
+   ],
+   "begruendung": "Tacos: Mexiko.",
+   "karte": {
+    "titel": "Tacos",
+    "text": "Tacos: Mexiko.",
+    "merke": "Tacos: Mexiko."
+   },
+   "ddf": true
+  },
+  {
+   "id": "ess-la-borschtsch",
+   "schwierigkeit": "mittel",
+   "frage": "Aus welchem Land stammt das Gericht Borschtsch?",
+   "richtig": "Ukraine",
+   "falsch": [
+    "Schweden",
+    "Vereinigtes Königreich",
+    "Frankreich"
+   ],
+   "begruendung": "Borschtsch: Ukraine.",
+   "karte": {
+    "titel": "Borschtsch",
+    "text": "Die UNESCO hat 2022 die Borschtsch-Kultur der Ukraine als bedrohtes Kulturerbe anerkannt.",
+    "merke": "Borschtsch: Ukraine."
+   }
+  },
+  {
+   "id": "ess-la-kimchi",
+   "schwierigkeit": "leicht",
+   "frage": "Aus welchem Land stammt das Gericht Kimchi?",
+   "richtig": "Südkorea",
+   "falsch": [
+    "Kanada",
+    "Ungarn",
+    "Dänemark"
+   ],
+   "begruendung": "Kimchi: Südkorea.",
+   "karte": {
+    "titel": "Kimchi",
+    "text": "Kimchi: Südkorea.",
+    "merke": "Kimchi: Südkorea."
+   },
+   "ddf": true
+  },
+  {
+   "id": "ess-la-pho",
+   "schwierigkeit": "mittel",
+   "frage": "Aus welchem Land stammt das Gericht Pho?",
+   "richtig": "Vietnam",
+   "falsch": [
+    "Peru",
+    "Ukraine",
+    "Schweden"
+   ],
+   "begruendung": "Pho: Vietnam.",
+   "karte": {
+    "titel": "Pho",
+    "text": "Pho: Vietnam.",
+    "merke": "Pho: Vietnam."
+   }
+  },
+  {
+   "id": "ess-la-pad-thai",
+   "schwierigkeit": "leicht",
+   "frage": "Aus welchem Land stammt das Gericht Pad Thai?",
+   "richtig": "Thailand",
+   "falsch": [
+    "Österreich",
+    "Italien",
+    "Schweden"
+   ],
+   "begruendung": "Pad Thai: Thailand.",
+   "karte": {
+    "titel": "Pad Thai",
+    "text": "Pad Thai: Thailand.",
+    "merke": "Pad Thai: Thailand."
+   },
+   "ddf": true
+  },
+  {
+   "id": "ess-la-fish-and-chips",
+   "schwierigkeit": "leicht",
+   "frage": "Aus welchem Land stammt das Gericht Fish and Chips?",
+   "richtig": "Vereinigtes Königreich",
+   "falsch": [
+    "Thailand",
+    "Japan",
+    "Spanien"
+   ],
+   "begruendung": "Fish and Chips: Vereinigtes Königreich.",
+   "karte": {
+    "titel": "Fish and Chips",
+    "text": "Fish and Chips: Vereinigtes Königreich.",
+    "merke": "Fish and Chips: Vereinigtes Königreich."
+   },
+   "ddf": true
+  },
+  {
+   "id": "ess-la-ratatouille",
+   "schwierigkeit": "leicht",
+   "frage": "Aus welchem Land stammt das Gericht Ratatouille?",
+   "richtig": "Frankreich",
+   "falsch": [
+    "Japan",
+    "Spanien",
+    "Ungarn"
+   ],
+   "begruendung": "Ratatouille: Frankreich.",
+   "karte": {
+    "titel": "Ratatouille",
+    "text": "Ratatouille: Frankreich.",
+    "merke": "Ratatouille: Frankreich."
+   },
+   "ddf": true
+  },
+  {
+   "id": "ess-la-bouillabaisse",
+   "schwierigkeit": "mittel",
+   "frage": "Aus welchem Land stammt das Gericht Bouillabaisse?",
+   "richtig": "Frankreich",
+   "falsch": [
+    "Italien",
+    "Brasilien",
+    "Spanien"
+   ],
+   "begruendung": "Bouillabaisse: Frankreich.",
+   "karte": {
+    "titel": "Bouillabaisse",
+    "text": "Bouillabaisse: Frankreich.",
+    "merke": "Bouillabaisse: Frankreich."
+   }
+  },
+  {
+   "id": "ess-la-kaesefondue",
+   "schwierigkeit": "leicht",
+   "frage": "Aus welchem Land stammt das Gericht Käsefondue?",
+   "richtig": "Schweiz",
+   "falsch": [
+    "Japan",
+    "Mexiko",
+    "Polen"
+   ],
+   "begruendung": "Käsefondue: Schweiz.",
+   "karte": {
+    "titel": "Käsefondue",
+    "text": "Käsefondue: Schweiz.",
+    "merke": "Käsefondue: Schweiz."
+   },
+   "ddf": true
+  },
+  {
+   "id": "ess-la-roesti",
+   "schwierigkeit": "mittel",
+   "frage": "Aus welchem Land stammt das Gericht Rösti?",
+   "richtig": "Schweiz",
+   "falsch": [
+    "Ungarn",
+    "Vereinigtes Königreich",
+    "Brasilien"
+   ],
+   "begruendung": "Rösti: Schweiz.",
+   "karte": {
+    "titel": "Rösti",
+    "text": "Rösti: Schweiz.",
+    "merke": "Rösti: Schweiz."
+   }
+  },
+  {
+   "id": "ess-la-wiener-schnitzel",
+   "schwierigkeit": "leicht",
+   "frage": "Aus welchem Land stammt das Gericht Wiener Schnitzel?",
+   "richtig": "Österreich",
+   "falsch": [
+    "Deutschland",
+    "Schweden",
+    "Dänemark"
+   ],
+   "begruendung": "Wiener Schnitzel: Österreich.",
+   "karte": {
+    "titel": "Wiener Schnitzel",
+    "text": "Ein echtes Wiener Schnitzel ist aus Kalbfleisch.",
+    "merke": "Wiener Schnitzel: Österreich."
+   },
+   "ddf": true
+  },
+  {
+   "id": "ess-la-kaiserschmarrn",
+   "schwierigkeit": "leicht",
+   "frage": "Aus welchem Land stammt das Gericht Kaiserschmarrn?",
+   "richtig": "Österreich",
+   "falsch": [
+    "Polen",
+    "Japan",
+    "Peru"
+   ],
+   "begruendung": "Kaiserschmarrn: Österreich.",
+   "karte": {
+    "titel": "Kaiserschmarrn",
+    "text": "Kaiserschmarrn: Österreich.",
+    "merke": "Kaiserschmarrn: Österreich."
+   },
+   "ddf": true
+  },
+  {
+   "id": "ess-la-sm-rrebr-d",
+   "schwierigkeit": "mittel",
+   "frage": "Aus welchem Land stammt das Gericht Smørrebrød?",
+   "richtig": "Dänemark",
+   "falsch": [
+    "Brasilien",
+    "Frankreich",
+    "China"
+   ],
+   "begruendung": "Smørrebrød: Dänemark.",
+   "karte": {
+    "titel": "Smørrebrød",
+    "text": "Smørrebrød: Dänemark.",
+    "merke": "Smørrebrød: Dänemark."
+   }
+  },
+  {
+   "id": "ess-la-pierogi",
+   "schwierigkeit": "mittel",
+   "frage": "Aus welchem Land stammt das Gericht Pierogi?",
+   "richtig": "Polen",
+   "falsch": [
+    "Peru",
+    "Frankreich",
+    "Südkorea"
+   ],
+   "begruendung": "Pierogi: Polen.",
+   "karte": {
+    "titel": "Pierogi",
+    "text": "Pierogi: Polen.",
+    "merke": "Pierogi: Polen."
+   }
+  },
+  {
+   "id": "ess-la-feijoada",
+   "schwierigkeit": "schwer",
+   "frage": "Aus welchem Land stammt das Gericht Feijoada?",
+   "richtig": "Brasilien",
+   "falsch": [
+    "Vereinigtes Königreich",
+    "Spanien",
+    "Dänemark"
+   ],
+   "begruendung": "Feijoada: Brasilien.",
+   "karte": {
+    "titel": "Feijoada",
+    "text": "Feijoada: Brasilien.",
+    "merke": "Feijoada: Brasilien."
+   }
+  },
+  {
+   "id": "ess-la-ceviche",
+   "schwierigkeit": "schwer",
+   "frage": "Aus welchem Land stammt das Gericht Ceviche?",
+   "richtig": "Peru",
+   "falsch": [
+    "Deutschland",
+    "Kanada",
+    "Mexiko"
+   ],
+   "begruendung": "Ceviche: Peru.",
+   "karte": {
+    "titel": "Ceviche",
+    "text": "Ceviche: Peru.",
+    "merke": "Ceviche: Peru."
+   }
+  },
+  {
+   "id": "ess-la-tapas",
+   "schwierigkeit": "leicht",
+   "frage": "Aus welchem Land stammt das Gericht Tapas?",
+   "richtig": "Spanien",
+   "falsch": [
+    "Polen",
+    "Kanada",
+    "Ungarn"
+   ],
+   "begruendung": "Tapas: Spanien.",
+   "karte": {
+    "titel": "Tapas",
+    "text": "Tapas: Spanien.",
+    "merke": "Tapas: Spanien."
+   },
+   "ddf": true
+  },
+  {
+   "id": "ess-la-gazpacho",
+   "schwierigkeit": "mittel",
+   "frage": "Aus welchem Land stammt das Gericht Gazpacho?",
+   "richtig": "Spanien",
+   "falsch": [
+    "Brasilien",
+    "Ukraine",
+    "Österreich"
+   ],
+   "begruendung": "Gazpacho: Spanien.",
+   "karte": {
+    "titel": "Gazpacho",
+    "text": "Gazpacho: Spanien.",
+    "merke": "Gazpacho: Spanien."
+   }
+  },
+  {
+   "id": "ess-la-haggis",
+   "schwierigkeit": "mittel",
+   "frage": "Aus welchem Land stammt das Gericht Haggis?",
+   "richtig": "Vereinigtes Königreich",
+   "falsch": [
+    "Vietnam",
+    "Kanada",
+    "Deutschland"
+   ],
+   "begruendung": "Haggis: Vereinigtes Königreich.",
+   "karte": {
+    "titel": "Haggis",
+    "text": "Haggis ist ein Nationalgericht Schottlands: Schafsinnereien mit Hafer im Schafsmagen gegart.",
+    "merke": "Haggis: Vereinigtes Königreich."
+   }
+  },
+  {
+   "id": "ess-la-poutine",
+   "schwierigkeit": "schwer",
+   "frage": "Aus welchem Land stammt das Gericht Poutine?",
+   "richtig": "Kanada",
+   "falsch": [
+    "Frankreich",
+    "Vereinigtes Königreich",
+    "Brasilien"
+   ],
+   "begruendung": "Poutine: Kanada.",
+   "karte": {
+    "titel": "Poutine",
+    "text": "Poutine: Kanada.",
+    "merke": "Poutine: Kanada."
+   }
+  },
+  {
+   "id": "ess-la-peking-ente",
+   "schwierigkeit": "leicht",
+   "frage": "Aus welchem Land stammt das Gericht Peking-Ente?",
+   "richtig": "China",
+   "falsch": [
+    "Mexiko",
+    "Peru",
+    "Ungarn"
+   ],
+   "begruendung": "Peking-Ente: China.",
+   "karte": {
+    "titel": "Peking-Ente",
+    "text": "Peking-Ente: China.",
+    "merke": "Peking-Ente: China."
+   },
+   "ddf": true
+  },
+  {
+   "id": "ess-la-currywurst",
+   "schwierigkeit": "leicht",
+   "frage": "Aus welchem Land stammt das Gericht Currywurst?",
+   "richtig": "Deutschland",
+   "falsch": [
+    "Schweden",
+    "Vereinigtes Königreich",
+    "Dänemark"
+   ],
+   "begruendung": "Currywurst: Deutschland.",
+   "karte": {
+    "titel": "Currywurst",
+    "text": "Herta Heuwer erfand die Currysoße 1949 in Berlin.",
+    "merke": "Currywurst: Deutschland."
+   },
+   "ddf": true
+  },
+  {
+   "id": "ess-la-koettbullar",
+   "schwierigkeit": "leicht",
+   "frage": "Aus welchem Land stammt das Gericht Köttbullar?",
+   "richtig": "Schweden",
+   "falsch": [
+    "Schweiz",
+    "Südkorea",
+    "Vereinigtes Königreich"
+   ],
+   "begruendung": "Köttbullar: Schweden.",
+   "karte": {
+    "titel": "Köttbullar",
+    "text": "Köttbullar: Schweden.",
+    "merke": "Köttbullar: Schweden."
+   },
+   "ddf": true
+  },
+  {
+   "id": "ess-la-churros",
+   "schwierigkeit": "mittel",
+   "frage": "Aus welchem Land stammt das Gericht Churros?",
+   "richtig": "Spanien",
+   "falsch": [
+    "Vereinigtes Königreich",
+    "Polen",
+    "Mexiko"
+   ],
+   "begruendung": "Churros: Spanien.",
+   "karte": {
+    "titel": "Churros",
+    "text": "Churros: Spanien.",
+    "merke": "Churros: Spanien."
+   }
+  },
+  {
+   "id": "ess-la-bigos",
+   "schwierigkeit": "schwer",
+   "frage": "Aus welchem Land stammt das Gericht Bigos?",
+   "richtig": "Polen",
+   "falsch": [
+    "Japan",
+    "Brasilien",
+    "Griechenland"
+   ],
+   "begruendung": "Bigos: Polen.",
+   "karte": {
+    "titel": "Bigos",
+    "text": "Bigos: Polen.",
+    "merke": "Bigos: Polen."
+   }
+  },
+  {
+   "id": "ess-la-dim-sum",
+   "schwierigkeit": "mittel",
+   "frage": "Aus welchem Land stammt das Gericht Dim Sum?",
+   "richtig": "China",
+   "falsch": [
+    "Ukraine",
+    "Thailand",
+    "Ungarn"
+   ],
+   "begruendung": "Dim Sum: China.",
+   "karte": {
+    "titel": "Dim Sum",
+    "text": "Dim Sum: China.",
+    "merke": "Dim Sum: China."
+   }
+  },
+  {
+   "id": "ess-zu-guacamole",
+   "schwierigkeit": "leicht",
+   "frage": "Woraus wird Guacamole hauptsächlich gemacht?",
+   "richtig": "Avocado",
+   "falsch": [
+    "Zuckerrohr",
+    "Mais",
+    "Maisgrieß"
+   ],
+   "begruendung": "Guacamole: aus Avocado.",
+   "karte": {
+    "titel": "Guacamole",
+    "text": "Guacamole: aus Avocado.",
+    "merke": "Guacamole: aus Avocado."
+   },
+   "ddf": true
+  },
+  {
+   "id": "ess-zu-hummus",
+   "schwierigkeit": "leicht",
+   "frage": "Woraus wird Hummus hauptsächlich gemacht?",
+   "richtig": "Kichererbsen",
+   "falsch": [
+    "Sojabohnen",
+    "Sesam",
+    "Äpfel"
+   ],
+   "begruendung": "Hummus: aus Kichererbsen.",
+   "karte": {
+    "titel": "Hummus",
+    "text": "Hummus: aus Kichererbsen.",
+    "merke": "Hummus: aus Kichererbsen."
+   },
+   "ddf": true
+  },
+  {
+   "id": "ess-zu-pesto-alla-genovese",
+   "schwierigkeit": "leicht",
+   "frage": "Woraus wird Pesto alla genovese hauptsächlich gemacht?",
+   "richtig": "Basilikum",
+   "falsch": [
+    "Sojabohnen",
+    "Joghurt",
+    "Reis"
+   ],
+   "begruendung": "Pesto alla genovese: aus Basilikum.",
+   "karte": {
+    "titel": "Pesto alla genovese",
+    "text": "Pesto alla genovese: aus Basilikum.",
+    "merke": "Pesto alla genovese: aus Basilikum."
+   },
+   "ddf": true
+  },
+  {
+   "id": "ess-zu-tzatziki",
+   "schwierigkeit": "leicht",
+   "frage": "Woraus wird Tzatziki hauptsächlich gemacht?",
+   "richtig": "Joghurt",
+   "falsch": [
+    "Kichererbsen",
+    "Fischrogen",
+    "Weißkohl"
+   ],
+   "begruendung": "Tzatziki: aus Joghurt.",
+   "karte": {
+    "titel": "Tzatziki",
+    "text": "Tzatziki: aus Joghurt.",
+    "merke": "Tzatziki: aus Joghurt."
+   },
+   "ddf": true
+  },
+  {
+   "id": "ess-zu-sauerkraut",
+   "schwierigkeit": "leicht",
+   "frage": "Woraus wird Sauerkraut hauptsächlich gemacht?",
+   "richtig": "Weißkohl",
+   "falsch": [
+    "Sesam",
+    "Kichererbsen",
+    "Fischrogen"
+   ],
+   "begruendung": "Sauerkraut: aus Weißkohl.",
+   "karte": {
+    "titel": "Sauerkraut",
+    "text": "Sauerkraut: aus Weißkohl.",
+    "merke": "Sauerkraut: aus Weißkohl."
+   },
+   "ddf": true
+  },
+  {
+   "id": "ess-zu-marzipan",
+   "schwierigkeit": "leicht",
+   "frage": "Woraus wird Marzipan hauptsächlich gemacht?",
+   "richtig": "Mandeln",
+   "falsch": [
+    "Maisgrieß",
+    "Zuckerrohr",
+    "Sesam"
+   ],
+   "begruendung": "Marzipan: aus Mandeln.",
+   "karte": {
+    "titel": "Marzipan",
+    "text": "Marzipan: aus Mandeln.",
+    "merke": "Marzipan: aus Mandeln."
+   },
+   "ddf": true
+  },
+  {
+   "id": "ess-zu-popcorn",
+   "schwierigkeit": "leicht",
+   "frage": "Woraus wird Popcorn hauptsächlich gemacht?",
+   "richtig": "Mais",
+   "falsch": [
+    "Sesam",
+    "Auberginen",
+    "Fischrogen"
+   ],
+   "begruendung": "Popcorn: aus Mais.",
+   "karte": {
+    "titel": "Popcorn",
+    "text": "Popcorn: aus Mais.",
+    "merke": "Popcorn: aus Mais."
+   },
+   "ddf": true
+  },
+  {
+   "id": "ess-zu-tofu",
+   "schwierigkeit": "leicht",
+   "frage": "Woraus wird Tofu hauptsächlich gemacht?",
+   "richtig": "Sojabohnen",
+   "falsch": [
+    "Haselnüsse",
+    "Mandeln",
+    "Zuckerrohr"
+   ],
+   "begruendung": "Tofu: aus Sojabohnen.",
+   "karte": {
+    "titel": "Tofu",
+    "text": "Tofu: aus Sojabohnen.",
+    "merke": "Tofu: aus Sojabohnen."
+   },
+   "ddf": true
+  },
+  {
+   "id": "ess-zu-polenta",
+   "schwierigkeit": "mittel",
+   "frage": "Woraus wird Polenta hauptsächlich gemacht?",
+   "richtig": "Maisgrieß",
+   "falsch": [
+    "Zuckerrohr",
+    "Äpfel",
+    "Fischrogen"
+   ],
+   "begruendung": "Polenta: aus Maisgrieß.",
+   "karte": {
+    "titel": "Polenta",
+    "text": "Polenta: aus Maisgrieß.",
+    "merke": "Polenta: aus Maisgrieß."
+   }
+  },
+  {
+   "id": "ess-zu-nutella",
+   "schwierigkeit": "leicht",
+   "frage": "Woraus wird Nutella hauptsächlich gemacht?",
+   "richtig": "Haselnüsse",
+   "falsch": [
+    "Mandeln",
+    "Tomaten",
+    "Auberginen"
+   ],
+   "begruendung": "Nutella: aus Haselnüsse.",
+   "karte": {
+    "titel": "Nutella",
+    "text": "Nutella: aus Haselnüsse.",
+    "merke": "Nutella: aus Haselnüsse."
+   },
+   "ddf": true
+  },
+  {
+   "id": "ess-zu-kaviar",
+   "schwierigkeit": "leicht",
+   "frage": "Woraus wird Kaviar hauptsächlich gemacht?",
+   "richtig": "Fischrogen",
+   "falsch": [
+    "Agave",
+    "Auberginen",
+    "Reis"
+   ],
+   "begruendung": "Kaviar: aus Fischrogen.",
+   "karte": {
+    "titel": "Kaviar",
+    "text": "Kaviar: aus Fischrogen.",
+    "merke": "Kaviar: aus Fischrogen."
+   },
+   "ddf": true
+  },
+  {
+   "id": "ess-zu-tahini",
+   "schwierigkeit": "mittel",
+   "frage": "Woraus wird Tahini hauptsächlich gemacht?",
+   "richtig": "Sesam",
+   "falsch": [
+    "Äpfel",
+    "Reis",
+    "Weißkohl"
+   ],
+   "begruendung": "Tahini: aus Sesam.",
+   "karte": {
+    "titel": "Tahini",
+    "text": "Tahini: aus Sesam.",
+    "merke": "Tahini: aus Sesam."
+   }
+  },
+  {
+   "id": "ess-zu-couscous",
+   "schwierigkeit": "mittel",
+   "frage": "Woraus wird Couscous hauptsächlich gemacht?",
+   "richtig": "Hartweizengrieß",
+   "falsch": [
+    "Basilikum",
+    "Joghurt",
+    "Tomaten"
+   ],
+   "begruendung": "Couscous: aus Hartweizengrieß.",
+   "karte": {
+    "titel": "Couscous",
+    "text": "Couscous: aus Hartweizengrieß.",
+    "merke": "Couscous: aus Hartweizengrieß."
+   }
+  },
+  {
+   "id": "ess-zu-cidre",
+   "schwierigkeit": "mittel",
+   "frage": "Woraus wird Cidre hauptsächlich gemacht?",
+   "richtig": "Äpfel",
+   "falsch": [
+    "Weißkohl",
+    "Joghurt",
+    "Maisgrieß"
+   ],
+   "begruendung": "Cidre: aus Äpfel.",
+   "karte": {
+    "titel": "Cidre",
+    "text": "Cidre: aus Äpfel.",
+    "merke": "Cidre: aus Äpfel."
+   }
+  },
+  {
+   "id": "ess-zu-sake",
+   "schwierigkeit": "mittel",
+   "frage": "Woraus wird Sake hauptsächlich gemacht?",
+   "richtig": "Reis",
+   "falsch": [
+    "Mandeln",
+    "Kartoffeln",
+    "Tomaten"
+   ],
+   "begruendung": "Sake: aus Reis.",
+   "karte": {
+    "titel": "Sake",
+    "text": "Sake: aus Reis.",
+    "merke": "Sake: aus Reis."
+   }
+  },
+  {
+   "id": "ess-zu-tequila",
+   "schwierigkeit": "mittel",
+   "frage": "Woraus wird Tequila hauptsächlich gemacht?",
+   "richtig": "Agave",
+   "falsch": [
+    "Äpfel",
+    "Sojabohnen",
+    "Kichererbsen"
+   ],
+   "begruendung": "Tequila: aus Agave.",
+   "karte": {
+    "titel": "Tequila",
+    "text": "Tequila: aus Agave.",
+    "merke": "Tequila: aus Agave."
+   }
+  },
+  {
+   "id": "ess-zu-rum",
+   "schwierigkeit": "mittel",
+   "frage": "Woraus wird Rum hauptsächlich gemacht?",
+   "richtig": "Zuckerrohr",
+   "falsch": [
+    "Mandeln",
+    "Basilikum",
+    "Sesam"
+   ],
+   "begruendung": "Rum: aus Zuckerrohr.",
+   "karte": {
+    "titel": "Rum",
+    "text": "Rum: aus Zuckerrohr.",
+    "merke": "Rum: aus Zuckerrohr."
+   }
+  },
+  {
+   "id": "ess-zu-pommes-frites",
+   "schwierigkeit": "leicht",
+   "frage": "Woraus wird Pommes frites hauptsächlich gemacht?",
+   "richtig": "Kartoffeln",
+   "falsch": [
+    "Maisgrieß",
+    "Agave",
+    "Sojabohnen"
+   ],
+   "begruendung": "Pommes frites: aus Kartoffeln.",
+   "karte": {
+    "titel": "Pommes frites",
+    "text": "Pommes frites: aus Kartoffeln.",
+    "merke": "Pommes frites: aus Kartoffeln."
+   },
+   "ddf": true
+  },
+  {
+   "id": "ess-zu-ketchup",
+   "schwierigkeit": "leicht",
+   "frage": "Woraus wird Ketchup hauptsächlich gemacht?",
+   "richtig": "Tomaten",
+   "falsch": [
+    "Kichererbsen",
+    "Joghurt",
+    "Auberginen"
+   ],
+   "begruendung": "Ketchup: aus Tomaten.",
+   "karte": {
+    "titel": "Ketchup",
+    "text": "Ketchup: aus Tomaten.",
+    "merke": "Ketchup: aus Tomaten."
+   },
+   "ddf": true
+  },
+  {
+   "id": "ess-zu-baba-ganoush",
+   "schwierigkeit": "schwer",
+   "frage": "Woraus wird Baba Ganoush hauptsächlich gemacht?",
+   "richtig": "Auberginen",
+   "falsch": [
+    "Fischrogen",
+    "Basilikum",
+    "Maisgrieß"
+   ],
+   "begruendung": "Baba Ganoush: aus Auberginen.",
+   "karte": {
+    "titel": "Baba Ganoush",
+    "text": "Baba Ganoush: aus Auberginen.",
+    "merke": "Baba Ganoush: aus Auberginen."
+   }
+  },
+  {
+   "id": "ess-de-weisswurst",
+   "schwierigkeit": "leicht",
+   "frage": "Woher stammt die Spezialität Weißwurst?",
+   "richtig": "München",
+   "falsch": [
+    "Schwaben",
+    "Thüringen",
+    "Düsseldorf"
+   ],
+   "begruendung": "Weißwurst: München.",
+   "karte": {
+    "titel": "Weißwurst",
+    "text": "Eine alte Regel sagt: Die Weißwurst darf das Zwölf-Uhr-Läuten nicht hören, also isst man sie vormittags.",
+    "merke": "Weißwurst: München."
+   }
+  },
+  {
+   "id": "ess-de-koelsch",
+   "schwierigkeit": "leicht",
+   "frage": "Woher stammt die Spezialität Kölsch?",
+   "richtig": "Köln",
+   "falsch": [
+    "Ostpreußen",
+    "Aachen",
+    "München"
+   ],
+   "begruendung": "Kölsch: Köln.",
+   "karte": {
+    "titel": "Kölsch",
+    "text": "Kölsch: Köln.",
+    "merke": "Kölsch: Köln."
+   }
+  },
+  {
+   "id": "ess-de-altbier",
+   "schwierigkeit": "mittel",
+   "frage": "Woher stammt die Spezialität Altbier?",
+   "richtig": "Düsseldorf",
+   "falsch": [
+    "Ostpreußen",
+    "Schwaben",
+    "Köln"
+   ],
+   "begruendung": "Altbier: Düsseldorf.",
+   "karte": {
+    "titel": "Altbier",
+    "text": "Altbier: Düsseldorf.",
+    "merke": "Altbier: Düsseldorf."
+   }
+  },
+  {
+   "id": "ess-de-gruene-sosse",
+   "schwierigkeit": "mittel",
+   "frage": "Woher stammt die Spezialität Grüne Soße?",
+   "richtig": "Frankfurt am Main",
+   "falsch": [
+    "Köln",
+    "Norddeutschland",
+    "Pfalz"
+   ],
+   "begruendung": "Grüne Soße: Frankfurt am Main.",
+   "karte": {
+    "titel": "Grüne Soße",
+    "text": "Grüne Soße: Frankfurt am Main.",
+    "merke": "Grüne Soße: Frankfurt am Main."
+   }
+  },
+  {
+   "id": "ess-de-leipziger-allerlei",
+   "schwierigkeit": "leicht",
+   "frage": "Woher stammt die Spezialität Leipziger Allerlei?",
+   "richtig": "Leipzig",
+   "falsch": [
+    "Aachen",
+    "Schwarzwald",
+    "Nürnberg"
+   ],
+   "begruendung": "Leipziger Allerlei: Leipzig.",
+   "karte": {
+    "titel": "Leipziger Allerlei",
+    "text": "Leipziger Allerlei: Leipzig.",
+    "merke": "Leipziger Allerlei: Leipzig."
+   }
+  },
+  {
+   "id": "ess-de-lebkuchen-nach-nuernberger-art",
+   "schwierigkeit": "leicht",
+   "frage": "Woher stammt die Spezialität Lebkuchen nach Nürnberger Art?",
+   "richtig": "Nürnberg",
+   "falsch": [
+    "Pfalz",
+    "Schwaben",
+    "Dresden"
+   ],
+   "begruendung": "Lebkuchen nach Nürnberger Art: Nürnberg.",
+   "karte": {
+    "titel": "Lebkuchen nach Nürnberger Art",
+    "text": "Lebkuchen nach Nürnberger Art: Nürnberg.",
+    "merke": "Lebkuchen nach Nürnberger Art: Nürnberg."
+   }
+  },
+  {
+   "id": "ess-de-printen",
+   "schwierigkeit": "mittel",
+   "frage": "Woher stammt die Spezialität Printen?",
+   "richtig": "Aachen",
+   "falsch": [
+    "Leipzig",
+    "Frankfurt am Main",
+    "Schwarzwald"
+   ],
+   "begruendung": "Printen: Aachen.",
+   "karte": {
+    "titel": "Printen",
+    "text": "Printen: Aachen.",
+    "merke": "Printen: Aachen."
+   }
+  },
+  {
+   "id": "ess-de-christstollen",
+   "schwierigkeit": "mittel",
+   "frage": "Woher stammt die Spezialität Christstollen?",
+   "richtig": "Dresden",
+   "falsch": [
+    "Köln",
+    "Düsseldorf",
+    "Schwaben"
+   ],
+   "begruendung": "Christstollen: Dresden.",
+   "karte": {
+    "titel": "Christstollen",
+    "text": "Christstollen: Dresden.",
+    "merke": "Christstollen: Dresden."
+   }
+  },
+  {
+   "id": "ess-de-marzipan-nach-luebecker-art",
+   "schwierigkeit": "leicht",
+   "frage": "Woher stammt die Spezialität Marzipan nach Lübecker Art?",
+   "richtig": "Lübeck",
+   "falsch": [
+    "Pfalz",
+    "Dresden",
+    "Nürnberg"
+   ],
+   "begruendung": "Marzipan nach Lübecker Art: Lübeck.",
+   "karte": {
+    "titel": "Marzipan nach Lübecker Art",
+    "text": "Marzipan nach Lübecker Art: Lübeck.",
+    "merke": "Marzipan nach Lübecker Art: Lübeck."
+   }
+  },
+  {
+   "id": "ess-de-saumagen",
+   "schwierigkeit": "mittel",
+   "frage": "Woher stammt die Spezialität Saumagen?",
+   "richtig": "Pfalz",
+   "falsch": [
+    "Norddeutschland",
+    "Düsseldorf",
+    "Köln"
+   ],
+   "begruendung": "Saumagen: Pfalz.",
+   "karte": {
+    "titel": "Saumagen",
+    "text": "Saumagen: Pfalz.",
+    "merke": "Saumagen: Pfalz."
+   }
+  },
+  {
+   "id": "ess-de-maultaschen",
+   "schwierigkeit": "leicht",
+   "frage": "Woher stammt die Spezialität Maultaschen?",
+   "richtig": "Schwaben",
+   "falsch": [
+    "Düsseldorf",
+    "Pfalz",
+    "Frankfurt am Main"
+   ],
+   "begruendung": "Maultaschen: Schwaben.",
+   "karte": {
+    "titel": "Maultaschen",
+    "text": "Maultaschen: Schwaben.",
+    "merke": "Maultaschen: Schwaben."
+   }
+  },
+  {
+   "id": "ess-de-labskaus",
+   "schwierigkeit": "mittel",
+   "frage": "Woher stammt die Spezialität Labskaus?",
+   "richtig": "Norddeutschland",
+   "falsch": [
+    "Aachen",
+    "Frankfurt am Main",
+    "Pfalz"
+   ],
+   "begruendung": "Labskaus: Norddeutschland.",
+   "karte": {
+    "titel": "Labskaus",
+    "text": "Labskaus: Norddeutschland.",
+    "merke": "Labskaus: Norddeutschland."
+   }
+  },
+  {
+   "id": "ess-de-thueringer-rostbratwurst",
+   "schwierigkeit": "leicht",
+   "frage": "Woher stammt die Spezialität Thüringer Rostbratwurst?",
+   "richtig": "Thüringen",
+   "falsch": [
+    "Norddeutschland",
+    "Düsseldorf",
+    "Leipzig"
+   ],
+   "begruendung": "Thüringer Rostbratwurst: Thüringen.",
+   "karte": {
+    "titel": "Thüringer Rostbratwurst",
+    "text": "Thüringer Rostbratwurst: Thüringen.",
+    "merke": "Thüringer Rostbratwurst: Thüringen."
+   }
+  },
+  {
+   "id": "ess-de-schwarzwaelder-kirschtorte",
+   "schwierigkeit": "leicht",
+   "frage": "Woher stammt die Spezialität Schwarzwälder Kirschtorte?",
+   "richtig": "Schwarzwald",
+   "falsch": [
+    "Schwaben",
+    "Ostpreußen",
+    "Pfalz"
+   ],
+   "begruendung": "Schwarzwälder Kirschtorte: Schwarzwald.",
+   "karte": {
+    "titel": "Schwarzwälder Kirschtorte",
+    "text": "Schwarzwälder Kirschtorte: Schwarzwald.",
+    "merke": "Schwarzwälder Kirschtorte: Schwarzwald."
+   }
+  },
+  {
+   "id": "ess-de-koenigsberger-klopse",
+   "schwierigkeit": "mittel",
+   "frage": "Woher stammt die Spezialität Königsberger Klopse?",
+   "richtig": "Ostpreußen",
+   "falsch": [
+    "Düsseldorf",
+    "Schwaben",
+    "Frankfurt am Main"
+   ],
+   "begruendung": "Königsberger Klopse: Ostpreußen.",
+   "karte": {
+    "titel": "Königsberger Klopse",
+    "text": "Königsberg heißt heute Kaliningrad und gehört zu Russland.",
+    "merke": "Königsberger Klopse: Ostpreußen."
+   }
+  },
+  {
+   "id": "ess-ka-gouda",
+   "schwierigkeit": "leicht",
+   "frage": "Aus welchem Land stammt der Käse Gouda?",
+   "richtig": "Niederlande",
+   "falsch": [
+    "Spanien",
+    "Griechenland",
+    "Vereinigtes Königreich"
+   ],
+   "begruendung": "Gouda: Niederlande.",
+   "karte": {
+    "titel": "Gouda",
+    "text": "Gouda: Niederlande.",
+    "merke": "Gouda: Niederlande."
+   },
+   "ddf": true
+  },
+  {
+   "id": "ess-ka-edamer",
+   "schwierigkeit": "mittel",
+   "frage": "Aus welchem Land stammt der Käse Edamer?",
+   "richtig": "Niederlande",
+   "falsch": [
+    "Vereinigtes Königreich",
+    "Zypern",
+    "Griechenland"
+   ],
+   "begruendung": "Edamer: Niederlande.",
+   "karte": {
+    "titel": "Edamer",
+    "text": "Edamer: Niederlande.",
+    "merke": "Edamer: Niederlande."
+   }
+  },
+  {
+   "id": "ess-ka-camembert",
+   "schwierigkeit": "leicht",
+   "frage": "Aus welchem Land stammt der Käse Camembert?",
+   "richtig": "Frankreich",
+   "falsch": [
+    "Niederlande",
+    "Griechenland",
+    "Schweiz"
+   ],
+   "begruendung": "Camembert: Frankreich.",
+   "karte": {
+    "titel": "Camembert",
+    "text": "Camembert: Frankreich.",
+    "merke": "Camembert: Frankreich."
+   },
+   "ddf": true
+  },
+  {
+   "id": "ess-ka-roquefort",
+   "schwierigkeit": "mittel",
+   "frage": "Aus welchem Land stammt der Käse Roquefort?",
+   "richtig": "Frankreich",
+   "falsch": [
+    "Niederlande",
+    "Italien",
+    "Griechenland"
+   ],
+   "begruendung": "Roquefort: Frankreich.",
+   "karte": {
+    "titel": "Roquefort",
+    "text": "Roquefort: Frankreich.",
+    "merke": "Roquefort: Frankreich."
+   }
+  },
+  {
+   "id": "ess-ka-parmesan",
+   "schwierigkeit": "leicht",
+   "frage": "Aus welchem Land stammt der Käse Parmesan?",
+   "richtig": "Italien",
+   "falsch": [
+    "Frankreich",
+    "Niederlande",
+    "Vereinigtes Königreich"
+   ],
+   "begruendung": "Parmesan: Italien.",
+   "karte": {
+    "titel": "Parmesan",
+    "text": "Parmesan: Italien.",
+    "merke": "Parmesan: Italien."
+   },
+   "ddf": true
+  },
+  {
+   "id": "ess-ka-mozzarella",
+   "schwierigkeit": "leicht",
+   "frage": "Aus welchem Land stammt der Käse Mozzarella?",
+   "richtig": "Italien",
+   "falsch": [
+    "Schweiz",
+    "Spanien",
+    "Vereinigtes Königreich"
+   ],
+   "begruendung": "Mozzarella: Italien.",
+   "karte": {
+    "titel": "Mozzarella",
+    "text": "Mozzarella: Italien.",
+    "merke": "Mozzarella: Italien."
+   },
+   "ddf": true
+  },
+  {
+   "id": "ess-ka-feta",
+   "schwierigkeit": "leicht",
+   "frage": "Aus welchem Land stammt der Käse Feta?",
+   "richtig": "Griechenland",
+   "falsch": [
+    "Niederlande",
+    "Italien",
+    "Frankreich"
+   ],
+   "begruendung": "Feta: Griechenland.",
+   "karte": {
+    "titel": "Feta",
+    "text": "Seit 2002 darf nur Käse aus Griechenland Feta heißen.",
+    "merke": "Feta: Griechenland."
+   },
+   "ddf": true
+  },
+  {
+   "id": "ess-ka-emmentaler",
+   "schwierigkeit": "leicht",
+   "frage": "Aus welchem Land stammt der Käse Emmentaler?",
+   "richtig": "Schweiz",
+   "falsch": [
+    "Italien",
+    "Zypern",
+    "Niederlande"
+   ],
+   "begruendung": "Emmentaler: Schweiz.",
+   "karte": {
+    "titel": "Emmentaler",
+    "text": "Emmentaler: Schweiz.",
+    "merke": "Emmentaler: Schweiz."
+   },
+   "ddf": true
+  },
+  {
+   "id": "ess-ka-gruyere",
+   "schwierigkeit": "mittel",
+   "frage": "Aus welchem Land stammt der Käse Gruyère?",
+   "richtig": "Schweiz",
+   "falsch": [
+    "Italien",
+    "Niederlande",
+    "Spanien"
+   ],
+   "begruendung": "Gruyère: Schweiz.",
+   "karte": {
+    "titel": "Gruyère",
+    "text": "Gruyère: Schweiz.",
+    "merke": "Gruyère: Schweiz."
+   }
+  },
+  {
+   "id": "ess-ka-cheddar",
+   "schwierigkeit": "leicht",
+   "frage": "Aus welchem Land stammt der Käse Cheddar?",
+   "richtig": "Vereinigtes Königreich",
+   "falsch": [
+    "Italien",
+    "Schweiz",
+    "Spanien"
+   ],
+   "begruendung": "Cheddar: Vereinigtes Königreich.",
+   "karte": {
+    "titel": "Cheddar",
+    "text": "Cheddar ist nach einem Dorf in der englischen Grafschaft Somerset benannt.",
+    "merke": "Cheddar: Vereinigtes Königreich."
+   },
+   "ddf": true
+  },
+  {
+   "id": "ess-ka-manchego",
+   "schwierigkeit": "mittel",
+   "frage": "Aus welchem Land stammt der Käse Manchego?",
+   "richtig": "Spanien",
+   "falsch": [
+    "Zypern",
+    "Griechenland",
+    "Niederlande"
+   ],
+   "begruendung": "Manchego: Spanien.",
+   "karte": {
+    "titel": "Manchego",
+    "text": "Manchego: Spanien.",
+    "merke": "Manchego: Spanien."
+   }
+  },
+  {
+   "id": "ess-ka-halloumi",
+   "schwierigkeit": "mittel",
+   "frage": "Aus welchem Land stammt der Käse Halloumi?",
+   "richtig": "Zypern",
+   "falsch": [
+    "Schweiz",
+    "Italien",
+    "Griechenland"
+   ],
+   "begruendung": "Halloumi: Zypern.",
+   "karte": {
+    "titel": "Halloumi",
+    "text": "Halloumi: Zypern.",
+    "merke": "Halloumi: Zypern."
+   }
+  }
+ ]
+}
