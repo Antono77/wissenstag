@@ -39,6 +39,10 @@ export default {
         ['Etwas ausbaden müssen', 'Die Folgen tragen müssen', 2, 'Im Badehaus musste der Letzte im Badewasser der anderen sitzen und es danach wegschütten.'],
         ['Auf dem Holzweg sein', 'Sich irren', 1, 'Holzwege führten in den Wald zum Holzschlag und endeten dort, statt zum nächsten Ort.'],
         ['Jemandem den Kopf waschen', 'Jemanden scharf zurechtweisen', 2, null],
+        ['Jemandem einen Korb geben', 'Jemanden abweisen', 1, 'Früher ließen Frauen einen ungeliebten Verehrer in einem Korb mit brüchigem Boden zum Fenster hochziehen.'],
+        ['Den Faden verlieren', 'Nicht mehr wissen, was man sagen wollte', 1, null],
+        ['Sich die Hörner abstoßen', 'Durch Erfahrungen ruhiger werden', 3, null],
+        ['Jemandem die Leviten lesen', 'Jemanden streng ermahnen', 2, 'Mönche lasen sich zur Ermahnung Abschnitte aus dem biblischen Buch Levitikus vor.'],
         ['Das ist nicht mein Bier', 'Das geht mich nichts an', 1, null],
       ],
       fragen: [{

@@ -1,0 +1,1362 @@
+{
+ "klasse": "religion",
+ "erzeugt": "scripts/generate-fakten.mjs",
+ "fragen": [
+  {
+   "id": "rel-gg-zeus-1",
+   "schwierigkeit": "leicht",
+   "frage": "Wofür war Zeus in der griechischen Mythologie zuständig?",
+   "richtig": "Göttervater und Herr des Himmels",
+   "falsch": [
+    "Göttin der Liebe und Schönheit",
+    "Gott des Lichts und der Künste",
+    "Gott der Unterwelt"
+   ],
+   "begruendung": "Zeus: Göttervater und Herr des Himmels, bei den Römern Jupiter.",
+   "karte": {
+    "titel": "Zeus",
+    "text": "Zeus: Göttervater und Herr des Himmels, bei den Römern Jupiter.",
+    "merke": "Zeus: Göttervater und Herr des Himmels, bei den Römern Jupiter."
+   },
+   "ddf": true
+  },
+  {
+   "id": "rel-gg-poseidon-1",
+   "schwierigkeit": "leicht",
+   "frage": "Wofür war Poseidon in der griechischen Mythologie zuständig?",
+   "richtig": "Gott des Meeres",
+   "falsch": [
+    "Göttin der Ehe",
+    "Gott des Weines",
+    "Gott des Lichts und der Künste"
+   ],
+   "begruendung": "Poseidon: Gott des Meeres, bei den Römern Neptun.",
+   "karte": {
+    "titel": "Poseidon",
+    "text": "Poseidon: Gott des Meeres, bei den Römern Neptun.",
+    "merke": "Poseidon: Gott des Meeres, bei den Römern Neptun."
+   },
+   "ddf": true
+  },
+  {
+   "id": "rel-gg-hades-1",
+   "schwierigkeit": "leicht",
+   "frage": "Wofür war Hades in der griechischen Mythologie zuständig?",
+   "richtig": "Gott der Unterwelt",
+   "falsch": [
+    "Göttin der Weisheit",
+    "Göttin der Liebe und Schönheit",
+    "Göttin des Herdfeuers"
+   ],
+   "begruendung": "Hades: Gott der Unterwelt, bei den Römern Pluto.",
+   "karte": {
+    "titel": "Hades",
+    "text": "Hades: Gott der Unterwelt, bei den Römern Pluto.",
+    "merke": "Hades: Gott der Unterwelt, bei den Römern Pluto."
+   },
+   "ddf": true
+  },
+  {
+   "id": "rel-gg-athene-1",
+   "schwierigkeit": "leicht",
+   "frage": "Wofür war Athene in der griechischen Mythologie zuständig?",
+   "richtig": "Göttin der Weisheit",
+   "falsch": [
+    "Gott des Weines",
+    "Göttervater und Herr des Himmels",
+    "Göttin des Ackerbaus"
+   ],
+   "begruendung": "Athene: Göttin der Weisheit, bei den Römern Minerva.",
+   "karte": {
+    "titel": "Athene",
+    "text": "Athene: Göttin der Weisheit, bei den Römern Minerva.",
+    "merke": "Athene: Göttin der Weisheit, bei den Römern Minerva."
+   },
+   "ddf": true
+  },
+  {
+   "id": "rel-gg-aphrodite-1",
+   "schwierigkeit": "leicht",
+   "frage": "Wofür war Aphrodite in der griechischen Mythologie zuständig?",
+   "richtig": "Göttin der Liebe und Schönheit",
+   "falsch": [
+    "Gott des Meeres",
+    "Gott des Weines",
+    "Göttin der Weisheit"
+   ],
+   "begruendung": "Aphrodite: Göttin der Liebe und Schönheit, bei den Römern Venus.",
+   "karte": {
+    "titel": "Aphrodite",
+    "text": "Aphrodite: Göttin der Liebe und Schönheit, bei den Römern Venus.",
+    "merke": "Aphrodite: Göttin der Liebe und Schönheit, bei den Römern Venus."
+   },
+   "ddf": true
+  },
+  {
+   "id": "rel-gg-ares-1",
+   "schwierigkeit": "leicht",
+   "frage": "Wofür war Ares in der griechischen Mythologie zuständig?",
+   "richtig": "Gott des Krieges",
+   "falsch": [
+    "Gott der Unterwelt",
+    "Göttin des Ackerbaus",
+    "Gott des Feuers und der Schmiede"
+   ],
+   "begruendung": "Ares: Gott des Krieges, bei den Römern Mars.",
+   "karte": {
+    "titel": "Ares",
+    "text": "Ares: Gott des Krieges, bei den Römern Mars.",
+    "merke": "Ares: Gott des Krieges, bei den Römern Mars."
+   },
+   "ddf": true
+  },
+  {
+   "id": "rel-gg-apollon-1",
+   "schwierigkeit": "mittel",
+   "frage": "Wofür war Apollon in der griechischen Mythologie zuständig?",
+   "richtig": "Gott des Lichts und der Künste",
+   "falsch": [
+    "Gott des Feuers und der Schmiede",
+    "Göttin der Ehe",
+    "Gott des Meeres"
+   ],
+   "begruendung": "Apollon: Gott des Lichts und der Künste, bei den Römern Apollo.",
+   "karte": {
+    "titel": "Apollon",
+    "text": "Apollon: Gott des Lichts und der Künste, bei den Römern Apollo.",
+    "merke": "Apollon: Gott des Lichts und der Künste, bei den Römern Apollo."
+   }
+  },
+  {
+   "id": "rel-gg-artemis-1",
+   "schwierigkeit": "mittel",
+   "frage": "Wofür war Artemis in der griechischen Mythologie zuständig?",
+   "richtig": "Göttin der Jagd",
+   "falsch": [
+    "Göttervater und Herr des Himmels",
+    "Gott der Unterwelt",
+    "Göttin der Ehe"
+   ],
+   "begruendung": "Artemis: Göttin der Jagd, bei den Römern Diana.",
+   "karte": {
+    "titel": "Artemis",
+    "text": "Artemis: Göttin der Jagd, bei den Römern Diana.",
+    "merke": "Artemis: Göttin der Jagd, bei den Römern Diana."
+   }
+  },
+  {
+   "id": "rel-gg-hermes-1",
+   "schwierigkeit": "leicht",
+   "frage": "Wofür war Hermes in der griechischen Mythologie zuständig?",
+   "richtig": "Götterbote",
+   "falsch": [
+    "Gott des Lichts und der Künste",
+    "Göttin der Jagd",
+    "Gott des Feuers und der Schmiede"
+   ],
+   "begruendung": "Hermes: Götterbote, bei den Römern Merkur.",
+   "karte": {
+    "titel": "Hermes",
+    "text": "Hermes: Götterbote, bei den Römern Merkur.",
+    "merke": "Hermes: Götterbote, bei den Römern Merkur."
+   },
+   "ddf": true
+  },
+  {
+   "id": "rel-gg-hephaistos-1",
+   "schwierigkeit": "mittel",
+   "frage": "Wofür war Hephaistos in der griechischen Mythologie zuständig?",
+   "richtig": "Gott des Feuers und der Schmiede",
+   "falsch": [
+    "Göttin der Jagd",
+    "Göttin der Ehe",
+    "Göttin des Herdfeuers"
+   ],
+   "begruendung": "Hephaistos: Gott des Feuers und der Schmiede, bei den Römern Vulcanus.",
+   "karte": {
+    "titel": "Hephaistos",
+    "text": "Hephaistos: Gott des Feuers und der Schmiede, bei den Römern Vulcanus.",
+    "merke": "Hephaistos: Gott des Feuers und der Schmiede, bei den Römern Vulcanus."
+   }
+  },
+  {
+   "id": "rel-gg-demeter-1",
+   "schwierigkeit": "mittel",
+   "frage": "Wofür war Demeter in der griechischen Mythologie zuständig?",
+   "richtig": "Göttin des Ackerbaus",
+   "falsch": [
+    "Gott des Feuers und der Schmiede",
+    "Gott des Krieges",
+    "Gott des Meeres"
+   ],
+   "begruendung": "Demeter: Göttin des Ackerbaus, bei den Römern Ceres.",
+   "karte": {
+    "titel": "Demeter",
+    "text": "Demeter: Göttin des Ackerbaus, bei den Römern Ceres.",
+    "merke": "Demeter: Göttin des Ackerbaus, bei den Römern Ceres."
+   }
+  },
+  {
+   "id": "rel-gg-dionysos-1",
+   "schwierigkeit": "mittel",
+   "frage": "Wofür war Dionysos in der griechischen Mythologie zuständig?",
+   "richtig": "Gott des Weines",
+   "falsch": [
+    "Götterbote",
+    "Gott der Unterwelt",
+    "Göttin des Ackerbaus"
+   ],
+   "begruendung": "Dionysos: Gott des Weines, bei den Römern Bacchus.",
+   "karte": {
+    "titel": "Dionysos",
+    "text": "Dionysos: Gott des Weines, bei den Römern Bacchus.",
+    "merke": "Dionysos: Gott des Weines, bei den Römern Bacchus."
+   }
+  },
+  {
+   "id": "rel-gg-hera-1",
+   "schwierigkeit": "mittel",
+   "frage": "Wofür war Hera in der griechischen Mythologie zuständig?",
+   "richtig": "Göttin der Ehe",
+   "falsch": [
+    "Göttin des Ackerbaus",
+    "Göttin der Liebe und Schönheit",
+    "Gott des Krieges"
+   ],
+   "begruendung": "Hera: Göttin der Ehe, bei den Römern Juno.",
+   "karte": {
+    "titel": "Hera",
+    "text": "Hera: Göttin der Ehe, bei den Römern Juno.",
+    "merke": "Hera: Göttin der Ehe, bei den Römern Juno."
+   }
+  },
+  {
+   "id": "rel-gg-hestia-1",
+   "schwierigkeit": "schwer",
+   "frage": "Wofür war Hestia in der griechischen Mythologie zuständig?",
+   "richtig": "Göttin des Herdfeuers",
+   "falsch": [
+    "Gott des Krieges",
+    "Gott der Liebe (Liebespfeile)",
+    "Gott des Lichts und der Künste"
+   ],
+   "begruendung": "Hestia: Göttin des Herdfeuers, bei den Römern Vesta.",
+   "karte": {
+    "titel": "Hestia",
+    "text": "Hestia: Göttin des Herdfeuers, bei den Römern Vesta.",
+    "merke": "Hestia: Göttin des Herdfeuers, bei den Römern Vesta."
+   }
+  },
+  {
+   "id": "rel-gg-eros-1",
+   "schwierigkeit": "mittel",
+   "frage": "Wofür war Eros in der griechischen Mythologie zuständig?",
+   "richtig": "Gott der Liebe (Liebespfeile)",
+   "falsch": [
+    "Gott des Weines",
+    "Gott des Feuers und der Schmiede",
+    "Göttervater und Herr des Himmels"
+   ],
+   "begruendung": "Eros: Gott der Liebe (Liebespfeile), bei den Römern Amor.",
+   "karte": {
+    "titel": "Eros",
+    "text": "Eros: Gott der Liebe (Liebespfeile), bei den Römern Amor.",
+    "merke": "Eros: Gott der Liebe (Liebespfeile), bei den Römern Amor."
+   }
+  },
+  {
+   "id": "rel-gg-zeus-2",
+   "schwierigkeit": "leicht",
+   "frage": "Wie heißt der griechische Gott Zeus bei den Römern?",
+   "richtig": "Jupiter",
+   "falsch": [
+    "Ceres",
+    "Mars",
+    "Juno"
+   ],
+   "begruendung": "Zeus (griechisch) = Jupiter (römisch).",
+   "karte": {
+    "titel": "Zeus = Jupiter",
+    "text": "Zeus (griechisch) = Jupiter (römisch).",
+    "merke": "Zeus (griechisch) = Jupiter (römisch)."
+   }
+  },
+  {
+   "id": "rel-gg-poseidon-2",
+   "schwierigkeit": "leicht",
+   "frage": "Wie heißt der griechische Gott Poseidon bei den Römern?",
+   "richtig": "Neptun",
+   "falsch": [
+    "Minerva",
+    "Venus",
+    "Merkur"
+   ],
+   "begruendung": "Poseidon (griechisch) = Neptun (römisch).",
+   "karte": {
+    "titel": "Poseidon = Neptun",
+    "text": "Poseidon (griechisch) = Neptun (römisch).",
+    "merke": "Poseidon (griechisch) = Neptun (römisch)."
+   }
+  },
+  {
+   "id": "rel-gg-hades-2",
+   "schwierigkeit": "leicht",
+   "frage": "Wie heißt der griechische Gott Hades bei den Römern?",
+   "richtig": "Pluto",
+   "falsch": [
+    "Merkur",
+    "Apollo",
+    "Mars"
+   ],
+   "begruendung": "Hades (griechisch) = Pluto (römisch).",
+   "karte": {
+    "titel": "Hades = Pluto",
+    "text": "Hades (griechisch) = Pluto (römisch).",
+    "merke": "Hades (griechisch) = Pluto (römisch)."
+   }
+  },
+  {
+   "id": "rel-gg-athene-2",
+   "schwierigkeit": "leicht",
+   "frage": "Wie heißt die griechische Göttin Athene bei den Römern?",
+   "richtig": "Minerva",
+   "falsch": [
+    "Mars",
+    "Bacchus",
+    "Merkur"
+   ],
+   "begruendung": "Athene (griechisch) = Minerva (römisch).",
+   "karte": {
+    "titel": "Athene = Minerva",
+    "text": "Athene (griechisch) = Minerva (römisch).",
+    "merke": "Athene (griechisch) = Minerva (römisch)."
+   }
+  },
+  {
+   "id": "rel-gg-aphrodite-2",
+   "schwierigkeit": "leicht",
+   "frage": "Wie heißt die griechische Göttin Aphrodite bei den Römern?",
+   "richtig": "Venus",
+   "falsch": [
+    "Amor",
+    "Jupiter",
+    "Juno"
+   ],
+   "begruendung": "Aphrodite (griechisch) = Venus (römisch).",
+   "karte": {
+    "titel": "Aphrodite = Venus",
+    "text": "Aphrodite (griechisch) = Venus (römisch).",
+    "merke": "Aphrodite (griechisch) = Venus (römisch)."
+   }
+  },
+  {
+   "id": "rel-gg-ares-2",
+   "schwierigkeit": "leicht",
+   "frage": "Wie heißt der griechische Gott Ares bei den Römern?",
+   "richtig": "Mars",
+   "falsch": [
+    "Minerva",
+    "Merkur",
+    "Diana"
+   ],
+   "begruendung": "Ares (griechisch) = Mars (römisch).",
+   "karte": {
+    "titel": "Ares = Mars",
+    "text": "Ares (griechisch) = Mars (römisch).",
+    "merke": "Ares (griechisch) = Mars (römisch)."
+   }
+  },
+  {
+   "id": "rel-gg-apollon-2",
+   "schwierigkeit": "mittel",
+   "frage": "Wie heißt der griechische Gott Apollon bei den Römern?",
+   "richtig": "Apollo",
+   "falsch": [
+    "Vulcanus",
+    "Neptun",
+    "Mars"
+   ],
+   "begruendung": "Apollon (griechisch) = Apollo (römisch).",
+   "karte": {
+    "titel": "Apollon = Apollo",
+    "text": "Apollon (griechisch) = Apollo (römisch).",
+    "merke": "Apollon (griechisch) = Apollo (römisch)."
+   }
+  },
+  {
+   "id": "rel-gg-artemis-2",
+   "schwierigkeit": "mittel",
+   "frage": "Wie heißt die griechische Göttin Artemis bei den Römern?",
+   "richtig": "Diana",
+   "falsch": [
+    "Mars",
+    "Apollo",
+    "Ceres"
+   ],
+   "begruendung": "Artemis (griechisch) = Diana (römisch).",
+   "karte": {
+    "titel": "Artemis = Diana",
+    "text": "Artemis (griechisch) = Diana (römisch).",
+    "merke": "Artemis (griechisch) = Diana (römisch)."
+   }
+  },
+  {
+   "id": "rel-gg-hermes-2",
+   "schwierigkeit": "leicht",
+   "frage": "Wie heißt der griechische Gott Hermes bei den Römern?",
+   "richtig": "Merkur",
+   "falsch": [
+    "Minerva",
+    "Neptun",
+    "Venus"
+   ],
+   "begruendung": "Hermes (griechisch) = Merkur (römisch).",
+   "karte": {
+    "titel": "Hermes = Merkur",
+    "text": "Hermes (griechisch) = Merkur (römisch).",
+    "merke": "Hermes (griechisch) = Merkur (römisch)."
+   }
+  },
+  {
+   "id": "rel-gg-hephaistos-2",
+   "schwierigkeit": "mittel",
+   "frage": "Wie heißt der griechische Gott Hephaistos bei den Römern?",
+   "richtig": "Vulcanus",
+   "falsch": [
+    "Diana",
+    "Ceres",
+    "Neptun"
+   ],
+   "begruendung": "Hephaistos (griechisch) = Vulcanus (römisch).",
+   "karte": {
+    "titel": "Hephaistos = Vulcanus",
+    "text": "Hephaistos (griechisch) = Vulcanus (römisch).",
+    "merke": "Hephaistos (griechisch) = Vulcanus (römisch)."
+   }
+  },
+  {
+   "id": "rel-gg-demeter-2",
+   "schwierigkeit": "mittel",
+   "frage": "Wie heißt die griechische Göttin Demeter bei den Römern?",
+   "richtig": "Ceres",
+   "falsch": [
+    "Vesta",
+    "Jupiter",
+    "Neptun"
+   ],
+   "begruendung": "Demeter (griechisch) = Ceres (römisch).",
+   "karte": {
+    "titel": "Demeter = Ceres",
+    "text": "Demeter (griechisch) = Ceres (römisch).",
+    "merke": "Demeter (griechisch) = Ceres (römisch)."
+   }
+  },
+  {
+   "id": "rel-gg-dionysos-2",
+   "schwierigkeit": "mittel",
+   "frage": "Wie heißt der griechische Gott Dionysos bei den Römern?",
+   "richtig": "Bacchus",
+   "falsch": [
+    "Jupiter",
+    "Diana",
+    "Vulcanus"
+   ],
+   "begruendung": "Dionysos (griechisch) = Bacchus (römisch).",
+   "karte": {
+    "titel": "Dionysos = Bacchus",
+    "text": "Dionysos (griechisch) = Bacchus (römisch).",
+    "merke": "Dionysos (griechisch) = Bacchus (römisch)."
+   }
+  },
+  {
+   "id": "rel-gg-hera-2",
+   "schwierigkeit": "mittel",
+   "frage": "Wie heißt die griechische Göttin Hera bei den Römern?",
+   "richtig": "Juno",
+   "falsch": [
+    "Neptun",
+    "Jupiter",
+    "Pluto"
+   ],
+   "begruendung": "Hera (griechisch) = Juno (römisch).",
+   "karte": {
+    "titel": "Hera = Juno",
+    "text": "Hera (griechisch) = Juno (römisch).",
+    "merke": "Hera (griechisch) = Juno (römisch)."
+   }
+  },
+  {
+   "id": "rel-gg-hestia-2",
+   "schwierigkeit": "schwer",
+   "frage": "Wie heißt die griechische Göttin Hestia bei den Römern?",
+   "richtig": "Vesta",
+   "falsch": [
+    "Bacchus",
+    "Jupiter",
+    "Minerva"
+   ],
+   "begruendung": "Hestia (griechisch) = Vesta (römisch).",
+   "karte": {
+    "titel": "Hestia = Vesta",
+    "text": "Hestia (griechisch) = Vesta (römisch).",
+    "merke": "Hestia (griechisch) = Vesta (römisch)."
+   }
+  },
+  {
+   "id": "rel-gg-eros-2",
+   "schwierigkeit": "mittel",
+   "frage": "Wie heißt der griechische Gott Eros bei den Römern?",
+   "richtig": "Amor",
+   "falsch": [
+    "Juno",
+    "Mars",
+    "Vesta"
+   ],
+   "begruendung": "Eros (griechisch) = Amor (römisch).",
+   "karte": {
+    "titel": "Eros = Amor",
+    "text": "Eros (griechisch) = Amor (römisch).",
+    "merke": "Eros (griechisch) = Amor (römisch)."
+   }
+  },
+  {
+   "id": "rel-ng-odin",
+   "schwierigkeit": "leicht",
+   "frage": "Wer war Odin in der nordischen Mythologie?",
+   "richtig": "Göttervater mit nur einem Auge",
+   "falsch": [
+    "Listiger Gott der Täuschung",
+    "Donnergott mit dem Hammer Mjölnir",
+    "Wächter der Regenbogenbrücke Bifröst"
+   ],
+   "begruendung": "Odin: Göttervater mit nur einem Auge.",
+   "karte": {
+    "titel": "Odin",
+    "text": "Odin: Göttervater mit nur einem Auge.",
+    "merke": "Odin: Göttervater mit nur einem Auge."
+   },
+   "ddf": true
+  },
+  {
+   "id": "rel-ng-thor",
+   "schwierigkeit": "leicht",
+   "frage": "Wer war Thor in der nordischen Mythologie?",
+   "richtig": "Donnergott mit dem Hammer Mjölnir",
+   "falsch": [
+    "Göttermutter und Frau Odins",
+    "Listiger Gott der Täuschung",
+    "Wächter der Regenbogenbrücke Bifröst"
+   ],
+   "begruendung": "Thor: Donnergott mit dem Hammer Mjölnir.",
+   "karte": {
+    "titel": "Thor",
+    "text": "Thor: Donnergott mit dem Hammer Mjölnir.",
+    "merke": "Thor: Donnergott mit dem Hammer Mjölnir."
+   },
+   "ddf": true
+  },
+  {
+   "id": "rel-ng-loki",
+   "schwierigkeit": "leicht",
+   "frage": "Wer war Loki in der nordischen Mythologie?",
+   "richtig": "Listiger Gott der Täuschung",
+   "falsch": [
+    "Göttervater mit nur einem Auge",
+    "Göttermutter und Frau Odins",
+    "Donnergott mit dem Hammer Mjölnir"
+   ],
+   "begruendung": "Loki: Listiger Gott der Täuschung.",
+   "karte": {
+    "titel": "Loki",
+    "text": "Loki: Listiger Gott der Täuschung.",
+    "merke": "Loki: Listiger Gott der Täuschung."
+   },
+   "ddf": true
+  },
+  {
+   "id": "rel-ng-freya",
+   "schwierigkeit": "mittel",
+   "frage": "Wer war Freya in der nordischen Mythologie?",
+   "richtig": "Göttin der Liebe und Fruchtbarkeit",
+   "falsch": [
+    "Göttermutter und Frau Odins",
+    "Wächter der Regenbogenbrücke Bifröst",
+    "Göttervater mit nur einem Auge"
+   ],
+   "begruendung": "Freya: Göttin der Liebe und Fruchtbarkeit.",
+   "karte": {
+    "titel": "Freya",
+    "text": "Freya: Göttin der Liebe und Fruchtbarkeit.",
+    "merke": "Freya: Göttin der Liebe und Fruchtbarkeit."
+   }
+  },
+  {
+   "id": "rel-ng-frigg",
+   "schwierigkeit": "schwer",
+   "frage": "Wer war Frigg in der nordischen Mythologie?",
+   "richtig": "Göttermutter und Frau Odins",
+   "falsch": [
+    "Göttervater mit nur einem Auge",
+    "Wächter der Regenbogenbrücke Bifröst",
+    "Listiger Gott der Täuschung"
+   ],
+   "begruendung": "Frigg: Göttermutter und Frau Odins.",
+   "karte": {
+    "titel": "Frigg",
+    "text": "Frigg: Göttermutter und Frau Odins.",
+    "merke": "Frigg: Göttermutter und Frau Odins."
+   }
+  },
+  {
+   "id": "rel-ng-heimdall",
+   "schwierigkeit": "schwer",
+   "frage": "Wer war Heimdall in der nordischen Mythologie?",
+   "richtig": "Wächter der Regenbogenbrücke Bifröst",
+   "falsch": [
+    "Listiger Gott der Täuschung",
+    "Göttervater mit nur einem Auge",
+    "Göttin der Liebe und Fruchtbarkeit"
+   ],
+   "begruendung": "Heimdall: Wächter der Regenbogenbrücke Bifröst.",
+   "karte": {
+    "titel": "Heimdall",
+    "text": "Heimdall: Wächter der Regenbogenbrücke Bifröst.",
+    "merke": "Heimdall: Wächter der Regenbogenbrücke Bifröst."
+   }
+  },
+  {
+   "id": "rel-ng-ra",
+   "schwierigkeit": "mittel",
+   "frage": "Wer war Ra in der ägyptischen Mythologie?",
+   "richtig": "Sonnengott",
+   "falsch": [
+    "Gott der Weisheit und Schrift",
+    "Himmelsgott mit Falkenkopf",
+    "Muttergöttin und Zauberin"
+   ],
+   "begruendung": "Ra: Sonnengott.",
+   "karte": {
+    "titel": "Ra",
+    "text": "Ra: Sonnengott.",
+    "merke": "Ra: Sonnengott."
+   }
+  },
+  {
+   "id": "rel-ng-anubis",
+   "schwierigkeit": "mittel",
+   "frage": "Wer war Anubis in der ägyptischen Mythologie?",
+   "richtig": "Gott der Totenriten mit Schakalkopf",
+   "falsch": [
+    "Muttergöttin und Zauberin",
+    "Gott der Weisheit und Schrift",
+    "Sonnengott"
+   ],
+   "begruendung": "Anubis: Gott der Totenriten mit Schakalkopf.",
+   "karte": {
+    "titel": "Anubis",
+    "text": "Anubis: Gott der Totenriten mit Schakalkopf.",
+    "merke": "Anubis: Gott der Totenriten mit Schakalkopf."
+   }
+  },
+  {
+   "id": "rel-ng-osiris",
+   "schwierigkeit": "schwer",
+   "frage": "Wer war Osiris in der ägyptischen Mythologie?",
+   "richtig": "Herrscher des Totenreichs",
+   "falsch": [
+    "Gott der Totenriten mit Schakalkopf",
+    "Himmelsgott mit Falkenkopf",
+    "Gott der Weisheit und Schrift"
+   ],
+   "begruendung": "Osiris: Herrscher des Totenreichs.",
+   "karte": {
+    "titel": "Osiris",
+    "text": "Osiris: Herrscher des Totenreichs.",
+    "merke": "Osiris: Herrscher des Totenreichs."
+   }
+  },
+  {
+   "id": "rel-ng-horus",
+   "schwierigkeit": "schwer",
+   "frage": "Wer war Horus in der ägyptischen Mythologie?",
+   "richtig": "Himmelsgott mit Falkenkopf",
+   "falsch": [
+    "Gott der Weisheit und Schrift",
+    "Sonnengott",
+    "Gott der Totenriten mit Schakalkopf"
+   ],
+   "begruendung": "Horus: Himmelsgott mit Falkenkopf.",
+   "karte": {
+    "titel": "Horus",
+    "text": "Horus: Himmelsgott mit Falkenkopf.",
+    "merke": "Horus: Himmelsgott mit Falkenkopf."
+   }
+  },
+  {
+   "id": "rel-ng-thot",
+   "schwierigkeit": "schwer",
+   "frage": "Wer war Thot in der ägyptischen Mythologie?",
+   "richtig": "Gott der Weisheit und Schrift",
+   "falsch": [
+    "Himmelsgott mit Falkenkopf",
+    "Herrscher des Totenreichs",
+    "Muttergöttin und Zauberin"
+   ],
+   "begruendung": "Thot: Gott der Weisheit und Schrift.",
+   "karte": {
+    "titel": "Thot",
+    "text": "Thot: Gott der Weisheit und Schrift.",
+    "merke": "Thot: Gott der Weisheit und Schrift."
+   }
+  },
+  {
+   "id": "rel-ng-isis",
+   "schwierigkeit": "schwer",
+   "frage": "Wer war Isis in der ägyptischen Mythologie?",
+   "richtig": "Muttergöttin und Zauberin",
+   "falsch": [
+    "Herrscher des Totenreichs",
+    "Gott der Weisheit und Schrift",
+    "Himmelsgott mit Falkenkopf"
+   ],
+   "begruendung": "Isis: Muttergöttin und Zauberin.",
+   "karte": {
+    "titel": "Isis",
+    "text": "Isis: Muttergöttin und Zauberin.",
+    "merke": "Isis: Muttergöttin und Zauberin."
+   }
+  },
+  {
+   "id": "rel-wr-das-christentum-1",
+   "schwierigkeit": "leicht",
+   "frage": "Wie heißt die wichtigste heilige Schrift für das Christentum?",
+   "richtig": "Bibel",
+   "falsch": [
+    "Pali-Kanon",
+    "Guru Granth Sahib",
+    "Veden"
+   ],
+   "begruendung": "Christentum: Schrift Bibel, Gotteshaus Kirche.",
+   "karte": {
+    "titel": "Christentum",
+    "text": "Christentum: Schrift Bibel, Gotteshaus Kirche.",
+    "merke": "Christentum: Schrift Bibel, Gotteshaus Kirche."
+   }
+  },
+  {
+   "id": "rel-wr-der-islam-1",
+   "schwierigkeit": "leicht",
+   "frage": "Wie heißt die wichtigste heilige Schrift für den Islam?",
+   "richtig": "Koran",
+   "falsch": [
+    "Pali-Kanon",
+    "Guru Granth Sahib",
+    "Veden"
+   ],
+   "begruendung": "Islam: Schrift Koran, Gotteshaus Moschee.",
+   "karte": {
+    "titel": "Islam",
+    "text": "Islam: Schrift Koran, Gotteshaus Moschee.",
+    "merke": "Islam: Schrift Koran, Gotteshaus Moschee."
+   }
+  },
+  {
+   "id": "rel-wr-das-judentum-1",
+   "schwierigkeit": "leicht",
+   "frage": "Wie heißt die wichtigste heilige Schrift für das Judentum?",
+   "richtig": "Tora",
+   "falsch": [
+    "Veden",
+    "Guru Granth Sahib",
+    "Pali-Kanon"
+   ],
+   "begruendung": "Judentum: Schrift Tora, Gotteshaus Synagoge.",
+   "karte": {
+    "titel": "Judentum",
+    "text": "Judentum: Schrift Tora, Gotteshaus Synagoge.",
+    "merke": "Judentum: Schrift Tora, Gotteshaus Synagoge."
+   }
+  },
+  {
+   "id": "rel-wr-der-hinduismus-1",
+   "schwierigkeit": "mittel",
+   "frage": "Wie heißt die wichtigste heilige Schrift für den Hinduismus?",
+   "richtig": "Veden",
+   "falsch": [
+    "Tora",
+    "Pali-Kanon",
+    "Koran"
+   ],
+   "begruendung": "Hinduismus: Schrift Veden, Gotteshaus Mandir (Tempel).",
+   "karte": {
+    "titel": "Hinduismus",
+    "text": "Hinduismus: Schrift Veden, Gotteshaus Mandir (Tempel).",
+    "merke": "Hinduismus: Schrift Veden, Gotteshaus Mandir (Tempel)."
+   }
+  },
+  {
+   "id": "rel-wr-der-buddhismus-1",
+   "schwierigkeit": "schwer",
+   "frage": "Wie heißt die wichtigste heilige Schrift für den Buddhismus?",
+   "richtig": "Pali-Kanon",
+   "falsch": [
+    "Koran",
+    "Bibel",
+    "Guru Granth Sahib"
+   ],
+   "begruendung": "Buddhismus: Schrift Pali-Kanon, Gotteshaus Pagode oder Vihara.",
+   "karte": {
+    "titel": "Buddhismus",
+    "text": "Buddhismus: Schrift Pali-Kanon, Gotteshaus Pagode oder Vihara.",
+    "merke": "Buddhismus: Schrift Pali-Kanon, Gotteshaus Pagode oder Vihara."
+   }
+  },
+  {
+   "id": "rel-wr-der-sikhismus-1",
+   "schwierigkeit": "schwer",
+   "frage": "Wie heißt die wichtigste heilige Schrift für den Sikhismus?",
+   "richtig": "Guru Granth Sahib",
+   "falsch": [
+    "Tora",
+    "Koran",
+    "Pali-Kanon"
+   ],
+   "begruendung": "Sikhismus: Schrift Guru Granth Sahib, Gotteshaus Gurdwara.",
+   "karte": {
+    "titel": "Sikhismus",
+    "text": "Sikhismus: Schrift Guru Granth Sahib, Gotteshaus Gurdwara.",
+    "merke": "Sikhismus: Schrift Guru Granth Sahib, Gotteshaus Gurdwara."
+   }
+  },
+  {
+   "id": "rel-wr-das-christentum-2",
+   "schwierigkeit": "leicht",
+   "frage": "Wie heißt das Gotteshaus für das Christentum?",
+   "richtig": "Kirche",
+   "falsch": [
+    "Gurdwara",
+    "Pagode oder Vihara",
+    "Synagoge"
+   ],
+   "begruendung": "Christentum: Gotteshaus Kirche.",
+   "karte": {
+    "titel": "Christentum",
+    "text": "Christentum: Gotteshaus Kirche.",
+    "merke": "Christentum: Gotteshaus Kirche."
+   }
+  },
+  {
+   "id": "rel-wr-der-islam-2",
+   "schwierigkeit": "leicht",
+   "frage": "Wie heißt das Gotteshaus für den Islam?",
+   "richtig": "Moschee",
+   "falsch": [
+    "Synagoge",
+    "Mandir (Tempel)",
+    "Kirche"
+   ],
+   "begruendung": "Islam: Gotteshaus Moschee.",
+   "karte": {
+    "titel": "Islam",
+    "text": "Islam: Gotteshaus Moschee.",
+    "merke": "Islam: Gotteshaus Moschee."
+   }
+  },
+  {
+   "id": "rel-wr-das-judentum-2",
+   "schwierigkeit": "leicht",
+   "frage": "Wie heißt das Gotteshaus für das Judentum?",
+   "richtig": "Synagoge",
+   "falsch": [
+    "Mandir (Tempel)",
+    "Pagode oder Vihara",
+    "Moschee"
+   ],
+   "begruendung": "Judentum: Gotteshaus Synagoge.",
+   "karte": {
+    "titel": "Judentum",
+    "text": "Judentum: Gotteshaus Synagoge.",
+    "merke": "Judentum: Gotteshaus Synagoge."
+   }
+  },
+  {
+   "id": "rel-wr-der-hinduismus-2",
+   "schwierigkeit": "mittel",
+   "frage": "Wie heißt das Gotteshaus für den Hinduismus?",
+   "richtig": "Mandir (Tempel)",
+   "falsch": [
+    "Synagoge",
+    "Pagode oder Vihara",
+    "Kirche"
+   ],
+   "begruendung": "Hinduismus: Gotteshaus Mandir (Tempel).",
+   "karte": {
+    "titel": "Hinduismus",
+    "text": "Hinduismus: Gotteshaus Mandir (Tempel).",
+    "merke": "Hinduismus: Gotteshaus Mandir (Tempel)."
+   }
+  },
+  {
+   "id": "rel-wr-der-buddhismus-2",
+   "schwierigkeit": "schwer",
+   "frage": "Wie heißt das Gotteshaus für den Buddhismus?",
+   "richtig": "Pagode oder Vihara",
+   "falsch": [
+    "Synagoge",
+    "Moschee",
+    "Kirche"
+   ],
+   "begruendung": "Buddhismus: Gotteshaus Pagode oder Vihara.",
+   "karte": {
+    "titel": "Buddhismus",
+    "text": "Buddhismus: Gotteshaus Pagode oder Vihara.",
+    "merke": "Buddhismus: Gotteshaus Pagode oder Vihara."
+   }
+  },
+  {
+   "id": "rel-wr-der-sikhismus-2",
+   "schwierigkeit": "schwer",
+   "frage": "Wie heißt das Gotteshaus für den Sikhismus?",
+   "richtig": "Gurdwara",
+   "falsch": [
+    "Pagode oder Vihara",
+    "Synagoge",
+    "Moschee"
+   ],
+   "begruendung": "Sikhismus: Gotteshaus Gurdwara.",
+   "karte": {
+    "titel": "Sikhismus",
+    "text": "Sikhismus: Gotteshaus Gurdwara.",
+    "merke": "Sikhismus: Gotteshaus Gurdwara."
+   }
+  },
+  {
+   "id": "rel-fe-weihnachten",
+   "schwierigkeit": "leicht",
+   "frage": "Zu welcher Religion gehört das Fest Weihnachten?",
+   "richtig": "Christentum",
+   "falsch": [
+    "Hinduismus",
+    "Judentum",
+    "Islam"
+   ],
+   "begruendung": "Weihnachten: Christentum.",
+   "karte": {
+    "titel": "Weihnachten",
+    "text": "Christen feiern die Geburt Jesu.",
+    "merke": "Weihnachten: Christentum."
+   },
+   "ddf": true
+  },
+  {
+   "id": "rel-fe-ostern",
+   "schwierigkeit": "leicht",
+   "frage": "Zu welcher Religion gehört das Fest Ostern?",
+   "richtig": "Christentum",
+   "falsch": [
+    "Judentum",
+    "Islam",
+    "Hinduismus"
+   ],
+   "begruendung": "Ostern: Christentum.",
+   "karte": {
+    "titel": "Ostern",
+    "text": "Christen feiern die Auferstehung Jesu.",
+    "merke": "Ostern: Christentum."
+   },
+   "ddf": true
+  },
+  {
+   "id": "rel-fe-pfingsten",
+   "schwierigkeit": "mittel",
+   "frage": "Zu welcher Religion gehört das Fest Pfingsten?",
+   "richtig": "Christentum",
+   "falsch": [
+    "Islam",
+    "Judentum",
+    "Buddhismus"
+   ],
+   "begruendung": "Pfingsten: Christentum.",
+   "karte": {
+    "titel": "Pfingsten",
+    "text": "Pfingsten erinnert an die Ausgießung des Heiligen Geistes, 50 Tage nach Ostern.",
+    "merke": "Pfingsten: Christentum."
+   }
+  },
+  {
+   "id": "rel-fe-ramadan",
+   "schwierigkeit": "leicht",
+   "frage": "Zu welcher Religion gehört das Fest Ramadan?",
+   "richtig": "Islam",
+   "falsch": [
+    "Judentum",
+    "Christentum",
+    "Sikhismus"
+   ],
+   "begruendung": "Ramadan: Islam.",
+   "karte": {
+    "titel": "Ramadan",
+    "text": "Im Fastenmonat Ramadan essen und trinken gläubige Muslime von Sonnenaufgang bis Sonnenuntergang nichts.",
+    "merke": "Ramadan: Islam."
+   },
+   "ddf": true
+  },
+  {
+   "id": "rel-fe-opferfest",
+   "schwierigkeit": "mittel",
+   "frage": "Zu welcher Religion gehört das Fest Opferfest?",
+   "richtig": "Islam",
+   "falsch": [
+    "Hinduismus",
+    "Judentum",
+    "Christentum"
+   ],
+   "begruendung": "Opferfest: Islam.",
+   "karte": {
+    "titel": "Opferfest",
+    "text": "Das Opferfest ist das höchste islamische Fest und erinnert an Abrahams Bereitschaft, seinen Sohn zu opfern.",
+    "merke": "Opferfest: Islam."
+   }
+  },
+  {
+   "id": "rel-fe-chanukka",
+   "schwierigkeit": "mittel",
+   "frage": "Zu welcher Religion gehört das Fest Chanukka?",
+   "richtig": "Judentum",
+   "falsch": [
+    "Islam",
+    "Hinduismus",
+    "Sikhismus"
+   ],
+   "begruendung": "Chanukka: Judentum.",
+   "karte": {
+    "titel": "Chanukka",
+    "text": "An acht Tagen zünden Juden nach und nach die Kerzen des Chanukka-Leuchters an.",
+    "merke": "Chanukka: Judentum."
+   }
+  },
+  {
+   "id": "rel-fe-jom-kippur",
+   "schwierigkeit": "mittel",
+   "frage": "Zu welcher Religion gehört das Fest Jom Kippur?",
+   "richtig": "Judentum",
+   "falsch": [
+    "Islam",
+    "Buddhismus",
+    "Sikhismus"
+   ],
+   "begruendung": "Jom Kippur: Judentum.",
+   "karte": {
+    "titel": "Jom Kippur",
+    "text": "Jom Kippur ist der Versöhnungstag und der höchste jüdische Feiertag.",
+    "merke": "Jom Kippur: Judentum."
+   }
+  },
+  {
+   "id": "rel-fe-pessach",
+   "schwierigkeit": "mittel",
+   "frage": "Zu welcher Religion gehört das Fest Pessach?",
+   "richtig": "Judentum",
+   "falsch": [
+    "Buddhismus",
+    "Sikhismus",
+    "Islam"
+   ],
+   "begruendung": "Pessach: Judentum.",
+   "karte": {
+    "titel": "Pessach",
+    "text": "Pessach erinnert an den Auszug der Israeliten aus Ägypten.",
+    "merke": "Pessach: Judentum."
+   }
+  },
+  {
+   "id": "rel-fe-diwali",
+   "schwierigkeit": "mittel",
+   "frage": "Zu welcher Religion gehört das Fest Diwali?",
+   "richtig": "Hinduismus",
+   "falsch": [
+    "Buddhismus",
+    "Christentum",
+    "Sikhismus"
+   ],
+   "begruendung": "Diwali: Hinduismus.",
+   "karte": {
+    "titel": "Diwali",
+    "text": "Beim Lichterfest Diwali feiern Hindus den Sieg des Lichts über die Dunkelheit.",
+    "merke": "Diwali: Hinduismus."
+   }
+  },
+  {
+   "id": "rel-fe-holi",
+   "schwierigkeit": "mittel",
+   "frage": "Zu welcher Religion gehört das Fest Holi?",
+   "richtig": "Hinduismus",
+   "falsch": [
+    "Buddhismus",
+    "Judentum",
+    "Sikhismus"
+   ],
+   "begruendung": "Holi: Hinduismus.",
+   "karte": {
+    "titel": "Holi",
+    "text": "Beim Frühlingsfest Holi bewerfen sich die Menschen mit Farbpulver.",
+    "merke": "Holi: Hinduismus."
+   }
+  },
+  {
+   "id": "rel-fe-vesakh",
+   "schwierigkeit": "schwer",
+   "frage": "Zu welcher Religion gehört das Fest Vesakh?",
+   "richtig": "Buddhismus",
+   "falsch": [
+    "Islam",
+    "Christentum",
+    "Hinduismus"
+   ],
+   "begruendung": "Vesakh: Buddhismus.",
+   "karte": {
+    "titel": "Vesakh",
+    "text": "Buddhisten feiern an Vesakh Geburt, Erleuchtung und Tod Buddhas.",
+    "merke": "Vesakh: Buddhismus."
+   }
+  },
+  {
+   "id": "rel-bi-noah",
+   "schwierigkeit": "leicht",
+   "frage": "Welche Geschichte erzählt die Bibel über Noah?",
+   "richtig": "Er baute die Arche und rettete die Tiere vor der Sintflut",
+   "falsch": [
+    "Er besiegte den Riesen Goliath mit einer Steinschleuder",
+    "Seine übermenschliche Kraft steckte in seinen Haaren",
+    "Er verleugnete Jesus dreimal, bevor der Hahn krähte"
+   ],
+   "begruendung": "Noah: er baute die Arche und rettete die Tiere vor der Sintflut.",
+   "karte": {
+    "titel": "Noah",
+    "text": "Noah: er baute die Arche und rettete die Tiere vor der Sintflut.",
+    "merke": "Noah: er baute die Arche und rettete die Tiere vor der Sintflut."
+   }
+  },
+  {
+   "id": "rel-bi-mose",
+   "schwierigkeit": "leicht",
+   "frage": "Welche Geschichte erzählt die Bibel über Mose?",
+   "richtig": "Er empfing auf dem Berg Sinai die Zehn Gebote",
+   "falsch": [
+    "Er erschlug seinen Bruder Abel",
+    "Er baute die Arche und rettete die Tiere vor der Sintflut",
+    "Er sollte auf Gottes Befehl seinen Sohn Isaak opfern"
+   ],
+   "begruendung": "Mose: er empfing auf dem Berg Sinai die Zehn Gebote.",
+   "karte": {
+    "titel": "Mose",
+    "text": "Mose: er empfing auf dem Berg Sinai die Zehn Gebote.",
+    "merke": "Mose: er empfing auf dem Berg Sinai die Zehn Gebote."
+   }
+  },
+  {
+   "id": "rel-bi-david",
+   "schwierigkeit": "leicht",
+   "frage": "Welche Geschichte erzählt die Bibel über David?",
+   "richtig": "Er besiegte den Riesen Goliath mit einer Steinschleuder",
+   "falsch": [
+    "Er empfing auf dem Berg Sinai die Zehn Gebote",
+    "Er verriet Jesus für 30 Silberlinge",
+    "Seine übermenschliche Kraft steckte in seinen Haaren"
+   ],
+   "begruendung": "David: er besiegte den Riesen Goliath mit einer Steinschleuder.",
+   "karte": {
+    "titel": "David",
+    "text": "David: er besiegte den Riesen Goliath mit einer Steinschleuder.",
+    "merke": "David: er besiegte den Riesen Goliath mit einer Steinschleuder."
+   }
+  },
+  {
+   "id": "rel-bi-jona",
+   "schwierigkeit": "mittel",
+   "frage": "Welche Geschichte erzählt die Bibel über Jona?",
+   "richtig": "Ein großer Fisch verschluckte ihn und spie ihn nach drei Tagen aus",
+   "falsch": [
+    "Jesus erweckte ihn von den Toten",
+    "Seine Brüder verkauften ihn nach Ägypten, wo er Traumdeuter des Pharaos wurde",
+    "Seine übermenschliche Kraft steckte in seinen Haaren"
+   ],
+   "begruendung": "Jona: ein großer Fisch verschluckte ihn und spie ihn nach drei Tagen aus.",
+   "karte": {
+    "titel": "Jona",
+    "text": "Jona: ein großer Fisch verschluckte ihn und spie ihn nach drei Tagen aus.",
+    "merke": "Jona: ein großer Fisch verschluckte ihn und spie ihn nach drei Tagen aus."
+   }
+  },
+  {
+   "id": "rel-bi-daniel",
+   "schwierigkeit": "mittel",
+   "frage": "Welche Geschichte erzählt die Bibel über Daniel?",
+   "richtig": "Er überlebte eine Nacht in der Löwengrube",
+   "falsch": [
+    "Er empfing auf dem Berg Sinai die Zehn Gebote",
+    "Er sollte auf Gottes Befehl seinen Sohn Isaak opfern",
+    "Seine Brüder verkauften ihn nach Ägypten, wo er Traumdeuter des Pharaos wurde"
+   ],
+   "begruendung": "Daniel: er überlebte eine Nacht in der Löwengrube.",
+   "karte": {
+    "titel": "Daniel",
+    "text": "Daniel: er überlebte eine Nacht in der Löwengrube.",
+    "merke": "Daniel: er überlebte eine Nacht in der Löwengrube."
+   }
+  },
+  {
+   "id": "rel-bi-josef",
+   "schwierigkeit": "mittel",
+   "frage": "Welche Geschichte erzählt die Bibel über Josef?",
+   "richtig": "Seine Brüder verkauften ihn nach Ägypten, wo er Traumdeuter des Pharaos wurde",
+   "falsch": [
+    "Seine übermenschliche Kraft steckte in seinen Haaren",
+    "Er besiegte den Riesen Goliath mit einer Steinschleuder",
+    "Der König war für seine Weisheit berühmt"
+   ],
+   "begruendung": "Josef: seine Brüder verkauften ihn nach Ägypten, wo er Traumdeuter des Pharaos wurde.",
+   "karte": {
+    "titel": "Josef",
+    "text": "Josef: seine Brüder verkauften ihn nach Ägypten, wo er Traumdeuter des Pharaos wurde.",
+    "merke": "Josef: seine Brüder verkauften ihn nach Ägypten, wo er Traumdeuter des Pharaos wurde."
+   }
+  },
+  {
+   "id": "rel-bi-simson",
+   "schwierigkeit": "mittel",
+   "frage": "Welche Geschichte erzählt die Bibel über Simson?",
+   "richtig": "Seine übermenschliche Kraft steckte in seinen Haaren",
+   "falsch": [
+    "Ein großer Fisch verschluckte ihn und spie ihn nach drei Tagen aus",
+    "Er verleugnete Jesus dreimal, bevor der Hahn krähte",
+    "Er wurde laut Bibel 969 Jahre alt"
+   ],
+   "begruendung": "Simson: seine übermenschliche Kraft steckte in seinen Haaren.",
+   "karte": {
+    "titel": "Simson",
+    "text": "Simson: seine übermenschliche Kraft steckte in seinen Haaren.",
+    "merke": "Simson: seine übermenschliche Kraft steckte in seinen Haaren."
+   }
+  },
+  {
+   "id": "rel-bi-judas",
+   "schwierigkeit": "leicht",
+   "frage": "Welche Geschichte erzählt die Bibel über Judas?",
+   "richtig": "Er verriet Jesus für 30 Silberlinge",
+   "falsch": [
+    "Er überlebte eine Nacht in der Löwengrube",
+    "Er besiegte den Riesen Goliath mit einer Steinschleuder",
+    "Er sollte auf Gottes Befehl seinen Sohn Isaak opfern"
+   ],
+   "begruendung": "Judas: er verriet Jesus für 30 Silberlinge.",
+   "karte": {
+    "titel": "Judas",
+    "text": "Judas: er verriet Jesus für 30 Silberlinge.",
+    "merke": "Judas: er verriet Jesus für 30 Silberlinge."
+   }
+  },
+  {
+   "id": "rel-bi-petrus",
+   "schwierigkeit": "mittel",
+   "frage": "Welche Geschichte erzählt die Bibel über Petrus?",
+   "richtig": "Er verleugnete Jesus dreimal, bevor der Hahn krähte",
+   "falsch": [
+    "Er baute die Arche und rettete die Tiere vor der Sintflut",
+    "Er sollte auf Gottes Befehl seinen Sohn Isaak opfern",
+    "Jesus erweckte ihn von den Toten"
+   ],
+   "begruendung": "Petrus: er verleugnete Jesus dreimal, bevor der Hahn krähte.",
+   "karte": {
+    "titel": "Petrus",
+    "text": "Petrus: er verleugnete Jesus dreimal, bevor der Hahn krähte.",
+    "merke": "Petrus: er verleugnete Jesus dreimal, bevor der Hahn krähte."
+   }
+  },
+  {
+   "id": "rel-bi-kain",
+   "schwierigkeit": "leicht",
+   "frage": "Welche Geschichte erzählt die Bibel über Kain?",
+   "richtig": "Er erschlug seinen Bruder Abel",
+   "falsch": [
+    "Er baute die Arche und rettete die Tiere vor der Sintflut",
+    "Er empfing auf dem Berg Sinai die Zehn Gebote",
+    "Er verriet Jesus für 30 Silberlinge"
+   ],
+   "begruendung": "Kain: er erschlug seinen Bruder Abel.",
+   "karte": {
+    "titel": "Kain",
+    "text": "Kain: er erschlug seinen Bruder Abel.",
+    "merke": "Kain: er erschlug seinen Bruder Abel."
+   }
+  },
+  {
+   "id": "rel-bi-salomo",
+   "schwierigkeit": "mittel",
+   "frage": "Welche Geschichte erzählt die Bibel über Salomo?",
+   "richtig": "Der König war für seine Weisheit berühmt",
+   "falsch": [
+    "Er verleugnete Jesus dreimal, bevor der Hahn krähte",
+    "Seine Brüder verkauften ihn nach Ägypten, wo er Traumdeuter des Pharaos wurde",
+    "Er verriet Jesus für 30 Silberlinge"
+   ],
+   "begruendung": "Salomo: der König war für seine Weisheit berühmt.",
+   "karte": {
+    "titel": "Salomo",
+    "text": "Salomo: der König war für seine Weisheit berühmt.",
+    "merke": "Salomo: der König war für seine Weisheit berühmt."
+   }
+  },
+  {
+   "id": "rel-bi-methusalem",
+   "schwierigkeit": "mittel",
+   "frage": "Welche Geschichte erzählt die Bibel über Methusalem?",
+   "richtig": "Er wurde laut Bibel 969 Jahre alt",
+   "falsch": [
+    "Er verleugnete Jesus dreimal, bevor der Hahn krähte",
+    "Er empfing auf dem Berg Sinai die Zehn Gebote",
+    "Seine Brüder verkauften ihn nach Ägypten, wo er Traumdeuter des Pharaos wurde"
+   ],
+   "begruendung": "Methusalem: er wurde laut Bibel 969 Jahre alt.",
+   "karte": {
+    "titel": "Methusalem",
+    "text": "Methusalem: er wurde laut Bibel 969 Jahre alt.",
+    "merke": "Methusalem: er wurde laut Bibel 969 Jahre alt."
+   }
+  },
+  {
+   "id": "rel-bi-lazarus",
+   "schwierigkeit": "mittel",
+   "frage": "Welche Geschichte erzählt die Bibel über Lazarus?",
+   "richtig": "Jesus erweckte ihn von den Toten",
+   "falsch": [
+    "Er überlebte eine Nacht in der Löwengrube",
+    "Er baute die Arche und rettete die Tiere vor der Sintflut",
+    "Er sollte auf Gottes Befehl seinen Sohn Isaak opfern"
+   ],
+   "begruendung": "Lazarus: jesus erweckte ihn von den Toten.",
+   "karte": {
+    "titel": "Lazarus",
+    "text": "Lazarus: jesus erweckte ihn von den Toten.",
+    "merke": "Lazarus: jesus erweckte ihn von den Toten."
+   }
+  },
+  {
+   "id": "rel-bi-abraham",
+   "schwierigkeit": "mittel",
+   "frage": "Welche Geschichte erzählt die Bibel über Abraham?",
+   "richtig": "Er sollte auf Gottes Befehl seinen Sohn Isaak opfern",
+   "falsch": [
+    "Er verleugnete Jesus dreimal, bevor der Hahn krähte",
+    "Er überlebte eine Nacht in der Löwengrube",
+    "Der König war für seine Weisheit berühmt"
+   ],
+   "begruendung": "Abraham: er sollte auf Gottes Befehl seinen Sohn Isaak opfern.",
+   "karte": {
+    "titel": "Abraham",
+    "text": "Abraham: er sollte auf Gottes Befehl seinen Sohn Isaak opfern.",
+    "merke": "Abraham: er sollte auf Gottes Befehl seinen Sohn Isaak opfern."
+   }
+  }
+ ]
+}

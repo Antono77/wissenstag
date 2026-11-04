@@ -1,0 +1,146 @@
+{
+  "klasse": "religion",
+  "fragen": [
+    {
+      "id": "rel-001", "schwierigkeit": "mittel", "ddf": true,
+      "frage": "Wie viele Tiere jeder Art nahm Mose mit auf die Arche?",
+      "richtig": "Keine, das war Noah", "falsch": ["Zwei", "Sieben", "Eins"], "alias": ["keine", "0"],
+      "begruendung": "Die Arche baute Noah, nicht Mose. Eine klassische Fangfrage.",
+      "karte": { "titel": "Fangfrage Arche", "text": "Laut Bibel nahm Noah von jeder Art ein Paar mit, von den reinen Tieren sogar sieben Paare.", "merke": "Arche: Noah. Zehn Gebote: Mose." }
+    },
+    {
+      "id": "rel-002", "schwierigkeit": "leicht", "ddf": true,
+      "frage": "Welches scheinbare Geschenk führte zur Zerstörung Trojas?",
+      "richtig": "Ein hölzernes Pferd", "falsch": ["Ein goldener Apfel", "Ein Schiff voller Wein", "Eine Statue des Zeus"], "alias": ["Trojanisches Pferd", "Holzpferd"],
+      "begruendung": "Griechische Krieger versteckten sich in einem Holzpferd. Die Trojaner zogen es in die Stadt.",
+      "karte": { "titel": "Trojanisches Pferd", "text": "Die List erdachte Odysseus. Heute heißen auch getarnte Schadprogramme „Trojaner“.", "merke": "Troja fiel durch das Trojanische Pferd." }
+    },
+    {
+      "id": "rel-003", "schwierigkeit": "leicht", "ddf": true,
+      "frage": "Welche Fähigkeit hat Medusa?",
+      "richtig": "Ihr Blick verwandelt Menschen in Stein", "falsch": ["Sie kann fliegen", "Sie ist unsichtbar", "Sie kann die Zeit anhalten"],
+      "begruendung": "Wer Medusa ansieht, erstarrt zu Stein. Perseus besiegte sie mit Hilfe eines spiegelnden Schildes.",
+      "karte": { "titel": "Medusa", "text": "Medusa ist eine der drei Gorgonen und hat Schlangen statt Haaren.", "merke": "Medusa: Schlangenhaar, versteinernder Blick." }
+    },
+    {
+      "id": "rel-004", "schwierigkeit": "mittel", "ddf": true,
+      "frage": "Welcher griechische Gott herrscht über die Unterwelt?",
+      "richtig": "Hades", "falsch": ["Poseidon", "Ares", "Kronos"],
+      "begruendung": "Hades ist der Bruder von Zeus und Poseidon und regiert das Totenreich.",
+      "karte": { "titel": "Hades", "text": "Der dreiköpfige Hund Kerberos bewacht den Eingang zur Unterwelt.", "merke": "Unterwelt: Hades, Wächter Kerberos." }
+    },
+    {
+      "id": "rel-005", "schwierigkeit": "leicht",
+      "frage": "Wie viele Gebote gab Gott laut Bibel Mose auf dem Berg Sinai?",
+      "richtig": "10", "falsch": ["7", "12", "3"], "alias": ["zehn"],
+      "begruendung": "Mose empfing zwei Steintafeln mit den Zehn Geboten.",
+      "karte": { "titel": "Zehn Gebote", "text": "Juden, Christen und Muslime erkennen Mose als wichtigen Propheten an.", "merke": "Zehn Gebote, Berg Sinai, Mose." }
+    },
+    {
+      "id": "rel-006", "schwierigkeit": "leicht",
+      "frage": "Wie viele Jünger hatte Jesus laut Bibel?",
+      "richtig": "12", "falsch": ["7", "10", "40"], "alias": ["zwölf"],
+      "begruendung": "Die Bibel nennt zwölf Apostel, darunter Petrus, Johannes und Judas.",
+      "karte": { "titel": "Zwölf Apostel", "text": "Leonardos „Abendmahl“ zeigt Jesus mit den zwölf Jüngern am Abend vor seiner Kreuzigung.", "merke": "Jesus: zwölf Jünger." }
+    },
+    {
+      "id": "rel-007", "schwierigkeit": "mittel",
+      "frage": "Wie viele Säulen hat der Islam?",
+      "richtig": "5", "falsch": ["3", "7", "10"], "alias": ["fünf"],
+      "begruendung": "Glaubensbekenntnis, Gebet, Almosen, Fasten im Ramadan und die Pilgerfahrt nach Mekka.",
+      "karte": { "titel": "Fünf Säulen", "text": "Muslime beten fünfmal am Tag in Richtung Mekka.", "merke": "Islam: fünf Säulen, Pilgerfahrt nach Mekka." }
+    },
+    {
+      "id": "rel-008", "schwierigkeit": "mittel",
+      "frage": "In welcher Stadt steht die Kaaba, das wichtigste Heiligtum des Islam?",
+      "richtig": "Mekka", "falsch": ["Medina", "Jerusalem", "Kairo"],
+      "begruendung": "Die Kaaba steht in Mekka in Saudi-Arabien. Dorthin richten Muslime ihr Gebet.",
+      "karte": { "titel": "Mekka", "text": "In Medina liegt das Grab des Propheten Mohammed. Jerusalem ist die drittheiligste Stadt des Islam.", "merke": "Kaaba: Mekka." }
+    },
+    {
+      "id": "rel-009", "schwierigkeit": "mittel",
+      "frage": "Wer ist das Oberhaupt der römisch-katholischen Kirche?",
+      "richtig": "Der Papst", "falsch": ["Der Patriarch", "Der Erzbischof von Köln", "Der Dalai Lama"], "alias": ["Papst"],
+      "begruendung": "Der Papst ist Bischof von Rom und Oberhaupt der katholischen Kirche. Er lebt im Vatikan.",
+      "karte": { "titel": "Papst Leo XIV.", "text": "Seit Mai 2025 ist Leo XIV. Papst, der erste aus den USA. Der Dalai Lama ist ein tibetisch-buddhistisches Oberhaupt.", "merke": "Katholische Kirche: Papst, seit 2025 Leo XIV." },
+      "stand": "2026-11"
+    },
+    {
+      "id": "rel-010", "schwierigkeit": "mittel",
+      "frage": "Welche Zeichen zeigen bei der Papstwahl, dass ein neuer Papst gewählt ist?",
+      "richtig": "Weißer Rauch", "falsch": ["Schwarzer Rauch", "Läutende Glocken allein", "Ein Feuerwerk"],
+      "begruendung": "Nach jedem Wahlgang verbrennen die Kardinäle die Stimmzettel. Weißer Rauch heißt: Es gibt einen neuen Papst.",
+      "karte": { "titel": "Konklave", "text": "Die Kardinäle wählen in der Sixtinischen Kapelle. Nötig ist eine Zweidrittelmehrheit.", "merke": "Weißer Rauch = neuer Papst." }
+    },
+    {
+      "id": "rel-011", "schwierigkeit": "leicht", "ddf": true,
+      "frage": "Wer war der oberste Gott der Wikinger?",
+      "richtig": "Odin", "falsch": ["Thor", "Loki", "Zeus"],
+      "begruendung": "Odin ist der Göttervater in der nordischen Mythologie. Thor ist sein Sohn.",
+      "karte": { "titel": "Odin", "text": "Odin opferte ein Auge für Weisheit. Zwei Raben bringen ihm Nachrichten aus der Welt.", "merke": "Nordischer Göttervater: Odin." }
+    },
+    {
+      "id": "rel-012", "schwierigkeit": "mittel", "ddf": true,
+      "frage": "Nach welchem Gott ist der Donnerstag benannt?",
+      "richtig": "Donar (Thor)", "falsch": ["Odin", "Zeus", "Jupiter"], "alias": ["Thor", "Donar"],
+      "begruendung": "Donnerstag heißt „Tag des Donar“. Donar ist der germanische Name für Thor.",
+      "karte": { "titel": "Wochentage und Götter", "text": "Freitag ist nach der Göttin Frigg oder Freya benannt. Im Englischen erinnert „Wednesday“ an Wodan, also Odin.", "merke": "Donnerstag = Donar/Thor." }
+    },
+    {
+      "id": "rel-013", "schwierigkeit": "mittel",
+      "frage": "Wie heißt der Ort, an dem in der nordischen Mythologie gefallene Krieger feiern?",
+      "richtig": "Walhalla", "falsch": ["Olymp", "Midgard", "Elysion"], "alias": ["Valhalla"],
+      "begruendung": "Walküren bringen gefallene Krieger nach Walhalla, in Odins Halle.",
+      "karte": { "titel": "Walhalla", "text": "Bei Regensburg steht eine Ruhmeshalle, die König Ludwig I. „Walhalla“ nannte.", "merke": "Walhalla: Halle der gefallenen Krieger." }
+    },
+    {
+      "id": "rel-014", "schwierigkeit": "leicht",
+      "frage": "Woran erinnert Ostern im Christentum?",
+      "richtig": "An die Auferstehung Jesu", "falsch": ["An die Geburt Jesu", "An die Taufe Jesu", "An die Erschaffung der Welt"],
+      "begruendung": "Ostern feiern Christen die Auferstehung Jesu nach seiner Kreuzigung.",
+      "karte": { "titel": "Ostern", "text": "Ostern fällt auf den ersten Sonntag nach dem ersten Frühlingsvollmond. Deshalb wandert das Datum.", "merke": "Ostern: Auferstehung. Weihnachten: Geburt." }
+    },
+    {
+      "id": "rel-015", "schwierigkeit": "mittel",
+      "frage": "Wer war Siddhartha Gautama?",
+      "richtig": "Der Begründer des Buddhismus", "falsch": ["Ein Hindugott", "Ein indischer Kaiser", "Ein Schüler von Konfuzius"], "alias": ["Buddha"],
+      "begruendung": "Siddhartha Gautama lebte vermutlich im 5. Jahrhundert v. Chr. Nach seiner Erleuchtung nannte man ihn Buddha, der Erwachte.",
+      "karte": { "titel": "Buddha", "text": "Er stammte aus einer Fürstenfamilie im heutigen Nepal und gab seinen Reichtum auf.", "merke": "Buddha = Siddhartha Gautama, „der Erwachte“." }
+    },
+    {
+      "id": "rel-016", "schwierigkeit": "schwer",
+      "frage": "Welcher Titan musste in der griechischen Sage das Himmelsgewölbe tragen?",
+      "richtig": "Atlas", "falsch": ["Prometheus", "Kronos", "Herkules"],
+      "begruendung": "Zeus bestrafte Atlas, indem er ihn den Himmel tragen ließ.",
+      "karte": { "titel": "Atlas", "text": "Weil frühe Kartenbücher Atlas auf dem Titelbild zeigten, heißen Kartensammlungen heute Atlas. Prometheus brachte den Menschen das Feuer.", "merke": "Atlas trägt den Himmel, Prometheus brachte das Feuer." }
+    },
+    {
+      "id": "rel-017", "schwierigkeit": "mittel",
+      "frage": "Wie hieß der Held, der zwölf Aufgaben erfüllen musste?",
+      "richtig": "Herakles", "falsch": ["Achilles", "Odysseus", "Perseus"], "alias": ["Herkules"],
+      "begruendung": "Herakles, bei den Römern Herkules, erledigte zwölf schwere Arbeiten, etwa den Kampf gegen die Hydra.",
+      "karte": { "titel": "Zwölf Arbeiten", "text": "Achilles war nur an der Ferse verwundbar. Daher kommt der Ausdruck „Achillesferse“.", "merke": "Zwölf Arbeiten: Herakles. Ferse: Achilles." }
+    },
+    {
+      "id": "rel-018", "schwierigkeit": "schwer",
+      "frage": "Wie viele Jahre irrte Odysseus nach dem Trojanischen Krieg umher?",
+      "richtig": "10", "falsch": ["3", "7", "20"], "alias": ["zehn"],
+      "begruendung": "Nach zehn Jahren Krieg brauchte Odysseus weitere zehn Jahre für die Heimreise nach Ithaka.",
+      "karte": { "titel": "Odyssee", "text": "Unterwegs traf er den Zyklopen Polyphem und die Zauberin Kirke. Eine „Odyssee“ ist heute eine lange Irrfahrt.", "merke": "Odysseus: 10 Jahre Krieg, 10 Jahre Irrfahrt." }
+    },
+    {
+      "id": "rel-019", "schwierigkeit": "mittel",
+      "frage": "Welches Symbol hat das Judentum auf der Flagge Israels?",
+      "richtig": "Davidstern", "falsch": ["Halbmond", "Kreuz", "Lotusblüte"],
+      "begruendung": "Der sechszackige Davidstern ist ein Symbol des Judentums und steht in der Mitte der israelischen Flagge.",
+      "karte": { "titel": "Religiöse Symbole", "text": "Das Kreuz steht fürs Christentum, Halbmond und Stern oft für den Islam, das Rad der Lehre für den Buddhismus.", "merke": "Davidstern: Judentum." }
+    },
+    {
+      "id": "rel-020", "schwierigkeit": "mittel",
+      "frage": "Was ist Karma im Hinduismus und Buddhismus?",
+      "richtig": "Die Folge der eigenen Taten", "falsch": ["Ein heiliger Fluss", "Ein Gebet am Morgen", "Ein Fastenmonat"],
+      "begruendung": "Karma heißt Tat. Gute und schlechte Taten wirken sich auf das jetzige und spätere Leben aus.",
+      "karte": { "titel": "Karma", "text": "Der Ganges ist der heilige Fluss der Hindus. Ramadan ist der Fastenmonat im Islam.", "merke": "Karma = Wirkung der eigenen Taten." }
+    }
+  ]
+}
