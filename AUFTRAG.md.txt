@@ -1,0 +1,137 @@
+# Auftrag: Lernwebsite „Wissenstag“ neu bauen und erweitern
+
+Du arbeitest selbstständig. Frag nicht nach, sondern triff sinnvolle Entscheidungen und notiere sie am Ende im Bericht. Antworte und schreibe alle Texte der Website auf Deutsch.
+
+## 0. Arbeitsweise
+
+1. Richte zuerst `git` in diesem Ordner ein und mach nach jedem fertigen Schritt einen Commit mit einer kurzen deutschen Nachricht.
+2. Nutze den Skill **find-skills**. Such damit nach Skills, die für dieses Projekt helfen, zum Beispiel für Frontend-Design, Barrierefreiheit, Tests, Performance oder Quiz- und Lern-Apps. Installier passende Skills **ohne nachzufragen**. Halte dich dabei an diese Regeln:
+   - Nimm nur Skills aus vertrauenswürdigen Quellen mit vielen Installationen (etwa 1.000 oder mehr).
+   - Nimm keine Skills, die Passwörter, API-Schlüssel oder Bezahldienste verlangen.
+   - Lies jeden Skill kurz durch, bevor du ihn nutzt.
+   - Unter Windows lautet der Befehl: `npx.cmd -y skills add <owner/repo> --skill <name> -g -a claude-code`
+3. Nutze die Skills **apple-design** für Oberfläche und Animationen und **stop-slop** für alle Texte auf der Website.
+4. Installier alle Programme und npm-Pakete, die du brauchst, ohne nachzufragen. Bevorzuge kostenlose Open-Source-Werkzeuge.
+5. Mach erst einen kurzen Plan (in `PLAN.md`) und setz ihn dann direkt um, ohne auf eine Freigabe zu warten.
+6. Prüfe am Ende alles selbst: Starte die Seite lokal, klick dich durch alle Bereiche, behebe Fehler und öffne die Seite dann in meinem Browser.
+
+## 1. Ausgangslage: die bisherige Version
+
+Es gibt schon einen Prototyp namens **„Wissenstag“** (eine einzelne HTML-Datei). Übernimm daraus:
+
+**Design (beibehalten und verfeinern):**
+- Farben: Hintergrund `#EBF0ED`, Flächen `#F8FAF8`, Text `#0F1F1A`, gedämpft `#55645E`, Linien `#CBD6D0`, Akzent Gelb `#FFC400`, Petrol `#0B6B5D`, Richtig `#1B7F4B` auf `#DDF2E5`, Falsch `#B8361F` auf `#F9E1DC`.
+- Dunkelmodus: Hintergrund `#0E1714`, Flächen `#16231F`, Text `#E8F1ED`, Petrol `#4CC9B0`.
+- Schriften: „Bricolage Grotesque“ für Überschriften, „Figtree“ für Text, „IBM Plex Mono“ für Zahlen und kleine Labels (Google Fonts).
+- Logo: „Wissens**tag**“, wobei „tag“ gelb hinterlegt ist.
+- Ruhiger, klarer Stil mit viel Weißraum, mobil zuerst.
+
+**Funktionen (beibehalten):**
+- Wissenskarten: Kategorie, Titel, kurzer Erklärtext und ein gelb markierter Merksatz („Merke“).
+- Quiz mit vier Antworten (A bis D). Nach jeder Antwort erscheint ein Feedback mit kurzer Begründung („Richtig ist … weil …“).
+- Wiederholung: Fragen von früheren Tagen kommen wieder.
+- XP (10 pro richtiger Antwort plus 20 für eine abgeschlossene Einheit), Level mit Namen (Neugierig, Aufmerksam, Wissbegierig, Kenner, Allrounder, Fachmann, Universalgenie), Tagesserie („Tage in Folge“) und eine Leiste für die letzten sieben Tage.
+- Ergebnisseite mit Punktzahl, Prozent und „Das nimmst du mit“.
+- Fortschritt im Browser speichern (localStorage, mit try/catch).
+- Nachrichtenteil: Jede Meldung hat ein Thema-Label, eine Überschrift, einen kurzen Text und eine Einordnung („Gut zu wissen“). Dazu gibt es ein kleines News-Quiz.
+
+**Ändern:** Bisher war alles fest auf 10 Minuten am Tag mit drei Stationen getaktet. Das fällt weg (siehe Punkt 2).
+
+**Bekannte Schwächen des Prototyps, die du beheben sollst:**
+- Es gibt nur 24 Lernkarten, die sich schon nach 8 Tagen wiederholen. Die neue Version braucht eine große Fragenbank (siehe Punkt 3).
+- Die 6 Nachrichten vom 3. November 2026 sind fest eingebaut und aktualisieren sich nie. Die neue Version holt sie automatisch (siehe Punkt 5).
+- Der Prototyp wurde nur per Simulation getestet und nie visuell angesehen. Schau dir die neue Version deshalb wirklich im Browser an, am Handy-Format und am Desktop, in Hell und Dunkel. Mach dafür Screenshots, zum Beispiel mit Playwright.
+- Der Fortschritt lag nur im Browser. Deshalb gibt es jetzt Export und Import (siehe Punkt 6).
+
+**Falls im Ordner eine Datei `wissenstag-alt.html` liegt:** Das ist der Original-Prototyp. Lies ihn und übernimm daraus, was gut ist: Texte, Inhalte der 24 Karten und Details der Gestaltung.
+
+## 2. Lernzeit selbst wählen
+
+- **Kein fester Tagestimer mehr.** Auf der Startseite wählt man jeden Tag selbst, wie lange man lernen will: 5, 10, 15, 20 oder 30 Minuten, eine eigene Zeit oder „ohne Limit“.
+- Alternativ kann man eine Anzahl an Fragen wählen (z. B. 10, 20 oder 50).
+- Die Zeit läuft nur als dezente Anzeige mit und erinnert sanft, wenn das gewählte Ziel erreicht ist. Weitermachen geht trotzdem.
+- Speichere ein Tagesziel als Voreinstellung, die man jederzeit ändern kann.
+- Die Serie zählt, sobald man an einem Tag mindestens eine Einheit abgeschlossen hat, egal wie lang.
+
+## 3. Klassen (Kategorien) zum Lernen
+
+Die Inhalte sind in Klassen unterteilt, die man einzeln oder gemischt lernen kann. Jede Klasse hat einen eigenen Fortschritt (z. B. Prozent gelernt, Level pro Klasse, „Meister“-Abzeichen). Mindestens diese Klassen:
+
+- **Geografie** (Flüsse, Gebirge, Meere, Kontinente, Rekorde)
+- **Flaggen** (Flagge sehen → Land wählen und umgekehrt; Flaggen als lokale SVGs, z. B. aus dem MIT-lizenzierten Paket `flag-icons`, keine Emoji-Flaggen, weil Windows sie nicht anzeigt)
+- **Länder & Hauptstädte** (Hauptstadt, Kontinent, Einwohner, Sprache, Währung)
+- **Geschichte**
+- **Politik & Gesellschaft** (Deutschland, EU, Welt)
+- **Wissenschaft** (Physik, Chemie, Biologie)
+- **Weltraum**
+- **Natur & Tiere**
+- **Mensch & Körper**
+- **Technik & Erfindungen**
+- **Wirtschaft & Geld**
+- **Kunst & Kultur**
+- **Literatur**
+- **Musik**
+- **Film & Serien**
+- **Sport**
+- **Sprache & Redewendungen** (Herkunft von Sprichwörtern, Fremdwörter)
+- **Religion & Mythologie**
+- **Essen & Trinken**
+- **Internet & Popkultur**
+- **Deutschland-Wissen** (Bundesländer, Städte, Feiertage, Traditionen)
+- **Logik & Mathe-Kopfnüsse**
+
+Überleg selbst, welche weiteren Klassen sinnvoll sind, und ergänze sie.
+
+**Fragenbank:**
+- Leg die Fragen als JSON-Dateien an, eine pro Klasse (z. B. `data/geografie.json`), damit man sie leicht erweitern kann.
+- Zum Start brauchst du mindestens **30 Fragen pro Klasse**, jeweils mit Erklärkarte, Merksatz, vier Antworten und Begründung.
+- Für Flaggen und Länder & Hauptstädte: Erzeuge die Fragen aus einer Länderliste mit allen Staaten.
+- Jede Frage bekommt einen Schwierigkeitsgrad (leicht, mittel, schwer).
+- **Alle Fakten müssen stimmen.** Prüf Zahlen und Jahreszahlen doppelt. Bei zeitabhängigen Fakten („aktueller Bundeskanzler“) schreibst du ein Stand-Datum dazu.
+
+**Lernlogik:**
+- Falsch beantwortete Fragen kommen öfter wieder (einfache Wiederholung in Abständen, Spaced Repetition).
+- Modi: „Gemischt“ (alle Klassen), „Eine Klasse“, „Schwächen üben“ (nur bisher falsche Fragen).
+
+## 4. Modus „Der Dümmste fliegt“
+
+Vorbild ist die Video-Reihe **„Der Dümmste fliegt“** auf dem YouTube-Kanal **Schmobin**, angelehnt an das gleichnamige Format von Reved und PietSmiet. Dort werden schnell hintereinander Allgemeinwissensfragen gestellt, und wer falsch antwortet, verliert.
+
+1. **Recherche:** Versuch, aus den Videos dieser Reihe Beispielfragen zu holen, etwa über Untertitel mit `yt-dlp` (`--write-auto-subs --skip-download`) oder über die Videobeschreibungen. Nutz sie als Vorbild für Stil, Tempo und Schwierigkeit. Schreib daraus eigene Fragen im gleichen Stil und sortiere sie in die passenden Klassen ein. Klappt der Zugriff nicht, schreib die Fragen selbst in diesem Stil: kurz, schnell zu beantworten, eine Mischung aus leicht und gemein.
+2. **Spielmodus:** Schnelle Fragenrunde mit 3 Leben. Jede falsche Antwort kostet ein Leben, optional mit einem Zeitlimit pro Frage (z. B. 10 Sekunden, abschaltbar). Am Ende stehen Highscore und eine Liste der Fehler mit Erklärung.
+3. **Mehrspieler am selben Gerät:** 2 bis 8 Namen eingeben, das Gerät wird reihum weitergegeben. Wer alle Leben verliert, „fliegt“, und der Letzte gewinnt.
+4. Optional gibt es einen Modus mit freier Texteingabe statt Antwortauswahl, mit toleranter Prüfung (Groß- und Kleinschreibung sowie kleine Tippfehler egal).
+
+## 5. Reiter „Aktuell“ (Nachrichten)
+
+Ein eigener Reiter mit den neuesten Meldungen aus den Medien, damit man auf dem Laufenden bleibt.
+
+- Die Meldungen sollen **automatisch aktuell** sein, nicht fest eingetippt. Nutz dafür eine kostenlose, öffentliche Quelle ohne API-Schlüssel, z. B. die öffentliche tagesschau-API oder die RSS-Feeds von tagesschau.de, ZDFheute und Deutschlandfunk.
+- Such dir eine robuste Lösung, die auch auf kostenlosem Hosting funktioniert, und erklär sie im Bericht. Beispiel: eine GitHub Action, die einmal täglich eine `news.json` erzeugt, oder ein Abruf im Browser, falls die Quelle das erlaubt (CORS).
+- Jede Meldung zeigt Thema, Überschrift, kurzen Text, Datum, Quelle mit Link und, wo sinnvoll, eine kurze Einordnung als Hintergrundwissen.
+- Optional: ein kleines Quiz zu den Meldungen der Woche.
+- Wenn keine aktuellen Daten da sind, zeig einen klaren Hinweis mit dem Stand-Datum statt alter Meldungen ohne Datum.
+
+## 6. Technik
+
+- Halte es so einfach wie möglich: Die Seite soll später kostenlos auf **GitHub Pages** oder **Netlify** laufen. Statische Seite, kein eigener Server, keine Anmeldung, keine Kosten.
+- Wähl ein passendes Werkzeug (z. B. Vite mit einfachem JavaScript oder einem schlanken Framework) und begründe die Wahl kurz.
+- Die Seite ist mobil zuerst gebaut, hat einen Dunkelmodus, ist mit der Tastatur bedienbar (Antworten über 1 bis 4 bzw. A bis D) und berücksichtigt `prefers-reduced-motion`.
+- Navigation: Start, Lernen (Klassen), Der Dümmste fliegt, Aktuell, Fortschritt.
+- Es gibt eine Fortschrittsseite mit Statistik pro Klasse, Serie, Level und den stärksten bzw. schwächsten Klassen.
+- Fortschritt als Datei exportieren und importieren (JSON), damit nichts verloren geht.
+
+## 7. Abschluss
+
+1. Schreib eine `README.md` auf Deutsch, verständlich für Anfänger. Sie erklärt:
+   - wie man die Seite startet,
+   - wie man neue Fragen hinzufügt,
+   - wie man die Seite kostenlos online stellt.
+2. Starte die Seite lokal und öffne sie in meinem Browser.
+3. Gib mir am Ende einen kurzen Bericht auf Deutsch:
+   - was du gebaut hast,
+   - welche Skills und Pakete du installiert hast,
+   - wie viele Fragen es pro Klasse gibt,
+   - was mit den Schmobin-Fragen geklappt hat und was nicht,
+   - wie die Nachrichten aktuell gehalten werden,
+   - was du als Nächstes vorschlagen würdest.
