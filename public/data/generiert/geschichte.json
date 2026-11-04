@@ -1,0 +1,1587 @@
+{
+ "klasse": "geschichte",
+ "erzeugt": "scripts/generate-fakten.mjs",
+ "fragen": [
+  {
+   "id": "ges-j-gruendung-roms-sage",
+   "schwierigkeit": "mittel",
+   "frage": "In welchem Jahr wurde Rom der Sage nach gegründet?",
+   "richtig": "753 v. Chr.",
+   "falsch": [
+    "653 v. Chr.",
+    "703 v. Chr.",
+    "723 v. Chr."
+   ],
+   "begruendung": "Gründung Roms (Sage): 753 v. Chr..",
+   "karte": {
+    "titel": "Gründung Roms (Sage)",
+    "text": "Der Sage nach gründeten die Zwillinge Romulus und Remus die Stadt. Die Römer zählten ihre Jahre ab diesem Datum.",
+    "merke": "Gründung Roms (Sage): 753 v. Chr.."
+   }
+  },
+  {
+   "id": "ges-j-schlacht-bei-marathon",
+   "schwierigkeit": "schwer",
+   "frage": "In welchem Jahr siegten die Athener bei Marathon über die Perser?",
+   "richtig": "490 v. Chr.",
+   "falsch": [
+    "470 v. Chr.",
+    "510 v. Chr.",
+    "590 v. Chr."
+   ],
+   "begruendung": "Schlacht bei Marathon: 490 v. Chr..",
+   "karte": {
+    "titel": "Schlacht bei Marathon",
+    "text": "Der Legende nach lief ein Bote nach Athen, um den Sieg zu melden. Daran erinnert der Marathonlauf.",
+    "merke": "Schlacht bei Marathon: 490 v. Chr.."
+   }
+  },
+  {
+   "id": "ges-j-tod-alexanders-des-grossen",
+   "schwierigkeit": "schwer",
+   "frage": "In welchem Jahr starb Alexander der Große?",
+   "richtig": "323 v. Chr.",
+   "falsch": [
+    "373 v. Chr.",
+    "293 v. Chr.",
+    "313 v. Chr."
+   ],
+   "begruendung": "Tod Alexanders des Großen: 323 v. Chr..",
+   "karte": {
+    "titel": "Tod Alexanders des Großen",
+    "text": "Alexander eroberte ein Reich von Griechenland bis Indien und starb mit 32 Jahren in Babylon.",
+    "merke": "Tod Alexanders des Großen: 323 v. Chr.."
+   }
+  },
+  {
+   "id": "ges-j-varusschlacht",
+   "schwierigkeit": "mittel",
+   "frage": "In welchem Jahr besiegten Germanen unter Arminius drei römische Legionen?",
+   "richtig": "9 n. Chr.",
+   "falsch": [
+    "29 n. Chr.",
+    "39 n. Chr.",
+    "59 n. Chr."
+   ],
+   "begruendung": "Varusschlacht: 9 n. Chr..",
+   "karte": {
+    "titel": "Varusschlacht",
+    "text": "Die Schlacht im Teutoburger Wald stoppte die Ausdehnung Roms über den Rhein hinaus.",
+    "merke": "Varusschlacht: 9 n. Chr.."
+   }
+  },
+  {
+   "id": "ges-j-untergang-pompejis",
+   "schwierigkeit": "mittel",
+   "frage": "In welchem Jahr begrub der Vesuv die Stadt Pompeji?",
+   "richtig": "79 n. Chr.",
+   "falsch": [
+    "49 n. Chr.",
+    "59 n. Chr.",
+    "99 n. Chr."
+   ],
+   "begruendung": "Untergang Pompejis: 79 n. Chr..",
+   "karte": {
+    "titel": "Untergang Pompejis",
+    "text": "Asche und Bimsstein konservierten die Stadt so gut, dass Archäologen heute den Alltag der Römer studieren können.",
+    "merke": "Untergang Pompejis: 79 n. Chr.."
+   }
+  },
+  {
+   "id": "ges-j-kaiserkroenung-ottos-des-grossen",
+   "schwierigkeit": "schwer",
+   "frage": "In welchem Jahr wurde Otto I. in Rom zum Kaiser gekrönt?",
+   "richtig": "962 n. Chr.",
+   "falsch": [
+    "952 n. Chr.",
+    "932 n. Chr.",
+    "912 n. Chr."
+   ],
+   "begruendung": "Kaiserkrönung Ottos des Großen: 962 n. Chr..",
+   "karte": {
+    "titel": "Kaiserkrönung Ottos des Großen",
+    "text": "Mit Otto beginnt die Geschichte des Heiligen Römischen Reiches als Kaiserreich der deutschen Könige.",
+    "merke": "Kaiserkrönung Ottos des Großen: 962 n. Chr.."
+   }
+  },
+  {
+   "id": "ges-j-schlacht-bei-hastings",
+   "schwierigkeit": "schwer",
+   "frage": "In welchem Jahr eroberte Wilhelm der Eroberer England?",
+   "richtig": "1066",
+   "falsch": [
+    "1077",
+    "1095",
+    "1061"
+   ],
+   "begruendung": "Schlacht bei Hastings: 1066.",
+   "karte": {
+    "titel": "Schlacht bei Hastings",
+    "text": "Der Normanne Wilhelm besiegte König Harald. Der Teppich von Bayeux erzählt die Geschichte in Bildern.",
+    "merke": "Schlacht bei Hastings: 1066."
+   }
+  },
+  {
+   "id": "ges-j-gang-nach-canossa",
+   "schwierigkeit": "schwer",
+   "frage": "In welchem Jahr ging König Heinrich IV. nach Canossa?",
+   "richtig": "1077",
+   "falsch": [
+    "1066",
+    "1095",
+    "1087"
+   ],
+   "begruendung": "Gang nach Canossa: 1077.",
+   "karte": {
+    "titel": "Gang nach Canossa",
+    "text": "Heinrich bat Papst Gregor VII. im Büßergewand um Aufhebung des Kirchenbanns. „Nach Canossa gehen“ heißt bis heute: sich demütigen.",
+    "merke": "Gang nach Canossa: 1077."
+   }
+  },
+  {
+   "id": "ges-j-aufruf-zum-ersten-kreuzzug",
+   "schwierigkeit": "schwer",
+   "frage": "In welchem Jahr rief Papst Urban II. zum Ersten Kreuzzug auf?",
+   "richtig": "1095",
+   "falsch": [
+    "1077",
+    "1066",
+    "1090"
+   ],
+   "begruendung": "Aufruf zum Ersten Kreuzzug: 1095.",
+   "karte": {
+    "titel": "Aufruf zum Ersten Kreuzzug",
+    "text": "Die Kreuzfahrer eroberten 1099 Jerusalem.",
+    "merke": "Aufruf zum Ersten Kreuzzug: 1095."
+   }
+  },
+  {
+   "id": "ges-j-magna-carta",
+   "schwierigkeit": "schwer",
+   "frage": "In welchem Jahr unterzeichnete der englische König die Magna Carta?",
+   "richtig": "1215",
+   "falsch": [
+    "1235",
+    "1217",
+    "1214"
+   ],
+   "begruendung": "Magna Carta: 1215.",
+   "karte": {
+    "titel": "Magna Carta",
+    "text": "Die Urkunde beschränkte die Macht des Königs und gilt als frühes Dokument der Freiheitsrechte.",
+    "merke": "Magna Carta: 1215."
+   }
+  },
+  {
+   "id": "ges-j-ausbruch-der-pest-in-europa",
+   "schwierigkeit": "schwer",
+   "frage": "In welchem Jahr erreichte der „Schwarze Tod“ Europa?",
+   "richtig": "1347",
+   "falsch": [
+    "1356",
+    "1352",
+    "1349"
+   ],
+   "begruendung": "Ausbruch der Pest in Europa: 1347.",
+   "karte": {
+    "titel": "Ausbruch der Pest in Europa",
+    "text": "Bis 1351 starb etwa ein Drittel der Menschen in Europa an der Pest.",
+    "merke": "Ausbruch der Pest in Europa: 1347."
+   }
+  },
+  {
+   "id": "ges-j-goldene-bulle",
+   "schwierigkeit": "schwer",
+   "frage": "In welchem Jahr erließ Kaiser Karl IV. die Goldene Bulle?",
+   "richtig": "1356",
+   "falsch": [
+    "1347",
+    "1376",
+    "1354"
+   ],
+   "begruendung": "Goldene Bulle: 1356.",
+   "karte": {
+    "titel": "Goldene Bulle",
+    "text": "Das Gesetz regelte, dass sieben Kurfürsten den König wählen.",
+    "merke": "Goldene Bulle: 1356."
+   }
+  },
+  {
+   "id": "ges-j-fall-konstantinopels",
+   "schwierigkeit": "mittel",
+   "frage": "In welchem Jahr eroberten die Osmanen Konstantinopel?",
+   "richtig": "1453",
+   "falsch": [
+    "1451",
+    "1438",
+    "1448"
+   ],
+   "begruendung": "Fall Konstantinopels: 1453.",
+   "karte": {
+    "titel": "Fall Konstantinopels",
+    "text": "Mit dem Fall der Stadt endete das Byzantinische Reich. Die Stadt heißt heute Istanbul.",
+    "merke": "Fall Konstantinopels: 1453."
+   }
+  },
+  {
+   "id": "ges-j-deutscher-bauernkrieg",
+   "schwierigkeit": "schwer",
+   "frage": "In welchem Jahr erhoben sich die Bauern im Deutschen Bauernkrieg?",
+   "richtig": "1525",
+   "falsch": [
+    "1555",
+    "1527",
+    "1526"
+   ],
+   "begruendung": "Deutscher Bauernkrieg: 1525.",
+   "karte": {
+    "titel": "Deutscher Bauernkrieg",
+    "text": "Die Bauern forderten mehr Rechte in den „Zwölf Artikeln“. Die Fürsten schlugen den Aufstand blutig nieder.",
+    "merke": "Deutscher Bauernkrieg: 1525."
+   }
+  },
+  {
+   "id": "ges-j-augsburger-religionsfriede",
+   "schwierigkeit": "schwer",
+   "frage": "In welchem Jahr wurde der Augsburger Religionsfriede geschlossen?",
+   "richtig": "1555",
+   "falsch": [
+    "1525",
+    "1560",
+    "1548"
+   ],
+   "begruendung": "Augsburger Religionsfriede: 1555.",
+   "karte": {
+    "titel": "Augsburger Religionsfriede",
+    "text": "Jeder Landesherr durfte nun die Religion seiner Untertanen bestimmen.",
+    "merke": "Augsburger Religionsfriede: 1555."
+   }
+  },
+  {
+   "id": "ges-j-beginn-des-dreissigjaehrigen-krieges",
+   "schwierigkeit": "mittel",
+   "frage": "In welchem Jahr begann der Dreißigjährige Krieg?",
+   "richtig": "1618",
+   "falsch": [
+    "1648",
+    "1630",
+    "1623"
+   ],
+   "begruendung": "Beginn des Dreißigjährigen Krieges: 1618.",
+   "karte": {
+    "titel": "Beginn des Dreißigjährigen Krieges",
+    "text": "Der Prager Fenstersturz löste den Krieg aus. Weite Teile Deutschlands wurden verwüstet.",
+    "merke": "Beginn des Dreißigjährigen Krieges: 1618."
+   }
+  },
+  {
+   "id": "ges-j-westfaelischer-friede",
+   "schwierigkeit": "mittel",
+   "frage": "In welchem Jahr endete der Dreißigjährige Krieg mit dem Westfälischen Frieden?",
+   "richtig": "1648",
+   "falsch": [
+    "1618",
+    "1650",
+    "1643"
+   ],
+   "begruendung": "Westfälischer Friede: 1648.",
+   "karte": {
+    "titel": "Westfälischer Friede",
+    "text": "Die Verträge wurden in Münster und Osnabrück ausgehandelt.",
+    "merke": "Westfälischer Friede: 1648."
+   }
+  },
+  {
+   "id": "ges-j-unabhaengigkeitserklaerung-der-usa",
+   "schwierigkeit": "leicht",
+   "frage": "In welchem Jahr erklärten die USA ihre Unabhängigkeit?",
+   "richtig": "1776",
+   "falsch": [
+    "1804",
+    "1815",
+    "1806"
+   ],
+   "begruendung": "Unabhängigkeitserklärung der USA: 1776.",
+   "karte": {
+    "titel": "Unabhängigkeitserklärung der USA",
+    "text": "Am 4. Juli 1776 sagten sich 13 Kolonien von Großbritannien los. Der Tag ist heute Nationalfeiertag der USA.",
+    "merke": "Unabhängigkeitserklärung der USA: 1776."
+   }
+  },
+  {
+   "id": "ges-j-kaiserkroenung-napoleons",
+   "schwierigkeit": "schwer",
+   "frage": "In welchem Jahr krönte sich Napoleon zum Kaiser der Franzosen?",
+   "richtig": "1804",
+   "falsch": [
+    "1776",
+    "1813",
+    "1806"
+   ],
+   "begruendung": "Kaiserkrönung Napoleons: 1804.",
+   "karte": {
+    "titel": "Kaiserkrönung Napoleons",
+    "text": "In Notre-Dame setzte sich Napoleon die Krone selbst auf.",
+    "merke": "Kaiserkrönung Napoleons: 1804."
+   }
+  },
+  {
+   "id": "ges-j-ende-des-heiligen-roemischen-reiches",
+   "schwierigkeit": "schwer",
+   "frage": "In welchem Jahr endete das Heilige Römische Reich Deutscher Nation?",
+   "richtig": "1806",
+   "falsch": [
+    "1776",
+    "1815",
+    "1804"
+   ],
+   "begruendung": "Ende des Heiligen Römischen Reiches: 1806.",
+   "karte": {
+    "titel": "Ende des Heiligen Römischen Reiches",
+    "text": "Unter dem Druck Napoleons legte Franz II. die Kaiserkrone nieder.",
+    "merke": "Ende des Heiligen Römischen Reiches: 1806."
+   }
+  },
+  {
+   "id": "ges-j-voelkerschlacht-bei-leipzig",
+   "schwierigkeit": "mittel",
+   "frage": "In welchem Jahr fand die Völkerschlacht bei Leipzig statt?",
+   "richtig": "1813",
+   "falsch": [
+    "1815",
+    "1806",
+    "1848"
+   ],
+   "begruendung": "Völkerschlacht bei Leipzig: 1813.",
+   "karte": {
+    "titel": "Völkerschlacht bei Leipzig",
+    "text": "Preußen, Russland, Österreich und Schweden besiegten Napoleon. Daran erinnert das Völkerschlachtdenkmal.",
+    "merke": "Völkerschlacht bei Leipzig: 1813."
+   }
+  },
+  {
+   "id": "ges-j-gruendung-des-deutschen-bundes",
+   "schwierigkeit": "schwer",
+   "frage": "In welchem Jahr wurde auf dem Wiener Kongress der Deutsche Bund gegründet?",
+   "richtig": "1815",
+   "falsch": [
+    "1813",
+    "1848",
+    "1804"
+   ],
+   "begruendung": "Gründung des Deutschen Bundes: 1815.",
+   "karte": {
+    "titel": "Gründung des Deutschen Bundes",
+    "text": "Der Deutsche Bund war ein lockerer Zusammenschluss von 39 Staaten.",
+    "merke": "Gründung des Deutschen Bundes: 1815."
+   }
+  },
+  {
+   "id": "ges-j-hambacher-fest",
+   "schwierigkeit": "schwer",
+   "frage": "In welchem Jahr feierten Tausende das Hambacher Fest?",
+   "richtig": "1832",
+   "falsch": [
+    "1861",
+    "1815",
+    "1813"
+   ],
+   "begruendung": "Hambacher Fest: 1832.",
+   "karte": {
+    "titel": "Hambacher Fest",
+    "text": "Auf dem Fest forderten die Teilnehmer ein einiges, freies Deutschland. Dort wehte auch Schwarz-Rot-Gold.",
+    "merke": "Hambacher Fest: 1832."
+   }
+  },
+  {
+   "id": "ges-j-maerzrevolution",
+   "schwierigkeit": "mittel",
+   "frage": "In welchem Jahr brach in Deutschland die Märzrevolution aus?",
+   "richtig": "1848",
+   "falsch": [
+    "1865",
+    "1813",
+    "1871"
+   ],
+   "begruendung": "Märzrevolution: 1848.",
+   "karte": {
+    "titel": "Märzrevolution",
+    "text": "In der Frankfurter Paulskirche tagte danach das erste gesamtdeutsche Parlament.",
+    "merke": "Märzrevolution: 1848."
+   }
+  },
+  {
+   "id": "ges-j-beginn-des-amerikanischen-buergerkriegs",
+   "schwierigkeit": "mittel",
+   "frage": "In welchem Jahr begann der Amerikanische Bürgerkrieg?",
+   "richtig": "1861",
+   "falsch": [
+    "1871",
+    "1893",
+    "1848"
+   ],
+   "begruendung": "Beginn des Amerikanischen Bürgerkriegs: 1861.",
+   "karte": {
+    "titel": "Beginn des Amerikanischen Bürgerkriegs",
+    "text": "Die Nordstaaten kämpften gegen die Südstaaten, die an der Sklaverei festhielten. Der Krieg endete 1865.",
+    "merke": "Beginn des Amerikanischen Bürgerkriegs: 1861."
+   }
+  },
+  {
+   "id": "ges-j-abschaffung-der-sklaverei-in-den-usa",
+   "schwierigkeit": "schwer",
+   "frage": "In welchem Jahr wurde die Sklaverei in den USA abgeschafft?",
+   "richtig": "1865",
+   "falsch": [
+    "1893",
+    "1871",
+    "1890"
+   ],
+   "begruendung": "Abschaffung der Sklaverei in den USA: 1865.",
+   "karte": {
+    "titel": "Abschaffung der Sklaverei in den USA",
+    "text": "Der 13. Zusatzartikel der Verfassung verbot die Sklaverei im ganzen Land.",
+    "merke": "Abschaffung der Sklaverei in den USA: 1865."
+   }
+  },
+  {
+   "id": "ges-j-gruendung-des-deutschen-kaiserreichs",
+   "schwierigkeit": "leicht",
+   "frage": "In welchem Jahr wurde das Deutsche Kaiserreich gegründet?",
+   "richtig": "1871",
+   "falsch": [
+    "1832",
+    "1893",
+    "1861"
+   ],
+   "begruendung": "Gründung des Deutschen Kaiserreichs: 1871.",
+   "karte": {
+    "titel": "Gründung des Deutschen Kaiserreichs",
+    "text": "Wilhelm I. wurde Kaiser, Otto von Bismarck Reichskanzler.",
+    "merke": "Gründung des Deutschen Kaiserreichs: 1871."
+   }
+  },
+  {
+   "id": "ges-j-entlassung-bismarcks",
+   "schwierigkeit": "schwer",
+   "frage": "In welchem Jahr entließ Kaiser Wilhelm II. Otto von Bismarck?",
+   "richtig": "1890",
+   "falsch": [
+    "1861",
+    "1918",
+    "1923"
+   ],
+   "begruendung": "Entlassung Bismarcks: 1890.",
+   "karte": {
+    "titel": "Entlassung Bismarcks",
+    "text": "Der junge Kaiser wollte selbst regieren. Eine berühmte britische Karikatur hieß „Der Lotse geht von Bord“.",
+    "merke": "Entlassung Bismarcks: 1890."
+   }
+  },
+  {
+   "id": "ges-j-frauenwahlrecht-in-neuseeland",
+   "schwierigkeit": "schwer",
+   "frage": "In welchem Jahr führte Neuseeland als erster Staat das Frauenwahlrecht ein?",
+   "richtig": "1893",
+   "falsch": [
+    "1929",
+    "1918",
+    "1865"
+   ],
+   "begruendung": "Frauenwahlrecht in Neuseeland: 1893.",
+   "karte": {
+    "titel": "Frauenwahlrecht in Neuseeland",
+    "text": "Neuseeland war damals eine selbstverwaltete britische Kolonie.",
+    "merke": "Frauenwahlrecht in Neuseeland: 1893."
+   }
+  },
+  {
+   "id": "ges-j-oktoberrevolution",
+   "schwierigkeit": "mittel",
+   "frage": "In welchem Jahr übernahmen die Bolschewiki in Russland die Macht?",
+   "richtig": "1917",
+   "falsch": [
+    "1890",
+    "1949",
+    "1919"
+   ],
+   "begruendung": "Oktoberrevolution: 1917.",
+   "karte": {
+    "titel": "Oktoberrevolution",
+    "text": "Lenin führte die Revolution an. 1922 entstand die Sowjetunion.",
+    "merke": "Oktoberrevolution: 1917."
+   }
+  },
+  {
+   "id": "ges-j-ende-des-ersten-weltkriegs",
+   "schwierigkeit": "leicht",
+   "frage": "In welchem Jahr endete der Erste Weltkrieg?",
+   "richtig": "1918",
+   "falsch": [
+    "1919",
+    "1929",
+    "1955"
+   ],
+   "begruendung": "Ende des Ersten Weltkriegs: 1918.",
+   "karte": {
+    "titel": "Ende des Ersten Weltkriegs",
+    "text": "Am 11. November 1918 trat der Waffenstillstand von Compiègne in Kraft.",
+    "merke": "Ende des Ersten Weltkriegs: 1918."
+   }
+  },
+  {
+   "id": "ges-j-versailler-vertrag",
+   "schwierigkeit": "mittel",
+   "frage": "In welchem Jahr unterzeichnete Deutschland den Versailler Vertrag?",
+   "richtig": "1919",
+   "falsch": [
+    "1890",
+    "1945",
+    "1949"
+   ],
+   "begruendung": "Versailler Vertrag: 1919.",
+   "karte": {
+    "titel": "Versailler Vertrag",
+    "text": "Deutschland verlor Gebiete, musste abrüsten und Reparationen zahlen.",
+    "merke": "Versailler Vertrag: 1919."
+   }
+  },
+  {
+   "id": "ges-j-hyperinflation",
+   "schwierigkeit": "mittel",
+   "frage": "In welchem Jahr erreichte die Inflation in Deutschland ihren Höhepunkt?",
+   "richtig": "1923",
+   "falsch": [
+    "1929",
+    "1948",
+    "1893"
+   ],
+   "begruendung": "Hyperinflation: 1923.",
+   "karte": {
+    "titel": "Hyperinflation",
+    "text": "Im November 1923 kostete ein Brot in Berlin über 200 Milliarden Mark.",
+    "merke": "Hyperinflation: 1923."
+   }
+  },
+  {
+   "id": "ges-j-boersencrash-in-new-york",
+   "schwierigkeit": "mittel",
+   "frage": "In welchem Jahr löste ein Börsencrash in New York die Weltwirtschaftskrise aus?",
+   "richtig": "1929",
+   "falsch": [
+    "1923",
+    "1953",
+    "1948"
+   ],
+   "begruendung": "Börsencrash in New York: 1929.",
+   "karte": {
+    "titel": "Börsencrash in New York",
+    "text": "Der Crash im Oktober 1929 führte weltweit zu Massenarbeitslosigkeit.",
+    "merke": "Börsencrash in New York: 1929."
+   }
+  },
+  {
+   "id": "ges-j-hitler-wird-reichskanzler",
+   "schwierigkeit": "leicht",
+   "frage": "In welchem Jahr wurde Adolf Hitler Reichskanzler?",
+   "richtig": "1933",
+   "falsch": [
+    "1949",
+    "1918",
+    "1938"
+   ],
+   "begruendung": "Hitler wird Reichskanzler: 1933.",
+   "karte": {
+    "titel": "Hitler wird Reichskanzler",
+    "text": "Am 30. Januar 1933 ernannte Reichspräsident Hindenburg Hitler zum Kanzler. Binnen Monaten errichtete er eine Diktatur.",
+    "merke": "Hitler wird Reichskanzler: 1933."
+   }
+  },
+  {
+   "id": "ges-j-novemberpogrome",
+   "schwierigkeit": "mittel",
+   "frage": "In welchem Jahr zerstörten Nationalsozialisten in den Novemberpogromen Synagogen und jüdische Geschäfte?",
+   "richtig": "1938",
+   "falsch": [
+    "1948",
+    "1957",
+    "1953"
+   ],
+   "begruendung": "Novemberpogrome: 1938.",
+   "karte": {
+    "titel": "Novemberpogrome",
+    "text": "Mindestens 90 Menschen wurden ermordet, rund 30.000 jüdische Männer in Konzentrationslager verschleppt.",
+    "merke": "Novemberpogrome: 1938."
+   }
+  },
+  {
+   "id": "ges-j-gruendung-der-vereinten-nationen",
+   "schwierigkeit": "mittel",
+   "frage": "In welchem Jahr wurden die Vereinten Nationen gegründet?",
+   "richtig": "1945",
+   "falsch": [
+    "1968",
+    "1947",
+    "1917"
+   ],
+   "begruendung": "Gründung der Vereinten Nationen: 1945.",
+   "karte": {
+    "titel": "Gründung der Vereinten Nationen",
+    "text": "Die UN-Charta trat am 24. Oktober 1945 in Kraft. Damals hatten die UN 51 Mitglieder.",
+    "merke": "Gründung der Vereinten Nationen: 1945."
+   }
+  },
+  {
+   "id": "ges-j-unabhaengigkeit-indiens",
+   "schwierigkeit": "mittel",
+   "frage": "In welchem Jahr wurde Indien von Großbritannien unabhängig?",
+   "richtig": "1947",
+   "falsch": [
+    "1923",
+    "1973",
+    "1972"
+   ],
+   "begruendung": "Unabhängigkeit Indiens: 1947.",
+   "karte": {
+    "titel": "Unabhängigkeit Indiens",
+    "text": "Gleichzeitig entstand Pakistan. Die Teilung trieb Millionen Menschen in die Flucht.",
+    "merke": "Unabhängigkeit Indiens: 1947."
+   }
+  },
+  {
+   "id": "ges-j-gruendung-israels",
+   "schwierigkeit": "mittel",
+   "frage": "In welchem Jahr wurde der Staat Israel gegründet?",
+   "richtig": "1948",
+   "falsch": [
+    "1968",
+    "1970",
+    "1923"
+   ],
+   "begruendung": "Gründung Israels: 1948.",
+   "karte": {
+    "titel": "Gründung Israels",
+    "text": "David Ben-Gurion rief den Staat am 14. Mai 1948 aus.",
+    "merke": "Gründung Israels: 1948."
+   }
+  },
+  {
+   "id": "ges-j-einfuehrung-der-d-mark",
+   "schwierigkeit": "mittel",
+   "frage": "In welchem Jahr wurde in den Westzonen die D-Mark eingeführt?",
+   "richtig": "1948",
+   "falsch": [
+    "1919",
+    "1949",
+    "1945"
+   ],
+   "begruendung": "Einführung der D-Mark: 1948.",
+   "karte": {
+    "titel": "Einführung der D-Mark",
+    "text": "Mit der Währungsreform füllten sich die Schaufenster über Nacht. Die Sowjetunion antwortete mit der Berlin-Blockade.",
+    "merke": "Einführung der D-Mark: 1948."
+   }
+  },
+  {
+   "id": "ges-j-gruendung-der-ddr",
+   "schwierigkeit": "leicht",
+   "frage": "In welchem Jahr wurde die DDR gegründet?",
+   "richtig": "1949",
+   "falsch": [
+    "1970",
+    "1938",
+    "1972"
+   ],
+   "begruendung": "Gründung der DDR: 1949.",
+   "karte": {
+    "titel": "Gründung der DDR",
+    "text": "Die DDR entstand am 7. Oktober 1949 in der sowjetischen Besatzungszone.",
+    "merke": "Gründung der DDR: 1949."
+   }
+  },
+  {
+   "id": "ges-j-volksaufstand-in-der-ddr",
+   "schwierigkeit": "mittel",
+   "frage": "In welchem Jahr protestierten in der DDR Hunderttausende beim Volksaufstand?",
+   "richtig": "1953",
+   "falsch": [
+    "1919",
+    "1955",
+    "1929"
+   ],
+   "begruendung": "Volksaufstand in der DDR: 1953.",
+   "karte": {
+    "titel": "Volksaufstand in der DDR",
+    "text": "Am 17. Juni 1953 schlugen sowjetische Panzer den Aufstand nieder.",
+    "merke": "Volksaufstand in der DDR: 1953."
+   }
+  },
+  {
+   "id": "ges-j-gruendung-der-bundeswehr",
+   "schwierigkeit": "schwer",
+   "frage": "In welchem Jahr wurde die Bundeswehr gegründet?",
+   "richtig": "1955",
+   "falsch": [
+    "1992",
+    "1929",
+    "1953"
+   ],
+   "begruendung": "Gründung der Bundeswehr: 1955.",
+   "karte": {
+    "titel": "Gründung der Bundeswehr",
+    "text": "Die ersten 101 Freiwilligen erhielten am 12. November 1955 ihre Ernennungsurkunden.",
+    "merke": "Gründung der Bundeswehr: 1955."
+   }
+  },
+  {
+   "id": "ges-j-roemische-vertraege",
+   "schwierigkeit": "schwer",
+   "frage": "In welchem Jahr unterzeichneten sechs Staaten die Römischen Verträge?",
+   "richtig": "1957",
+   "falsch": [
+    "1968",
+    "1949",
+    "1948"
+   ],
+   "begruendung": "Römische Verträge: 1957.",
+   "karte": {
+    "titel": "Römische Verträge",
+    "text": "Die Verträge gründeten die Europäische Wirtschaftsgemeinschaft, eine Vorläuferin der EU.",
+    "merke": "Römische Verträge: 1957."
+   }
+  },
+  {
+   "id": "ges-j-ermordung-john-f-kennedys",
+   "schwierigkeit": "mittel",
+   "frage": "In welchem Jahr wurde US-Präsident John F. Kennedy ermordet?",
+   "richtig": "1963",
+   "falsch": [
+    "1977",
+    "1949",
+    "1991"
+   ],
+   "begruendung": "Ermordung John F. Kennedys: 1963.",
+   "karte": {
+    "titel": "Ermordung John F. Kennedys",
+    "text": "Kennedy wurde am 22. November 1963 in Dallas erschossen.",
+    "merke": "Ermordung John F. Kennedys: 1963."
+   }
+  },
+  {
+   "id": "ges-j-prager-fruehling",
+   "schwierigkeit": "mittel",
+   "frage": "In welchem Jahr beendeten Truppen des Warschauer Pakts den Prager Frühling?",
+   "richtig": "1968",
+   "falsch": [
+    "1933",
+    "1945",
+    "1963"
+   ],
+   "begruendung": "Prager Frühling: 1968.",
+   "karte": {
+    "titel": "Prager Frühling",
+    "text": "Die Reformer in der Tschechoslowakei wollten einen „Sozialismus mit menschlichem Antlitz“.",
+    "merke": "Prager Frühling: 1968."
+   }
+  },
+  {
+   "id": "ges-j-kniefall-von-warschau",
+   "schwierigkeit": "schwer",
+   "frage": "In welchem Jahr kniete Willy Brandt vor dem Denkmal des Warschauer Ghettos?",
+   "richtig": "1970",
+   "falsch": [
+    "1938",
+    "1957",
+    "1975"
+   ],
+   "begruendung": "Kniefall von Warschau: 1970.",
+   "karte": {
+    "titel": "Kniefall von Warschau",
+    "text": "Die Geste wurde zum Symbol der Versöhnung mit Polen.",
+    "merke": "Kniefall von Warschau: 1970."
+   }
+  },
+  {
+   "id": "ges-j-olympia-attentat-von-muenchen",
+   "schwierigkeit": "mittel",
+   "frage": "In welchem Jahr überfielen Terroristen die israelische Mannschaft bei den Olympischen Spielen in München?",
+   "richtig": "1972",
+   "falsch": [
+    "1968",
+    "1949",
+    "1973"
+   ],
+   "begruendung": "Olympia-Attentat von München: 1972.",
+   "karte": {
+    "titel": "Olympia-Attentat von München",
+    "text": "Elf israelische Sportler und Betreuer und ein Polizist kamen ums Leben.",
+    "merke": "Olympia-Attentat von München: 1972."
+   }
+  },
+  {
+   "id": "ges-j-oelkrise",
+   "schwierigkeit": "schwer",
+   "frage": "In welchem Jahr führte die Ölkrise in Deutschland zu autofreien Sonntagen?",
+   "richtig": "1973",
+   "falsch": [
+    "2011",
+    "1957",
+    "1948"
+   ],
+   "begruendung": "Ölkrise: 1973.",
+   "karte": {
+    "titel": "Ölkrise",
+    "text": "Arabische Staaten drosselten die Ölförderung. Die Preise vervielfachten sich.",
+    "merke": "Ölkrise: 1973."
+   }
+  },
+  {
+   "id": "ges-j-ende-des-vietnamkriegs",
+   "schwierigkeit": "schwer",
+   "frage": "In welchem Jahr eroberten nordvietnamesische Truppen Saigon?",
+   "richtig": "1975",
+   "falsch": [
+    "1994",
+    "1963",
+    "1957"
+   ],
+   "begruendung": "Ende des Vietnamkriegs: 1975.",
+   "karte": {
+    "titel": "Ende des Vietnamkriegs",
+    "text": "Mit dem Fall Saigons endete der Vietnamkrieg. Die Stadt heißt heute Ho-Chi-Minh-Stadt.",
+    "merke": "Ende des Vietnamkriegs: 1975."
+   }
+  },
+  {
+   "id": "ges-j-deutscher-herbst",
+   "schwierigkeit": "schwer",
+   "frage": "In welchem Jahr erschütterte der Terror der RAF im „Deutschen Herbst“ die Bundesrepublik?",
+   "richtig": "1977",
+   "falsch": [
+    "1990",
+    "1991",
+    "1963"
+   ],
+   "begruendung": "Deutscher Herbst: 1977.",
+   "karte": {
+    "titel": "Deutscher Herbst",
+    "text": "Die RAF entführte und ermordete Arbeitgeberpräsident Hanns Martin Schleyer.",
+    "merke": "Deutscher Herbst: 1977."
+   }
+  },
+  {
+   "id": "ges-j-freilassung-nelson-mandelas",
+   "schwierigkeit": "mittel",
+   "frage": "In welchem Jahr wurde Nelson Mandela aus der Haft entlassen?",
+   "richtig": "1990",
+   "falsch": [
+    "1994",
+    "1970",
+    "1953"
+   ],
+   "begruendung": "Freilassung Nelson Mandelas: 1990.",
+   "karte": {
+    "titel": "Freilassung Nelson Mandelas",
+    "text": "Mandela kam nach 27 Jahren frei. 1994 wurde er Präsident Südafrikas.",
+    "merke": "Freilassung Nelson Mandelas: 1990."
+   }
+  },
+  {
+   "id": "ges-j-ende-der-sowjetunion",
+   "schwierigkeit": "leicht",
+   "frage": "In welchem Jahr zerfiel die Sowjetunion?",
+   "richtig": "1991",
+   "falsch": [
+    "1963",
+    "1972",
+    "1992"
+   ],
+   "begruendung": "Ende der Sowjetunion: 1991.",
+   "karte": {
+    "titel": "Ende der Sowjetunion",
+    "text": "Im Dezember 1991 lösten sich 15 Republiken voneinander. Michail Gorbatschow trat zurück.",
+    "merke": "Ende der Sowjetunion: 1991."
+   }
+  },
+  {
+   "id": "ges-j-vertrag-von-maastricht",
+   "schwierigkeit": "schwer",
+   "frage": "In welchem Jahr unterzeichneten die EG-Staaten den Vertrag von Maastricht?",
+   "richtig": "1992",
+   "falsch": [
+    "1977",
+    "1973",
+    "1957"
+   ],
+   "begruendung": "Vertrag von Maastricht: 1992.",
+   "karte": {
+    "titel": "Vertrag von Maastricht",
+    "text": "Mit dem Vertrag entstand die Europäische Union und der Weg zum Euro wurde festgelegt.",
+    "merke": "Vertrag von Maastricht: 1992."
+   }
+  },
+  {
+   "id": "ges-j-voelkermord-in-ruanda",
+   "schwierigkeit": "schwer",
+   "frage": "In welchem Jahr wurden in Ruanda Hunderttausende Tutsi ermordet?",
+   "richtig": "1994",
+   "falsch": [
+    "2020",
+    "1975",
+    "1992"
+   ],
+   "begruendung": "Völkermord in Ruanda: 1994.",
+   "karte": {
+    "titel": "Völkermord in Ruanda",
+    "text": "In rund 100 Tagen töteten Hutu-Milizen etwa 800.000 Menschen.",
+    "merke": "Völkermord in Ruanda: 1994."
+   }
+  },
+  {
+   "id": "ges-j-anschlaege-vom-11-september",
+   "schwierigkeit": "leicht",
+   "frage": "In welchem Jahr steuerten Terroristen Flugzeuge in das World Trade Center?",
+   "richtig": "2001",
+   "falsch": [
+    "2016",
+    "1973",
+    "2022"
+   ],
+   "begruendung": "Anschläge vom 11. September: 2001.",
+   "karte": {
+    "titel": "Anschläge vom 11. September",
+    "text": "Rund 3.000 Menschen starben in New York, am Pentagon und in Pennsylvania.",
+    "merke": "Anschläge vom 11. September: 2001."
+   }
+  },
+  {
+   "id": "ges-j-finanzkrise",
+   "schwierigkeit": "mittel",
+   "frage": "In welchem Jahr brach die Bank Lehman Brothers zusammen?",
+   "richtig": "2008",
+   "falsch": [
+    "1990",
+    "1994",
+    "2020"
+   ],
+   "begruendung": "Finanzkrise: 2008.",
+   "karte": {
+    "titel": "Finanzkrise",
+    "text": "Die Pleite löste eine weltweite Finanz- und Wirtschaftskrise aus.",
+    "merke": "Finanzkrise: 2008."
+   }
+  },
+  {
+   "id": "ges-j-arabischer-fruehling",
+   "schwierigkeit": "mittel",
+   "frage": "In welchem Jahr begannen in vielen arabischen Ländern Proteste gegen die Machthaber?",
+   "richtig": "2011",
+   "falsch": [
+    "1973",
+    "1991",
+    "1977"
+   ],
+   "begruendung": "Arabischer Frühling: 2011.",
+   "karte": {
+    "titel": "Arabischer Frühling",
+    "text": "Die Proteste begannen Ende 2010 in Tunesien und erfassten 2011 Ägypten, Libyen und Syrien.",
+    "merke": "Arabischer Frühling: 2011."
+   }
+  },
+  {
+   "id": "ges-j-annexion-der-krim",
+   "schwierigkeit": "mittel",
+   "frage": "In welchem Jahr annektierte Russland die ukrainische Halbinsel Krim?",
+   "richtig": "2014",
+   "falsch": [
+    "2001",
+    "2022",
+    "1992"
+   ],
+   "begruendung": "Annexion der Krim: 2014.",
+   "karte": {
+    "titel": "Annexion der Krim",
+    "text": "Die meisten Staaten der Welt erkennen die Annexion nicht an.",
+    "merke": "Annexion der Krim: 2014."
+   }
+  },
+  {
+   "id": "ges-j-brexit-referendum",
+   "schwierigkeit": "mittel",
+   "frage": "In welchem Jahr stimmten die Briten für den Austritt aus der EU?",
+   "richtig": "2016",
+   "falsch": [
+    "2022",
+    "2008",
+    "2014"
+   ],
+   "begruendung": "Brexit-Referendum: 2016.",
+   "karte": {
+    "titel": "Brexit-Referendum",
+    "text": "Knapp 52 Prozent stimmten für den Brexit. Der Austritt folgte 2020.",
+    "merke": "Brexit-Referendum: 2016."
+   }
+  },
+  {
+   "id": "ges-j-beginn-der-corona-pandemie",
+   "schwierigkeit": "leicht",
+   "frage": "In welchem Jahr erklärte die WHO Covid-19 zur Pandemie?",
+   "richtig": "2020",
+   "falsch": [
+    "1991",
+    "2001",
+    "1992"
+   ],
+   "begruendung": "Beginn der Corona-Pandemie: 2020.",
+   "karte": {
+    "titel": "Beginn der Corona-Pandemie",
+    "text": "Die WHO rief die Pandemie am 11. März 2020 aus.",
+    "merke": "Beginn der Corona-Pandemie: 2020."
+   }
+  },
+  {
+   "id": "ges-j-russischer-angriff-auf-die-ukraine",
+   "schwierigkeit": "leicht",
+   "frage": "In welchem Jahr begann Russland den großangelegten Angriff auf die Ukraine?",
+   "richtig": "2022",
+   "falsch": [
+    "2014",
+    "1991",
+    "2001"
+   ],
+   "begruendung": "Russischer Angriff auf die Ukraine: 2022.",
+   "karte": {
+    "titel": "Russischer Angriff auf die Ukraine",
+    "text": "Am 24. Februar 2022 marschierten russische Truppen auf breiter Front in die Ukraine ein.",
+    "merke": "Russischer Angriff auf die Ukraine: 2022."
+   }
+  },
+  {
+   "id": "ges-p-der-erste-praesident-der-usa",
+   "schwierigkeit": "leicht",
+   "frage": "Wer war der erste Präsident der USA?",
+   "richtig": "George Washington",
+   "falsch": [
+    "Barack Obama",
+    "Michail Gorbatschow",
+    "Lenin"
+   ],
+   "begruendung": "George Washington: der erste Präsident der USA.",
+   "karte": {
+    "titel": "George Washington",
+    "text": "Washington führte die Armee im Unabhängigkeitskrieg und war von 1789 bis 1797 Präsident.",
+    "merke": "George Washington: der erste Präsident der USA."
+   }
+  },
+  {
+   "id": "ges-p-der-erste-bundespraesident",
+   "schwierigkeit": "mittel",
+   "frage": "Wer war der erste Bundespräsident?",
+   "richtig": "Theodor Heuss",
+   "falsch": [
+    "Wilhelm I.",
+    "Erich Honecker",
+    "Willy Brandt"
+   ],
+   "begruendung": "Theodor Heuss: der erste Bundespräsident.",
+   "karte": {
+    "titel": "Theodor Heuss",
+    "text": "Theodor Heuss (FDP) war von 1949 bis 1959 Bundespräsident.",
+    "merke": "Theodor Heuss: der erste Bundespräsident."
+   }
+  },
+  {
+   "id": "ges-p-der-erste-deutsche-kaiser",
+   "schwierigkeit": "mittel",
+   "frage": "Wer war der erste deutsche Kaiser?",
+   "richtig": "Wilhelm I.",
+   "falsch": [
+    "Ludwig II.",
+    "Willy Brandt",
+    "Wilhelm II."
+   ],
+   "begruendung": "Wilhelm I.: der erste deutsche Kaiser.",
+   "karte": {
+    "titel": "Wilhelm I.",
+    "text": "Wilhelm I. war König von Preußen und wurde 1871 Deutscher Kaiser.",
+    "merke": "Wilhelm I.: der erste deutsche Kaiser."
+   }
+  },
+  {
+   "id": "ges-p-der-letzte-deutsche-kaiser",
+   "schwierigkeit": "mittel",
+   "frage": "Wer war der letzte deutsche Kaiser?",
+   "richtig": "Wilhelm II.",
+   "falsch": [
+    "Wilhelm I.",
+    "Theodor Heuss",
+    "Helmut Kohl"
+   ],
+   "begruendung": "Wilhelm II.: der letzte deutsche Kaiser.",
+   "karte": {
+    "titel": "Wilhelm II.",
+    "text": "Wilhelm II. dankte im November 1918 ab und ging ins Exil in die Niederlande.",
+    "merke": "Wilhelm II.: der letzte deutsche Kaiser."
+   }
+  },
+  {
+   "id": "ges-p-der-erste-reichspraesident-der-weimarer-",
+   "schwierigkeit": "schwer",
+   "frage": "Wer war der erste Reichspräsident der Weimarer Republik?",
+   "richtig": "Friedrich Ebert",
+   "falsch": [
+    "Helmut Kohl",
+    "Theodor Heuss",
+    "Wilhelm I."
+   ],
+   "begruendung": "Friedrich Ebert: der erste Reichspräsident der Weimarer Republik.",
+   "karte": {
+    "titel": "Friedrich Ebert",
+    "text": "Der Sozialdemokrat Friedrich Ebert war von 1919 bis 1925 Reichspräsident.",
+    "merke": "Friedrich Ebert: der erste Reichspräsident der Weimarer Republik."
+   }
+  },
+  {
+   "id": "ges-p-der-erste-reichskanzler-des-kaiserreichs",
+   "schwierigkeit": "leicht",
+   "frage": "Wer war der erste Reichskanzler des Kaiserreichs?",
+   "richtig": "Otto von Bismarck",
+   "falsch": [
+    "Wilhelm I.",
+    "Willy Brandt",
+    "Theodor Heuss"
+   ],
+   "begruendung": "Otto von Bismarck: der erste Reichskanzler des Kaiserreichs.",
+   "karte": {
+    "titel": "Otto von Bismarck",
+    "text": "Bismarck war von 1871 bis 1890 Reichskanzler.",
+    "merke": "Otto von Bismarck: der erste Reichskanzler des Kaiserreichs."
+   }
+  },
+  {
+   "id": "ges-p-der-letzte-zar-russlands",
+   "schwierigkeit": "mittel",
+   "frage": "Wer war der letzte Zar Russlands?",
+   "richtig": "Nikolaus II.",
+   "falsch": [
+    "Boris Jelzin",
+    "Barack Obama",
+    "Lenin"
+   ],
+   "begruendung": "Nikolaus II.: der letzte Zar Russlands.",
+   "karte": {
+    "titel": "Nikolaus II.",
+    "text": "Nikolaus II. dankte 1917 ab. Die Bolschewiki ermordeten ihn und seine Familie 1918.",
+    "merke": "Nikolaus II.: der letzte Zar Russlands."
+   }
+  },
+  {
+   "id": "ges-p-der-erste-praesident-russlands",
+   "schwierigkeit": "schwer",
+   "frage": "Wer war der erste Präsident Russlands?",
+   "richtig": "Boris Jelzin",
+   "falsch": [
+    "Michail Gorbatschow",
+    "Nikolaus II.",
+    "Mahatma Gandhi"
+   ],
+   "begruendung": "Boris Jelzin: der erste Präsident Russlands.",
+   "karte": {
+    "titel": "Boris Jelzin",
+    "text": "Boris Jelzin war von 1991 bis 1999 Präsident Russlands.",
+    "merke": "Boris Jelzin: der erste Präsident Russlands."
+   }
+  },
+  {
+   "id": "ges-p-die-erste-premierministerin-grossbritann",
+   "schwierigkeit": "mittel",
+   "frage": "Wer war die erste Premierministerin Großbritanniens?",
+   "richtig": "Margaret Thatcher",
+   "falsch": [
+    "Victoria",
+    "Maria Theresia",
+    "Elisabeth II."
+   ],
+   "begruendung": "Margaret Thatcher: die erste Premierministerin Großbritanniens.",
+   "karte": {
+    "titel": "Margaret Thatcher",
+    "text": "Margaret Thatcher regierte von 1979 bis 1990 und hieß „die Eiserne Lady“.",
+    "merke": "Margaret Thatcher: die erste Premierministerin Großbritanniens."
+   }
+  },
+  {
+   "id": "ges-p-der-erste-schwarze-praesident-der-usa",
+   "schwierigkeit": "leicht",
+   "frage": "Wer war der erste schwarze Präsident der USA?",
+   "richtig": "Barack Obama",
+   "falsch": [
+    "Lenin",
+    "George Washington",
+    "Boris Jelzin"
+   ],
+   "begruendung": "Barack Obama: der erste schwarze Präsident der USA.",
+   "karte": {
+    "titel": "Barack Obama",
+    "text": "Barack Obama regierte von 2009 bis 2017.",
+    "merke": "Barack Obama: der erste schwarze Präsident der USA."
+   }
+  },
+  {
+   "id": "ges-p-der-gruender-des-mongolischen-reiches",
+   "schwierigkeit": "mittel",
+   "frage": "Wer war der Gründer des Mongolischen Reiches?",
+   "richtig": "Dschingis Khan",
+   "falsch": [
+    "Qin Shi Huang",
+    "Spartacus",
+    "Ramses II."
+   ],
+   "begruendung": "Dschingis Khan: der Gründer des Mongolischen Reiches.",
+   "karte": {
+    "titel": "Dschingis Khan",
+    "text": "Dschingis Khan vereinte um 1206 die mongolischen Stämme. Sein Reich wurde das größte zusammenhängende Landreich der Geschichte.",
+    "merke": "Dschingis Khan: der Gründer des Mongolischen Reiches."
+   }
+  },
+  {
+   "id": "ges-p-die-britische-koenigin-nach-der-ein-ganz",
+   "schwierigkeit": "mittel",
+   "frage": "Wer war die britische Königin, nach der ein ganzes Zeitalter benannt ist?",
+   "richtig": "Victoria",
+   "falsch": [
+    "Elisabeth II.",
+    "Golda Meir",
+    "Indira Gandhi"
+   ],
+   "begruendung": "Victoria: die britische Königin, nach der ein ganzes Zeitalter benannt ist.",
+   "karte": {
+    "titel": "Victoria",
+    "text": "Queen Victoria regierte von 1837 bis 1901. Die Zeit heißt „Viktorianisches Zeitalter“.",
+    "merke": "Victoria: die britische Königin, nach der ein ganzes Zeitalter benannt ist."
+   }
+  },
+  {
+   "id": "ges-p-der-bayerische-koenig-der-schloss-neusch",
+   "schwierigkeit": "leicht",
+   "frage": "Wer war der bayerische König, der Schloss Neuschwanstein bauen ließ?",
+   "richtig": "Ludwig II.",
+   "falsch": [
+    "Erich Honecker",
+    "Helmut Kohl",
+    "Wilhelm II."
+   ],
+   "begruendung": "Ludwig II.: der bayerische König, der Schloss Neuschwanstein bauen ließ.",
+   "karte": {
+    "titel": "Ludwig II.",
+    "text": "Ludwig II. ließ ab 1869 das Märchenschloss bauen. Er starb 1886 im Starnberger See.",
+    "merke": "Ludwig II.: der bayerische König, der Schloss Neuschwanstein bauen ließ."
+   }
+  },
+  {
+   "id": "ges-p-der-erste-kaiser-chinas",
+   "schwierigkeit": "schwer",
+   "frage": "Wer war der erste Kaiser Chinas?",
+   "richtig": "Qin Shi Huang",
+   "falsch": [
+    "Spartacus",
+    "Dschingis Khan",
+    "Hannibal"
+   ],
+   "begruendung": "Qin Shi Huang: der erste Kaiser Chinas.",
+   "karte": {
+    "titel": "Qin Shi Huang",
+    "text": "Qin Shi Huang einte China 221 v. Chr. In seinem Grab steht die Terrakotta-Armee.",
+    "merke": "Qin Shi Huang: der erste Kaiser Chinas."
+   }
+  },
+  {
+   "id": "ges-p-der-anfuehrer-des-gewaltfreien-widerstan",
+   "schwierigkeit": "leicht",
+   "frage": "Wer war der Anführer des gewaltfreien Widerstands für die Unabhängigkeit Indiens?",
+   "richtig": "Mahatma Gandhi",
+   "falsch": [
+    "George Washington",
+    "Boris Jelzin",
+    "Michail Gorbatschow"
+   ],
+   "begruendung": "Mahatma Gandhi: der Anführer des gewaltfreien Widerstands für die Unabhängigkeit Indiens.",
+   "karte": {
+    "titel": "Mahatma Gandhi",
+    "text": "Gandhi setzte auf Boykotte und Märsche statt Waffen. 1948 wurde er ermordet.",
+    "merke": "Mahatma Gandhi: der Anführer des gewaltfreien Widerstands für die Unabhängigkeit Indiens."
+   }
+  },
+  {
+   "id": "ges-p-der-anfuehrer-der-russischen-oktoberrevo",
+   "schwierigkeit": "mittel",
+   "frage": "Wer war der Anführer der russischen Oktoberrevolution?",
+   "richtig": "Lenin",
+   "falsch": [
+    "Michail Gorbatschow",
+    "Boris Jelzin",
+    "Barack Obama"
+   ],
+   "begruendung": "Lenin: der Anführer der russischen Oktoberrevolution.",
+   "karte": {
+    "titel": "Lenin",
+    "text": "Wladimir Iljitsch Lenin führte die Bolschewiki an und gründete die Sowjetunion.",
+    "merke": "Lenin: der Anführer der russischen Oktoberrevolution."
+   }
+  },
+  {
+   "id": "ges-p-der-staats-und-parteichef-der-ddr-von-19",
+   "schwierigkeit": "mittel",
+   "frage": "Wer war der Staats- und Parteichef der DDR von 1971 bis 1989?",
+   "richtig": "Erich Honecker",
+   "falsch": [
+    "Wilhelm I.",
+    "Ludwig II.",
+    "Otto von Bismarck"
+   ],
+   "begruendung": "Erich Honecker: der Staats- und Parteichef der DDR von 1971 bis 1989.",
+   "karte": {
+    "titel": "Erich Honecker",
+    "text": "Honecker wurde im Oktober 1989 abgesetzt, wenige Wochen vor dem Mauerfall.",
+    "merke": "Erich Honecker: der Staats- und Parteichef der DDR von 1971 bis 1989."
+   }
+  },
+  {
+   "id": "ges-p-der-letzte-staatschef-der-sowjetunion",
+   "schwierigkeit": "leicht",
+   "frage": "Wer war der letzte Staatschef der Sowjetunion?",
+   "richtig": "Michail Gorbatschow",
+   "falsch": [
+    "Boris Jelzin",
+    "Mahatma Gandhi",
+    "Nikolaus II."
+   ],
+   "begruendung": "Michail Gorbatschow: der letzte Staatschef der Sowjetunion.",
+   "karte": {
+    "titel": "Michail Gorbatschow",
+    "text": "Gorbatschow leitete Reformen ein und erhielt 1990 den Friedensnobelpreis.",
+    "merke": "Michail Gorbatschow: der letzte Staatschef der Sowjetunion."
+   }
+  },
+  {
+   "id": "ges-p-der-bundeskanzler-der-1990-die-einheit-d",
+   "schwierigkeit": "leicht",
+   "frage": "Wer war der Bundeskanzler, der 1990 die Einheit Deutschlands vollzog?",
+   "richtig": "Helmut Kohl",
+   "falsch": [
+    "Wilhelm II.",
+    "Friedrich Ebert",
+    "Erich Honecker"
+   ],
+   "begruendung": "Helmut Kohl: der Bundeskanzler, der 1990 die Einheit Deutschlands vollzog.",
+   "karte": {
+    "titel": "Helmut Kohl",
+    "text": "Helmut Kohl (CDU) war von 1982 bis 1998 Kanzler, länger als jeder andere.",
+    "merke": "Helmut Kohl: der Bundeskanzler, der 1990 die Einheit Deutschlands vollzog."
+   }
+  },
+  {
+   "id": "ges-p-der-bundeskanzler-der-fuer-seine-ostpoli",
+   "schwierigkeit": "mittel",
+   "frage": "Wer war der Bundeskanzler, der für seine Ostpolitik den Friedensnobelpreis bekam?",
+   "richtig": "Willy Brandt",
+   "falsch": [
+    "Otto von Bismarck",
+    "Theodor Heuss",
+    "Wilhelm I."
+   ],
+   "begruendung": "Willy Brandt: der Bundeskanzler, der für seine Ostpolitik den Friedensnobelpreis bekam.",
+   "karte": {
+    "titel": "Willy Brandt",
+    "text": "Willy Brandt (SPD) erhielt den Preis 1971.",
+    "merke": "Willy Brandt: der Bundeskanzler, der für seine Ostpolitik den Friedensnobelpreis bekam."
+   }
+  },
+  {
+   "id": "ges-p-der-pharao-mit-der-beruehmten-goldenen-t",
+   "schwierigkeit": "leicht",
+   "frage": "Wer war der Pharao mit der berühmten goldenen Totenmaske?",
+   "richtig": "Tutanchamun",
+   "falsch": [
+    "Hannibal",
+    "Ramses II.",
+    "Spartacus"
+   ],
+   "begruendung": "Tutanchamun: der Pharao mit der berühmten goldenen Totenmaske.",
+   "karte": {
+    "titel": "Tutanchamun",
+    "text": "Howard Carter entdeckte 1922 das fast unberührte Grab im Tal der Könige.",
+    "merke": "Tutanchamun: der Pharao mit der berühmten goldenen Totenmaske."
+   }
+  },
+  {
+   "id": "ges-p-der-karthagische-feldherr-der-mit-elefan",
+   "schwierigkeit": "mittel",
+   "frage": "Wer war der karthagische Feldherr, der mit Elefanten über die Alpen zog?",
+   "richtig": "Hannibal",
+   "falsch": [
+    "Qin Shi Huang",
+    "Spartacus",
+    "Ramses II."
+   ],
+   "begruendung": "Hannibal: der karthagische Feldherr, der mit Elefanten über die Alpen zog.",
+   "karte": {
+    "titel": "Hannibal",
+    "text": "Hannibal zog 218 v. Chr. gegen Rom über die Alpen.",
+    "merke": "Hannibal: der karthagische Feldherr, der mit Elefanten über die Alpen zog."
+   }
+  },
+  {
+   "id": "ges-p-die-zarin-die-als-einzige-frau-den-beina",
+   "schwierigkeit": "schwer",
+   "frage": "Wer war die Zarin, die als einzige Frau den Beinamen „die Große“ trägt?",
+   "richtig": "Katharina die Große",
+   "falsch": [
+    "Victoria",
+    "Jeanne d’Arc",
+    "Elisabeth I."
+   ],
+   "begruendung": "Katharina die Große: die Zarin, die als einzige Frau den Beinamen „die Große“ trägt.",
+   "karte": {
+    "titel": "Katharina die Große",
+    "text": "Katharina II. stammte aus Anhalt-Zerbst und regierte Russland von 1762 bis 1796.",
+    "merke": "Katharina die Große: die Zarin, die als einzige Frau den Beinamen „die Große“ trägt."
+   }
+  },
+  {
+   "id": "ges-p-die-einzige-frau-an-der-spitze-der-habsb",
+   "schwierigkeit": "mittel",
+   "frage": "Wer war die einzige Frau an der Spitze der Habsburgermonarchie?",
+   "richtig": "Maria Theresia",
+   "falsch": [
+    "Elisabeth I.",
+    "Golda Meir",
+    "Jeanne d’Arc"
+   ],
+   "begruendung": "Maria Theresia: die einzige Frau an der Spitze der Habsburgermonarchie.",
+   "karte": {
+    "titel": "Maria Theresia",
+    "text": "Maria Theresia regierte von 1740 bis 1780 und hatte 16 Kinder, darunter Marie Antoinette.",
+    "merke": "Maria Theresia: die einzige Frau an der Spitze der Habsburgermonarchie."
+   }
+  },
+  {
+   "id": "ges-p-die-englische-koenigin-unter-der-1588-di",
+   "schwierigkeit": "schwer",
+   "frage": "Wer war die englische Königin, unter der 1588 die spanische Armada besiegt wurde?",
+   "richtig": "Elisabeth I.",
+   "falsch": [
+    "Elisabeth II.",
+    "Jeanne d’Arc",
+    "Golda Meir"
+   ],
+   "begruendung": "Elisabeth I.: die englische Königin, unter der 1588 die spanische Armada besiegt wurde.",
+   "karte": {
+    "titel": "Elisabeth I.",
+    "text": "Elisabeth I. regierte von 1558 bis 1603. Sie heiratete nie und hieß deshalb „die jungfräuliche Königin“.",
+    "merke": "Elisabeth I.: die englische Königin, unter der 1588 die spanische Armada besiegt wurde."
+   }
+  },
+  {
+   "id": "ges-p-die-erste-premierministerin-indiens",
+   "schwierigkeit": "schwer",
+   "frage": "Wer war die erste Premierministerin Indiens?",
+   "richtig": "Indira Gandhi",
+   "falsch": [
+    "Margaret Thatcher",
+    "Jeanne d’Arc",
+    "Elisabeth II."
+   ],
+   "begruendung": "Indira Gandhi: die erste Premierministerin Indiens.",
+   "karte": {
+    "titel": "Indira Gandhi",
+    "text": "Indira Gandhi regierte von 1966 bis 1977 und von 1980 bis 1984. Mit Mahatma Gandhi war sie nicht verwandt.",
+    "merke": "Indira Gandhi: die erste Premierministerin Indiens."
+   }
+  },
+  {
+   "id": "ges-p-die-erste-regierungschefin-israels",
+   "schwierigkeit": "schwer",
+   "frage": "Wer war die erste Regierungschefin Israels?",
+   "richtig": "Golda Meir",
+   "falsch": [
+    "Margaret Thatcher",
+    "Elisabeth I.",
+    "Maria Theresia"
+   ],
+   "begruendung": "Golda Meir: die erste Regierungschefin Israels.",
+   "karte": {
+    "titel": "Golda Meir",
+    "text": "Golda Meir war von 1969 bis 1974 Ministerpräsidentin.",
+    "merke": "Golda Meir: die erste Regierungschefin Israels."
+   }
+  },
+  {
+   "id": "ges-p-die-bauerntochter-die-im-hundertjaehrige",
+   "schwierigkeit": "mittel",
+   "frage": "Wer war die Bauerntochter, die im Hundertjährigen Krieg ein französisches Heer anführte?",
+   "richtig": "Jeanne d’Arc",
+   "falsch": [
+    "Indira Gandhi",
+    "Victoria",
+    "Margaret Thatcher"
+   ],
+   "begruendung": "Jeanne d’Arc: die Bauerntochter, die im Hundertjährigen Krieg ein französisches Heer anführte.",
+   "karte": {
+    "titel": "Jeanne d’Arc",
+    "text": "Jeanne d’Arc befreite 1429 Orléans. Die Engländer ließen sie 1431 verbrennen.",
+    "merke": "Jeanne d’Arc: die Bauerntochter, die im Hundertjährigen Krieg ein französisches Heer anführte."
+   }
+  },
+  {
+   "id": "ges-p-die-koenigin-die-von-1952-bis-2022-regie",
+   "schwierigkeit": "leicht",
+   "frage": "Wer war die Königin, die von 1952 bis 2022 regierte?",
+   "richtig": "Elisabeth II.",
+   "falsch": [
+    "Maria Theresia",
+    "Victoria",
+    "Katharina die Große"
+   ],
+   "begruendung": "Elisabeth II.: die Königin, die von 1952 bis 2022 regierte.",
+   "karte": {
+    "titel": "Elisabeth II.",
+    "text": "Elisabeth II. regierte 70 Jahre lang, länger als jeder britische Monarch vor ihr.",
+    "merke": "Elisabeth II.: die Königin, die von 1952 bis 2022 regierte."
+   }
+  },
+  {
+   "id": "ges-p-der-pharao-der-rund-66-jahre-regierte-un",
+   "schwierigkeit": "schwer",
+   "frage": "Wer war der Pharao, der rund 66 Jahre regierte und die Tempel von Abu Simbel bauen ließ?",
+   "richtig": "Ramses II.",
+   "falsch": [
+    "Tutanchamun",
+    "Qin Shi Huang",
+    "Dschingis Khan"
+   ],
+   "begruendung": "Ramses II.: der Pharao, der rund 66 Jahre regierte und die Tempel von Abu Simbel bauen ließ.",
+   "karte": {
+    "titel": "Ramses II.",
+    "text": "Ramses II. regierte im 13. Jahrhundert v. Chr. und gilt als einer der mächtigsten Pharaonen.",
+    "merke": "Ramses II.: der Pharao, der rund 66 Jahre regierte und die Tempel von Abu Simbel bauen ließ."
+   }
+  },
+  {
+   "id": "ges-p-der-gladiator-der-einen-grossen-sklavena",
+   "schwierigkeit": "mittel",
+   "frage": "Wer war der Gladiator, der einen großen Sklavenaufstand gegen Rom anführte?",
+   "richtig": "Spartacus",
+   "falsch": [
+    "Qin Shi Huang",
+    "Dschingis Khan",
+    "Tutanchamun"
+   ],
+   "begruendung": "Spartacus: der Gladiator, der einen großen Sklavenaufstand gegen Rom anführte.",
+   "karte": {
+    "titel": "Spartacus",
+    "text": "Spartacus kämpfte von 73 bis 71 v. Chr. gegen die römischen Legionen.",
+    "merke": "Spartacus: der Gladiator, der einen großen Sklavenaufstand gegen Rom anführte."
+   }
+  }
+ ]
+}

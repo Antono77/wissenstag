@@ -1,0 +1,2333 @@
+{
+ "klasse": "geografie",
+ "erzeugt": "scripts/generate-fakten.mjs",
+ "fragen": [
+  {
+   "id": "geo-mu-der-rhein",
+   "schwierigkeit": "leicht",
+   "frage": "Wohin mündet der Rhein?",
+   "richtig": "In die Nordsee",
+   "falsch": [
+    "In die Ostsee",
+    "In den Golf von Bengalen",
+    "In den Golf von Kalifornien"
+   ],
+   "begruendung": "Der Rhein mündet in die Nordsee.",
+   "karte": {
+    "titel": "Der Rhein",
+    "text": "Der Rhein mündet in die Nordsee.",
+    "merke": "Der Rhein mündet in die Nordsee."
+   }
+  },
+  {
+   "id": "geo-mu-die-elbe",
+   "schwierigkeit": "leicht",
+   "frage": "Wohin mündet die Elbe?",
+   "richtig": "In die Nordsee",
+   "falsch": [
+    "In die Ostsee",
+    "Ins Tote Meer",
+    "In den Golf von Mexiko"
+   ],
+   "begruendung": "Die Elbe mündet in die Nordsee.",
+   "karte": {
+    "titel": "Die Elbe",
+    "text": "Die Elbe mündet in die Nordsee.",
+    "merke": "Die Elbe mündet in die Nordsee."
+   }
+  },
+  {
+   "id": "geo-mu-die-weser",
+   "schwierigkeit": "mittel",
+   "frage": "Wohin mündet die Weser?",
+   "richtig": "In die Nordsee",
+   "falsch": [
+    "In die Ostsee",
+    "Ins Schwarze Meer",
+    "In den Indischen Ozean"
+   ],
+   "begruendung": "Die Weser mündet in die Nordsee.",
+   "karte": {
+    "titel": "Die Weser",
+    "text": "Die Weser mündet in die Nordsee.",
+    "merke": "Die Weser mündet in die Nordsee."
+   }
+  },
+  {
+   "id": "geo-mu-die-ems",
+   "schwierigkeit": "mittel",
+   "frage": "Wohin mündet die Ems?",
+   "richtig": "In die Nordsee",
+   "falsch": [
+    "Ins Nordpolarmeer",
+    "In den Golf von Kalifornien",
+    "Ins Mittelmeer"
+   ],
+   "begruendung": "Die Ems mündet in die Nordsee.",
+   "karte": {
+    "titel": "Die Ems",
+    "text": "Die Ems mündet in die Nordsee.",
+    "merke": "Die Ems mündet in die Nordsee."
+   }
+  },
+  {
+   "id": "geo-mu-die-themse",
+   "schwierigkeit": "mittel",
+   "frage": "Wohin mündet die Themse?",
+   "richtig": "In die Nordsee",
+   "falsch": [
+    "In den Golf von Bengalen",
+    "In die Ostsee",
+    "Ins Südchinesische Meer"
+   ],
+   "begruendung": "Die Themse mündet in die Nordsee.",
+   "karte": {
+    "titel": "Die Themse",
+    "text": "Die Themse mündet in die Nordsee.",
+    "merke": "Die Themse mündet in die Nordsee."
+   }
+  },
+  {
+   "id": "geo-mu-die-donau",
+   "schwierigkeit": "leicht",
+   "frage": "Wohin mündet die Donau?",
+   "richtig": "Ins Schwarze Meer",
+   "falsch": [
+    "Ins Kaspische Meer",
+    "In die Adria",
+    "Ins Arabische Meer"
+   ],
+   "begruendung": "Die Donau mündet ins Schwarze Meer.",
+   "karte": {
+    "titel": "Die Donau",
+    "text": "Die Donau mündet ins Schwarze Meer.",
+    "merke": "Die Donau mündet ins Schwarze Meer."
+   }
+  },
+  {
+   "id": "geo-mu-der-dnepr",
+   "schwierigkeit": "mittel",
+   "frage": "Wohin mündet der Dnepr?",
+   "richtig": "Ins Schwarze Meer",
+   "falsch": [
+    "In den Golf von Bengalen",
+    "In die Adria",
+    "Ins Ostchinesische Meer"
+   ],
+   "begruendung": "Der Dnepr mündet ins Schwarze Meer.",
+   "karte": {
+    "titel": "Der Dnepr",
+    "text": "Der Dnepr mündet ins Schwarze Meer.",
+    "merke": "Der Dnepr mündet ins Schwarze Meer."
+   }
+  },
+  {
+   "id": "geo-mu-die-wolga",
+   "schwierigkeit": "mittel",
+   "frage": "Wohin mündet die Wolga?",
+   "richtig": "Ins Kaspische Meer",
+   "falsch": [
+    "In die Ostsee",
+    "Ins Mittelmeer",
+    "In den Golf von Mexiko"
+   ],
+   "begruendung": "Die Wolga mündet ins Kaspische Meer.",
+   "karte": {
+    "titel": "Die Wolga",
+    "text": "Die Wolga mündet ins Kaspische Meer.",
+    "merke": "Die Wolga mündet ins Kaspische Meer."
+   }
+  },
+  {
+   "id": "geo-mu-der-ural",
+   "schwierigkeit": "schwer",
+   "frage": "Wohin mündet der Ural?",
+   "richtig": "Ins Kaspische Meer",
+   "falsch": [
+    "In die Ostsee",
+    "Ins Südchinesische Meer",
+    "In den Atlantik"
+   ],
+   "begruendung": "Der Ural mündet ins Kaspische Meer.",
+   "karte": {
+    "titel": "Der Ural",
+    "text": "Der Ural mündet ins Kaspische Meer.",
+    "merke": "Der Ural mündet ins Kaspische Meer."
+   }
+  },
+  {
+   "id": "geo-mu-die-oder",
+   "schwierigkeit": "mittel",
+   "frage": "Wohin mündet die Oder?",
+   "richtig": "In die Ostsee",
+   "falsch": [
+    "Ins Ostchinesische Meer",
+    "In die Nordsee",
+    "In die Adria"
+   ],
+   "begruendung": "Die Oder mündet in die Ostsee.",
+   "karte": {
+    "titel": "Die Oder",
+    "text": "Die Oder mündet in die Ostsee.",
+    "merke": "Die Oder mündet in die Ostsee."
+   }
+  },
+  {
+   "id": "geo-mu-die-weichsel",
+   "schwierigkeit": "mittel",
+   "frage": "Wohin mündet die Weichsel?",
+   "richtig": "In die Ostsee",
+   "falsch": [
+    "Ins Ostchinesische Meer",
+    "In den Golf von Bengalen",
+    "Ins Arabische Meer"
+   ],
+   "begruendung": "Die Weichsel mündet in die Ostsee.",
+   "karte": {
+    "titel": "Die Weichsel",
+    "text": "Die Weichsel mündet in die Ostsee.",
+    "merke": "Die Weichsel mündet in die Ostsee."
+   }
+  },
+  {
+   "id": "geo-mu-die-newa",
+   "schwierigkeit": "schwer",
+   "frage": "Wohin mündet die Newa?",
+   "richtig": "In die Ostsee",
+   "falsch": [
+    "Ins Ostchinesische Meer",
+    "Ins Südchinesische Meer",
+    "In die Adria"
+   ],
+   "begruendung": "Die Newa mündet in die Ostsee.",
+   "karte": {
+    "titel": "Die Newa",
+    "text": "Die Newa mündet in die Ostsee.",
+    "merke": "Die Newa mündet in die Ostsee."
+   }
+  },
+  {
+   "id": "geo-mu-die-rhone",
+   "schwierigkeit": "mittel",
+   "frage": "Wohin mündet die Rhône?",
+   "richtig": "Ins Mittelmeer",
+   "falsch": [
+    "Ins Schwarze Meer",
+    "Ins Tote Meer",
+    "In den Golf von Bengalen"
+   ],
+   "begruendung": "Die Rhône mündet ins Mittelmeer.",
+   "karte": {
+    "titel": "Die Rhône",
+    "text": "Die Rhône mündet ins Mittelmeer.",
+    "merke": "Die Rhône mündet ins Mittelmeer."
+   }
+  },
+  {
+   "id": "geo-mu-der-po",
+   "schwierigkeit": "mittel",
+   "frage": "Wohin mündet der Po?",
+   "richtig": "In die Adria",
+   "falsch": [
+    "In den Indischen Ozean",
+    "In die Nordsee",
+    "In den Golf von Mexiko"
+   ],
+   "begruendung": "Der Po mündet in die Adria.",
+   "karte": {
+    "titel": "Der Po",
+    "text": "Der Po mündet in die Adria.",
+    "merke": "Der Po mündet in die Adria."
+   }
+  },
+  {
+   "id": "geo-mu-der-ebro",
+   "schwierigkeit": "schwer",
+   "frage": "Wohin mündet der Ebro?",
+   "richtig": "Ins Mittelmeer",
+   "falsch": [
+    "In den Golf von Kalifornien",
+    "In den Golf von Mexiko",
+    "Ins Südchinesische Meer"
+   ],
+   "begruendung": "Der Ebro mündet ins Mittelmeer.",
+   "karte": {
+    "titel": "Der Ebro",
+    "text": "Der Ebro mündet ins Mittelmeer.",
+    "merke": "Der Ebro mündet ins Mittelmeer."
+   }
+  },
+  {
+   "id": "geo-mu-der-nil",
+   "schwierigkeit": "leicht",
+   "frage": "Wohin mündet der Nil?",
+   "richtig": "Ins Mittelmeer",
+   "falsch": [
+    "Ins Nordpolarmeer",
+    "In den Golf von Mexiko",
+    "Ins Arabische Meer"
+   ],
+   "begruendung": "Der Nil mündet ins Mittelmeer.",
+   "karte": {
+    "titel": "Der Nil",
+    "text": "Der Nil mündet ins Mittelmeer.",
+    "merke": "Der Nil mündet ins Mittelmeer."
+   }
+  },
+  {
+   "id": "geo-mu-die-seine",
+   "schwierigkeit": "mittel",
+   "frage": "Wohin mündet die Seine?",
+   "richtig": "In den Ärmelkanal",
+   "falsch": [
+    "In die Nordsee",
+    "Ins Nordpolarmeer",
+    "In die Ostsee"
+   ],
+   "begruendung": "Die Seine mündet in den Ärmelkanal.",
+   "karte": {
+    "titel": "Die Seine",
+    "text": "Die Seine mündet in den Ärmelkanal.",
+    "merke": "Die Seine mündet in den Ärmelkanal."
+   }
+  },
+  {
+   "id": "geo-mu-die-loire",
+   "schwierigkeit": "mittel",
+   "frage": "Wohin mündet die Loire?",
+   "richtig": "In den Atlantik",
+   "falsch": [
+    "In den Ärmelkanal",
+    "Ins Arabische Meer",
+    "Ins Mittelmeer"
+   ],
+   "begruendung": "Die Loire mündet in den Atlantik.",
+   "karte": {
+    "titel": "Die Loire",
+    "text": "Die Loire mündet in den Atlantik.",
+    "merke": "Die Loire mündet in den Atlantik."
+   }
+  },
+  {
+   "id": "geo-mu-der-tejo",
+   "schwierigkeit": "mittel",
+   "frage": "Wohin mündet der Tejo?",
+   "richtig": "In den Atlantik",
+   "falsch": [
+    "In die Ostsee",
+    "In den Indischen Ozean",
+    "Ins Schwarze Meer"
+   ],
+   "begruendung": "Der Tejo mündet in den Atlantik.",
+   "karte": {
+    "titel": "Der Tejo",
+    "text": "Der Tejo mündet in den Atlantik.",
+    "merke": "Der Tejo mündet in den Atlantik."
+   }
+  },
+  {
+   "id": "geo-mu-der-amazonas",
+   "schwierigkeit": "leicht",
+   "frage": "Wohin mündet der Amazonas?",
+   "richtig": "In den Atlantik",
+   "falsch": [
+    "Ins Südchinesische Meer",
+    "In die Adria",
+    "In den Golf von Kalifornien"
+   ],
+   "begruendung": "Der Amazonas mündet in den Atlantik.",
+   "karte": {
+    "titel": "Der Amazonas",
+    "text": "Der Amazonas mündet in den Atlantik.",
+    "merke": "Der Amazonas mündet in den Atlantik."
+   }
+  },
+  {
+   "id": "geo-mu-der-kongo",
+   "schwierigkeit": "mittel",
+   "frage": "Wohin mündet der Kongo?",
+   "richtig": "In den Atlantik",
+   "falsch": [
+    "In die Ostsee",
+    "In den Indischen Ozean",
+    "In die Nordsee"
+   ],
+   "begruendung": "Der Kongo mündet in den Atlantik.",
+   "karte": {
+    "titel": "Der Kongo",
+    "text": "Der Kongo mündet in den Atlantik.",
+    "merke": "Der Kongo mündet in den Atlantik."
+   }
+  },
+  {
+   "id": "geo-mu-der-mississippi",
+   "schwierigkeit": "mittel",
+   "frage": "Wohin mündet der Mississippi?",
+   "richtig": "In den Golf von Mexiko",
+   "falsch": [
+    "In die Adria",
+    "Ins Schwarze Meer",
+    "Ins Nordpolarmeer"
+   ],
+   "begruendung": "Der Mississippi mündet in den Golf von Mexiko.",
+   "karte": {
+    "titel": "Der Mississippi",
+    "text": "Der Mississippi mündet in den Golf von Mexiko.",
+    "merke": "Der Mississippi mündet in den Golf von Mexiko."
+   }
+  },
+  {
+   "id": "geo-mu-der-rio-grande",
+   "schwierigkeit": "mittel",
+   "frage": "Wohin mündet der Rio Grande?",
+   "richtig": "In den Golf von Mexiko",
+   "falsch": [
+    "Ins Tote Meer",
+    "Ins Südchinesische Meer",
+    "In den Golf von Bengalen"
+   ],
+   "begruendung": "Der Rio Grande mündet in den Golf von Mexiko.",
+   "karte": {
+    "titel": "Der Rio Grande",
+    "text": "Der Rio Grande mündet in den Golf von Mexiko.",
+    "merke": "Der Rio Grande mündet in den Golf von Mexiko."
+   }
+  },
+  {
+   "id": "geo-mu-der-colorado",
+   "schwierigkeit": "schwer",
+   "frage": "Wohin mündet der Colorado?",
+   "richtig": "In den Golf von Kalifornien",
+   "falsch": [
+    "In den Ärmelkanal",
+    "Ins Kaspische Meer",
+    "In den Golf von Mexiko"
+   ],
+   "begruendung": "Der Colorado mündet in den Golf von Kalifornien.",
+   "karte": {
+    "titel": "Der Colorado",
+    "text": "Der Colorado mündet in den Golf von Kalifornien.",
+    "merke": "Der Colorado mündet in den Golf von Kalifornien."
+   }
+  },
+  {
+   "id": "geo-mu-der-ganges",
+   "schwierigkeit": "mittel",
+   "frage": "Wohin mündet der Ganges?",
+   "richtig": "In den Golf von Bengalen",
+   "falsch": [
+    "Ins Mittelmeer",
+    "In den Ärmelkanal",
+    "In den Golf von Mexiko"
+   ],
+   "begruendung": "Der Ganges mündet in den Golf von Bengalen.",
+   "karte": {
+    "titel": "Der Ganges",
+    "text": "Der Ganges mündet in den Golf von Bengalen.",
+    "merke": "Der Ganges mündet in den Golf von Bengalen."
+   }
+  },
+  {
+   "id": "geo-mu-der-indus",
+   "schwierigkeit": "schwer",
+   "frage": "Wohin mündet der Indus?",
+   "richtig": "Ins Arabische Meer",
+   "falsch": [
+    "Ins Kaspische Meer",
+    "Ins Mittelmeer",
+    "In die Ostsee"
+   ],
+   "begruendung": "Der Indus mündet ins Arabische Meer.",
+   "karte": {
+    "titel": "Der Indus",
+    "text": "Der Indus mündet ins Arabische Meer.",
+    "merke": "Der Indus mündet ins Arabische Meer."
+   }
+  },
+  {
+   "id": "geo-mu-der-mekong",
+   "schwierigkeit": "schwer",
+   "frage": "Wohin mündet der Mekong?",
+   "richtig": "Ins Südchinesische Meer",
+   "falsch": [
+    "In den Ärmelkanal",
+    "In den Atlantik",
+    "Ins Tote Meer"
+   ],
+   "begruendung": "Der Mekong mündet ins Südchinesische Meer.",
+   "karte": {
+    "titel": "Der Mekong",
+    "text": "Der Mekong mündet ins Südchinesische Meer.",
+    "merke": "Der Mekong mündet ins Südchinesische Meer."
+   }
+  },
+  {
+   "id": "geo-mu-der-jangtse",
+   "schwierigkeit": "schwer",
+   "frage": "Wohin mündet der Jangtse?",
+   "richtig": "Ins Ostchinesische Meer",
+   "falsch": [
+    "In den Golf von Mexiko",
+    "Ins Kaspische Meer",
+    "In den Atlantik"
+   ],
+   "begruendung": "Der Jangtse mündet ins Ostchinesische Meer.",
+   "karte": {
+    "titel": "Der Jangtse",
+    "text": "Der Jangtse mündet ins Ostchinesische Meer.",
+    "merke": "Der Jangtse mündet ins Ostchinesische Meer."
+   }
+  },
+  {
+   "id": "geo-mu-der-sambesi",
+   "schwierigkeit": "schwer",
+   "frage": "Wohin mündet der Sambesi?",
+   "richtig": "In den Indischen Ozean",
+   "falsch": [
+    "In den Golf von Mexiko",
+    "In den Golf von Kalifornien",
+    "Ins Südchinesische Meer"
+   ],
+   "begruendung": "Der Sambesi mündet in den Indischen Ozean.",
+   "karte": {
+    "titel": "Der Sambesi",
+    "text": "Der Sambesi mündet in den Indischen Ozean.",
+    "merke": "Der Sambesi mündet in den Indischen Ozean."
+   }
+  },
+  {
+   "id": "geo-mu-der-ob",
+   "schwierigkeit": "schwer",
+   "frage": "Wohin mündet der Ob?",
+   "richtig": "Ins Nordpolarmeer",
+   "falsch": [
+    "In die Nordsee",
+    "Ins Arabische Meer",
+    "In den Atlantik"
+   ],
+   "begruendung": "Der Ob mündet ins Nordpolarmeer.",
+   "karte": {
+    "titel": "Der Ob",
+    "text": "Der Ob mündet ins Nordpolarmeer.",
+    "merke": "Der Ob mündet ins Nordpolarmeer."
+   }
+  },
+  {
+   "id": "geo-mu-der-jenissei",
+   "schwierigkeit": "schwer",
+   "frage": "Wohin mündet der Jenissei?",
+   "richtig": "Ins Nordpolarmeer",
+   "falsch": [
+    "Ins Mittelmeer",
+    "In den Ärmelkanal",
+    "In den Indischen Ozean"
+   ],
+   "begruendung": "Der Jenissei mündet ins Nordpolarmeer.",
+   "karte": {
+    "titel": "Der Jenissei",
+    "text": "Der Jenissei mündet ins Nordpolarmeer.",
+    "merke": "Der Jenissei mündet ins Nordpolarmeer."
+   }
+  },
+  {
+   "id": "geo-mu-die-lena",
+   "schwierigkeit": "schwer",
+   "frage": "Wohin mündet die Lena?",
+   "richtig": "Ins Nordpolarmeer",
+   "falsch": [
+    "In den Golf von Mexiko",
+    "In den Golf von Kalifornien",
+    "In die Ostsee"
+   ],
+   "begruendung": "Die Lena mündet ins Nordpolarmeer.",
+   "karte": {
+    "titel": "Die Lena",
+    "text": "Die Lena mündet ins Nordpolarmeer.",
+    "merke": "Die Lena mündet ins Nordpolarmeer."
+   }
+  },
+  {
+   "id": "geo-mu-der-jordan",
+   "schwierigkeit": "mittel",
+   "frage": "Wohin mündet der Jordan?",
+   "richtig": "Ins Tote Meer",
+   "falsch": [
+    "Ins Arabische Meer",
+    "Ins Südchinesische Meer",
+    "Ins Kaspische Meer"
+   ],
+   "begruendung": "Der Jordan mündet ins Tote Meer.",
+   "karte": {
+    "titel": "Der Jordan",
+    "text": "Der Jordan mündet ins Tote Meer.",
+    "merke": "Der Jordan mündet ins Tote Meer."
+   }
+  },
+  {
+   "id": "geo-mu-der-main",
+   "schwierigkeit": "leicht",
+   "frage": "Wohin mündet der Main?",
+   "richtig": "In den Rhein",
+   "falsch": [
+    "In die Elbe",
+    "In die Donau",
+    "In die Havel"
+   ],
+   "begruendung": "Der Main mündet in den Rhein.",
+   "karte": {
+    "titel": "Der Main",
+    "text": "Der Main mündet in den Rhein.",
+    "merke": "Der Main mündet in den Rhein."
+   }
+  },
+  {
+   "id": "geo-mu-die-mosel",
+   "schwierigkeit": "leicht",
+   "frage": "Wohin mündet die Mosel?",
+   "richtig": "In den Rhein",
+   "falsch": [
+    "In die Elbe",
+    "In die Donau",
+    "In die Havel"
+   ],
+   "begruendung": "Die Mosel mündet in den Rhein.",
+   "karte": {
+    "titel": "Die Mosel",
+    "text": "Die Mosel mündet in den Rhein.",
+    "merke": "Die Mosel mündet in den Rhein."
+   }
+  },
+  {
+   "id": "geo-mu-der-neckar",
+   "schwierigkeit": "mittel",
+   "frage": "Wohin mündet der Neckar?",
+   "richtig": "In den Rhein",
+   "falsch": [
+    "In die Elbe",
+    "In die Donau",
+    "In die Havel"
+   ],
+   "begruendung": "Der Neckar mündet in den Rhein.",
+   "karte": {
+    "titel": "Der Neckar",
+    "text": "Der Neckar mündet in den Rhein.",
+    "merke": "Der Neckar mündet in den Rhein."
+   }
+  },
+  {
+   "id": "geo-mu-der-inn",
+   "schwierigkeit": "mittel",
+   "frage": "Wohin mündet der Inn?",
+   "richtig": "In die Donau",
+   "falsch": [
+    "In die Elbe",
+    "In die Havel",
+    "In den Rhein"
+   ],
+   "begruendung": "Der Inn mündet in die Donau.",
+   "karte": {
+    "titel": "Der Inn",
+    "text": "Der Inn mündet in die Donau.",
+    "merke": "Der Inn mündet in die Donau."
+   }
+  },
+  {
+   "id": "geo-mu-die-isar",
+   "schwierigkeit": "mittel",
+   "frage": "Wohin mündet die Isar?",
+   "richtig": "In die Donau",
+   "falsch": [
+    "In die Elbe",
+    "In die Havel",
+    "In den Rhein"
+   ],
+   "begruendung": "Die Isar mündet in die Donau.",
+   "karte": {
+    "titel": "Die Isar",
+    "text": "Die Isar mündet in die Donau.",
+    "merke": "Die Isar mündet in die Donau."
+   }
+  },
+  {
+   "id": "geo-mu-die-saale",
+   "schwierigkeit": "mittel",
+   "frage": "Wohin mündet die Saale?",
+   "richtig": "In die Elbe",
+   "falsch": [
+    "In die Havel",
+    "In den Rhein",
+    "In die Donau"
+   ],
+   "begruendung": "Die Saale mündet in die Elbe.",
+   "karte": {
+    "titel": "Die Saale",
+    "text": "Die Saale mündet in die Elbe.",
+    "merke": "Die Saale mündet in die Elbe."
+   }
+  },
+  {
+   "id": "geo-mu-die-havel",
+   "schwierigkeit": "mittel",
+   "frage": "Wohin mündet die Havel?",
+   "richtig": "In die Elbe",
+   "falsch": [
+    "In den Rhein",
+    "In die Donau",
+    "In die Havel"
+   ],
+   "begruendung": "Die Havel mündet in die Elbe.",
+   "karte": {
+    "titel": "Die Havel",
+    "text": "Die Havel mündet in die Elbe.",
+    "merke": "Die Havel mündet in die Elbe."
+   }
+  },
+  {
+   "id": "geo-mu-die-spree",
+   "schwierigkeit": "schwer",
+   "frage": "Wohin mündet die Spree?",
+   "richtig": "In die Havel",
+   "falsch": [
+    "In die Donau",
+    "In den Rhein",
+    "In die Elbe"
+   ],
+   "begruendung": "Die Spree mündet in die Havel.",
+   "karte": {
+    "titel": "Die Spree",
+    "text": "Die Spree mündet in die Havel.",
+    "merke": "Die Spree mündet in die Havel."
+   }
+  },
+  {
+   "id": "geo-mu-die-moldau",
+   "schwierigkeit": "mittel",
+   "frage": "Wohin mündet die Moldau?",
+   "richtig": "In die Elbe",
+   "falsch": [
+    "In die Havel",
+    "In den Rhein",
+    "In die Donau"
+   ],
+   "begruendung": "Die Moldau mündet in die Elbe.",
+   "karte": {
+    "titel": "Die Moldau",
+    "text": "Die Moldau mündet in die Elbe.",
+    "merke": "Die Moldau mündet in die Elbe."
+   }
+  },
+  {
+   "id": "geo-st-koeln",
+   "schwierigkeit": "leicht",
+   "frage": "An welchem Fluss liegt Köln?",
+   "richtig": "Rhein",
+   "falsch": [
+    "Pegnitz",
+    "Fulda",
+    "Limmat"
+   ],
+   "begruendung": "Köln liegt am Rhein.",
+   "karte": {
+    "titel": "Köln",
+    "text": "Köln liegt am Rhein.",
+    "merke": "Köln liegt am Rhein."
+   },
+   "ddf": true
+  },
+  {
+   "id": "geo-st-duesseldorf",
+   "schwierigkeit": "leicht",
+   "frage": "An welchem Fluss liegt Düsseldorf?",
+   "richtig": "Rhein",
+   "falsch": [
+    "Weser",
+    "Spree",
+    "Moskwa"
+   ],
+   "begruendung": "Düsseldorf liegt am Rhein.",
+   "karte": {
+    "titel": "Düsseldorf",
+    "text": "Düsseldorf liegt am Rhein.",
+    "merke": "Düsseldorf liegt am Rhein."
+   },
+   "ddf": true
+  },
+  {
+   "id": "geo-st-bonn",
+   "schwierigkeit": "mittel",
+   "frage": "An welchem Fluss liegt Bonn?",
+   "richtig": "Rhein",
+   "falsch": [
+    "Mosel",
+    "Leine",
+    "Nil"
+   ],
+   "begruendung": "Bonn liegt am Rhein.",
+   "karte": {
+    "titel": "Bonn",
+    "text": "Bonn liegt am Rhein.",
+    "merke": "Bonn liegt am Rhein."
+   }
+  },
+  {
+   "id": "geo-st-basel",
+   "schwierigkeit": "mittel",
+   "frage": "An welchem Fluss liegt Basel?",
+   "richtig": "Rhein",
+   "falsch": [
+    "Oder",
+    "Mosel",
+    "Inn"
+   ],
+   "begruendung": "Basel liegt am Rhein.",
+   "karte": {
+    "titel": "Basel",
+    "text": "Basel liegt am Rhein.",
+    "merke": "Basel liegt am Rhein."
+   }
+  },
+  {
+   "id": "geo-st-dresden",
+   "schwierigkeit": "leicht",
+   "frage": "An welchem Fluss liegt Dresden?",
+   "richtig": "Elbe",
+   "falsch": [
+    "Moskwa",
+    "Arno",
+    "Seine"
+   ],
+   "begruendung": "Dresden liegt an der Elbe.",
+   "karte": {
+    "titel": "Dresden",
+    "text": "Dresden liegt an der Elbe.",
+    "merke": "Dresden liegt an der Elbe."
+   },
+   "ddf": true
+  },
+  {
+   "id": "geo-st-hamburg",
+   "schwierigkeit": "leicht",
+   "frage": "An welchem Fluss liegt Hamburg?",
+   "richtig": "Elbe",
+   "falsch": [
+    "Dnepr",
+    "Donau",
+    "Pegnitz"
+   ],
+   "begruendung": "Hamburg liegt an der Elbe.",
+   "karte": {
+    "titel": "Hamburg",
+    "text": "Hamburg liegt an der Elbe.",
+    "merke": "Hamburg liegt an der Elbe."
+   },
+   "ddf": true
+  },
+  {
+   "id": "geo-st-magdeburg",
+   "schwierigkeit": "mittel",
+   "frage": "An welchem Fluss liegt Magdeburg?",
+   "richtig": "Elbe",
+   "falsch": [
+    "Main",
+    "Dnepr",
+    "Neckar"
+   ],
+   "begruendung": "Magdeburg liegt an der Elbe.",
+   "karte": {
+    "titel": "Magdeburg",
+    "text": "Magdeburg liegt an der Elbe.",
+    "merke": "Magdeburg liegt an der Elbe."
+   }
+  },
+  {
+   "id": "geo-st-london",
+   "schwierigkeit": "leicht",
+   "frage": "An welchem Fluss liegt London?",
+   "richtig": "Themse",
+   "falsch": [
+    "Moldau",
+    "Mississippi",
+    "Newa"
+   ],
+   "begruendung": "London liegt an der Themse.",
+   "karte": {
+    "titel": "London",
+    "text": "London liegt an der Themse.",
+    "merke": "London liegt an der Themse."
+   },
+   "ddf": true
+  },
+  {
+   "id": "geo-st-wien",
+   "schwierigkeit": "leicht",
+   "frage": "An welchem Fluss liegt Wien?",
+   "richtig": "Donau",
+   "falsch": [
+    "Tejo",
+    "Moldau",
+    "Isar"
+   ],
+   "begruendung": "Wien liegt an der Donau.",
+   "karte": {
+    "titel": "Wien",
+    "text": "Wien liegt an der Donau.",
+    "merke": "Wien liegt an der Donau."
+   },
+   "ddf": true
+  },
+  {
+   "id": "geo-st-budapest",
+   "schwierigkeit": "leicht",
+   "frage": "An welchem Fluss liegt Budapest?",
+   "richtig": "Donau",
+   "falsch": [
+    "Moskwa",
+    "Weser",
+    "Seine"
+   ],
+   "begruendung": "Budapest liegt an der Donau.",
+   "karte": {
+    "titel": "Budapest",
+    "text": "Budapest liegt an der Donau.",
+    "merke": "Budapest liegt an der Donau."
+   },
+   "ddf": true
+  },
+  {
+   "id": "geo-st-bratislava",
+   "schwierigkeit": "mittel",
+   "frage": "An welchem Fluss liegt Bratislava?",
+   "richtig": "Donau",
+   "falsch": [
+    "Weichsel",
+    "Fulda",
+    "Inn"
+   ],
+   "begruendung": "Bratislava liegt an der Donau.",
+   "karte": {
+    "titel": "Bratislava",
+    "text": "Bratislava liegt an der Donau.",
+    "merke": "Bratislava liegt an der Donau."
+   }
+  },
+  {
+   "id": "geo-st-ulm",
+   "schwierigkeit": "mittel",
+   "frage": "An welchem Fluss liegt Ulm?",
+   "richtig": "Donau",
+   "falsch": [
+    "Pegnitz",
+    "Rhein",
+    "Limmat"
+   ],
+   "begruendung": "Ulm liegt an der Donau.",
+   "karte": {
+    "titel": "Ulm",
+    "text": "Ulm liegt an der Donau.",
+    "merke": "Ulm liegt an der Donau."
+   }
+  },
+  {
+   "id": "geo-st-regensburg",
+   "schwierigkeit": "mittel",
+   "frage": "An welchem Fluss liegt Regensburg?",
+   "richtig": "Donau",
+   "falsch": [
+    "Aare",
+    "Tejo",
+    "Guadalquivir"
+   ],
+   "begruendung": "Regensburg liegt an der Donau.",
+   "karte": {
+    "titel": "Regensburg",
+    "text": "Regensburg liegt an der Donau.",
+    "merke": "Regensburg liegt an der Donau."
+   }
+  },
+  {
+   "id": "geo-st-linz",
+   "schwierigkeit": "mittel",
+   "frage": "An welchem Fluss liegt Linz?",
+   "richtig": "Donau",
+   "falsch": [
+    "Pegnitz",
+    "Arno",
+    "Tigris"
+   ],
+   "begruendung": "Linz liegt an der Donau.",
+   "karte": {
+    "titel": "Linz",
+    "text": "Linz liegt an der Donau.",
+    "merke": "Linz liegt an der Donau."
+   }
+  },
+  {
+   "id": "geo-st-rom",
+   "schwierigkeit": "mittel",
+   "frage": "An welchem Fluss liegt Rom?",
+   "richtig": "Tiber",
+   "falsch": [
+    "Rhein",
+    "Themse",
+    "Guadalquivir"
+   ],
+   "begruendung": "Rom liegt am Tiber.",
+   "karte": {
+    "titel": "Rom",
+    "text": "Rom liegt am Tiber.",
+    "merke": "Rom liegt am Tiber."
+   }
+  },
+  {
+   "id": "geo-st-prag",
+   "schwierigkeit": "leicht",
+   "frage": "An welchem Fluss liegt Prag?",
+   "richtig": "Moldau",
+   "falsch": [
+    "Spree",
+    "Limmat",
+    "Leine"
+   ],
+   "begruendung": "Prag liegt an der Moldau.",
+   "karte": {
+    "titel": "Prag",
+    "text": "Prag liegt an der Moldau.",
+    "merke": "Prag liegt an der Moldau."
+   },
+   "ddf": true
+  },
+  {
+   "id": "geo-st-florenz",
+   "schwierigkeit": "schwer",
+   "frage": "An welchem Fluss liegt Florenz?",
+   "richtig": "Arno",
+   "falsch": [
+    "Seine",
+    "Dnepr",
+    "Moldau"
+   ],
+   "begruendung": "Florenz liegt am Arno.",
+   "karte": {
+    "titel": "Florenz",
+    "text": "Florenz liegt am Arno.",
+    "merke": "Florenz liegt am Arno."
+   }
+  },
+  {
+   "id": "geo-st-kairo",
+   "schwierigkeit": "leicht",
+   "frage": "An welchem Fluss liegt Kairo?",
+   "richtig": "Nil",
+   "falsch": [
+    "Pegnitz",
+    "Elbe",
+    "Leine"
+   ],
+   "begruendung": "Kairo liegt am Nil.",
+   "karte": {
+    "titel": "Kairo",
+    "text": "Kairo liegt am Nil.",
+    "merke": "Kairo liegt am Nil."
+   },
+   "ddf": true
+  },
+  {
+   "id": "geo-st-bagdad",
+   "schwierigkeit": "mittel",
+   "frage": "An welchem Fluss liegt Bagdad?",
+   "richtig": "Tigris",
+   "falsch": [
+    "Oder",
+    "Leine",
+    "Moskwa"
+   ],
+   "begruendung": "Bagdad liegt am Tigris.",
+   "karte": {
+    "titel": "Bagdad",
+    "text": "Bagdad liegt am Tigris.",
+    "merke": "Bagdad liegt am Tigris."
+   }
+  },
+  {
+   "id": "geo-st-lissabon",
+   "schwierigkeit": "mittel",
+   "frage": "An welchem Fluss liegt Lissabon?",
+   "richtig": "Tejo",
+   "falsch": [
+    "Weichsel",
+    "Pegnitz",
+    "Mississippi"
+   ],
+   "begruendung": "Lissabon liegt am Tejo.",
+   "karte": {
+    "titel": "Lissabon",
+    "text": "Lissabon liegt am Tejo.",
+    "merke": "Lissabon liegt am Tejo."
+   }
+  },
+  {
+   "id": "geo-st-warschau",
+   "schwierigkeit": "mittel",
+   "frage": "An welchem Fluss liegt Warschau?",
+   "richtig": "Weichsel",
+   "falsch": [
+    "Newa",
+    "Aare",
+    "Seine"
+   ],
+   "begruendung": "Warschau liegt an der Weichsel.",
+   "karte": {
+    "titel": "Warschau",
+    "text": "Warschau liegt an der Weichsel.",
+    "merke": "Warschau liegt an der Weichsel."
+   }
+  },
+  {
+   "id": "geo-st-krakau",
+   "schwierigkeit": "schwer",
+   "frage": "An welchem Fluss liegt Krakau?",
+   "richtig": "Weichsel",
+   "falsch": [
+    "Guadalquivir",
+    "Fulda",
+    "Seine"
+   ],
+   "begruendung": "Krakau liegt an der Weichsel.",
+   "karte": {
+    "titel": "Krakau",
+    "text": "Krakau liegt an der Weichsel.",
+    "merke": "Krakau liegt an der Weichsel."
+   }
+  },
+  {
+   "id": "geo-st-frankfurt-am-main",
+   "schwierigkeit": "leicht",
+   "frage": "An welchem Fluss liegt Frankfurt am Main?",
+   "richtig": "Main",
+   "falsch": [
+    "Pegnitz",
+    "Dnepr",
+    "Limmat"
+   ],
+   "begruendung": "Frankfurt am Main liegt am Main.",
+   "karte": {
+    "titel": "Frankfurt am Main",
+    "text": "Frankfurt am Main liegt am Main.",
+    "merke": "Frankfurt am Main liegt am Main."
+   },
+   "ddf": true
+  },
+  {
+   "id": "geo-st-wuerzburg",
+   "schwierigkeit": "mittel",
+   "frage": "An welchem Fluss liegt Würzburg?",
+   "richtig": "Main",
+   "falsch": [
+    "Weser",
+    "Moskwa",
+    "Neckar"
+   ],
+   "begruendung": "Würzburg liegt am Main.",
+   "karte": {
+    "titel": "Würzburg",
+    "text": "Würzburg liegt am Main.",
+    "merke": "Würzburg liegt am Main."
+   }
+  },
+  {
+   "id": "geo-st-muenchen",
+   "schwierigkeit": "leicht",
+   "frage": "An welchem Fluss liegt München?",
+   "richtig": "Isar",
+   "falsch": [
+    "Oder",
+    "Fulda",
+    "Nil"
+   ],
+   "begruendung": "München liegt an der Isar.",
+   "karte": {
+    "titel": "München",
+    "text": "München liegt an der Isar.",
+    "merke": "München liegt an der Isar."
+   },
+   "ddf": true
+  },
+  {
+   "id": "geo-st-berlin",
+   "schwierigkeit": "leicht",
+   "frage": "An welchem Fluss liegt Berlin?",
+   "richtig": "Spree",
+   "falsch": [
+    "Rhein",
+    "Main",
+    "Seine"
+   ],
+   "begruendung": "Berlin liegt an der Spree.",
+   "karte": {
+    "titel": "Berlin",
+    "text": "Berlin liegt an der Spree.",
+    "merke": "Berlin liegt an der Spree."
+   },
+   "ddf": true
+  },
+  {
+   "id": "geo-st-bremen",
+   "schwierigkeit": "leicht",
+   "frage": "An welchem Fluss liegt Bremen?",
+   "richtig": "Weser",
+   "falsch": [
+    "Tejo",
+    "Aare",
+    "Pegnitz"
+   ],
+   "begruendung": "Bremen liegt an der Weser.",
+   "karte": {
+    "titel": "Bremen",
+    "text": "Bremen liegt an der Weser.",
+    "merke": "Bremen liegt an der Weser."
+   },
+   "ddf": true
+  },
+  {
+   "id": "geo-st-stuttgart",
+   "schwierigkeit": "mittel",
+   "frage": "An welchem Fluss liegt Stuttgart?",
+   "richtig": "Neckar",
+   "falsch": [
+    "Seine",
+    "Limmat",
+    "Garonne"
+   ],
+   "begruendung": "Stuttgart liegt am Neckar.",
+   "karte": {
+    "titel": "Stuttgart",
+    "text": "Stuttgart liegt am Neckar.",
+    "merke": "Stuttgart liegt am Neckar."
+   }
+  },
+  {
+   "id": "geo-st-heidelberg",
+   "schwierigkeit": "mittel",
+   "frage": "An welchem Fluss liegt Heidelberg?",
+   "richtig": "Neckar",
+   "falsch": [
+    "Oder",
+    "Po",
+    "Main"
+   ],
+   "begruendung": "Heidelberg liegt am Neckar.",
+   "karte": {
+    "titel": "Heidelberg",
+    "text": "Heidelberg liegt am Neckar.",
+    "merke": "Heidelberg liegt am Neckar."
+   }
+  },
+  {
+   "id": "geo-st-moskau",
+   "schwierigkeit": "mittel",
+   "frage": "An welchem Fluss liegt Moskau?",
+   "richtig": "Moskwa",
+   "falsch": [
+    "Salzach",
+    "Tigris",
+    "Newa"
+   ],
+   "begruendung": "Moskau liegt an der Moskwa.",
+   "karte": {
+    "titel": "Moskau",
+    "text": "Moskau liegt an der Moskwa.",
+    "merke": "Moskau liegt an der Moskwa."
+   }
+  },
+  {
+   "id": "geo-st-sankt-petersburg",
+   "schwierigkeit": "schwer",
+   "frage": "An welchem Fluss liegt Sankt Petersburg?",
+   "richtig": "Newa",
+   "falsch": [
+    "Garonne",
+    "Leine",
+    "Moldau"
+   ],
+   "begruendung": "Sankt Petersburg liegt an der Newa.",
+   "karte": {
+    "titel": "Sankt Petersburg",
+    "text": "Sankt Petersburg liegt an der Newa.",
+    "merke": "Sankt Petersburg liegt an der Newa."
+   }
+  },
+  {
+   "id": "geo-st-paris",
+   "schwierigkeit": "leicht",
+   "frage": "An welchem Fluss liegt Paris?",
+   "richtig": "Seine",
+   "falsch": [
+    "Rhein",
+    "Donau",
+    "Tiber"
+   ],
+   "begruendung": "Paris liegt an der Seine.",
+   "karte": {
+    "titel": "Paris",
+    "text": "Paris liegt an der Seine.",
+    "merke": "Paris liegt an der Seine."
+   },
+   "ddf": true
+  },
+  {
+   "id": "geo-st-kyjiw",
+   "schwierigkeit": "mittel",
+   "frage": "An welchem Fluss liegt Kyjiw?",
+   "richtig": "Dnepr",
+   "falsch": [
+    "Limmat",
+    "Weichsel",
+    "Moskwa"
+   ],
+   "begruendung": "Kyjiw liegt am Dnepr.",
+   "karte": {
+    "titel": "Kyjiw",
+    "text": "Kyjiw liegt am Dnepr.",
+    "merke": "Kyjiw liegt am Dnepr."
+   }
+  },
+  {
+   "id": "geo-st-new-orleans",
+   "schwierigkeit": "mittel",
+   "frage": "An welchem Fluss liegt New Orleans?",
+   "richtig": "Mississippi",
+   "falsch": [
+    "Oder",
+    "Tejo",
+    "Garonne"
+   ],
+   "begruendung": "New Orleans liegt am Mississippi.",
+   "karte": {
+    "titel": "New Orleans",
+    "text": "New Orleans liegt am Mississippi.",
+    "merke": "New Orleans liegt am Mississippi."
+   }
+  },
+  {
+   "id": "geo-st-hannover",
+   "schwierigkeit": "mittel",
+   "frage": "An welchem Fluss liegt Hannover?",
+   "richtig": "Leine",
+   "falsch": [
+    "Tiber",
+    "Garonne",
+    "Spree"
+   ],
+   "begruendung": "Hannover liegt an der Leine.",
+   "karte": {
+    "titel": "Hannover",
+    "text": "Hannover liegt an der Leine.",
+    "merke": "Hannover liegt an der Leine."
+   }
+  },
+  {
+   "id": "geo-st-nuernberg",
+   "schwierigkeit": "schwer",
+   "frage": "An welchem Fluss liegt Nürnberg?",
+   "richtig": "Pegnitz",
+   "falsch": [
+    "Weser",
+    "Mississippi",
+    "Guadalquivir"
+   ],
+   "begruendung": "Nürnberg liegt an der Pegnitz.",
+   "karte": {
+    "titel": "Nürnberg",
+    "text": "Nürnberg liegt an der Pegnitz.",
+    "merke": "Nürnberg liegt an der Pegnitz."
+   }
+  },
+  {
+   "id": "geo-st-trier",
+   "schwierigkeit": "mittel",
+   "frage": "An welchem Fluss liegt Trier?",
+   "richtig": "Mosel",
+   "falsch": [
+    "Nil",
+    "Fulda",
+    "Weser"
+   ],
+   "begruendung": "Trier liegt an der Mosel.",
+   "karte": {
+    "titel": "Trier",
+    "text": "Trier liegt an der Mosel.",
+    "merke": "Trier liegt an der Mosel."
+   }
+  },
+  {
+   "id": "geo-st-innsbruck",
+   "schwierigkeit": "leicht",
+   "frage": "An welchem Fluss liegt Innsbruck?",
+   "richtig": "Inn",
+   "falsch": [
+    "Garonne",
+    "Moldau",
+    "Weichsel"
+   ],
+   "begruendung": "Innsbruck liegt am Inn.",
+   "karte": {
+    "titel": "Innsbruck",
+    "text": "Innsbruck liegt am Inn.",
+    "merke": "Innsbruck liegt am Inn."
+   },
+   "ddf": true
+  },
+  {
+   "id": "geo-st-salzburg",
+   "schwierigkeit": "mittel",
+   "frage": "An welchem Fluss liegt Salzburg?",
+   "richtig": "Salzach",
+   "falsch": [
+    "Tigris",
+    "Pegnitz",
+    "Tiber"
+   ],
+   "begruendung": "Salzburg liegt an der Salzach.",
+   "karte": {
+    "titel": "Salzburg",
+    "text": "Salzburg liegt an der Salzach.",
+    "merke": "Salzburg liegt an der Salzach."
+   }
+  },
+  {
+   "id": "geo-st-bordeaux",
+   "schwierigkeit": "schwer",
+   "frage": "An welchem Fluss liegt Bordeaux?",
+   "richtig": "Garonne",
+   "falsch": [
+    "Arno",
+    "Fulda",
+    "Tejo"
+   ],
+   "begruendung": "Bordeaux liegt an der Garonne.",
+   "karte": {
+    "titel": "Bordeaux",
+    "text": "Bordeaux liegt an der Garonne.",
+    "merke": "Bordeaux liegt an der Garonne."
+   }
+  },
+  {
+   "id": "geo-st-sevilla",
+   "schwierigkeit": "schwer",
+   "frage": "An welchem Fluss liegt Sevilla?",
+   "richtig": "Guadalquivir",
+   "falsch": [
+    "Aare",
+    "Spree",
+    "Oder"
+   ],
+   "begruendung": "Sevilla liegt am Guadalquivir.",
+   "karte": {
+    "titel": "Sevilla",
+    "text": "Sevilla liegt am Guadalquivir.",
+    "merke": "Sevilla liegt am Guadalquivir."
+   }
+  },
+  {
+   "id": "geo-st-turin",
+   "schwierigkeit": "schwer",
+   "frage": "An welchem Fluss liegt Turin?",
+   "richtig": "Po",
+   "falsch": [
+    "Leine",
+    "Seine",
+    "Tigris"
+   ],
+   "begruendung": "Turin liegt am Po.",
+   "karte": {
+    "titel": "Turin",
+    "text": "Turin liegt am Po.",
+    "merke": "Turin liegt am Po."
+   }
+  },
+  {
+   "id": "geo-st-breslau",
+   "schwierigkeit": "schwer",
+   "frage": "An welchem Fluss liegt Breslau?",
+   "richtig": "Oder",
+   "falsch": [
+    "Weichsel",
+    "Leine",
+    "Donau"
+   ],
+   "begruendung": "Breslau liegt an der Oder.",
+   "karte": {
+    "titel": "Breslau",
+    "text": "Breslau liegt an der Oder.",
+    "merke": "Breslau liegt an der Oder."
+   }
+  },
+  {
+   "id": "geo-st-kassel",
+   "schwierigkeit": "schwer",
+   "frage": "An welchem Fluss liegt Kassel?",
+   "richtig": "Fulda",
+   "falsch": [
+    "Saale",
+    "Inn",
+    "Tigris"
+   ],
+   "begruendung": "Kassel liegt an der Fulda.",
+   "karte": {
+    "titel": "Kassel",
+    "text": "Kassel liegt an der Fulda.",
+    "merke": "Kassel liegt an der Fulda."
+   }
+  },
+  {
+   "id": "geo-st-halle-saale",
+   "schwierigkeit": "mittel",
+   "frage": "An welchem Fluss liegt Halle (Saale)?",
+   "richtig": "Saale",
+   "falsch": [
+    "Salzach",
+    "Mississippi",
+    "Moldau"
+   ],
+   "begruendung": "Halle (Saale) liegt an der Saale.",
+   "karte": {
+    "titel": "Halle (Saale)",
+    "text": "Halle (Saale) liegt an der Saale.",
+    "merke": "Halle (Saale) liegt an der Saale."
+   }
+  },
+  {
+   "id": "geo-st-bern",
+   "schwierigkeit": "schwer",
+   "frage": "An welchem Fluss liegt Bern?",
+   "richtig": "Aare",
+   "falsch": [
+    "Nil",
+    "Weichsel",
+    "Rhein"
+   ],
+   "begruendung": "Bern liegt an der Aare.",
+   "karte": {
+    "titel": "Bern",
+    "text": "Bern liegt an der Aare.",
+    "merke": "Bern liegt an der Aare."
+   }
+  },
+  {
+   "id": "geo-st-zuerich",
+   "schwierigkeit": "schwer",
+   "frage": "An welchem Fluss liegt Zürich?",
+   "richtig": "Limmat",
+   "falsch": [
+    "Aare",
+    "Oder",
+    "Moskwa"
+   ],
+   "begruendung": "Zürich liegt an der Limmat.",
+   "karte": {
+    "titel": "Zürich",
+    "text": "Zürich liegt an der Limmat.",
+    "merke": "Zürich liegt an der Limmat."
+   }
+  },
+  {
+   "id": "geo-ge-der-brocken",
+   "schwierigkeit": "leicht",
+   "frage": "In welchem Gebirge liegt der Brocken?",
+   "richtig": "Harz",
+   "falsch": [
+    "Atlas",
+    "Eifel",
+    "Bayerischer Wald"
+   ],
+   "begruendung": "Der Brocken liegt im Gebirge Harz.",
+   "karte": {
+    "titel": "Brocken",
+    "text": "Der Brocken ist mit 1.141 m der höchste Berg im Harz.",
+    "merke": "Der Brocken liegt im Gebirge Harz."
+   }
+  },
+  {
+   "id": "geo-ge-der-feldberg",
+   "schwierigkeit": "mittel",
+   "frage": "In welchem Gebirge liegt der Feldberg?",
+   "richtig": "Schwarzwald",
+   "falsch": [
+    "Karakorum",
+    "Erzgebirge",
+    "Thüringer Wald"
+   ],
+   "begruendung": "Der Feldberg liegt im Gebirge Schwarzwald.",
+   "karte": {
+    "titel": "Feldberg",
+    "text": "Der Feldberg ist mit 1.493 m der höchste Berg im Schwarzwald.",
+    "merke": "Der Feldberg liegt im Gebirge Schwarzwald."
+   }
+  },
+  {
+   "id": "geo-ge-der-fichtelberg",
+   "schwierigkeit": "mittel",
+   "frage": "In welchem Gebirge liegt der Fichtelberg?",
+   "richtig": "Erzgebirge",
+   "falsch": [
+    "Taunus",
+    "Schwarzwald",
+    "Atlas"
+   ],
+   "begruendung": "Der Fichtelberg liegt im Gebirge Erzgebirge.",
+   "karte": {
+    "titel": "Fichtelberg",
+    "text": "Der Fichtelberg (1.215 m) ist der höchste Berg im deutschen Teil des Erzgebirges.",
+    "merke": "Der Fichtelberg liegt im Gebirge Erzgebirge."
+   }
+  },
+  {
+   "id": "geo-ge-der-grosse-arber",
+   "schwierigkeit": "mittel",
+   "frage": "In welchem Gebirge liegt der Große Arber?",
+   "richtig": "Bayerischer Wald",
+   "falsch": [
+    "Rothaargebirge",
+    "Thüringer Wald",
+    "Schwarzwald"
+   ],
+   "begruendung": "Der Große Arber liegt im Gebirge Bayerischer Wald.",
+   "karte": {
+    "titel": "Große Arber",
+    "text": "Der Große Arber ist mit 1.456 m der höchste Berg im Bayerischen Wald.",
+    "merke": "Der Große Arber liegt im Gebirge Bayerischer Wald."
+   }
+  },
+  {
+   "id": "geo-ge-die-wasserkuppe",
+   "schwierigkeit": "schwer",
+   "frage": "In welchem Gebirge liegt die Wasserkuppe?",
+   "richtig": "Rhön",
+   "falsch": [
+    "Kaukasus",
+    "Alpen",
+    "Schwarzwald"
+   ],
+   "begruendung": "Die Wasserkuppe liegt im Gebirge Rhön.",
+   "karte": {
+    "titel": "Wasserkuppe",
+    "text": "Die Wasserkuppe ist mit 950 m der höchste Berg der Rhön und ein bekannter Ort für Segelflieger.",
+    "merke": "Die Wasserkuppe liegt im Gebirge Rhön."
+   }
+  },
+  {
+   "id": "geo-ge-der-grosse-beerberg",
+   "schwierigkeit": "schwer",
+   "frage": "In welchem Gebirge liegt der Große Beerberg?",
+   "richtig": "Thüringer Wald",
+   "falsch": [
+    "Taunus",
+    "Pyrenäen",
+    "Eifel"
+   ],
+   "begruendung": "Der Große Beerberg liegt im Gebirge Thüringer Wald.",
+   "karte": {
+    "titel": "Große Beerberg",
+    "text": "Der Große Beerberg ist mit 983 m der höchste Berg im Thüringer Wald.",
+    "merke": "Der Große Beerberg liegt im Gebirge Thüringer Wald."
+   }
+  },
+  {
+   "id": "geo-ge-der-kahle-asten",
+   "schwierigkeit": "schwer",
+   "frage": "In welchem Gebirge liegt der Kahle Asten?",
+   "richtig": "Rothaargebirge",
+   "falsch": [
+    "Schwarzwald",
+    "Erzgebirge",
+    "Alpen"
+   ],
+   "begruendung": "Der Kahle Asten liegt im Gebirge Rothaargebirge.",
+   "karte": {
+    "titel": "Kahle Asten",
+    "text": "Der Kahle Asten (842 m) ist der bekannteste Gipfel im Rothaargebirge im Sauerland.",
+    "merke": "Der Kahle Asten liegt im Gebirge Rothaargebirge."
+   }
+  },
+  {
+   "id": "geo-ge-die-hohe-acht",
+   "schwierigkeit": "schwer",
+   "frage": "In welchem Gebirge liegt die Hohe Acht?",
+   "richtig": "Eifel",
+   "falsch": [
+    "Himalaya",
+    "Schwarzwald",
+    "Erzgebirge"
+   ],
+   "begruendung": "Die Hohe Acht liegt im Gebirge Eifel.",
+   "karte": {
+    "titel": "Hohe Acht",
+    "text": "Die Hohe Acht ist mit 747 m der höchste Berg der Eifel.",
+    "merke": "Die Hohe Acht liegt im Gebirge Eifel."
+   }
+  },
+  {
+   "id": "geo-ge-der-grosse-feldberg",
+   "schwierigkeit": "schwer",
+   "frage": "In welchem Gebirge liegt der Große Feldberg?",
+   "richtig": "Taunus",
+   "falsch": [
+    "Alpen",
+    "Rhön",
+    "Anden"
+   ],
+   "begruendung": "Der Große Feldberg liegt im Gebirge Taunus.",
+   "karte": {
+    "titel": "Große Feldberg",
+    "text": "Der Große Feldberg ist mit 879 m der höchste Berg im Taunus.",
+    "merke": "Der Große Feldberg liegt im Gebirge Taunus."
+   }
+  },
+  {
+   "id": "geo-ge-der-mount-everest",
+   "schwierigkeit": "leicht",
+   "frage": "In welchem Gebirge liegt der Mount Everest?",
+   "richtig": "Himalaya",
+   "falsch": [
+    "Schwarzwald",
+    "Atlas",
+    "Karakorum"
+   ],
+   "begruendung": "Der Mount Everest liegt im Gebirge Himalaya.",
+   "karte": {
+    "titel": "Mount Everest",
+    "text": "Der Mount Everest im Himalaya ist mit 8.849 m der höchste Berg der Erde.",
+    "merke": "Der Mount Everest liegt im Gebirge Himalaya."
+   }
+  },
+  {
+   "id": "geo-ge-der-k2",
+   "schwierigkeit": "schwer",
+   "frage": "In welchem Gebirge liegt der K2?",
+   "richtig": "Karakorum",
+   "falsch": [
+    "Anden",
+    "Bayerischer Wald",
+    "Thüringer Wald"
+   ],
+   "begruendung": "Der K2 liegt im Gebirge Karakorum.",
+   "karte": {
+    "titel": "K2",
+    "text": "Der K2 im Karakorum ist mit 8.611 m der zweithöchste Berg der Erde.",
+    "merke": "Der K2 liegt im Gebirge Karakorum."
+   }
+  },
+  {
+   "id": "geo-ge-der-aconcagua",
+   "schwierigkeit": "mittel",
+   "frage": "In welchem Gebirge liegt der Aconcagua?",
+   "richtig": "Anden",
+   "falsch": [
+    "Pyrenäen",
+    "Himalaya",
+    "Rhön"
+   ],
+   "begruendung": "Der Aconcagua liegt im Gebirge Anden.",
+   "karte": {
+    "titel": "Aconcagua",
+    "text": "Der Aconcagua ist mit 6.961 m der höchste Berg der Anden.",
+    "merke": "Der Aconcagua liegt im Gebirge Anden."
+   }
+  },
+  {
+   "id": "geo-ge-der-elbrus",
+   "schwierigkeit": "mittel",
+   "frage": "In welchem Gebirge liegt der Elbrus?",
+   "richtig": "Kaukasus",
+   "falsch": [
+    "Karakorum",
+    "Alpen",
+    "Rhön"
+   ],
+   "begruendung": "Der Elbrus liegt im Gebirge Kaukasus.",
+   "karte": {
+    "titel": "Elbrus",
+    "text": "Der Elbrus ist mit 5.642 m der höchste Berg im Kaukasus.",
+    "merke": "Der Elbrus liegt im Gebirge Kaukasus."
+   }
+  },
+  {
+   "id": "geo-ge-der-toubkal",
+   "schwierigkeit": "schwer",
+   "frage": "In welchem Gebirge liegt der Toubkal?",
+   "richtig": "Atlas",
+   "falsch": [
+    "Pyrenäen",
+    "Eifel",
+    "Harz"
+   ],
+   "begruendung": "Der Toubkal liegt im Gebirge Atlas.",
+   "karte": {
+    "titel": "Toubkal",
+    "text": "Der Toubkal ist mit 4.167 m der höchste Berg im Atlasgebirge.",
+    "merke": "Der Toubkal liegt im Gebirge Atlas."
+   }
+  },
+  {
+   "id": "geo-ge-der-aneto",
+   "schwierigkeit": "schwer",
+   "frage": "In welchem Gebirge liegt der Aneto?",
+   "richtig": "Pyrenäen",
+   "falsch": [
+    "Thüringer Wald",
+    "Karakorum",
+    "Himalaya"
+   ],
+   "begruendung": "Der Aneto liegt im Gebirge Pyrenäen.",
+   "karte": {
+    "titel": "Aneto",
+    "text": "Der Aneto ist mit 3.404 m der höchste Berg der Pyrenäen.",
+    "merke": "Der Aneto liegt im Gebirge Pyrenäen."
+   }
+  },
+  {
+   "id": "geo-ge-das-matterhorn",
+   "schwierigkeit": "leicht",
+   "frage": "In welchem Gebirge liegt das Matterhorn?",
+   "richtig": "Alpen",
+   "falsch": [
+    "Atlas",
+    "Eifel",
+    "Erzgebirge"
+   ],
+   "begruendung": "Das Matterhorn liegt im Gebirge Alpen.",
+   "karte": {
+    "titel": "Matterhorn",
+    "text": "Das Matterhorn (4.478 m) an der Grenze von Schweiz und Italien ist einer der bekanntesten Berge der Alpen.",
+    "merke": "Das Matterhorn liegt im Gebirge Alpen."
+   }
+  },
+  {
+   "id": "geo-hb-deutschlands",
+   "schwierigkeit": "leicht",
+   "frage": "Wie heißt der höchste Berg Deutschlands?",
+   "richtig": "Zugspitze",
+   "falsch": [
+    "Denali",
+    "Aoraki",
+    "Großglockner"
+   ],
+   "begruendung": "Höchster Berg Deutschlands: Zugspitze.",
+   "karte": {
+    "titel": "Zugspitze",
+    "text": "Die Zugspitze an der Grenze zu Österreich ist 2.962 m hoch.",
+    "merke": "Höchster Berg Deutschlands: Zugspitze."
+   },
+   "alias": []
+  },
+  {
+   "id": "geo-hb-oesterreichs",
+   "schwierigkeit": "leicht",
+   "frage": "Wie heißt der höchste Berg Österreichs?",
+   "richtig": "Großglockner",
+   "falsch": [
+    "Huascarán",
+    "Aoraki",
+    "Teide"
+   ],
+   "begruendung": "Höchster Berg Österreichs: Großglockner.",
+   "karte": {
+    "titel": "Großglockner",
+    "text": "Der Großglockner in den Hohen Tauern ist 3.798 m hoch.",
+    "merke": "Höchster Berg Österreichs: Großglockner."
+   },
+   "alias": []
+  },
+  {
+   "id": "geo-hb-der-schweiz",
+   "schwierigkeit": "schwer",
+   "frage": "Wie heißt der höchste Berg der Schweiz?",
+   "richtig": "Dufourspitze",
+   "falsch": [
+    "Mount Kosciuszko",
+    "Huascarán",
+    "Mount Kenya"
+   ],
+   "begruendung": "Höchster Berg der Schweiz: Dufourspitze.",
+   "karte": {
+    "titel": "Dufourspitze",
+    "text": "Die Dufourspitze im Monte-Rosa-Massiv ist 4.634 m hoch.",
+    "merke": "Höchster Berg der Schweiz: Dufourspitze."
+   },
+   "alias": []
+  },
+  {
+   "id": "geo-hb-frankreichs",
+   "schwierigkeit": "leicht",
+   "frage": "Wie heißt der höchste Berg Frankreichs?",
+   "richtig": "Mont Blanc",
+   "falsch": [
+    "Denali",
+    "Mount Kosciuszko",
+    "Ararat"
+   ],
+   "begruendung": "Höchster Berg Frankreichs: Mont Blanc.",
+   "karte": {
+    "titel": "Mont Blanc",
+    "text": "Der Mont Blanc ist gut 4.800 m hoch, seine Höhe schwankt mit der Eiskappe.",
+    "merke": "Höchster Berg Frankreichs: Mont Blanc."
+   },
+   "alias": []
+  },
+  {
+   "id": "geo-hb-spaniens",
+   "schwierigkeit": "schwer",
+   "frage": "Wie heißt der höchste Berg Spaniens?",
+   "richtig": "Teide",
+   "falsch": [
+    "Musala",
+    "Elbrus",
+    "Mount Logan"
+   ],
+   "begruendung": "Höchster Berg Spaniens: Teide.",
+   "karte": {
+    "titel": "Teide",
+    "text": "Der Vulkan Teide auf Teneriffa ist 3.715 m hoch und damit höher als jeder Berg auf dem spanischen Festland.",
+    "merke": "Höchster Berg Spaniens: Teide."
+   },
+   "alias": []
+  },
+  {
+   "id": "geo-hb-griechenlands",
+   "schwierigkeit": "mittel",
+   "frage": "Wie heißt der höchste Berg Griechenlands?",
+   "richtig": "Olymp",
+   "falsch": [
+    "Mount Kenya",
+    "Dufourspitze",
+    "Chimborazo"
+   ],
+   "begruendung": "Höchster Berg Griechenlands: Olymp.",
+   "karte": {
+    "titel": "Olymp",
+    "text": "Der Olymp ist 2.918 m hoch. In der Mythologie wohnten dort die Götter.",
+    "merke": "Höchster Berg Griechenlands: Olymp."
+   },
+   "alias": []
+  },
+  {
+   "id": "geo-hb-des-vereinigten-koenigreichs",
+   "schwierigkeit": "mittel",
+   "frage": "Wie heißt der höchste Berg des Vereinigten Königreichs?",
+   "richtig": "Ben Nevis",
+   "falsch": [
+    "Mount Kenya",
+    "Ararat",
+    "Triglav"
+   ],
+   "begruendung": "Höchster Berg des Vereinigten Königreichs: Ben Nevis.",
+   "karte": {
+    "titel": "Ben Nevis",
+    "text": "Der Ben Nevis in Schottland ist 1.345 m hoch.",
+    "merke": "Höchster Berg des Vereinigten Königreichs: Ben Nevis."
+   },
+   "alias": []
+  },
+  {
+   "id": "geo-hb-polens",
+   "schwierigkeit": "schwer",
+   "frage": "Wie heißt der höchste Berg Polens?",
+   "richtig": "Rysy",
+   "falsch": [
+    "Damavand",
+    "Zugspitze",
+    "Huascarán"
+   ],
+   "begruendung": "Höchster Berg Polens: Rysy.",
+   "karte": {
+    "titel": "Rysy",
+    "text": "Der Rysy in der Hohen Tatra ist auf polnischer Seite 2.499 m hoch.",
+    "merke": "Höchster Berg Polens: Rysy."
+   },
+   "alias": []
+  },
+  {
+   "id": "geo-hb-tschechiens",
+   "schwierigkeit": "schwer",
+   "frage": "Wie heißt der höchste Berg Tschechiens?",
+   "richtig": "Schneekoppe",
+   "falsch": [
+    "Mount Kosciuszko",
+    "Toubkal",
+    "Damavand"
+   ],
+   "begruendung": "Höchster Berg Tschechiens: Schneekoppe.",
+   "karte": {
+    "titel": "Schneekoppe",
+    "text": "Die Schneekoppe im Riesengebirge ist 1.603 m hoch.",
+    "merke": "Höchster Berg Tschechiens: Schneekoppe."
+   },
+   "alias": []
+  },
+  {
+   "id": "geo-hb-der-slowakei",
+   "schwierigkeit": "schwer",
+   "frage": "Wie heißt der höchste Berg der Slowakei?",
+   "richtig": "Gerlachspitze",
+   "falsch": [
+    "Schneekoppe",
+    "Aoraki",
+    "Elbrus"
+   ],
+   "begruendung": "Höchster Berg der Slowakei: Gerlachspitze.",
+   "karte": {
+    "titel": "Gerlachspitze",
+    "text": "Die Gerlachspitze in der Hohen Tatra ist 2.655 m hoch.",
+    "merke": "Höchster Berg der Slowakei: Gerlachspitze."
+   },
+   "alias": []
+  },
+  {
+   "id": "geo-hb-sloweniens",
+   "schwierigkeit": "schwer",
+   "frage": "Wie heißt der höchste Berg Sloweniens?",
+   "richtig": "Triglav",
+   "falsch": [
+    "Aconcagua",
+    "Ararat",
+    "Mont Blanc"
+   ],
+   "begruendung": "Höchster Berg Sloweniens: Triglav.",
+   "karte": {
+    "titel": "Triglav",
+    "text": "Der Triglav ist 2.864 m hoch und auf dem Wappen Sloweniens abgebildet.",
+    "merke": "Höchster Berg Sloweniens: Triglav."
+   },
+   "alias": []
+  },
+  {
+   "id": "geo-hb-bulgariens",
+   "schwierigkeit": "schwer",
+   "frage": "Wie heißt der höchste Berg Bulgariens?",
+   "richtig": "Musala",
+   "falsch": [
+    "Dufourspitze",
+    "Gerlachspitze",
+    "Olymp"
+   ],
+   "begruendung": "Höchster Berg Bulgariens: Musala.",
+   "karte": {
+    "titel": "Musala",
+    "text": "Der Musala im Rila-Gebirge ist 2.925 m hoch.",
+    "merke": "Höchster Berg Bulgariens: Musala."
+   },
+   "alias": []
+  },
+  {
+   "id": "geo-hb-norwegens",
+   "schwierigkeit": "schwer",
+   "frage": "Wie heißt der höchste Berg Norwegens?",
+   "richtig": "Galdhøpiggen",
+   "falsch": [
+    "Elbrus",
+    "Damavand",
+    "Ben Nevis"
+   ],
+   "begruendung": "Höchster Berg Norwegens: Galdhøpiggen.",
+   "karte": {
+    "titel": "Galdhøpiggen",
+    "text": "Der Galdhøpiggen ist 2.469 m hoch.",
+    "merke": "Höchster Berg Norwegens: Galdhøpiggen."
+   },
+   "alias": []
+  },
+  {
+   "id": "geo-hb-russlands",
+   "schwierigkeit": "mittel",
+   "frage": "Wie heißt der höchste Berg Russlands?",
+   "richtig": "Elbrus",
+   "falsch": [
+    "Olymp",
+    "Mount Logan",
+    "Gerlachspitze"
+   ],
+   "begruendung": "Höchster Berg Russlands: Elbrus.",
+   "karte": {
+    "titel": "Elbrus",
+    "text": "Der Elbrus im Kaukasus ist 5.642 m hoch.",
+    "merke": "Höchster Berg Russlands: Elbrus."
+   },
+   "alias": []
+  },
+  {
+   "id": "geo-hb-der-tuerkei",
+   "schwierigkeit": "mittel",
+   "frage": "Wie heißt der höchste Berg der Türkei?",
+   "richtig": "Ararat",
+   "falsch": [
+    "Teide",
+    "Mount Logan",
+    "Dufourspitze"
+   ],
+   "begruendung": "Höchster Berg der Türkei: Ararat.",
+   "karte": {
+    "titel": "Ararat",
+    "text": "Der Ararat ist 5.137 m hoch. Der Bibel nach strandete dort die Arche Noah.",
+    "merke": "Höchster Berg der Türkei: Ararat."
+   },
+   "alias": []
+  },
+  {
+   "id": "geo-hb-des-iran",
+   "schwierigkeit": "schwer",
+   "frage": "Wie heißt der höchste Berg des Iran?",
+   "richtig": "Damavand",
+   "falsch": [
+    "Triglav",
+    "Rysy",
+    "Mount Everest"
+   ],
+   "begruendung": "Höchster Berg des Iran: Damavand.",
+   "karte": {
+    "titel": "Damavand",
+    "text": "Der Vulkan Damavand ist rund 5.610 m hoch.",
+    "merke": "Höchster Berg des Iran: Damavand."
+   },
+   "alias": []
+  },
+  {
+   "id": "geo-hb-japans",
+   "schwierigkeit": "leicht",
+   "frage": "Wie heißt der höchste Berg Japans?",
+   "richtig": "Fuji",
+   "falsch": [
+    "Aoraki",
+    "Triglav",
+    "Dufourspitze"
+   ],
+   "begruendung": "Höchster Berg Japans: Fuji.",
+   "karte": {
+    "titel": "Fuji",
+    "text": "Der Vulkan Fuji ist 3.776 m hoch und das Wahrzeichen Japans.",
+    "merke": "Höchster Berg Japans: Fuji."
+   },
+   "alias": [
+    "Fujisan",
+    "Fudschijama"
+   ]
+  },
+  {
+   "id": "geo-hb-tansanias",
+   "schwierigkeit": "leicht",
+   "frage": "Wie heißt der höchste Berg Tansanias?",
+   "richtig": "Kilimandscharo",
+   "falsch": [
+    "Zugspitze",
+    "Mount Logan",
+    "Aoraki"
+   ],
+   "begruendung": "Höchster Berg Tansanias: Kilimandscharo.",
+   "karte": {
+    "titel": "Kilimandscharo",
+    "text": "Der Kilimandscharo ist 5.895 m hoch und der höchste Berg Afrikas.",
+    "merke": "Höchster Berg Tansanias: Kilimandscharo."
+   },
+   "alias": []
+  },
+  {
+   "id": "geo-hb-kenias",
+   "schwierigkeit": "mittel",
+   "frage": "Wie heißt der höchste Berg Kenias?",
+   "richtig": "Mount Kenya",
+   "falsch": [
+    "Schneekoppe",
+    "Mount Kosciuszko",
+    "Dufourspitze"
+   ],
+   "begruendung": "Höchster Berg Kenias: Mount Kenya.",
+   "karte": {
+    "titel": "Mount Kenya",
+    "text": "Der Mount Kenya ist 5.199 m hoch. Das Land ist nach ihm benannt.",
+    "merke": "Höchster Berg Kenias: Mount Kenya."
+   },
+   "alias": []
+  },
+  {
+   "id": "geo-hb-der-usa",
+   "schwierigkeit": "mittel",
+   "frage": "Wie heißt der höchste Berg der USA?",
+   "richtig": "Denali",
+   "falsch": [
+    "Fuji",
+    "Gerlachspitze",
+    "Mount Logan"
+   ],
+   "begruendung": "Höchster Berg der USA: Denali.",
+   "karte": {
+    "titel": "Denali",
+    "text": "Der Denali in Alaska ist 6.190 m hoch.",
+    "merke": "Höchster Berg der USA: Denali."
+   },
+   "alias": []
+  },
+  {
+   "id": "geo-hb-kanadas",
+   "schwierigkeit": "schwer",
+   "frage": "Wie heißt der höchste Berg Kanadas?",
+   "richtig": "Mount Logan",
+   "falsch": [
+    "Fuji",
+    "Mount Kosciuszko",
+    "Olymp"
+   ],
+   "begruendung": "Höchster Berg Kanadas: Mount Logan.",
+   "karte": {
+    "titel": "Mount Logan",
+    "text": "Der Mount Logan im Yukon ist 5.959 m hoch.",
+    "merke": "Höchster Berg Kanadas: Mount Logan."
+   },
+   "alias": []
+  },
+  {
+   "id": "geo-hb-mexikos",
+   "schwierigkeit": "schwer",
+   "frage": "Wie heißt der höchste Berg Mexikos?",
+   "richtig": "Pico de Orizaba",
+   "falsch": [
+    "Großglockner",
+    "Toubkal",
+    "Kilimandscharo"
+   ],
+   "begruendung": "Höchster Berg Mexikos: Pico de Orizaba.",
+   "karte": {
+    "titel": "Pico de Orizaba",
+    "text": "Der Vulkan Pico de Orizaba ist 5.636 m hoch.",
+    "merke": "Höchster Berg Mexikos: Pico de Orizaba."
+   },
+   "alias": []
+  },
+  {
+   "id": "geo-hb-argentiniens",
+   "schwierigkeit": "mittel",
+   "frage": "Wie heißt der höchste Berg Argentiniens?",
+   "richtig": "Aconcagua",
+   "falsch": [
+    "Toubkal",
+    "Dufourspitze",
+    "Kilimandscharo"
+   ],
+   "begruendung": "Höchster Berg Argentiniens: Aconcagua.",
+   "karte": {
+    "titel": "Aconcagua",
+    "text": "Der Aconcagua ist 6.961 m hoch und der höchste Berg Amerikas.",
+    "merke": "Höchster Berg Argentiniens: Aconcagua."
+   },
+   "alias": []
+  },
+  {
+   "id": "geo-hb-ecuadors",
+   "schwierigkeit": "schwer",
+   "frage": "Wie heißt der höchste Berg Ecuadors?",
+   "richtig": "Chimborazo",
+   "falsch": [
+    "Damavand",
+    "Mount Everest",
+    "Kilimandscharo"
+   ],
+   "begruendung": "Höchster Berg Ecuadors: Chimborazo.",
+   "karte": {
+    "titel": "Chimborazo",
+    "text": "Der Chimborazo ist 6.263 m hoch. Sein Gipfel ist der Punkt, der am weitesten vom Erdmittelpunkt entfernt ist.",
+    "merke": "Höchster Berg Ecuadors: Chimborazo."
+   },
+   "alias": []
+  },
+  {
+   "id": "geo-hb-perus",
+   "schwierigkeit": "schwer",
+   "frage": "Wie heißt der höchste Berg Perus?",
+   "richtig": "Huascarán",
+   "falsch": [
+    "Fuji",
+    "Damavand",
+    "Schneekoppe"
+   ],
+   "begruendung": "Höchster Berg Perus: Huascarán.",
+   "karte": {
+    "titel": "Huascarán",
+    "text": "Der Huascarán ist rund 6.760 m hoch.",
+    "merke": "Höchster Berg Perus: Huascarán."
+   },
+   "alias": []
+  },
+  {
+   "id": "geo-hb-neuseelands",
+   "schwierigkeit": "schwer",
+   "frage": "Wie heißt der höchste Berg Neuseelands?",
+   "richtig": "Aoraki",
+   "falsch": [
+    "Aconcagua",
+    "Mont Blanc",
+    "Galdhøpiggen"
+   ],
+   "begruendung": "Höchster Berg Neuseelands: Aoraki.",
+   "karte": {
+    "titel": "Aoraki",
+    "text": "Der Aoraki, auch Mount Cook genannt, ist 3.724 m hoch.",
+    "merke": "Höchster Berg Neuseelands: Aoraki."
+   },
+   "alias": [
+    "Mount Cook"
+   ]
+  },
+  {
+   "id": "geo-hb-australiens",
+   "schwierigkeit": "schwer",
+   "frage": "Wie heißt der höchste Berg Australiens?",
+   "richtig": "Mount Kosciuszko",
+   "falsch": [
+    "Schneekoppe",
+    "Galdhøpiggen",
+    "Aconcagua"
+   ],
+   "begruendung": "Höchster Berg Australiens: Mount Kosciuszko.",
+   "karte": {
+    "titel": "Mount Kosciuszko",
+    "text": "Der Mount Kosciuszko ist nur 2.228 m hoch.",
+    "merke": "Höchster Berg Australiens: Mount Kosciuszko."
+   },
+   "alias": []
+  },
+  {
+   "id": "geo-hb-marokkos",
+   "schwierigkeit": "schwer",
+   "frage": "Wie heißt der höchste Berg Marokkos?",
+   "richtig": "Toubkal",
+   "falsch": [
+    "Schneekoppe",
+    "Triglav",
+    "Elbrus"
+   ],
+   "begruendung": "Höchster Berg Marokkos: Toubkal.",
+   "karte": {
+    "titel": "Toubkal",
+    "text": "Der Toubkal im Hohen Atlas ist 4.167 m hoch.",
+    "merke": "Höchster Berg Marokkos: Toubkal."
+   },
+   "alias": []
+  },
+  {
+   "id": "geo-hb-nepals",
+   "schwierigkeit": "leicht",
+   "frage": "Wie heißt der höchste Berg Nepals?",
+   "richtig": "Mount Everest",
+   "falsch": [
+    "Olymp",
+    "Fuji",
+    "Kilimandscharo"
+   ],
+   "begruendung": "Höchster Berg Nepals: Mount Everest.",
+   "karte": {
+    "titel": "Mount Everest",
+    "text": "Der Mount Everest liegt auf der Grenze zwischen Nepal und China und ist 8.849 m hoch.",
+    "merke": "Höchster Berg Nepals: Mount Everest."
+   },
+   "alias": []
+  }
+ ]
+}

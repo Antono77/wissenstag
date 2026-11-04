@@ -11,11 +11,12 @@
     "pruefen": "node scripts/validate-data.mjs",
     "predev": "npm run flags",
     "dev": "vite",
-    "prebuild": "npm run flags && npm run laender && npm run pruefen",
+    "prebuild": "npm run flags && npm run laender && npm run fakten && npm run pruefen",
     "build": "vite build",
     "preview": "vite preview",
     "test": "vitest run",
-    "screenshots": "node scripts/screenshots.mjs"
+    "screenshots": "node scripts/screenshots.mjs",
+    "fakten": "node scripts/generate-fakten.mjs"
   },
   "license": "MIT",
   "devDependencies": {

@@ -1,0 +1,241 @@
+{
+  "klasse": "politik",
+  "fragen": [
+    {
+      "id": "pol-001", "schwierigkeit": "leicht", "ddf": true,
+      "frage": "Aus wie vielen Bundesländern besteht Deutschland?",
+      "richtig": "16", "falsch": ["12", "15", "18"],
+      "begruendung": "Deutschland hat 16 Länder, darunter die drei Stadtstaaten Berlin, Hamburg und Bremen.",
+      "karte": { "titel": "16 Bundesländer", "text": "Bis 1990 bestand die Bundesrepublik aus zehn Ländern und West-Berlin mit Sonderstatus. Mit der Einheit kamen Brandenburg, Mecklenburg-Vorpommern, Sachsen, Sachsen-Anhalt und Thüringen hinzu, und Berlin wurde ein gemeinsames Land.", "merke": "16 Bundesländer, drei davon Stadtstaaten." }
+    },
+    {
+      "id": "pol-002", "schwierigkeit": "leicht",
+      "frage": "Wer wählt in Deutschland den Bundeskanzler oder die Bundeskanzlerin?",
+      "richtig": "Der Bundestag", "falsch": ["Das Volk direkt", "Der Bundesrat", "Der Bundespräsident"], "alias": ["Bundestag"],
+      "begruendung": "Der Bundespräsident schlägt eine Person vor, die Abgeordneten des Bundestags wählen sie.",
+      "karte": { "titel": "Kanzlerwahl", "text": "Du wählst bei der Bundestagswahl Abgeordnete und Parteien. Erst der neue Bundestag wählt dann den Kanzler.", "merke": "Den Kanzler wählt der Bundestag." }
+    },
+    {
+      "id": "pol-003", "schwierigkeit": "mittel",
+      "frage": "Wer wählt den Bundespräsidenten?",
+      "richtig": "Die Bundesversammlung", "falsch": ["Der Bundestag allein", "Das Volk direkt", "Der Bundesrat"], "alias": ["Bundesversammlung"],
+      "begruendung": "Die Bundesversammlung besteht aus allen Bundestagsabgeordneten und ebenso vielen Vertretern der Länder.",
+      "karte": { "titel": "Bundesversammlung", "text": "Die Bundesversammlung tritt nur zusammen, um den Bundespräsidenten zu wählen. Die Länder schicken oft auch Prominente, etwa aus Sport und Kultur.", "merke": "Bundespräsident: gewählt von der Bundesversammlung, für fünf Jahre." }
+    },
+    {
+      "id": "pol-004", "schwierigkeit": "leicht",
+      "frage": "Für wie viele Jahre wird der Bundestag normalerweise gewählt?",
+      "richtig": "4 Jahre", "falsch": ["3 Jahre", "5 Jahre", "6 Jahre"], "alias": ["4", "vier"],
+      "begruendung": "Eine Wahlperiode des Bundestags dauert vier Jahre. Vorgezogene Wahlen wie 2025 sind die Ausnahme.",
+      "karte": { "titel": "Wahlperiode", "text": "Die meisten Landtage werden für fünf Jahre gewählt, der Bundestag für vier.", "merke": "Bundestag: alle vier Jahre." }
+    },
+    {
+      "id": "pol-005", "schwierigkeit": "leicht",
+      "frage": "Ab welchem Alter darfst du bei der Bundestagswahl wählen?",
+      "richtig": "18", "falsch": ["16", "17", "21"],
+      "begruendung": "Für die Bundestagswahl musst du am Wahltag 18 Jahre alt sein.",
+      "karte": { "titel": "Wahlalter", "text": "Bei der Europawahl und in vielen Ländern bei Kommunalwahlen darfst du schon ab 16 wählen.", "merke": "Bundestag ab 18, Europawahl ab 16." },
+      "stand": "2026-11"
+    },
+    {
+      "id": "pol-006", "schwierigkeit": "mittel",
+      "frage": "Ab welchem Alter durften Deutsche bei der Europawahl 2024 erstmals wählen?",
+      "richtig": "16", "falsch": ["14", "17", "18"],
+      "begruendung": "Seit 2024 liegt das Wahlalter für die Europawahl in Deutschland bei 16 Jahren.",
+      "karte": { "titel": "Wählen mit 16", "text": "Der Bundestag senkte das Wahlalter für die Europawahl 2022. Bei der Wahl 2024 durften Jugendliche ab 16 zum ersten Mal mitmachen.", "merke": "Europawahl: wählen ab 16 (seit 2024)." },
+      "stand": "2026-11"
+    },
+    {
+      "id": "pol-007", "schwierigkeit": "leicht", "ddf": true,
+      "frage": "Wie lautet der erste Satz des Grundgesetzes?",
+      "richtig": "Die Würde des Menschen ist unantastbar.", "falsch": ["Alle Menschen sind vor dem Gesetz gleich.", "Die Freiheit der Person ist unverletzlich.", "Alle Staatsgewalt geht vom Volke aus."],
+      "begruendung": "Artikel 1 Absatz 1 beginnt mit der Menschenwürde. Die Mütter und Väter des Grundgesetzes wollten so eine Lehre aus der NS-Zeit ziehen.",
+      "karte": { "titel": "Artikel 1", "text": "Die Grundrechte stehen ganz vorn im Grundgesetz. Artikel 1 darf auch mit Zweidrittelmehrheit nicht geändert werden.", "merke": "Art. 1 GG: Die Würde des Menschen ist unantastbar." }
+    },
+    {
+      "id": "pol-008", "schwierigkeit": "leicht",
+      "frage": "Wer ist Bundeskanzler der Bundesrepublik Deutschland?",
+      "richtig": "Friedrich Merz", "falsch": ["Olaf Scholz", "Lars Klingbeil", "Markus Söder"], "alias": ["Merz"],
+      "begruendung": "Der Bundestag wählte Friedrich Merz (CDU) am 6. Mai 2025 zum Bundeskanzler.",
+      "karte": { "titel": "Bundeskanzler Merz", "text": "Merz führt eine Koalition aus CDU, CSU und SPD. Vizekanzler ist Lars Klingbeil (SPD).", "merke": "Bundeskanzler seit Mai 2025: Friedrich Merz." },
+      "stand": "2026-11"
+    },
+    {
+      "id": "pol-009", "schwierigkeit": "leicht",
+      "frage": "In welchem Gebäude tagt der Bundestag?",
+      "richtig": "Im Reichstagsgebäude", "falsch": ["Im Kanzleramt", "Im Schloss Bellevue", "Im Roten Rathaus"], "alias": ["Reichstag", "Reichstagsgebäude"],
+      "begruendung": "Seit 1999 tagt der Bundestag im umgebauten Reichstagsgebäude in Berlin mit seiner gläsernen Kuppel.",
+      "karte": { "titel": "Reichstagsgebäude", "text": "Den Umbau plante der Architekt Norman Foster. Die Kuppel kannst du kostenlos besuchen, wenn du dich vorher anmeldest.", "merke": "Bundestag: Reichstagsgebäude. Bundespräsident: Schloss Bellevue." }
+    },
+    {
+      "id": "pol-010", "schwierigkeit": "leicht", "ddf": true,
+      "frage": "Wie viele Mitgliedstaaten hat die Europäische Union?",
+      "richtig": "27", "falsch": ["25", "28", "30"],
+      "begruendung": "Seit dem Austritt des Vereinigten Königreichs 2020 hat die EU 27 Mitglieder.",
+      "karte": { "titel": "EU-27", "text": "Zuletzt trat 2013 Kroatien bei. Mehrere Länder, etwa die Ukraine und Moldau, sind Beitrittskandidaten.", "merke": "Die EU hat 27 Mitgliedstaaten." },
+      "stand": "2026-11"
+    },
+    {
+      "id": "pol-011", "schwierigkeit": "leicht",
+      "frage": "Welches Land verließ 2020 die Europäische Union?",
+      "richtig": "Vereinigtes Königreich", "falsch": ["Norwegen", "Schweiz", "Dänemark"], "alias": ["Großbritannien", "UK", "England"],
+      "begruendung": "Nach dem Referendum von 2016 trat das Vereinigte Königreich am 31. Januar 2020 aus.",
+      "karte": { "titel": "Brexit", "text": "Bei der Abstimmung 2016 stimmten knapp 52 Prozent für den Austritt. Norwegen und die Schweiz waren nie EU-Mitglieder.", "merke": "Brexit: Austritt am 31. Januar 2020." }
+    },
+    {
+      "id": "pol-012", "schwierigkeit": "mittel",
+      "frage": "Wo ist der offizielle Sitz des Europäischen Parlaments?",
+      "richtig": "Straßburg", "falsch": ["Brüssel", "Luxemburg", "Den Haag"], "alias": ["Strasbourg"],
+      "begruendung": "Die EU-Verträge legen Straßburg als Sitz fest. Ausschüsse und viele Sitzungen finden aber in Brüssel statt.",
+      "karte": { "titel": "Zwei Standorte", "text": "Für die Plenarwochen pendeln die Abgeordneten zwölfmal im Jahr nach Straßburg. Das Generalsekretariat sitzt in Luxemburg.", "merke": "EU-Parlament: Sitz Straßburg, viel Arbeit in Brüssel." }
+    },
+    {
+      "id": "pol-013", "schwierigkeit": "leicht",
+      "frage": "Wer ist Präsidentin der Europäischen Kommission?",
+      "richtig": "Ursula von der Leyen", "falsch": ["Christine Lagarde", "Roberta Metsola", "Kaja Kallas"], "alias": ["von der Leyen"],
+      "begruendung": "Ursula von der Leyen leitet die Kommission seit 2019. 2024 wurde sie für eine zweite Amtszeit bestätigt.",
+      "karte": { "titel": "EU-Kommission", "text": "Die Kommission schlägt EU-Gesetze vor. Christine Lagarde leitet die Europäische Zentralbank, Roberta Metsola das Europäische Parlament.", "merke": "EU-Kommission: Ursula von der Leyen (seit 2019)." },
+      "stand": "2026-11"
+    },
+    {
+      "id": "pol-014", "schwierigkeit": "leicht",
+      "frage": "In welcher Stadt steht das Hauptquartier der Vereinten Nationen?",
+      "richtig": "New York", "falsch": ["Genf", "Washington", "Wien"],
+      "begruendung": "Das UN-Hauptquartier steht am East River in Manhattan, New York.",
+      "karte": { "titel": "Vereinte Nationen", "text": "Die UN wurden 1945 gegründet und haben 193 Mitgliedstaaten. Weitere große Standorte sind Genf, Wien und Nairobi.", "merke": "UN-Hauptquartier: New York. 193 Mitglieder." }
+    },
+    {
+      "id": "pol-015", "schwierigkeit": "mittel",
+      "frage": "Wie viele ständige Mitglieder hat der UN-Sicherheitsrat?",
+      "richtig": "5", "falsch": ["3", "7", "10"],
+      "begruendung": "China, Frankreich, Russland, das Vereinigte Königreich und die USA sind ständige Mitglieder mit Vetorecht.",
+      "karte": { "titel": "Sicherheitsrat", "text": "Neben den fünf ständigen Mitgliedern wählt die Generalversammlung zehn weitere für jeweils zwei Jahre.", "merke": "Sicherheitsrat: 5 ständige Mitglieder mit Veto, 10 gewählte." }
+    },
+    {
+      "id": "pol-016", "schwierigkeit": "mittel",
+      "frage": "Welches Land ist KEIN ständiges Mitglied im UN-Sicherheitsrat?",
+      "richtig": "Deutschland", "falsch": ["China", "Frankreich", "Russland"],
+      "begruendung": "Deutschland war mehrfach gewähltes Mitglied für zwei Jahre, aber nie ständiges Mitglied.",
+      "karte": { "titel": "Die fünf mit Veto", "text": "Die ständigen Mitglieder sind die Siegermächte des Zweiten Weltkriegs: USA, Sowjetunion (heute Russland), Großbritannien, Frankreich und China.", "merke": "Ständig: USA, Russland, China, Frankreich, Vereinigtes Königreich." }
+    },
+    {
+      "id": "pol-017", "schwierigkeit": "mittel",
+      "frage": "In welchem Jahr wurde die NATO gegründet?",
+      "richtig": "1949", "falsch": ["1945", "1955", "1961"],
+      "begruendung": "Zwölf Staaten unterzeichneten am 4. April 1949 in Washington den Nordatlantikvertrag.",
+      "karte": { "titel": "NATO", "text": "Die Bundesrepublik trat 1955 bei. Im selben Jahr gründeten die Sowjetunion und ihre Verbündeten den Warschauer Pakt.", "merke": "NATO: gegründet 1949, Deutschland dabei seit 1955." }
+    },
+    {
+      "id": "pol-018", "schwierigkeit": "mittel",
+      "frage": "Wie viele Mitgliedstaaten hat die NATO?",
+      "richtig": "32", "falsch": ["27", "30", "35"],
+      "begruendung": "Mit Finnland (2023) und Schweden (2024) wuchs die NATO auf 32 Mitglieder.",
+      "karte": { "titel": "NATO-Erweiterung", "text": "Finnland und Schweden waren lange neutral. Nach dem russischen Angriff auf die Ukraine 2022 beantragten beide die Mitgliedschaft.", "merke": "NATO: 32 Mitglieder, zuletzt Finnland und Schweden." },
+      "stand": "2026-11"
+    },
+    {
+      "id": "pol-019", "schwierigkeit": "mittel",
+      "frage": "Welche Stimme entscheidet bei der Bundestagswahl, wie viele Sitze eine Partei bekommt?",
+      "richtig": "Die Zweitstimme", "falsch": ["Die Erststimme", "Beide gleich", "Die Stimme des Wahlkreises"], "alias": ["Zweitstimme"],
+      "begruendung": "Nach den Zweitstimmen werden die Sitze auf die Parteien verteilt. Mit der Erststimme wählst du eine Person in deinem Wahlkreis.",
+      "karte": { "titel": "Erst- und Zweitstimme", "text": "Seit der Wahlrechtsreform zieht ein Wahlkreissieger nur dann ein, wenn seine Partei genug Zweitstimmen für diesen Sitz hat.", "merke": "Zweitstimme = Sitzverteilung der Parteien." },
+      "stand": "2026-11"
+    },
+    {
+      "id": "pol-020", "schwierigkeit": "mittel",
+      "frage": "Wie viel Prozent der Zweitstimmen braucht eine Partei normalerweise, um in den Bundestag zu kommen?",
+      "richtig": "5 %", "falsch": ["3 %", "4 %", "10 %"], "alias": ["5", "fünf"],
+      "begruendung": "Die Fünf-Prozent-Hürde soll verhindern, dass sehr viele kleine Parteien im Parlament sitzen.",
+      "karte": { "titel": "Fünf-Prozent-Hürde", "text": "Eine Ausnahme gilt mit der Grundmandatsklausel: Eine Partei mit drei gewonnenen Wahlkreisen zieht auch unter fünf Prozent ein. Parteien nationaler Minderheiten wie der SSW sind ganz befreit.", "merke": "Bundestag: Fünf-Prozent-Hürde." },
+      "stand": "2026-11"
+    },
+    {
+      "id": "pol-021", "schwierigkeit": "mittel",
+      "frage": "Wen vertritt der Bundesrat?",
+      "richtig": "Die Bundesländer", "falsch": ["Die Gemeinden", "Die Parteien", "Die Bürger direkt"], "alias": ["Länder", "Bundesländer"],
+      "begruendung": "Im Bundesrat sitzen Mitglieder der Landesregierungen. So wirken die Länder an Bundesgesetzen mit.",
+      "karte": { "titel": "Bundesrat", "text": "Große Länder haben bis zu sechs Stimmen, kleine drei. Ein Land muss seine Stimmen immer einheitlich abgeben.", "merke": "Bundesrat = Vertretung der Länder." }
+    },
+    {
+      "id": "pol-022", "schwierigkeit": "mittel", "ddf": true,
+      "frage": "In welcher Stadt sitzt das Bundesverfassungsgericht?",
+      "richtig": "Karlsruhe", "falsch": ["Berlin", "Leipzig", "Bonn"],
+      "begruendung": "Das Bundesverfassungsgericht hat seinen Sitz seit 1951 in Karlsruhe.",
+      "karte": { "titel": "Karlsruhe", "text": "Auch der Bundesgerichtshof sitzt in Karlsruhe. Das Bundesverwaltungsgericht ist in Leipzig.", "merke": "Bundesverfassungsgericht: Karlsruhe." }
+    },
+    {
+      "id": "pol-023", "schwierigkeit": "mittel",
+      "frage": "Wie heißt die rechtsprechende Gewalt in der Gewaltenteilung?",
+      "richtig": "Judikative", "falsch": ["Legislative", "Exekutive", "Presse"],
+      "begruendung": "Die Judikative sind die Gerichte. Die Legislative macht Gesetze, die Exekutive führt sie aus.",
+      "karte": { "titel": "Gewaltenteilung", "text": "Der Philosoph Montesquieu beschrieb im 18. Jahrhundert, warum die Macht auf drei Gewalten verteilt sein sollte. Die Presse nennt man manchmal die „vierte Gewalt“.", "merke": "Legislative = Gesetze, Exekutive = Regierung, Judikative = Gerichte." }
+    },
+    {
+      "id": "pol-024", "schwierigkeit": "leicht", "ddf": true,
+      "frage": "In welchem Jahr kam der Euro als Bargeld in Umlauf?",
+      "richtig": "2002", "falsch": ["1999", "2000", "2005"],
+      "begruendung": "Am 1. Januar 2002 lösten Euro-Scheine und -Münzen die D-Mark ab. Als Buchgeld gab es den Euro schon seit 1999.",
+      "karte": { "titel": "Der Euro", "text": "Ein Euro entsprach 1,95583 D-Mark. In Deutschland nannten Kritiker ihn deshalb anfangs „Teuro“.", "merke": "Euro-Bargeld seit 1.1.2002." }
+    },
+    {
+      "id": "pol-025", "schwierigkeit": "mittel",
+      "frage": "Wie viele EU-Länder zahlen mit dem Euro?",
+      "richtig": "21", "falsch": ["19", "20", "27"],
+      "begruendung": "Seit Bulgarien am 1. Januar 2026 den Euro eingeführt hat, gehören 21 Länder zum Euroraum.",
+      "karte": { "titel": "Euroraum", "text": "Vor Bulgarien kam 2023 Kroatien hinzu. Länder wie Dänemark, Schweden und Polen behalten ihre eigene Währung.", "merke": "Euroraum: 21 Länder, zuletzt Bulgarien (2026)." },
+      "stand": "2026-11"
+    },
+    {
+      "id": "pol-026", "schwierigkeit": "leicht",
+      "frage": "Was regelt das Schengener Abkommen?",
+      "richtig": "Reisen ohne Grenzkontrollen", "falsch": ["Die gemeinsame Währung", "Den Austritt aus der EU", "Den Klimaschutz"],
+      "begruendung": "Im Schengenraum entfallen die regelmäßigen Kontrollen an den Binnengrenzen.",
+      "karte": { "titel": "Schengen", "text": "Das Abkommen ist nach einem Ort in Luxemburg benannt. Auch Nicht-EU-Länder wie die Schweiz und Norwegen machen mit.", "merke": "Schengen = offene Grenzen ohne ständige Kontrollen." }
+    },
+    {
+      "id": "pol-027", "schwierigkeit": "mittel",
+      "frage": "Wie oft darf eine Person höchstens zum US-Präsidenten gewählt werden?",
+      "richtig": "Zweimal", "falsch": ["Einmal", "Dreimal", "Beliebig oft"], "alias": ["2", "zwei"],
+      "begruendung": "Der 22. Zusatzartikel der US-Verfassung begrenzt die Präsidentschaft auf zwei Wahlen.",
+      "karte": { "titel": "Amtszeitbegrenzung", "text": "Franklin D. Roosevelt wurde viermal gewählt. Danach führten die USA 1951 die Grenze ein.", "merke": "US-Präsident: höchstens zweimal vier Jahre." }
+    },
+    {
+      "id": "pol-028", "schwierigkeit": "mittel",
+      "frage": "Wer ist Bundespräsident?",
+      "richtig": "Frank-Walter Steinmeier", "falsch": ["Joachim Gauck", "Wolfgang Schäuble", "Christian Wulff"], "alias": ["Steinmeier"],
+      "begruendung": "Frank-Walter Steinmeier ist seit 2017 Bundespräsident. Seine zweite Amtszeit endet im März 2027.",
+      "karte": { "titel": "Bundespräsident", "text": "Der Bundespräsident unterschreibt Gesetze, ernennt Minister und vertritt Deutschland nach außen. Sein Amtssitz ist Schloss Bellevue in Berlin.", "merke": "Bundespräsident seit 2017: Frank-Walter Steinmeier." },
+      "stand": "2026-11"
+    },
+    {
+      "id": "pol-029", "schwierigkeit": "mittel",
+      "frage": "Wie hoch ist der gesetzliche Mindestlohn in Deutschland pro Stunde?",
+      "richtig": "13,90 €", "falsch": ["12,41 €", "12,82 €", "15,00 €"],
+      "begruendung": "Seit dem 1. Januar 2026 gelten 13,90 € pro Stunde. Am 1. Januar 2027 steigt er auf 14,60 €.",
+      "karte": { "titel": "Mindestlohn", "text": "Eine Kommission aus Arbeitgebern, Gewerkschaften und Fachleuten schlägt die Höhe vor. Den Mindestlohn gibt es seit 2015, damals 8,50 €.", "merke": "Mindestlohn 2026: 13,90 €, ab 2027: 14,60 €." },
+      "stand": "2026-11"
+    },
+    {
+      "id": "pol-030", "schwierigkeit": "mittel",
+      "frage": "Wie viele Abgeordnete hat der Bundestag seit der Wahlrechtsreform?",
+      "richtig": "630", "falsch": ["598", "709", "736"],
+      "begruendung": "Seit der Wahl 2025 ist der Bundestag auf 630 Sitze begrenzt. Vorher hatte er zuletzt 736 Abgeordnete.",
+      "karte": { "titel": "Kleinerer Bundestag", "text": "Früher wuchs der Bundestag durch Überhang- und Ausgleichsmandate immer weiter. Die Reform hat diese Mandate abgeschafft.", "merke": "Bundestag: 630 Sitze (seit 2025)." },
+      "stand": "2026-11"
+    },
+    {
+      "id": "pol-031", "schwierigkeit": "leicht", "ddf": true,
+      "frage": "Welche Stadt nennt man oft die „Hauptstadt Europas“?",
+      "richtig": "Brüssel", "falsch": ["Straßburg", "Paris", "Berlin"],
+      "begruendung": "In Brüssel sitzen die EU-Kommission, der Rat der EU und das NATO-Hauptquartier.",
+      "karte": { "titel": "Brüssel", "text": "Eine offizielle Hauptstadt hat die EU nicht. Brüssel beherbergt aber die meisten EU-Institutionen.", "merke": "„Hauptstadt Europas“: Brüssel." }
+    },
+    {
+      "id": "pol-032", "schwierigkeit": "mittel",
+      "frage": "Seit wann dürfen Frauen in Deutschland wählen?",
+      "richtig": "1918", "falsch": ["1871", "1933", "1949"],
+      "begruendung": "Das Frauenwahlrecht gilt seit November 1918. Im Januar 1919 wählten Frauen zum ersten Mal.",
+      "karte": { "titel": "Frauenwahlrecht", "text": "In der Weimarer Nationalversammlung saßen 1919 insgesamt 37 Frauen. In der Schweiz kam das Frauenwahlrecht auf Bundesebene erst 1971.", "merke": "Frauenwahlrecht in Deutschland: 1918." }
+    }
+  ]
+}

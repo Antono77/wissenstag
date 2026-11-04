@@ -1,0 +1,224 @@
+{
+  "klasse": "weltraum",
+  "fragen": [
+    {
+      "id": "wel-001", "schwierigkeit": "leicht", "ddf": true,
+      "frage": "Welcher ist der größte Planet in unserem Sonnensystem?",
+      "richtig": "Jupiter", "falsch": ["Saturn", "Neptun", "Erde"],
+      "begruendung": "Jupiter hat mehr als doppelt so viel Masse wie alle anderen Planeten zusammen.",
+      "karte": { "titel": "Jupiter", "text": "In Jupiter würde die Erde über 1.300-mal hineinpassen. Sein Großer Roter Fleck ist ein Sturm, größer als die Erde.", "merke": "Größter Planet: Jupiter." }
+    },
+    {
+      "id": "wel-002", "schwierigkeit": "leicht", "ddf": true,
+      "frage": "Welcher Planet ist der Sonne am nächsten?",
+      "richtig": "Merkur", "falsch": ["Venus", "Mars", "Erde"],
+      "begruendung": "Merkur kreist im Mittel rund 58 Mio. km von der Sonne entfernt.",
+      "karte": { "titel": "Merkur", "text": "Merkur braucht nur 88 Tage für eine Runde um die Sonne. Er hat fast keine Atmosphäre.", "merke": "Reihenfolge: Merkur, Venus, Erde, Mars, Jupiter, Saturn, Uranus, Neptun." }
+    },
+    {
+      "id": "wel-003", "schwierigkeit": "leicht",
+      "frage": "Wie viele Planeten hat unser Sonnensystem?",
+      "richtig": "8", "falsch": ["7", "9", "10"],
+      "begruendung": "Seit 2006 zählt Pluto als Zwergplanet. Übrig bleiben acht Planeten.",
+      "karte": { "titel": "Acht Planeten", "text": "Die Internationale Astronomische Union hat 2006 festgelegt, was ein Planet ist. Pluto erfüllt nicht alle Bedingungen.", "merke": "8 Planeten, Pluto ist seit 2006 Zwergplanet." }
+    },
+    {
+      "id": "wel-004", "schwierigkeit": "leicht", "ddf": true,
+      "frage": "Welcher Planet ist für seine großen Ringe bekannt?",
+      "richtig": "Saturn", "falsch": ["Mars", "Venus", "Merkur"],
+      "begruendung": "Saturns Ringe bestehen aus Eis- und Gesteinsbrocken. Jupiter, Uranus und Neptun haben auch Ringe, aber viel schwächere.",
+      "karte": { "titel": "Saturnringe", "text": "Die Ringe sind Hunderttausende Kilometer breit, aber oft nur zehn bis hundert Meter dick.", "merke": "Saturn: der Planet mit den großen Ringen." }
+    },
+    {
+      "id": "wel-005", "schwierigkeit": "leicht",
+      "frage": "Welcher Planet heißt auch „Roter Planet“?",
+      "richtig": "Mars", "falsch": ["Venus", "Jupiter", "Merkur"],
+      "begruendung": "Eisenoxid, also Rost, färbt den Staub auf dem Mars rötlich.",
+      "karte": { "titel": "Mars", "text": "Auf dem Mars steht der Olympus Mons, der höchste bekannte Vulkan im Sonnensystem. Mehrere Rover erkunden dort den Boden.", "merke": "Mars: rot durch Rost." }
+    },
+    {
+      "id": "wel-006", "schwierigkeit": "mittel", "ddf": true,
+      "frage": "Welcher Planet ist der heißeste im Sonnensystem?",
+      "richtig": "Venus", "falsch": ["Merkur", "Mars", "Jupiter"],
+      "begruendung": "Die dichte CO₂-Atmosphäre der Venus hält die Wärme fest. Am Boden herrschen rund 460 °C.",
+      "karte": { "titel": "Venus", "text": "Merkur ist näher an der Sonne, aber ohne Atmosphäre kühlt er nachts stark ab. Auf der Venus ist es überall gleich heiß.", "merke": "Heißester Planet: Venus, nicht Merkur." }
+    },
+    {
+      "id": "wel-007", "schwierigkeit": "leicht",
+      "frage": "Wie lange braucht das Licht von der Sonne bis zur Erde ungefähr?",
+      "richtig": "8 Minuten", "falsch": ["8 Sekunden", "8 Stunden", "1 Tag"], "alias": ["8"],
+      "begruendung": "Die Sonne ist rund 150 Mio. km entfernt. Licht braucht dafür etwa 8 Minuten und 20 Sekunden.",
+      "karte": { "titel": "Blick in die Vergangenheit", "text": "Du siehst die Sonne immer so, wie sie vor gut 8 Minuten war. Bei fernen Sternen sind es Jahre bis Jahrtausende.", "merke": "Sonnenlicht: gut 8 Minuten bis zur Erde." }
+    },
+    {
+      "id": "wel-008", "schwierigkeit": "leicht",
+      "frage": "Wer war der erste Mensch im Weltall?",
+      "richtig": "Juri Gagarin", "falsch": ["Neil Armstrong", "Alan Shepard", "Sigmund Jähn"], "alias": ["Gagarin"],
+      "begruendung": "Der sowjetische Kosmonaut Juri Gagarin umrundete am 12. April 1961 die Erde.",
+      "karte": { "titel": "Gagarin", "text": "Sein Flug mit Wostok 1 dauerte 108 Minuten. Sigmund Jähn flog 1978 als erster Deutscher ins All.", "merke": "Erster Mensch im All: Gagarin, 1961." }
+    },
+    {
+      "id": "wel-009", "schwierigkeit": "mittel",
+      "frage": "Wer war die erste Frau im Weltall?",
+      "richtig": "Valentina Tereschkowa", "falsch": ["Sally Ride", "Marie Curie", "Samantha Cristoforetti"], "alias": ["Tereschkowa"],
+      "begruendung": "Valentina Tereschkowa flog 1963 mit Wostok 6 fast drei Tage lang um die Erde.",
+      "karte": { "titel": "Tereschkowa", "text": "Sie war Textilarbeiterin und Fallschirmspringerin, bevor sie Kosmonautin wurde. Die erste US-Amerikanerin im All war Sally Ride, 1983.", "merke": "Erste Frau im All: Tereschkowa, 1963." }
+    },
+    {
+      "id": "wel-010", "schwierigkeit": "mittel",
+      "frage": "Wie heißt unsere Galaxie?",
+      "richtig": "Milchstraße", "falsch": ["Andromeda", "Orion", "Sombrero"],
+      "begruendung": "Unser Sonnensystem liegt in einem Spiralarm der Milchstraße, etwa 26.000 Lichtjahre vom Zentrum entfernt.",
+      "karte": { "titel": "Milchstraße", "text": "Die Milchstraße hat schätzungsweise 100 bis 400 Milliarden Sterne. Die Andromedagalaxie ist unsere große Nachbarin.", "merke": "Unsere Galaxie: Milchstraße." }
+    },
+    {
+      "id": "wel-011", "schwierigkeit": "mittel",
+      "frage": "Was ist ein Lichtjahr?",
+      "richtig": "Eine Entfernung", "falsch": ["Eine Zeitspanne", "Eine Helligkeit", "Eine Geschwindigkeit"],
+      "begruendung": "Ein Lichtjahr ist die Strecke, die Licht in einem Jahr zurücklegt: rund 9,5 Billionen Kilometer.",
+      "karte": { "titel": "Lichtjahr", "text": "Der nächste Stern nach der Sonne, Proxima Centauri, ist gut 4,2 Lichtjahre entfernt.", "merke": "Lichtjahr = Entfernung, nicht Zeit." }
+    },
+    {
+      "id": "wel-012", "schwierigkeit": "mittel",
+      "frage": "Wie heißt der nächste Stern nach der Sonne?",
+      "richtig": "Proxima Centauri", "falsch": ["Sirius", "Polarstern", "Beteigeuze"],
+      "begruendung": "Proxima Centauri ist etwa 4,2 Lichtjahre entfernt. Sirius ist der hellste Stern am Nachthimmel, aber weiter weg.",
+      "karte": { "titel": "Proxima Centauri", "text": "Proxima ist ein kleiner roter Zwerg und mit bloßem Auge nicht zu sehen. Er gehört zum System Alpha Centauri.", "merke": "Nächster Stern: Proxima Centauri, 4,2 Lichtjahre." }
+    },
+    {
+      "id": "wel-013", "schwierigkeit": "leicht", "ddf": true,
+      "frage": "Wie lange braucht die Erde für eine Drehung um sich selbst?",
+      "richtig": "Etwa 24 Stunden", "falsch": ["Etwa 12 Stunden", "Etwa 365 Tage", "Etwa 7 Tage"], "alias": ["24 Stunden", "24", "einen Tag"],
+      "begruendung": "Eine Drehung dauert rund 24 Stunden, das ergibt Tag und Nacht. Für eine Runde um die Sonne braucht die Erde ein Jahr.",
+      "karte": { "titel": "Tag und Jahr", "text": "Genau gemessen dauert eine Drehung gegenüber den Sternen 23 Stunden und 56 Minuten. Der Sonnentag ist etwas länger.", "merke": "Drehung: 1 Tag. Runde um die Sonne: 1 Jahr." }
+    },
+    {
+      "id": "wel-014", "schwierigkeit": "mittel",
+      "frage": "Wie weit ist der Mond im Mittel von der Erde entfernt?",
+      "richtig": "Rund 384.000 km", "falsch": ["Rund 38.000 km", "Rund 3,8 Mio. km", "Rund 150 Mio. km"],
+      "begruendung": "Der mittlere Abstand beträgt rund 384.400 km. Der Mond entfernt sich jedes Jahr um knapp 4 cm.",
+      "karte": { "titel": "Der Mond", "text": "Zwischen Erde und Mond passen alle anderen Planeten des Sonnensystems nebeneinander. 150 Mio. km sind die Entfernung zur Sonne.", "merke": "Mond: rund 384.000 km entfernt." }
+    },
+    {
+      "id": "wel-015", "schwierigkeit": "mittel",
+      "frage": "Warum sehen wir vom Mond immer dieselbe Seite?",
+      "richtig": "Er dreht sich genau einmal pro Erdumlauf um sich selbst", "falsch": ["Er dreht sich gar nicht", "Die Rückseite ist immer dunkel", "Die Erde verdeckt die Rückseite"],
+      "begruendung": "Die Schwerkraft der Erde hat die Drehung des Mondes so gebremst, dass Drehung und Umlauf gleich lang dauern.",
+      "karte": { "titel": "Gebundene Rotation", "text": "Die Rückseite des Mondes bekommt genauso viel Sonne wie die Vorderseite. „Dunkle Seite“ heißt nur: unbekannt. Erst 1959 fotografierte eine Sonde sie.", "merke": "Mond: Drehung = Umlauf, deshalb immer dieselbe Seite." }
+    },
+    {
+      "id": "wel-016", "schwierigkeit": "mittel",
+      "frage": "Woraus besteht die Sonne hauptsächlich?",
+      "richtig": "Aus Wasserstoff und Helium", "falsch": ["Aus flüssigem Eisen", "Aus brennender Kohle", "Aus Sauerstoff und Stickstoff"],
+      "begruendung": "Die Sonne besteht zu etwa drei Vierteln aus Wasserstoff und zu einem Viertel aus Helium.",
+      "karte": { "titel": "Kernfusion", "text": "Im Kern der Sonne verschmelzen bei rund 15 Mio. °C Wasserstoffkerne zu Helium. Dabei wird die Energie frei, die uns wärmt.", "merke": "Sonne: Wasserstoff → Helium durch Kernfusion." }
+    },
+    {
+      "id": "wel-017", "schwierigkeit": "leicht",
+      "frage": "Wie heißt die Internationale Raumstation abgekürzt?",
+      "richtig": "ISS", "falsch": ["NASA", "ESA", "MIR"],
+      "begruendung": "ISS steht für International Space Station. Die MIR war eine russische Station, die 2001 zum Absturz gebracht wurde.",
+      "karte": { "titel": "ISS", "text": "Die ISS kreist in rund 400 km Höhe und umrundet die Erde etwa alle 90 Minuten. Seit 2000 leben dort ständig Menschen.", "merke": "ISS: rund 400 km hoch, alle 90 Minuten einmal um die Erde." }
+    },
+    {
+      "id": "wel-018", "schwierigkeit": "mittel", "ddf": true,
+      "frage": "Welche Farbe hat der Planet Neptun?",
+      "richtig": "Blau", "falsch": ["Rot", "Gelb", "Grün"],
+      "begruendung": "Methan in der Atmosphäre schluckt rotes Licht. Deshalb erscheint Neptun blau.",
+      "karte": { "titel": "Neptun", "text": "Neptun ist der äußerste Planet. Auf ihm toben die schnellsten Winde im Sonnensystem, über 2.000 km/h.", "merke": "Neptun: blau, äußerster Planet." }
+    },
+    {
+      "id": "wel-019", "schwierigkeit": "schwer",
+      "frage": "Welcher Planet rotiert fast „liegend“, mit stark gekippter Achse?",
+      "richtig": "Uranus", "falsch": ["Saturn", "Neptun", "Mars"],
+      "begruendung": "Die Achse des Uranus ist um rund 98 Grad geneigt. Er rollt gewissermaßen um die Sonne.",
+      "karte": { "titel": "Uranus", "text": "Wahrscheinlich hat ein riesiger Zusammenstoß den Uranus gekippt. Seine Pole liegen abwechselnd jahrzehntelang in Sonne oder Dunkelheit.", "merke": "Uranus: der gekippte Planet." }
+    },
+    {
+      "id": "wel-020", "schwierigkeit": "mittel",
+      "frage": "Was entsteht, wenn ein sehr massereicher Stern kollabiert?",
+      "richtig": "Ein Schwarzes Loch", "falsch": ["Ein Planet", "Ein Komet", "Ein Mond"], "alias": ["Schwarzes Loch"],
+      "begruendung": "Bei sehr massereichen Sternen fällt der Kern nach einer Supernova so stark zusammen, dass nicht einmal Licht entkommt.",
+      "karte": { "titel": "Schwarze Löcher", "text": "2019 zeigte das Event Horizon Telescope das erste Bild vom Schatten eines Schwarzen Lochs, in der Galaxie M87.", "merke": "Schwarzes Loch: nicht einmal Licht entkommt." }
+    },
+    {
+      "id": "wel-021", "schwierigkeit": "mittel",
+      "frage": "Wie alt ist das Universum ungefähr?",
+      "richtig": "13,8 Mrd. Jahre", "falsch": ["4,6 Mrd. Jahre", "6.000 Jahre", "100 Mrd. Jahre"], "alias": ["13,8 Milliarden Jahre"],
+      "begruendung": "Messungen der kosmischen Hintergrundstrahlung ergeben ein Alter von rund 13,8 Mrd. Jahren. 4,6 Mrd. Jahre ist das Alter des Sonnensystems.",
+      "karte": { "titel": "Urknall", "text": "Seit dem Urknall dehnt sich das Universum aus. Edwin Hubble zeigte 1929, dass sich ferne Galaxien von uns entfernen.", "merke": "Universum: 13,8 Mrd. Jahre. Erde: 4,6 Mrd. Jahre." }
+    },
+    {
+      "id": "wel-022", "schwierigkeit": "mittel",
+      "frage": "Wie heißt der hellste Stern am Nachthimmel?",
+      "richtig": "Sirius", "falsch": ["Polarstern", "Wega", "Proxima Centauri"],
+      "begruendung": "Sirius im Sternbild Großer Hund ist der hellste Stern am Nachthimmel. Planeten wie Venus können heller leuchten.",
+      "karte": { "titel": "Sirius", "text": "Der Polarstern ist nicht besonders hell, steht aber fast genau über dem Nordpol. Deshalb nutzte man ihn zur Orientierung.", "merke": "Hellster Stern: Sirius. Richtung Norden: Polarstern." }
+    },
+    {
+      "id": "wel-023", "schwierigkeit": "leicht",
+      "frage": "Wie heißt die US-Raumfahrtbehörde?",
+      "richtig": "NASA", "falsch": ["ESA", "SpaceX", "Roskosmos"],
+      "begruendung": "NASA steht für National Aeronautics and Space Administration und wurde 1958 gegründet.",
+      "karte": { "titel": "Raumfahrtbehörden", "text": "Die ESA ist die Europäische Weltraumorganisation mit Hauptsitz in Paris. SpaceX ist ein privates Unternehmen.", "merke": "USA: NASA. Europa: ESA. Russland: Roskosmos." }
+    },
+    {
+      "id": "wel-024", "schwierigkeit": "mittel",
+      "frage": "Was ist eine Sternschnuppe?",
+      "richtig": "Ein verglühender Gesteinsbrocken", "falsch": ["Ein fallender Stern", "Ein Satellit", "Ein Blitz in großer Höhe"],
+      "begruendung": "Kleine Teilchen aus dem All verglühen in der Atmosphäre und leuchten dabei kurz auf.",
+      "karte": { "titel": "Meteore", "text": "Die meisten Sternschnuppen sind kaum größer als ein Sandkorn. Im August kreuzt die Erde die Staubspur eines Kometen: die Perseiden.", "merke": "Sternschnuppe = verglühendes Staubkorn, kein Stern." }
+    },
+    {
+      "id": "wel-025", "schwierigkeit": "schwer",
+      "frage": "Welcher Himmelskörper wurde 2006 zum Zwergplaneten herabgestuft?",
+      "richtig": "Pluto", "falsch": ["Ceres", "Eris", "Neptun"],
+      "begruendung": "Pluto räumt seine Umlaufbahn nicht frei. Deshalb zählt er seit 2006 als Zwergplanet.",
+      "karte": { "titel": "Pluto", "text": "Die Sonde New Horizons flog 2015 an Pluto vorbei und zeigte eine herzförmige Eisfläche. Ceres und Eris waren nie Planeten nach heutiger Definition.", "merke": "Pluto: seit 2006 Zwergplanet." }
+    },
+    {
+      "id": "wel-026", "schwierigkeit": "leicht", "ddf": true,
+      "frage": "Wie viele Monde hat die Erde?",
+      "richtig": "1", "falsch": ["0", "2", "3"], "alias": ["einen", "eins"],
+      "begruendung": "Die Erde hat einen natürlichen Mond. Kleine Brocken begleiten sie manchmal kurz, zählen aber nicht als Monde.",
+      "karte": { "titel": "Monde", "text": "Merkur und Venus haben keine Monde, Mars hat zwei kleine: Phobos und Deimos. Saturn hat über 250 bekannte Monde.", "merke": "Erde: 1 Mond. Mars: 2. Merkur, Venus: keiner." },
+      "stand": "2026-11"
+    },
+    {
+      "id": "wel-027", "schwierigkeit": "mittel",
+      "frage": "Wie heißt das Weltraumteleskop, das 2021 als Nachfolger von Hubble startete?",
+      "richtig": "James Webb", "falsch": ["Kepler", "Galileo", "Voyager"], "alias": ["James-Webb-Weltraumteleskop", "JWST"],
+      "begruendung": "Das James-Webb-Weltraumteleskop startete am 25. Dezember 2021 und beobachtet vor allem im Infrarotlicht.",
+      "karte": { "titel": "James Webb", "text": "Webb steht 1,5 Mio. km von der Erde entfernt. Sein Spiegel ist 6,5 m breit und aus 18 vergoldeten Waben zusammengesetzt.", "merke": "James Webb: Start 2021, Infrarot-Teleskop." }
+    },
+    {
+      "id": "wel-028", "schwierigkeit": "mittel",
+      "frage": "Welche Raumsonde ist am weitesten von der Erde entfernt?",
+      "richtig": "Voyager 1", "falsch": ["Voyager 2", "New Horizons", "Pioneer 10"],
+      "begruendung": "Voyager 1 startete 1977 und hat 2012 als erstes Objekt der Menschheit den interstellaren Raum erreicht.",
+      "karte": { "titel": "Voyager 1", "text": "An Bord ist eine vergoldete Schallplatte mit Grüßen, Musik und Geräuschen der Erde.", "merke": "Am weitesten weg: Voyager 1, Start 1977." }
+    },
+    {
+      "id": "wel-029", "schwierigkeit": "schwer",
+      "frage": "Was passiert bei einer Sonnenfinsternis?",
+      "richtig": "Der Mond schiebt sich vor die Sonne", "falsch": ["Die Erde schiebt sich vor den Mond", "Die Sonne erlischt kurz", "Eine Wolke verdeckt die Sonne"],
+      "begruendung": "Bei einer Sonnenfinsternis steht der Mond zwischen Sonne und Erde. Bei einer Mondfinsternis wirft die Erde ihren Schatten auf den Mond.",
+      "karte": { "titel": "Finsternisse", "text": "Die Sonne ist rund 400-mal so groß wie der Mond, aber auch rund 400-mal so weit weg. Deshalb passt der Mond fast genau davor.", "merke": "Sonnenfinsternis: Mond vor Sonne. Mondfinsternis: Erdschatten auf Mond." }
+    },
+    {
+      "id": "wel-030", "schwierigkeit": "mittel",
+      "frage": "Wie viele Menschen haben bisher den Mond betreten?",
+      "richtig": "12", "falsch": ["2", "6", "24"],
+      "begruendung": "Bei sechs Apollo-Landungen zwischen 1969 und 1972 betraten je zwei Astronauten den Mond.",
+      "karte": { "titel": "Zwölf auf dem Mond", "text": "Der letzte Mensch auf dem Mond war Eugene Cernan im Dezember 1972. Alle zwölf waren US-Amerikaner.", "merke": "12 Menschen auf dem Mond, alle 1969 bis 1972." },
+      "stand": "2026-11"
+    },
+    {
+      "id": "wel-031", "schwierigkeit": "leicht", "ddf": true,
+      "frage": "Wie heißt der Stern im Zentrum unseres Sonnensystems?",
+      "richtig": "Sonne", "falsch": ["Sirius", "Polarstern", "Mond"], "alias": ["die Sonne"],
+      "begruendung": "Die Sonne ist ein Stern. Sie enthält über 99 Prozent der Masse des Sonnensystems.",
+      "karte": { "titel": "Die Sonne", "text": "Die Sonne ist ein durchschnittlicher gelber Zwergstern. Sie ist rund 4,6 Mrd. Jahre alt und etwa zur Hälfte ihres Lebens.", "merke": "Die Sonne ist ein Stern mit 99 % der Masse des Sonnensystems." }
+    }
+  ]
+}

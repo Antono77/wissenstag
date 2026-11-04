@@ -1,0 +1,236 @@
+{
+  "klasse": "geografie",
+  "fragen": [
+    {
+      "id": "geo-001", "schwierigkeit": "leicht",
+      "frage": "Welcher Fluss gilt meist als der längste der Welt?",
+      "richtig": "Nil", "falsch": ["Jangtse", "Mississippi", "Donau"],
+      "begruendung": "Der Nil ist rund 6.650 km lang. Nur der Amazonas kommt je nach Messung an ihn heran.",
+      "karte": { "titel": "Der Nil", "text": "Der Nil fließt durch elf Länder Nordostafrikas und mündet in Ägypten ins Mittelmeer. Ob er oder der Amazonas länger ist, hängt davon ab, wo man die Quelle ansetzt.", "merke": "Nil: rund 6.650 km, meist als längster Fluss der Welt genannt." }
+    },
+    {
+      "id": "geo-002", "schwierigkeit": "leicht", "ddf": true,
+      "frage": "Wie heißt der höchste Berg der Erde?",
+      "richtig": "Mount Everest", "falsch": ["K2", "Kangchendzönga", "Mont Blanc"], "alias": ["Everest"],
+      "begruendung": "Der Mount Everest im Himalaya ist nach der Messung von 2020 genau 8.848,86 m hoch.",
+      "karte": { "titel": "Mount Everest", "text": "Der Gipfel liegt auf der Grenze zwischen Nepal und China. Nepal und China haben ihn 2020 gemeinsam neu vermessen.", "merke": "Mount Everest: 8.849 m, höchster Berg der Erde." }
+    },
+    {
+      "id": "geo-003", "schwierigkeit": "leicht", "ddf": true,
+      "frage": "Welcher ist der größte Ozean der Erde?",
+      "richtig": "Pazifik", "falsch": ["Atlantik", "Indischer Ozean", "Arktischer Ozean"], "alias": ["Pazifischer Ozean", "Stiller Ozean"],
+      "begruendung": "Der Pazifik bedeckt rund ein Drittel der Erdoberfläche, mehr als alle Landflächen zusammen.",
+      "karte": { "titel": "Der Pazifik", "text": "Der Pazifik reicht von Asien und Australien bis nach Amerika. In ihm liegt auch die tiefste Stelle der Meere.", "merke": "Der Pazifik ist größer als alle Kontinente zusammen." }
+    },
+    {
+      "id": "geo-004", "schwierigkeit": "schwer", "ddf": true,
+      "frage": "Welche ist die größte Wüste der Erde?",
+      "richtig": "Antarktis", "falsch": ["Sahara", "Gobi", "Arabische Wüste"],
+      "begruendung": "Wüste heißt: kaum Niederschlag. Die Antarktis ist eine Kältewüste mit rund 14 Mio. km² und damit größer als die Sahara.",
+      "karte": { "titel": "Kältewüste Antarktis", "text": "Geografen zählen eine Gegend als Wüste, wenn dort sehr wenig Regen oder Schnee fällt. Die Temperatur spielt dabei keine Rolle.", "merke": "Größte Wüste: Antarktis. Größte heiße Wüste: Sahara." }
+    },
+    {
+      "id": "geo-005", "schwierigkeit": "leicht",
+      "frage": "Wie heißt die größte heiße Wüste der Erde?",
+      "richtig": "Sahara", "falsch": ["Kalahari", "Atacama", "Gobi"],
+      "begruendung": "Die Sahara in Nordafrika ist mit etwa 9 Mio. km² ungefähr so groß wie die USA.",
+      "karte": { "titel": "Die Sahara", "text": "Die Sahara erstreckt sich über elf Länder vom Atlantik bis zum Roten Meer. Nur ein kleiner Teil besteht aus Sanddünen, der Rest ist Stein und Geröll.", "merke": "Sahara: größte heiße Wüste, etwa so groß wie die USA." }
+    },
+    {
+      "id": "geo-006", "schwierigkeit": "mittel",
+      "frage": "Welcher ist der längste Fluss Europas?",
+      "richtig": "Wolga", "falsch": ["Donau", "Rhein", "Dnepr"],
+      "begruendung": "Die Wolga ist rund 3.530 km lang und fließt ganz durch Russland ins Kaspische Meer.",
+      "karte": { "titel": "Die Wolga", "text": "Die Wolga entspringt nordwestlich von Moskau und mündet ins Kaspische Meer. Die Donau folgt mit rund 2.850 km auf Platz zwei.", "merke": "Längster Fluss Europas: Wolga, dann Donau." }
+    },
+    {
+      "id": "geo-007", "schwierigkeit": "leicht", "ddf": true,
+      "frage": "Wie heißt der höchste Berg Afrikas?",
+      "richtig": "Kilimandscharo", "falsch": ["Mount Kenya", "Atlas", "Ruwenzori"], "alias": ["Kilimanjaro", "Kibo"],
+      "begruendung": "Der Kilimandscharo in Tansania ist 5.895 m hoch.",
+      "karte": { "titel": "Kilimandscharo", "text": "Der Kilimandscharo ist ein ruhender Vulkan in Tansania. Sein höchster Gipfel heißt Kibo und trägt trotz Äquatornähe Gletscher.", "merke": "Kilimandscharo: 5.895 m, Tansania." }
+    },
+    {
+      "id": "geo-008", "schwierigkeit": "mittel",
+      "frage": "Wie heißt der höchste Berg der Alpen?",
+      "richtig": "Mont Blanc", "falsch": ["Matterhorn", "Zugspitze", "Großglockner"],
+      "begruendung": "Der Mont Blanc an der Grenze von Frankreich und Italien ist gut 4.800 m hoch. Seine Höhe schwankt mit der Eiskappe.",
+      "karte": { "titel": "Mont Blanc", "text": "Der „weiße Berg“ liegt zwischen Chamonix und Courmayeur. Weil die Eiskappe wächst und schmilzt, messen Vermesser jedes Mal etwas andere Werte.", "merke": "Mont Blanc: höchster Berg der Alpen, gut 4.800 m." }
+    },
+    {
+      "id": "geo-009", "schwierigkeit": "mittel",
+      "frage": "Welches ist die größte Insel der Welt?",
+      "richtig": "Grönland", "falsch": ["Borneo", "Madagaskar", "Neuguinea"],
+      "begruendung": "Grönland hat rund 2,2 Mio. km². Australien zählt als Kontinent und nicht als Insel.",
+      "karte": { "titel": "Grönland", "text": "Grönland gehört zum Königreich Dänemark und ist zu etwa vier Fünfteln mit Eis bedeckt. Dort leben nur rund 56.000 Menschen.", "merke": "Größte Insel: Grönland. Australien gilt als Kontinent." }
+    },
+    {
+      "id": "geo-010", "schwierigkeit": "leicht",
+      "frage": "Wo liegt die tiefste bekannte Stelle der Meere?",
+      "richtig": "Im Marianengraben", "falsch": ["Im Bermudadreieck", "Im Puerto-Rico-Graben", "Im Roten Meer"], "alias": ["Marianengraben"],
+      "begruendung": "Das Challengertief im Marianengraben im Westpazifik ist fast 11.000 m tief.",
+      "karte": { "titel": "Marianengraben", "text": "Der Graben liegt östlich der Philippinen. Würdest du den Mount Everest hineinstellen, läge sein Gipfel noch rund 2.000 m unter Wasser.", "merke": "Marianengraben: knapp 11 km tief." }
+    },
+    {
+      "id": "geo-011", "schwierigkeit": "mittel",
+      "frage": "Welches Gewässer ist der flächenmäßig größte See der Erde?",
+      "richtig": "Kaspisches Meer", "falsch": ["Baikalsee", "Oberer See", "Victoriasee"],
+      "begruendung": "Das Kaspische Meer ist trotz seines Namens ein See ohne Abfluss zum Ozean, mit rund 370.000 km².",
+      "karte": { "titel": "Kaspisches Meer", "text": "Fünf Länder grenzen an das Kaspische Meer, darunter Russland, Iran und Kasachstan. Sein Wasser ist leicht salzig.", "merke": "Größter See: Kaspisches Meer." }
+    },
+    {
+      "id": "geo-012", "schwierigkeit": "mittel",
+      "frage": "Welcher See ist der tiefste der Erde?",
+      "richtig": "Baikalsee", "falsch": ["Tanganjikasee", "Bodensee", "Titicacasee"],
+      "begruendung": "Der Baikalsee in Sibirien ist bis zu 1.642 m tief.",
+      "karte": { "titel": "Baikalsee", "text": "Im Baikalsee steckt rund ein Fünftel des flüssigen Süßwassers der Erdoberfläche. Er ist auch der älteste See der Welt.", "merke": "Baikalsee: tiefster und ältester See der Erde." }
+    },
+    {
+      "id": "geo-013", "schwierigkeit": "leicht", "ddf": true,
+      "frage": "Wie viele Kontinente zählt man in Deutschland üblicherweise?",
+      "richtig": "7", "falsch": ["5", "6", "8"],
+      "begruendung": "Afrika, Antarktika, Asien, Australien, Europa, Nordamerika und Südamerika ergeben sieben.",
+      "karte": { "titel": "Sieben Kontinente", "text": "Je nach Land zählt man unterschiedlich. Manche fassen Amerika zu einem Kontinent zusammen oder Europa und Asien zu Eurasien.", "merke": "Sieben Kontinente, wenn Nord- und Südamerika getrennt zählen." }
+    },
+    {
+      "id": "geo-014", "schwierigkeit": "leicht", "ddf": true,
+      "frage": "Welches Land ist flächenmäßig das größte der Welt?",
+      "richtig": "Russland", "falsch": ["Kanada", "China", "USA"],
+      "begruendung": "Russland hat rund 17,1 Mio. km², fast doppelt so viel wie Kanada auf Platz zwei.",
+      "karte": { "titel": "Russland", "text": "Russland reicht von der Ostsee bis zum Pazifik und hat elf Zeitzonen. Etwa drei Viertel der Fläche liegen in Asien.", "merke": "Größtes Land: Russland, dann Kanada." }
+    },
+    {
+      "id": "geo-015", "schwierigkeit": "leicht", "ddf": true,
+      "frage": "Welches ist das flächenmäßig kleinste Land der Welt?",
+      "richtig": "Vatikanstadt", "falsch": ["Monaco", "Liechtenstein", "San Marino"], "alias": ["Vatikan"],
+      "begruendung": "Die Vatikanstadt in Rom ist nur 0,44 km² groß.",
+      "karte": { "titel": "Vatikanstadt", "text": "Der Papst regiert den Kleinstaat mitten in Rom. Monaco folgt mit rund 2 km² auf Platz zwei.", "merke": "Kleinstes Land: Vatikanstadt, dann Monaco." }
+    },
+    {
+      "id": "geo-016", "schwierigkeit": "leicht", "ddf": true,
+      "frage": "Welcher Fluss fließt durch Paris?",
+      "richtig": "Seine", "falsch": ["Loire", "Rhône", "Garonne"],
+      "begruendung": "Die Seine fließt mitten durch Paris und mündet bei Le Havre in den Ärmelkanal.",
+      "karte": { "titel": "Die Seine", "text": "Viele Sehenswürdigkeiten von Paris liegen am Ufer der Seine, etwa Notre-Dame auf der Île de la Cité.", "merke": "Paris liegt an der Seine." }
+    },
+    {
+      "id": "geo-017", "schwierigkeit": "mittel",
+      "frage": "Welches ist das längste Gebirge an Land?",
+      "richtig": "Anden", "falsch": ["Himalaya", "Rocky Mountains", "Ural"],
+      "begruendung": "Die Anden ziehen sich rund 7.000 km entlang der Westküste Südamerikas.",
+      "karte": { "titel": "Die Anden", "text": "Die Anden verlaufen durch sieben Länder von Venezuela bis Feuerland. Ihr höchster Gipfel ist der Aconcagua.", "merke": "Längstes Gebirge an Land: Anden, rund 7.000 km." }
+    },
+    {
+      "id": "geo-018", "schwierigkeit": "schwer",
+      "frage": "Wie heißt der höchste Wasserfall der Erde?",
+      "richtig": "Salto Ángel", "falsch": ["Niagarafälle", "Victoriafälle", "Iguazú-Fälle"], "alias": ["Salto Angel", "Angel Falls"],
+      "begruendung": "Der Salto Ángel in Venezuela stürzt 979 m in die Tiefe, davon 807 m im freien Fall.",
+      "karte": { "titel": "Salto Ángel", "text": "Der Wasserfall liegt im Canaima-Nationalpark in Venezuela. Benannt ist er nach dem US-Piloten Jimmie Angel, der ihn 1933 überflog.", "merke": "Höchster Wasserfall: Salto Ángel, 979 m." }
+    },
+    {
+      "id": "geo-019", "schwierigkeit": "leicht",
+      "frage": "Welche Meerenge trennt Europa von Afrika?",
+      "richtig": "Straße von Gibraltar", "falsch": ["Bosporus", "Ärmelkanal", "Straße von Messina"], "alias": ["Gibraltar"],
+      "begruendung": "Zwischen Spanien und Marokko liegen an der engsten Stelle nur etwa 14 km Wasser.",
+      "karte": { "titel": "Straße von Gibraltar", "text": "Die Meerenge verbindet das Mittelmeer mit dem Atlantik. Der Bosporus trennt dagegen Europa und Asien.", "merke": "Gibraltar: Europa/Afrika. Bosporus: Europa/Asien." }
+    },
+    {
+      "id": "geo-020", "schwierigkeit": "mittel",
+      "frage": "Wo liegt der tiefste Punkt an Land?",
+      "richtig": "Am Toten Meer", "falsch": ["Im Death Valley", "Am Kaspischen Meer", "In den Niederlanden"], "alias": ["Totes Meer"],
+      "begruendung": "Das Ufer des Toten Meeres liegt rund 430 m unter dem Meeresspiegel und sinkt weiter.",
+      "karte": { "titel": "Totes Meer", "text": "Das Tote Meer liegt zwischen Israel, dem Westjordanland und Jordanien. Sein Wasser ist so salzig, dass du darin fast von allein treibst.", "merke": "Tiefster Landpunkt: Totes Meer, rund 430 m unter null." }
+    },
+    {
+      "id": "geo-021", "schwierigkeit": "mittel", "ddf": true,
+      "frage": "Welcher Kontinent hat die meisten Staaten?",
+      "richtig": "Afrika", "falsch": ["Europa", "Asien", "Südamerika"],
+      "begruendung": "Afrika hat 54 Staaten, die alle in den Vereinten Nationen sind.",
+      "karte": { "titel": "54 Staaten in Afrika", "text": "Viele Grenzen in Afrika haben Kolonialmächte im 19. Jahrhundert gezogen. Der jüngste Staat ist der Südsudan, unabhängig seit 2011.", "merke": "Afrika: 54 Staaten, mehr als jeder andere Kontinent." }
+    },
+    {
+      "id": "geo-022", "schwierigkeit": "leicht", "ddf": true,
+      "frage": "In welchem Ozean liegt Hawaii?",
+      "richtig": "Pazifik", "falsch": ["Atlantik", "Indischer Ozean", "Karibisches Meer"], "alias": ["Pazifischer Ozean"],
+      "begruendung": "Hawaii liegt mitten im Nordpazifik, rund 3.800 km von Kalifornien entfernt.",
+      "karte": { "titel": "Hawaii", "text": "Hawaii ist seit 1959 der 50. Bundesstaat der USA. Die Inseln sind aus Vulkanen entstanden, einige sind noch aktiv.", "merke": "Hawaii: Pazifik, 50. US-Bundesstaat." }
+    },
+    {
+      "id": "geo-023", "schwierigkeit": "leicht", "ddf": true,
+      "frage": "Welcher Kontinent liegt am Südpol?",
+      "richtig": "Antarktika", "falsch": ["Arktis", "Australien", "Grönland"], "alias": ["Antarktis"],
+      "begruendung": "Antarktika ist der Kontinent um den Südpol. Die Arktis um den Nordpol ist dagegen größtenteils gefrorenes Meer.",
+      "karte": { "titel": "Antarktika", "text": "Der Kontinent ist fast ganz von Eis bedeckt, stellenweise über 4 km dick. Dauerhaft wohnt dort niemand, nur Forschende leben auf Stationen.", "merke": "Südpol: Kontinent Antarktika. Nordpol: Meer mit Eis." }
+    },
+    {
+      "id": "geo-024", "schwierigkeit": "mittel",
+      "frage": "Welche ist die größte Insel im Mittelmeer?",
+      "richtig": "Sizilien", "falsch": ["Sardinien", "Zypern", "Kreta"],
+      "begruendung": "Sizilien hat gut 25.000 km², Sardinien folgt knapp dahinter.",
+      "karte": { "titel": "Sizilien", "text": "Auf Sizilien steht der Ätna, der höchste aktive Vulkan Europas. Die Insel gehört zu Italien.", "merke": "Größte Mittelmeerinsel: Sizilien." }
+    },
+    {
+      "id": "geo-025", "schwierigkeit": "mittel", "ddf": true,
+      "frage": "Welche ist die größte Insel Griechenlands?",
+      "richtig": "Kreta", "falsch": ["Rhodos", "Korfu", "Euböa"],
+      "begruendung": "Kreta ist mit rund 8.300 km² die größte griechische Insel.",
+      "karte": { "titel": "Kreta", "text": "Auf Kreta lebte die minoische Kultur mit dem Palast von Knossos. Euböa ist die zweitgrößte Insel Griechenlands.", "merke": "Größte Insel Griechenlands: Kreta." }
+    },
+    {
+      "id": "geo-026", "schwierigkeit": "mittel",
+      "frage": "Welcher Fluss führt das meiste Wasser?",
+      "richtig": "Amazonas", "falsch": ["Nil", "Kongo", "Jangtse"],
+      "begruendung": "Der Amazonas trägt im Mittel über 200.000 m³ Wasser pro Sekunde ins Meer, mehr als die nächsten sieben Flüsse zusammen.",
+      "karte": { "titel": "Der Amazonas", "text": "Der Amazonas entwässert fast 40 Prozent Südamerikas. Über seinen Unterlauf führt keine einzige Brücke.", "merke": "Wasserreichster Fluss: Amazonas." }
+    },
+    {
+      "id": "geo-027", "schwierigkeit": "schwer",
+      "frage": "Durch wie viele Länder fließt die Donau?",
+      "richtig": "10", "falsch": ["6", "8", "12"],
+      "begruendung": "Deutschland, Österreich, Slowakei, Ungarn, Kroatien, Serbien, Rumänien, Bulgarien, Moldau und Ukraine: zehn Länder.",
+      "karte": { "titel": "Die Donau", "text": "Kein Fluss der Erde fließt durch mehr Länder. Sie entspringt im Schwarzwald und mündet ins Schwarze Meer.", "merke": "Donau: zehn Länder, vom Schwarzwald zum Schwarzen Meer." }
+    },
+    {
+      "id": "geo-028", "schwierigkeit": "leicht",
+      "frage": "Auf welchem Breitengrad liegt der Äquator?",
+      "richtig": "0°", "falsch": ["90°", "45°", "180°"], "alias": ["0", "null"],
+      "begruendung": "Der Äquator ist der Nullbreitengrad. Von ihm aus zählt man bis 90° nach Norden und Süden.",
+      "karte": { "titel": "Der Äquator", "text": "Der Äquator teilt die Erde in Nord- und Südhalbkugel und ist rund 40.075 km lang.", "merke": "Äquator = 0° Breite. Die Pole liegen bei 90°." }
+    },
+    {
+      "id": "geo-029", "schwierigkeit": "mittel",
+      "frage": "Wie heißt der höchste Berg Südamerikas?",
+      "richtig": "Aconcagua", "falsch": ["Chimborazo", "Cotopaxi", "Huascarán"],
+      "begruendung": "Der Aconcagua in Argentinien ist 6.961 m hoch und damit der höchste Berg außerhalb Asiens.",
+      "karte": { "titel": "Aconcagua", "text": "Der Aconcagua liegt in den argentinischen Anden nahe der Grenze zu Chile.", "merke": "Aconcagua: 6.961 m, höchster Berg außerhalb Asiens." }
+    },
+    {
+      "id": "geo-030", "schwierigkeit": "leicht", "ddf": true,
+      "frage": "Welche Millionenstadt liegt auf zwei Kontinenten?",
+      "richtig": "Istanbul", "falsch": ["Kairo", "Moskau", "Athen"],
+      "begruendung": "Der Bosporus teilt Istanbul in einen europäischen und einen asiatischen Teil.",
+      "karte": { "titel": "Istanbul", "text": "Istanbul hieß früher Byzanz und dann Konstantinopel. Mit über 15 Mio. Menschen ist es die größte Stadt der Türkei, Hauptstadt ist aber Ankara.", "merke": "Istanbul liegt am Bosporus in Europa und Asien." }
+    },
+    {
+      "id": "geo-031", "schwierigkeit": "mittel",
+      "frage": "Wie heißt die gedachte Linie im Pazifik, an der das Datum wechselt?",
+      "richtig": "Datumsgrenze", "falsch": ["Nullmeridian", "Wendekreis", "Polarkreis"], "alias": ["Internationale Datumsgrenze"],
+      "begruendung": "Wer die Datumsgrenze nach Westen überquert, springt einen Tag vor.",
+      "karte": { "titel": "Datumsgrenze", "text": "Die Datumsgrenze folgt grob dem 180. Längengrad. Sie macht Bögen um Inselstaaten, damit diese nicht in zwei Tage geteilt werden.", "merke": "Datumsgrenze: etwa 180. Längengrad." }
+    },
+    {
+      "id": "geo-032", "schwierigkeit": "schwer", "ddf": true,
+      "frage": "Wie viele Zeitzonen hat Russland?",
+      "richtig": "11", "falsch": ["6", "8", "14"],
+      "begruendung": "Russland nutzt elf Zeitzonen, von Kaliningrad bis Kamtschatka.",
+      "karte": { "titel": "Elf Zeitzonen", "text": "Wenn es in Kaliningrad Mittag ist, ist es auf Kamtschatka schon 22 Uhr.", "merke": "Russland: elf Zeitzonen." }
+    },
+    {
+      "id": "geo-033", "schwierigkeit": "mittel",
+      "frage": "Welcher Fluss bildet einen großen Teil der Grenze zwischen den USA und Mexiko?",
+      "richtig": "Rio Grande", "falsch": ["Colorado", "Mississippi", "Amazonas"],
+      "begruendung": "Der Rio Grande markiert rund 2.000 km der Grenze zwischen Texas und Mexiko.",
+      "karte": { "titel": "Rio Grande", "text": "In Mexiko heißt der Fluss Río Bravo del Norte. Er entspringt in den Rocky Mountains in Colorado.", "merke": "Rio Grande: Grenzfluss zwischen Texas und Mexiko." }
+    }
+  ]
+}

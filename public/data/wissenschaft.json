@@ -1,0 +1,222 @@
+{
+  "klasse": "wissenschaft",
+  "fragen": [
+    {
+      "id": "wis-001", "schwierigkeit": "leicht", "ddf": true,
+      "frage": "Welches chemische Element hat das Symbol Au?",
+      "richtig": "Gold", "falsch": ["Silber", "Aluminium", "Argon"],
+      "begruendung": "Au kommt vom lateinischen Wort „aurum“ für Gold.",
+      "karte": { "titel": "Gold: Au", "text": "Viele Elementsymbole stammen aus dem Lateinischen. Gold ist so weich, dass du es zu hauchdünner Folie schlagen kannst.", "merke": "Au = aurum = Gold." }
+    },
+    {
+      "id": "wis-002", "schwierigkeit": "leicht", "ddf": true,
+      "frage": "Welches chemische Element hat das Symbol Ag?",
+      "richtig": "Silber", "falsch": ["Gold", "Aluminium", "Quecksilber"],
+      "begruendung": "Ag steht für das lateinische „argentum“, Silber. Argentinien ist danach benannt.",
+      "karte": { "titel": "Silber: Ag", "text": "Spanische Seefahrer hofften am Río de la Plata (Silberfluss) auf Silber. Daher stammt der Name Argentinien.", "merke": "Ag = argentum = Silber." }
+    },
+    {
+      "id": "wis-003", "schwierigkeit": "mittel",
+      "frage": "Welches Element hat das Symbol Na?",
+      "richtig": "Natrium", "falsch": ["Stickstoff", "Neon", "Nickel"],
+      "begruendung": "Na steht für Natrium. Stickstoff hat das Symbol N, Neon Ne und Nickel Ni.",
+      "karte": { "titel": "Natrium", "text": "Natrium ist ein weiches Metall, das heftig mit Wasser reagiert. Zusammen mit Chlor bildet es Kochsalz (NaCl).", "merke": "Na = Natrium. Kochsalz = NaCl." }
+    },
+    {
+      "id": "wis-004", "schwierigkeit": "leicht", "ddf": true,
+      "frage": "Wofür steht die Formel H₂O?",
+      "richtig": "Wasser", "falsch": ["Wasserstoffperoxid", "Salzsäure", "Kohlendioxid"],
+      "begruendung": "Ein Wassermolekül besteht aus zwei Wasserstoffatomen und einem Sauerstoffatom.",
+      "karte": { "titel": "H₂O", "text": "Wasserstoffperoxid hat ein Sauerstoffatom mehr, H₂O₂. Kohlendioxid ist CO₂.", "merke": "H₂O = Wasser: 2 × Wasserstoff, 1 × Sauerstoff." }
+    },
+    {
+      "id": "wis-005", "schwierigkeit": "mittel",
+      "frage": "Wie schnell ist Licht im Vakuum ungefähr?",
+      "richtig": "300.000 km pro Sekunde", "falsch": ["300.000 km pro Stunde", "30.000 km pro Sekunde", "3 Mio. km pro Sekunde"],
+      "begruendung": "Licht legt im Vakuum genau 299.792,458 km pro Sekunde zurück.",
+      "karte": { "titel": "Lichtgeschwindigkeit", "text": "Sonnenlicht braucht gut 8 Minuten bis zur Erde. Nach Einsteins Relativitätstheorie kann nichts mit Masse so schnell werden.", "merke": "Licht: rund 300.000 km/s." }
+    },
+    {
+      "id": "wis-006", "schwierigkeit": "leicht", "ddf": true,
+      "frage": "In welcher Einheit misst man elektrische Spannung?",
+      "richtig": "Volt", "falsch": ["Watt", "Ampere", "Ohm"],
+      "begruendung": "Spannung misst man in Volt, Stromstärke in Ampere, Leistung in Watt und Widerstand in Ohm.",
+      "karte": { "titel": "Volt", "text": "Die Einheit ist nach dem italienischen Physiker Alessandro Volta benannt, der um 1800 die erste Batterie baute. Eine Steckdose in Deutschland liefert 230 Volt.", "merke": "Spannung: Volt. Strom: Ampere. Leistung: Watt." }
+    },
+    {
+      "id": "wis-007", "schwierigkeit": "mittel",
+      "frage": "In welcher Einheit misst man eine Kraft?",
+      "richtig": "Newton", "falsch": ["Joule", "Pascal", "Watt"],
+      "begruendung": "Ein Newton ist die Kraft, die 1 kg in einer Sekunde um 1 m/s schneller macht.",
+      "karte": { "titel": "Newton", "text": "Eine Tafel Schokolade (100 g) drückt auf der Erde mit etwa 1 Newton auf deine Hand. Energie misst man in Joule, Druck in Pascal.", "merke": "Kraft: Newton. 100 g wiegen etwa 1 N." }
+    },
+    {
+      "id": "wis-008", "schwierigkeit": "mittel", "ddf": true,
+      "frage": "Wofür steht das Formelzeichen U in der Physik?",
+      "richtig": "Elektrische Spannung", "falsch": ["Uran", "Umfang", "Geschwindigkeit"], "alias": ["Spannung"],
+      "begruendung": "U steht für die Spannung, gemessen in Volt. Das Elementsymbol U für Uran ist etwas anderes.",
+      "karte": { "titel": "U = Spannung", "text": "Im ohmschen Gesetz U = R · I hängen Spannung, Widerstand und Stromstärke zusammen.", "merke": "U = Spannung, I = Stromstärke, R = Widerstand." }
+    },
+    {
+      "id": "wis-009", "schwierigkeit": "leicht",
+      "frage": "Bei welcher Temperatur siedet Wasser auf Meereshöhe?",
+      "richtig": "100 °C", "falsch": ["90 °C", "110 °C", "120 °C"], "alias": ["100", "100 Grad"],
+      "begruendung": "Bei normalem Luftdruck siedet Wasser bei 100 °C. Auf hohen Bergen ist der Druck niedriger und Wasser kocht früher.",
+      "karte": { "titel": "Siedepunkt", "text": "Auf dem Gipfel des Mount Everest kocht Wasser schon bei etwa 70 °C. Nudeln werden dort kaum gar.", "merke": "Wasser siedet bei 100 °C, aber nur bei Normaldruck." }
+    },
+    {
+      "id": "wis-010", "schwierigkeit": "mittel",
+      "frage": "Wo liegt der absolute Nullpunkt?",
+      "richtig": "−273,15 °C", "falsch": ["−100 °C", "−459,67 °C", "−373,15 °C"], "alias": ["-273,15", "-273"],
+      "begruendung": "Kälter als −273,15 °C oder 0 Kelvin geht es nicht. −459,67 ist derselbe Wert in Grad Fahrenheit.",
+      "karte": { "titel": "0 Kelvin", "text": "Am absoluten Nullpunkt bewegen sich die Teilchen so wenig wie physikalisch möglich. Erreichen lässt er sich nie ganz.", "merke": "0 Kelvin = −273,15 °C." }
+    },
+    {
+      "id": "wis-011", "schwierigkeit": "mittel", "ddf": true,
+      "frage": "Welches Gas macht den größten Teil der Luft aus?",
+      "richtig": "Stickstoff", "falsch": ["Sauerstoff", "Kohlendioxid", "Argon"],
+      "begruendung": "Trockene Luft besteht zu etwa 78 Prozent aus Stickstoff und zu 21 Prozent aus Sauerstoff.",
+      "karte": { "titel": "Luft", "text": "Argon folgt mit knapp einem Prozent. Kohlendioxid macht nur etwa 0,04 Prozent aus und beeinflusst trotzdem stark das Klima.", "merke": "Luft: 78 % Stickstoff, 21 % Sauerstoff." }
+    },
+    {
+      "id": "wis-012", "schwierigkeit": "leicht", "ddf": true,
+      "frage": "Welches Metall ist bei Zimmertemperatur flüssig?",
+      "richtig": "Quecksilber", "falsch": ["Zinn", "Blei", "Aluminium"],
+      "begruendung": "Quecksilber schmilzt schon bei −39 °C und ist deshalb bei Raumtemperatur flüssig.",
+      "karte": { "titel": "Quecksilber", "text": "Früher steckte Quecksilber in Fieberthermometern. Weil seine Dämpfe giftig sind, ist das in der EU inzwischen verboten.", "merke": "Quecksilber: das flüssige Metall." }
+    },
+    {
+      "id": "wis-013", "schwierigkeit": "schwer", "ddf": true,
+      "frage": "Welches Metall leitet Strom am besten?",
+      "richtig": "Silber", "falsch": ["Kupfer", "Gold", "Aluminium"],
+      "begruendung": "Silber hat die höchste elektrische Leitfähigkeit aller Metalle, knapp vor Kupfer.",
+      "karte": { "titel": "Leitfähigkeit", "text": "Für Kabel nimmt man trotzdem Kupfer, weil Silber viel teurer ist. Gold nutzt man für Kontakte, weil es nicht rostet.", "merke": "Bester Leiter: Silber, dann Kupfer." }
+    },
+    {
+      "id": "wis-014", "schwierigkeit": "leicht",
+      "frage": "Welches Gas geben Pflanzen bei der Photosynthese ab?",
+      "richtig": "Sauerstoff", "falsch": ["Kohlendioxid", "Stickstoff", "Methan"],
+      "begruendung": "Pflanzen nehmen Kohlendioxid und Wasser auf und bilden mit Licht Zucker. Dabei entsteht Sauerstoff.",
+      "karte": { "titel": "Photosynthese", "text": "Das grüne Chlorophyll in den Blättern fängt das Sonnenlicht ein. Ein großer Teil des Sauerstoffs auf der Erde stammt von Algen im Meer.", "merke": "Photosynthese: CO₂ + Wasser + Licht → Zucker + Sauerstoff." }
+    },
+    {
+      "id": "wis-015", "schwierigkeit": "leicht",
+      "frage": "Was ist die kleinste Einheit, die selbst lebt?",
+      "richtig": "Die Zelle", "falsch": ["Das Atom", "Das Molekül", "Das Gewebe"], "alias": ["Zelle"],
+      "begruendung": "Eine Zelle kann sich ernähren, wachsen und teilen. Atome und Moleküle leben nicht.",
+      "karte": { "titel": "Die Zelle", "text": "Bakterien bestehen aus einer einzigen Zelle. Dein Körper besteht aus vielen Billionen Zellen.", "merke": "Kleinste Einheit des Lebens: die Zelle." }
+    },
+    {
+      "id": "wis-016", "schwierigkeit": "mittel",
+      "frage": "Welche Zellbestandteile nennt man die „Kraftwerke der Zelle“?",
+      "richtig": "Mitochondrien", "falsch": ["Ribosomen", "Chloroplasten", "Zellkern"],
+      "begruendung": "In den Mitochondrien gewinnt die Zelle Energie aus Zucker und Sauerstoff.",
+      "karte": { "titel": "Mitochondrien", "text": "Mitochondrien haben eine eigene kleine DNA. Du erbst sie nur von deiner Mutter.", "merke": "Mitochondrien = Kraftwerke der Zelle." }
+    },
+    {
+      "id": "wis-017", "schwierigkeit": "mittel",
+      "frage": "Woraus besteht ein Atomkern?",
+      "richtig": "Aus Protonen und Neutronen", "falsch": ["Aus Elektronen und Protonen", "Nur aus Elektronen", "Aus Neutronen und Elektronen"],
+      "begruendung": "Im Kern sitzen Protonen und Neutronen. Die Elektronen bewegen sich in der Hülle darum.",
+      "karte": { "titel": "Atomkern", "text": "Der Kern ist winzig, enthält aber fast die gesamte Masse des Atoms. Wäre ein Atom so groß wie ein Fußballstadion, wäre der Kern so groß wie eine Erbse.", "merke": "Kern: Protonen + Neutronen. Hülle: Elektronen." }
+    },
+    {
+      "id": "wis-018", "schwierigkeit": "mittel",
+      "frage": "Welchen pH-Wert hat eine neutrale Lösung?",
+      "richtig": "7", "falsch": ["0", "1", "14"],
+      "begruendung": "Unter 7 ist eine Lösung sauer, über 7 basisch. Reines Wasser hat bei 25 °C den pH-Wert 7.",
+      "karte": { "titel": "pH-Wert", "text": "Zitronensaft hat etwa pH 2, Seifenlauge etwa pH 10. Jede Stufe bedeutet einen Faktor zehn.", "merke": "pH 7 = neutral, darunter sauer, darüber basisch." }
+    },
+    {
+      "id": "wis-019", "schwierigkeit": "leicht", "ddf": true,
+      "frage": "Wer entwickelte die Relativitätstheorie?",
+      "richtig": "Albert Einstein", "falsch": ["Isaac Newton", "Max Planck", "Niels Bohr"], "alias": ["Einstein"],
+      "begruendung": "Einstein veröffentlichte 1905 die spezielle und 1915 die allgemeine Relativitätstheorie.",
+      "karte": { "titel": "Albert Einstein", "text": "Einstein wurde 1879 in Ulm geboren. Den Nobelpreis bekam er 1921 für die Erklärung des Fotoeffekts, nicht für die Relativitätstheorie.", "merke": "Relativitätstheorie: Einstein (1905 und 1915)." }
+    },
+    {
+      "id": "wis-020", "schwierigkeit": "leicht",
+      "frage": "Wer formulierte das Gravitationsgesetz?",
+      "richtig": "Isaac Newton", "falsch": ["Galileo Galilei", "Johannes Kepler", "Albert Einstein"], "alias": ["Newton"],
+      "begruendung": "Newton veröffentlichte 1687 sein Gesetz der Schwerkraft in den „Principia“.",
+      "karte": { "titel": "Isaac Newton", "text": "Die Geschichte vom Apfel, der Newton auf den Kopf fiel, ist wohl ausgeschmückt. Newton erzählte aber selbst, ein fallender Apfel habe ihn zum Nachdenken gebracht.", "merke": "Gravitationsgesetz: Newton, 1687." }
+    },
+    {
+      "id": "wis-021", "schwierigkeit": "mittel",
+      "frage": "Wer stellte 1869 das Periodensystem der Elemente vor?",
+      "richtig": "Dmitri Mendelejew", "falsch": ["Marie Curie", "Robert Bunsen", "Antoine Lavoisier"], "alias": ["Mendelejew"],
+      "begruendung": "Mendelejew ordnete die Elemente nach ihrer Masse und sagte noch unbekannte Elemente voraus. Fast gleichzeitig kam Lothar Meyer zu einem ähnlichen Ergebnis.",
+      "karte": { "titel": "Periodensystem", "text": "Mendelejew ließ Lücken für Elemente, die noch niemand kannte. Später fand man Gallium und Germanium mit fast genau den vorhergesagten Eigenschaften.", "merke": "Periodensystem: Mendelejew, 1869." }
+    },
+    {
+      "id": "wis-022", "schwierigkeit": "leicht",
+      "frage": "In welchem Molekül ist die Erbinformation gespeichert?",
+      "richtig": "DNA", "falsch": ["ATP", "Hämoglobin", "Insulin"], "alias": ["DNS"],
+      "begruendung": "Die DNA (deutsch auch DNS) trägt die Baupläne für alle Proteine eines Lebewesens.",
+      "karte": { "titel": "DNA", "text": "Würdest du die DNA einer einzigen menschlichen Zelle ausrollen, wäre sie etwa zwei Meter lang.", "merke": "Erbinformation: DNA (Desoxyribonukleinsäure)." }
+    },
+    {
+      "id": "wis-023", "schwierigkeit": "schwer",
+      "frage": "In welchem Jahr beschrieben Watson und Crick die Doppelhelix der DNA?",
+      "richtig": "1953", "falsch": ["1928", "1945", "1971"],
+      "begruendung": "1953 veröffentlichten James Watson und Francis Crick das Modell. Wichtige Röntgenbilder dafür stammten von Rosalind Franklin.",
+      "karte": { "titel": "Doppelhelix", "text": "Die DNA sieht aus wie eine verdrehte Strickleiter. Franklin starb 1958 und konnte den Nobelpreis von 1962 nicht mehr erhalten.", "merke": "Doppelhelix: 1953, Watson, Crick und Franklin." }
+    },
+    {
+      "id": "wis-024", "schwierigkeit": "mittel", "ddf": true,
+      "frage": "Welcher Aggregatzustand hat weder eine feste Form noch ein festes Volumen?",
+      "richtig": "Gasförmig", "falsch": ["Fest", "Flüssig", "Kristallin"], "alias": ["Gas"],
+      "begruendung": "Ein Gas füllt jeden Raum aus, der ihm zur Verfügung steht. Eine Flüssigkeit hat zwar keine feste Form, aber ein festes Volumen.",
+      "karte": { "titel": "Aggregatzustände", "text": "Fest: feste Form und festes Volumen. Flüssig: festes Volumen, Form passt sich an. Gasförmig: nichts davon.", "merke": "Gas: keine feste Form, kein festes Volumen." }
+    },
+    {
+      "id": "wis-025", "schwierigkeit": "mittel",
+      "frage": "Worin breitet sich Schall schneller aus?",
+      "richtig": "In Wasser", "falsch": ["In Luft", "Im Vakuum", "Überall gleich schnell"], "alias": ["Wasser"],
+      "begruendung": "In Wasser ist Schall rund 1.480 m/s schnell, in Luft etwa 343 m/s. Im Vakuum gibt es gar keinen Schall.",
+      "karte": { "titel": "Schall", "text": "Schall braucht Teilchen, die schwingen. Je dichter und steifer der Stoff, desto schneller ist er meistens.", "merke": "Schall: Wasser schneller als Luft, im Vakuum gar nicht." }
+    },
+    {
+      "id": "wis-026", "schwierigkeit": "mittel",
+      "frage": "Wie schnell ist Schall in Luft bei 20 °C ungefähr?",
+      "richtig": "343 m pro Sekunde", "falsch": ["34 m pro Sekunde", "3.430 m pro Sekunde", "343 km pro Sekunde"],
+      "begruendung": "Schall legt bei 20 °C rund 343 m pro Sekunde zurück, etwa einen Kilometer in drei Sekunden.",
+      "karte": { "titel": "Gewitter-Regel", "text": "Zähl die Sekunden zwischen Blitz und Donner und teile durch drei. Das Ergebnis ist ungefähr die Entfernung in Kilometern.", "merke": "Schall: rund 1 km in 3 Sekunden." }
+    },
+    {
+      "id": "wis-027", "schwierigkeit": "mittel",
+      "frage": "Welches Element kommt im Universum am häufigsten vor?",
+      "richtig": "Wasserstoff", "falsch": ["Helium", "Sauerstoff", "Kohlenstoff"],
+      "begruendung": "Etwa drei Viertel der normalen Materie im Universum sind Wasserstoff.",
+      "karte": { "titel": "Wasserstoff", "text": "Sterne wie die Sonne verschmelzen Wasserstoff zu Helium und gewinnen daraus ihre Energie.", "merke": "Häufigstes Element im All: Wasserstoff." }
+    },
+    {
+      "id": "wis-028", "schwierigkeit": "mittel", "ddf": true,
+      "frage": "Woraus besteht ein Diamant?",
+      "richtig": "Aus Kohlenstoff", "falsch": ["Aus Silizium", "Aus Quarz", "Aus Glas"], "alias": ["Kohlenstoff"],
+      "begruendung": "Diamant ist reiner Kohlenstoff, genau wie der Graphit in deinem Bleistift. Nur die Anordnung der Atome unterscheidet sich.",
+      "karte": { "titel": "Diamant und Graphit", "text": "Diamanten entstehen tief in der Erde unter hohem Druck und hoher Hitze. Diamant ist das härteste natürliche Material.", "merke": "Diamant = Kohlenstoff, wie Bleistiftminen." }
+    },
+    {
+      "id": "wis-029", "schwierigkeit": "schwer",
+      "frage": "Was gibt die Ordnungszahl eines Elements an?",
+      "richtig": "Die Anzahl der Protonen", "falsch": ["Die Anzahl der Neutronen", "Die Masse des Atoms", "Die Anzahl der Isotope"],
+      "begruendung": "Die Zahl der Protonen im Kern bestimmt, welches Element es ist. Wasserstoff hat eins, Kohlenstoff sechs.",
+      "karte": { "titel": "Ordnungszahl", "text": "Nach der Ordnungszahl ist das Periodensystem sortiert. Die Zahl der Neutronen kann schwanken, so entstehen Isotope.", "merke": "Ordnungszahl = Protonenzahl." }
+    },
+    {
+      "id": "wis-030", "schwierigkeit": "mittel",
+      "frage": "Welches dieser Elemente ist ein Edelgas?",
+      "richtig": "Argon", "falsch": ["Stickstoff", "Chlor", "Wasserstoff"],
+      "begruendung": "Zu den Edelgasen gehören Helium, Neon, Argon, Krypton, Xenon und Radon. Sie reagieren kaum mit anderen Stoffen.",
+      "karte": { "titel": "Edelgase", "text": "Edelgase stehen in der letzten Spalte des Periodensystems. Argon füllt man zum Beispiel in Glühlampen und Doppelfenster.", "merke": "Edelgase: He, Ne, Ar, Kr, Xe, Rn." }
+    },
+    {
+      "id": "wis-031", "schwierigkeit": "leicht",
+      "frage": "Was misst ein Thermometer?",
+      "richtig": "Die Temperatur", "falsch": ["Den Luftdruck", "Die Luftfeuchtigkeit", "Die Windstärke"], "alias": ["Temperatur"],
+      "begruendung": "Ein Thermometer misst die Temperatur. Den Luftdruck misst ein Barometer, die Luftfeuchtigkeit ein Hygrometer.",
+      "karte": { "titel": "Messgeräte", "text": "Die Namen kommen aus dem Griechischen: thermos heißt warm, baros schwer, hygros feucht.", "merke": "Thermometer: Temperatur. Barometer: Luftdruck." }
+    }
+  ]
+}
