@@ -1,0 +1,1521 @@
+{
+ "klasse": "natur",
+ "erzeugt": "scripts/generate-fakten.mjs",
+ "fragen": [
+  {
+   "id": "nat-ki-pferd",
+   "schwierigkeit": "leicht",
+   "frage": "Wie heißt das Jungtier beim Pferd?",
+   "richtig": "Fohlen",
+   "falsch": [
+    "Frischling",
+    "Zicklein",
+    "Raupe"
+   ],
+   "begruendung": "Pferd: Jungtier heißt Fohlen.",
+   "karte": {
+    "titel": "Pferd",
+    "text": "Pferd: Jungtier heißt Fohlen.",
+    "merke": "Pferd: Jungtier heißt Fohlen."
+   },
+   "ddf": true
+  },
+  {
+   "id": "nat-ki-kuh",
+   "schwierigkeit": "leicht",
+   "frage": "Wie heißt das Jungtier bei der Kuh?",
+   "richtig": "Kalb",
+   "falsch": [
+    "Kitz",
+    "Fohlen",
+    "Welpe"
+   ],
+   "begruendung": "Kuh: Jungtier heißt Kalb.",
+   "karte": {
+    "titel": "Kuh",
+    "text": "Kuh: Jungtier heißt Kalb.",
+    "merke": "Kuh: Jungtier heißt Kalb."
+   },
+   "ddf": true
+  },
+  {
+   "id": "nat-ki-schaf",
+   "schwierigkeit": "leicht",
+   "frage": "Wie heißt das Jungtier beim Schaf?",
+   "richtig": "Lamm",
+   "falsch": [
+    "Raupe",
+    "Kalb",
+    "Joey"
+   ],
+   "begruendung": "Schaf: Jungtier heißt Lamm.",
+   "karte": {
+    "titel": "Schaf",
+    "text": "Schaf: Jungtier heißt Lamm.",
+    "merke": "Schaf: Jungtier heißt Lamm."
+   },
+   "ddf": true
+  },
+  {
+   "id": "nat-ki-ziege",
+   "schwierigkeit": "mittel",
+   "frage": "Wie heißt das Jungtier bei der Ziege?",
+   "richtig": "Zicklein",
+   "falsch": [
+    "Welpe",
+    "Kalb",
+    "Joey"
+   ],
+   "begruendung": "Ziege: Jungtier heißt Zicklein.",
+   "karte": {
+    "titel": "Ziege",
+    "text": "Ziege: Jungtier heißt Zicklein.",
+    "merke": "Ziege: Jungtier heißt Zicklein."
+   }
+  },
+  {
+   "id": "nat-ki-schwein",
+   "schwierigkeit": "leicht",
+   "frage": "Wie heißt das Jungtier beim Schwein?",
+   "richtig": "Ferkel",
+   "falsch": [
+    "Raupe",
+    "Küken",
+    "Kaulquappe"
+   ],
+   "begruendung": "Schwein: Jungtier heißt Ferkel.",
+   "karte": {
+    "titel": "Schwein",
+    "text": "Schwein: Jungtier heißt Ferkel.",
+    "merke": "Schwein: Jungtier heißt Ferkel."
+   },
+   "ddf": true
+  },
+  {
+   "id": "nat-ki-hund",
+   "schwierigkeit": "leicht",
+   "frage": "Wie heißt das Jungtier beim Hund?",
+   "richtig": "Welpe",
+   "falsch": [
+    "Fohlen",
+    "Frischling",
+    "Gössel"
+   ],
+   "begruendung": "Hund: Jungtier heißt Welpe.",
+   "karte": {
+    "titel": "Hund",
+    "text": "Hund: Jungtier heißt Welpe.",
+    "merke": "Hund: Jungtier heißt Welpe."
+   },
+   "ddf": true
+  },
+  {
+   "id": "nat-ki-reh",
+   "schwierigkeit": "mittel",
+   "frage": "Wie heißt das Jungtier beim Reh?",
+   "richtig": "Kitz",
+   "falsch": [
+    "Kätzchen",
+    "Kaulquappe",
+    "Gössel"
+   ],
+   "begruendung": "Reh: Jungtier heißt Kitz.",
+   "karte": {
+    "titel": "Reh",
+    "text": "Reh: Jungtier heißt Kitz.",
+    "merke": "Reh: Jungtier heißt Kitz."
+   }
+  },
+  {
+   "id": "nat-ki-frosch",
+   "schwierigkeit": "leicht",
+   "frage": "Wie heißt das Jungtier beim Frosch?",
+   "richtig": "Kaulquappe",
+   "falsch": [
+    "Frischling",
+    "Zicklein",
+    "Lamm"
+   ],
+   "begruendung": "Frosch: Jungtier heißt Kaulquappe.",
+   "karte": {
+    "titel": "Frosch",
+    "text": "Frosch: Jungtier heißt Kaulquappe.",
+    "merke": "Frosch: Jungtier heißt Kaulquappe."
+   },
+   "ddf": true
+  },
+  {
+   "id": "nat-ki-schmetterling",
+   "schwierigkeit": "leicht",
+   "frage": "Wie heißt das Jungtier beim Schmetterling?",
+   "richtig": "Raupe",
+   "falsch": [
+    "Ferkel",
+    "Joey",
+    "Kalb"
+   ],
+   "begruendung": "Schmetterling: Jungtier heißt Raupe.",
+   "karte": {
+    "titel": "Schmetterling",
+    "text": "Schmetterling: Jungtier heißt Raupe.",
+    "merke": "Schmetterling: Jungtier heißt Raupe."
+   },
+   "ddf": true
+  },
+  {
+   "id": "nat-ki-huhn",
+   "schwierigkeit": "leicht",
+   "frage": "Wie heißt das Jungtier beim Huhn?",
+   "richtig": "Küken",
+   "falsch": [
+    "Lamm",
+    "Kitz",
+    "Kalb"
+   ],
+   "begruendung": "Huhn: Jungtier heißt Küken.",
+   "karte": {
+    "titel": "Huhn",
+    "text": "Huhn: Jungtier heißt Küken.",
+    "merke": "Huhn: Jungtier heißt Küken."
+   },
+   "ddf": true
+  },
+  {
+   "id": "nat-ki-gans",
+   "schwierigkeit": "schwer",
+   "frage": "Wie heißt das Jungtier bei der Gans?",
+   "richtig": "Gössel",
+   "falsch": [
+    "Kaulquappe",
+    "Zicklein",
+    "Kitz"
+   ],
+   "begruendung": "Gans: Jungtier heißt Gössel.",
+   "karte": {
+    "titel": "Gans",
+    "text": "Gans: Jungtier heißt Gössel.",
+    "merke": "Gans: Jungtier heißt Gössel."
+   }
+  },
+  {
+   "id": "nat-ki-kaenguru",
+   "schwierigkeit": "schwer",
+   "frage": "Wie heißt das Jungtier beim Känguru?",
+   "richtig": "Joey",
+   "falsch": [
+    "Raupe",
+    "Welpe",
+    "Zicklein"
+   ],
+   "begruendung": "Känguru: Jungtier heißt Joey.",
+   "karte": {
+    "titel": "Känguru",
+    "text": "Känguru: Jungtier heißt Joey.",
+    "merke": "Känguru: Jungtier heißt Joey."
+   }
+  },
+  {
+   "id": "nat-ki-wildschwein",
+   "schwierigkeit": "mittel",
+   "frage": "Wie heißt das Jungtier beim Wildschwein?",
+   "richtig": "Frischling",
+   "falsch": [
+    "Raupe",
+    "Kaulquappe",
+    "Welpe"
+   ],
+   "begruendung": "Wildschwein: Jungtier heißt Frischling.",
+   "karte": {
+    "titel": "Wildschwein",
+    "text": "Wildschwein: Jungtier heißt Frischling.",
+    "merke": "Wildschwein: Jungtier heißt Frischling."
+   }
+  },
+  {
+   "id": "nat-ki-katze",
+   "schwierigkeit": "leicht",
+   "frage": "Wie heißt das Jungtier bei der Katze?",
+   "richtig": "Kätzchen",
+   "falsch": [
+    "Kitz",
+    "Kaulquappe",
+    "Welpe"
+   ],
+   "begruendung": "Katze: Jungtier heißt Kätzchen.",
+   "karte": {
+    "titel": "Katze",
+    "text": "Katze: Jungtier heißt Kätzchen.",
+    "merke": "Katze: Jungtier heißt Kätzchen."
+   },
+   "ddf": true
+  },
+  {
+   "id": "nat-ma-huhn",
+   "schwierigkeit": "leicht",
+   "frage": "Wie heißt das männliche Tier beim Huhn?",
+   "richtig": "Hahn",
+   "falsch": [
+    "Rüde",
+    "Eber",
+    "Hengst"
+   ],
+   "begruendung": "Männliches Tier bei Huhn: Hahn.",
+   "karte": {
+    "titel": "Huhn",
+    "text": "Die weibliche Form ist die Henne.",
+    "merke": "Männliches Tier bei Huhn: Hahn."
+   },
+   "alias": []
+  },
+  {
+   "id": "nat-ma-rind",
+   "schwierigkeit": "leicht",
+   "frage": "Wie heißt das männliche Tier beim Rind?",
+   "richtig": "Stier",
+   "falsch": [
+    "Hengst",
+    "Hahn",
+    "Erpel"
+   ],
+   "begruendung": "Männliches Tier bei Rind: Stier.",
+   "karte": {
+    "titel": "Rind",
+    "text": "Der Stier heißt auch Bulle.",
+    "merke": "Männliches Tier bei Rind: Stier."
+   },
+   "alias": [
+    "Bulle"
+   ]
+  },
+  {
+   "id": "nat-ma-schwein",
+   "schwierigkeit": "mittel",
+   "frage": "Wie heißt das männliche Tier beim Schwein?",
+   "richtig": "Eber",
+   "falsch": [
+    "Rüde",
+    "Hahn",
+    "Drohne"
+   ],
+   "begruendung": "Männliches Tier bei Schwein: Eber.",
+   "karte": {
+    "titel": "Schwein",
+    "text": "Das weibliche Schwein heißt Sau.",
+    "merke": "Männliches Tier bei Schwein: Eber."
+   },
+   "alias": []
+  },
+  {
+   "id": "nat-ma-schaf",
+   "schwierigkeit": "mittel",
+   "frage": "Wie heißt das männliche Tier beim Schaf?",
+   "richtig": "Widder",
+   "falsch": [
+    "Drohne",
+    "Truthahn",
+    "Rüde"
+   ],
+   "begruendung": "Männliches Tier bei Schaf: Widder.",
+   "karte": {
+    "titel": "Schaf",
+    "text": "Das weibliche Schaf heißt Aue oder Mutterschaf.",
+    "merke": "Männliches Tier bei Schaf: Widder."
+   },
+   "alias": [
+    "Bock",
+    "Schafbock"
+   ]
+  },
+  {
+   "id": "nat-ma-pferd",
+   "schwierigkeit": "leicht",
+   "frage": "Wie heißt das männliche Tier beim Pferd?",
+   "richtig": "Hengst",
+   "falsch": [
+    "Erpel",
+    "Truthahn",
+    "Drohne"
+   ],
+   "begruendung": "Männliches Tier bei Pferd: Hengst.",
+   "karte": {
+    "titel": "Pferd",
+    "text": "Die Stute ist das weibliche Pferd. Ein kastrierter Hengst heißt Wallach.",
+    "merke": "Männliches Tier bei Pferd: Hengst."
+   },
+   "alias": []
+  },
+  {
+   "id": "nat-ma-ente",
+   "schwierigkeit": "mittel",
+   "frage": "Wie heißt das männliche Tier bei der Ente?",
+   "richtig": "Erpel",
+   "falsch": [
+    "Kater",
+    "Rüde",
+    "Drohne"
+   ],
+   "begruendung": "Männliches Tier bei Ente: Erpel.",
+   "karte": {
+    "titel": "Ente",
+    "text": "Der Erpel trägt oft ein bunteres Gefieder als die Ente.",
+    "merke": "Männliches Tier bei Ente: Erpel."
+   },
+   "alias": []
+  },
+  {
+   "id": "nat-ma-gans",
+   "schwierigkeit": "schwer",
+   "frage": "Wie heißt das männliche Tier bei der Gans?",
+   "richtig": "Ganter",
+   "falsch": [
+    "Stier",
+    "Hahn",
+    "Rüde"
+   ],
+   "begruendung": "Männliches Tier bei Gans: Ganter.",
+   "karte": {
+    "titel": "Gans",
+    "text": "Der Ganter heißt auch Gänserich.",
+    "merke": "Männliches Tier bei Gans: Ganter."
+   },
+   "alias": [
+    "Gänserich"
+   ]
+  },
+  {
+   "id": "nat-ma-biene",
+   "schwierigkeit": "mittel",
+   "frage": "Wie heißt das männliche Tier bei der Biene?",
+   "richtig": "Drohne",
+   "falsch": [
+    "Rehbock",
+    "Rüde",
+    "Ganter"
+   ],
+   "begruendung": "Männliches Tier bei Biene: Drohne.",
+   "karte": {
+    "titel": "Biene",
+    "text": "Drohnen sammeln keinen Nektar. Ihre Aufgabe ist die Paarung mit der Königin.",
+    "merke": "Männliches Tier bei Biene: Drohne."
+   },
+   "alias": []
+  },
+  {
+   "id": "nat-ma-katze",
+   "schwierigkeit": "leicht",
+   "frage": "Wie heißt das männliche Tier bei der Katze?",
+   "richtig": "Kater",
+   "falsch": [
+    "Truthahn",
+    "Hahn",
+    "Hengst"
+   ],
+   "begruendung": "Männliches Tier bei Katze: Kater.",
+   "karte": {
+    "titel": "Katze",
+    "text": "Der Kater markiert sein Revier mit Duftstoffen.",
+    "merke": "Männliches Tier bei Katze: Kater."
+   },
+   "alias": []
+  },
+  {
+   "id": "nat-ma-hund",
+   "schwierigkeit": "mittel",
+   "frage": "Wie heißt das männliche Tier beim Hund?",
+   "richtig": "Rüde",
+   "falsch": [
+    "Kater",
+    "Hengst",
+    "Truthahn"
+   ],
+   "begruendung": "Männliches Tier bei Hund: Rüde.",
+   "karte": {
+    "titel": "Hund",
+    "text": "Die Hündin ist das weibliche Tier.",
+    "merke": "Männliches Tier bei Hund: Rüde."
+   },
+   "alias": []
+  },
+  {
+   "id": "nat-ma-reh",
+   "schwierigkeit": "mittel",
+   "frage": "Wie heißt das männliche Tier beim Reh?",
+   "richtig": "Rehbock",
+   "falsch": [
+    "Ganter",
+    "Hengst",
+    "Stier"
+   ],
+   "begruendung": "Männliches Tier bei Reh: Rehbock.",
+   "karte": {
+    "titel": "Reh",
+    "text": "Das weibliche Reh heißt Ricke oder Geiß.",
+    "merke": "Männliches Tier bei Reh: Rehbock."
+   },
+   "alias": [
+    "Bock"
+   ]
+  },
+  {
+   "id": "nat-ma-truthuhn",
+   "schwierigkeit": "mittel",
+   "frage": "Wie heißt das männliche Tier beim Truthuhn?",
+   "richtig": "Truthahn",
+   "falsch": [
+    "Erpel",
+    "Rüde",
+    "Drohne"
+   ],
+   "begruendung": "Männliches Tier bei Truthuhn: Truthahn.",
+   "karte": {
+    "titel": "Truthuhn",
+    "text": "Das weibliche Tier heißt Truthenne oder Pute.",
+    "merke": "Männliches Tier bei Truthuhn: Truthahn."
+   },
+   "alias": []
+  },
+  {
+   "id": "nat-gr-wal",
+   "schwierigkeit": "leicht",
+   "frage": "Zu welcher Tiergruppe gehört der Wal?",
+   "richtig": "Säugetier",
+   "falsch": [
+    "Reptil",
+    "Insekt",
+    "Krebstier"
+   ],
+   "begruendung": "Wal: Säugetier.",
+   "karte": {
+    "titel": "Wal",
+    "text": "Wale atmen Luft und säugen ihre Jungen.",
+    "merke": "Wal: Säugetier."
+   },
+   "ddf": true
+  },
+  {
+   "id": "nat-gr-delfin",
+   "schwierigkeit": "leicht",
+   "frage": "Zu welcher Tiergruppe gehört der Delfin?",
+   "richtig": "Säugetier",
+   "falsch": [
+    "Spinnentier",
+    "Reptil",
+    "Stachelhäuter"
+   ],
+   "begruendung": "Delfin: Säugetier.",
+   "karte": {
+    "titel": "Delfin",
+    "text": "Delfine gehören zu den Zahnwalen.",
+    "merke": "Delfin: Säugetier."
+   },
+   "ddf": true
+  },
+  {
+   "id": "nat-gr-fledermaus",
+   "schwierigkeit": "leicht",
+   "frage": "Zu welcher Tiergruppe gehört die Fledermaus?",
+   "richtig": "Säugetier",
+   "falsch": [
+    "Stachelhäuter",
+    "Spinnentier",
+    "Reptil"
+   ],
+   "begruendung": "Fledermaus: Säugetier.",
+   "karte": {
+    "titel": "Fledermaus",
+    "text": "Fledermäuse sind die einzigen Säugetiere, die aktiv fliegen können.",
+    "merke": "Fledermaus: Säugetier."
+   },
+   "ddf": true
+  },
+  {
+   "id": "nat-gr-schnabeltier",
+   "schwierigkeit": "schwer",
+   "frage": "Zu welcher Tiergruppe gehört das Schnabeltier?",
+   "richtig": "Säugetier",
+   "falsch": [
+    "Krebstier",
+    "Spinnentier",
+    "Stachelhäuter"
+   ],
+   "begruendung": "Schnabeltier: Säugetier.",
+   "karte": {
+    "titel": "Schnabeltier",
+    "text": "Das Schnabeltier legt Eier und säugt trotzdem seine Jungen.",
+    "merke": "Schnabeltier: Säugetier."
+   }
+  },
+  {
+   "id": "nat-gr-igel",
+   "schwierigkeit": "leicht",
+   "frage": "Zu welcher Tiergruppe gehört der Igel?",
+   "richtig": "Säugetier",
+   "falsch": [
+    "Insekt",
+    "Fisch",
+    "Spinnentier"
+   ],
+   "begruendung": "Igel: Säugetier.",
+   "karte": {
+    "titel": "Igel",
+    "text": "Igel halten Winterschlaf.",
+    "merke": "Igel: Säugetier."
+   },
+   "ddf": true
+  },
+  {
+   "id": "nat-gr-pinguin",
+   "schwierigkeit": "leicht",
+   "frage": "Zu welcher Tiergruppe gehört der Pinguin?",
+   "richtig": "Vogel",
+   "falsch": [
+    "Krebstier",
+    "Säugetier",
+    "Insekt"
+   ],
+   "begruendung": "Pinguin: Vogel.",
+   "karte": {
+    "titel": "Pinguin",
+    "text": "Pinguine können nicht fliegen, aber hervorragend schwimmen.",
+    "merke": "Pinguin: Vogel."
+   },
+   "ddf": true
+  },
+  {
+   "id": "nat-gr-strauss",
+   "schwierigkeit": "leicht",
+   "frage": "Zu welcher Tiergruppe gehört der Strauß?",
+   "richtig": "Vogel",
+   "falsch": [
+    "Krebstier",
+    "Säugetier",
+    "Fisch"
+   ],
+   "begruendung": "Strauß: Vogel.",
+   "karte": {
+    "titel": "Strauß",
+    "text": "Der Strauß ist der größte Vogel der Welt.",
+    "merke": "Strauß: Vogel."
+   },
+   "ddf": true
+  },
+  {
+   "id": "nat-gr-kiwi",
+   "schwierigkeit": "mittel",
+   "frage": "Zu welcher Tiergruppe gehört der Kiwi?",
+   "richtig": "Vogel",
+   "falsch": [
+    "Reptil",
+    "Säugetier",
+    "Fisch"
+   ],
+   "begruendung": "Kiwi: Vogel.",
+   "karte": {
+    "titel": "Kiwi",
+    "text": "Der Kiwi aus Neuseeland ist flugunfähig und nachtaktiv.",
+    "merke": "Kiwi: Vogel."
+   }
+  },
+  {
+   "id": "nat-gr-krokodil",
+   "schwierigkeit": "leicht",
+   "frage": "Zu welcher Tiergruppe gehört das Krokodil?",
+   "richtig": "Reptil",
+   "falsch": [
+    "Insekt",
+    "Weichtier",
+    "Krebstier"
+   ],
+   "begruendung": "Krokodil: Reptil.",
+   "karte": {
+    "titel": "Krokodil",
+    "text": "Krokodile sind näher mit Vögeln verwandt als mit Eidechsen.",
+    "merke": "Krokodil: Reptil."
+   },
+   "ddf": true
+  },
+  {
+   "id": "nat-gr-schildkroete",
+   "schwierigkeit": "leicht",
+   "frage": "Zu welcher Tiergruppe gehört die Schildkröte?",
+   "richtig": "Reptil",
+   "falsch": [
+    "Spinnentier",
+    "Krebstier",
+    "Stachelhäuter"
+   ],
+   "begruendung": "Schildkröte: Reptil.",
+   "karte": {
+    "titel": "Schildkröte",
+    "text": "Manche Riesenschildkröten werden über 150 Jahre alt.",
+    "merke": "Schildkröte: Reptil."
+   },
+   "ddf": true
+  },
+  {
+   "id": "nat-gr-blindschleiche",
+   "schwierigkeit": "schwer",
+   "frage": "Zu welcher Tiergruppe gehört die Blindschleiche?",
+   "richtig": "Reptil",
+   "falsch": [
+    "Krebstier",
+    "Amphibie",
+    "Insekt"
+   ],
+   "begruendung": "Blindschleiche: Reptil.",
+   "karte": {
+    "titel": "Blindschleiche",
+    "text": "Die Blindschleiche ist eine Echse ohne Beine, keine Schlange.",
+    "merke": "Blindschleiche: Reptil."
+   }
+  },
+  {
+   "id": "nat-gr-frosch",
+   "schwierigkeit": "leicht",
+   "frage": "Zu welcher Tiergruppe gehört der Frosch?",
+   "richtig": "Amphibie",
+   "falsch": [
+    "Säugetier",
+    "Krebstier",
+    "Stachelhäuter"
+   ],
+   "begruendung": "Frosch: Amphibie.",
+   "karte": {
+    "titel": "Frosch",
+    "text": "Frösche leben als Kaulquappe im Wasser und später auch an Land.",
+    "merke": "Frosch: Amphibie."
+   },
+   "ddf": true
+  },
+  {
+   "id": "nat-gr-feuersalamander",
+   "schwierigkeit": "mittel",
+   "frage": "Zu welcher Tiergruppe gehört der Feuersalamander?",
+   "richtig": "Amphibie",
+   "falsch": [
+    "Krebstier",
+    "Insekt",
+    "Weichtier"
+   ],
+   "begruendung": "Feuersalamander: Amphibie.",
+   "karte": {
+    "titel": "Feuersalamander",
+    "text": "Seine gelb-schwarze Färbung warnt Feinde vor seinem Gift.",
+    "merke": "Feuersalamander: Amphibie."
+   }
+  },
+  {
+   "id": "nat-gr-axolotl",
+   "schwierigkeit": "schwer",
+   "frage": "Zu welcher Tiergruppe gehört der Axolotl?",
+   "richtig": "Amphibie",
+   "falsch": [
+    "Fisch",
+    "Weichtier",
+    "Stachelhäuter"
+   ],
+   "begruendung": "Axolotl: Amphibie.",
+   "karte": {
+    "titel": "Axolotl",
+    "text": "Der Axolotl bleibt sein Leben lang im Larvenstadium und kann Gliedmaßen nachwachsen lassen.",
+    "merke": "Axolotl: Amphibie."
+   }
+  },
+  {
+   "id": "nat-gr-hai",
+   "schwierigkeit": "leicht",
+   "frage": "Zu welcher Tiergruppe gehört der Hai?",
+   "richtig": "Fisch",
+   "falsch": [
+    "Stachelhäuter",
+    "Reptil",
+    "Krebstier"
+   ],
+   "begruendung": "Hai: Fisch.",
+   "karte": {
+    "titel": "Hai",
+    "text": "Haie sind Knorpelfische und haben kein Knochenskelett.",
+    "merke": "Hai: Fisch."
+   },
+   "ddf": true
+  },
+  {
+   "id": "nat-gr-seepferdchen",
+   "schwierigkeit": "mittel",
+   "frage": "Zu welcher Tiergruppe gehört das Seepferdchen?",
+   "richtig": "Fisch",
+   "falsch": [
+    "Vogel",
+    "Säugetier",
+    "Weichtier"
+   ],
+   "begruendung": "Seepferdchen: Fisch.",
+   "karte": {
+    "titel": "Seepferdchen",
+    "text": "Beim Seepferdchen trägt das Männchen die Jungen aus.",
+    "merke": "Seepferdchen: Fisch."
+   }
+  },
+  {
+   "id": "nat-gr-aal",
+   "schwierigkeit": "mittel",
+   "frage": "Zu welcher Tiergruppe gehört der Aal?",
+   "richtig": "Fisch",
+   "falsch": [
+    "Stachelhäuter",
+    "Säugetier",
+    "Krebstier"
+   ],
+   "begruendung": "Aal: Fisch.",
+   "karte": {
+    "titel": "Aal",
+    "text": "Europäische Aale wandern zum Laichen bis in die Sargassosee.",
+    "merke": "Aal: Fisch."
+   }
+  },
+  {
+   "id": "nat-gr-spinne",
+   "schwierigkeit": "leicht",
+   "frage": "Zu welcher Tiergruppe gehört die Spinne?",
+   "richtig": "Spinnentier",
+   "falsch": [
+    "Weichtier",
+    "Amphibie",
+    "Fisch"
+   ],
+   "begruendung": "Spinne: Spinnentier.",
+   "karte": {
+    "titel": "Spinne",
+    "text": "Spinnen haben acht Beine. Insekten haben sechs.",
+    "merke": "Spinne: Spinnentier."
+   },
+   "ddf": true
+  },
+  {
+   "id": "nat-gr-skorpion",
+   "schwierigkeit": "mittel",
+   "frage": "Zu welcher Tiergruppe gehört der Skorpion?",
+   "richtig": "Spinnentier",
+   "falsch": [
+    "Amphibie",
+    "Säugetier",
+    "Krebstier"
+   ],
+   "begruendung": "Skorpion: Spinnentier.",
+   "karte": {
+    "titel": "Skorpion",
+    "text": "Skorpione leuchten unter UV-Licht.",
+    "merke": "Skorpion: Spinnentier."
+   }
+  },
+  {
+   "id": "nat-gr-zecke",
+   "schwierigkeit": "mittel",
+   "frage": "Zu welcher Tiergruppe gehört die Zecke?",
+   "richtig": "Spinnentier",
+   "falsch": [
+    "Weichtier",
+    "Amphibie",
+    "Stachelhäuter"
+   ],
+   "begruendung": "Zecke: Spinnentier.",
+   "karte": {
+    "titel": "Zecke",
+    "text": "Zecken haben als erwachsene Tiere acht Beine.",
+    "merke": "Zecke: Spinnentier."
+   }
+  },
+  {
+   "id": "nat-gr-ameise",
+   "schwierigkeit": "leicht",
+   "frage": "Zu welcher Tiergruppe gehört die Ameise?",
+   "richtig": "Insekt",
+   "falsch": [
+    "Vogel",
+    "Spinnentier",
+    "Amphibie"
+   ],
+   "begruendung": "Ameise: Insekt.",
+   "karte": {
+    "titel": "Ameise",
+    "text": "Ameisen können ein Vielfaches ihres Körpergewichts tragen.",
+    "merke": "Ameise: Insekt."
+   },
+   "ddf": true
+  },
+  {
+   "id": "nat-gr-marienkaefer",
+   "schwierigkeit": "leicht",
+   "frage": "Zu welcher Tiergruppe gehört der Marienkäfer?",
+   "richtig": "Insekt",
+   "falsch": [
+    "Krebstier",
+    "Vogel",
+    "Stachelhäuter"
+   ],
+   "begruendung": "Marienkäfer: Insekt.",
+   "karte": {
+    "titel": "Marienkäfer",
+    "text": "Ein Marienkäfer frisst Hunderte Blattläuse.",
+    "merke": "Marienkäfer: Insekt."
+   },
+   "ddf": true
+  },
+  {
+   "id": "nat-gr-libelle",
+   "schwierigkeit": "mittel",
+   "frage": "Zu welcher Tiergruppe gehört die Libelle?",
+   "richtig": "Insekt",
+   "falsch": [
+    "Amphibie",
+    "Weichtier",
+    "Krebstier"
+   ],
+   "begruendung": "Libelle: Insekt.",
+   "karte": {
+    "titel": "Libelle",
+    "text": "Libellen gab es schon vor den Dinosauriern.",
+    "merke": "Libelle: Insekt."
+   }
+  },
+  {
+   "id": "nat-gr-tintenfisch",
+   "schwierigkeit": "mittel",
+   "frage": "Zu welcher Tiergruppe gehört der Tintenfisch?",
+   "richtig": "Weichtier",
+   "falsch": [
+    "Stachelhäuter",
+    "Spinnentier",
+    "Amphibie"
+   ],
+   "begruendung": "Tintenfisch: Weichtier.",
+   "karte": {
+    "titel": "Tintenfisch",
+    "text": "Tintenfische sind trotz des Namens keine Fische.",
+    "merke": "Tintenfisch: Weichtier."
+   }
+  },
+  {
+   "id": "nat-gr-schnecke",
+   "schwierigkeit": "leicht",
+   "frage": "Zu welcher Tiergruppe gehört die Schnecke?",
+   "richtig": "Weichtier",
+   "falsch": [
+    "Säugetier",
+    "Stachelhäuter",
+    "Spinnentier"
+   ],
+   "begruendung": "Schnecke: Weichtier.",
+   "karte": {
+    "titel": "Schnecke",
+    "text": "Weinbergschnecken stehen in Deutschland unter Schutz.",
+    "merke": "Schnecke: Weichtier."
+   },
+   "ddf": true
+  },
+  {
+   "id": "nat-gr-hummer",
+   "schwierigkeit": "mittel",
+   "frage": "Zu welcher Tiergruppe gehört der Hummer?",
+   "richtig": "Krebstier",
+   "falsch": [
+    "Stachelhäuter",
+    "Reptil",
+    "Fisch"
+   ],
+   "begruendung": "Hummer: Krebstier.",
+   "karte": {
+    "titel": "Hummer",
+    "text": "Hummer haben blaues Blut.",
+    "merke": "Hummer: Krebstier."
+   }
+  },
+  {
+   "id": "nat-gr-seestern",
+   "schwierigkeit": "schwer",
+   "frage": "Zu welcher Tiergruppe gehört der Seestern?",
+   "richtig": "Stachelhäuter",
+   "falsch": [
+    "Krebstier",
+    "Reptil",
+    "Spinnentier"
+   ],
+   "begruendung": "Seestern: Stachelhäuter.",
+   "karte": {
+    "titel": "Seestern",
+    "text": "Seesterne können verlorene Arme nachwachsen lassen.",
+    "merke": "Seestern: Stachelhäuter."
+   }
+  },
+  {
+   "id": "nat-la-hund",
+   "schwierigkeit": "leicht",
+   "frage": "Welchen Laut macht der Hund?",
+   "richtig": "bellt",
+   "falsch": [
+    "brüllt",
+    "muht",
+    "summt"
+   ],
+   "begruendung": "Der Hund bellt.",
+   "karte": {
+    "titel": "Hund",
+    "text": "Der Hund bellt.",
+    "merke": "Der Hund bellt."
+   },
+   "ddf": true
+  },
+  {
+   "id": "nat-la-katze",
+   "schwierigkeit": "leicht",
+   "frage": "Welchen Laut macht die Katze?",
+   "richtig": "miaut",
+   "falsch": [
+    "summt",
+    "quakt",
+    "zischt"
+   ],
+   "begruendung": "Die Katze miaut.",
+   "karte": {
+    "titel": "Katze",
+    "text": "Die Katze miaut.",
+    "merke": "Die Katze miaut."
+   },
+   "ddf": true
+  },
+  {
+   "id": "nat-la-pferd",
+   "schwierigkeit": "leicht",
+   "frage": "Welchen Laut macht das Pferd?",
+   "richtig": "wiehert",
+   "falsch": [
+    "trompetet",
+    "heult",
+    "miaut"
+   ],
+   "begruendung": "Das Pferd wiehert.",
+   "karte": {
+    "titel": "Pferd",
+    "text": "Das Pferd wiehert.",
+    "merke": "Das Pferd wiehert."
+   },
+   "ddf": true
+  },
+  {
+   "id": "nat-la-kuh",
+   "schwierigkeit": "leicht",
+   "frage": "Welchen Laut macht die Kuh?",
+   "richtig": "muht",
+   "falsch": [
+    "gurrt",
+    "wiehert",
+    "quakt"
+   ],
+   "begruendung": "Die Kuh muht.",
+   "karte": {
+    "titel": "Kuh",
+    "text": "Die Kuh muht.",
+    "merke": "Die Kuh muht."
+   },
+   "ddf": true
+  },
+  {
+   "id": "nat-la-schaf",
+   "schwierigkeit": "leicht",
+   "frage": "Welchen Laut macht das Schaf?",
+   "richtig": "blökt",
+   "falsch": [
+    "quakt",
+    "bellt",
+    "iaht"
+   ],
+   "begruendung": "Das Schaf blökt.",
+   "karte": {
+    "titel": "Schaf",
+    "text": "Das Schaf blökt.",
+    "merke": "Das Schaf blökt."
+   },
+   "ddf": true
+  },
+  {
+   "id": "nat-la-schwein",
+   "schwierigkeit": "leicht",
+   "frage": "Welchen Laut macht das Schwein?",
+   "richtig": "grunzt",
+   "falsch": [
+    "heult",
+    "blökt",
+    "muht"
+   ],
+   "begruendung": "Das Schwein grunzt.",
+   "karte": {
+    "titel": "Schwein",
+    "text": "Das Schwein grunzt.",
+    "merke": "Das Schwein grunzt."
+   },
+   "ddf": true
+  },
+  {
+   "id": "nat-la-ziege",
+   "schwierigkeit": "leicht",
+   "frage": "Welchen Laut macht die Ziege?",
+   "richtig": "meckert",
+   "falsch": [
+    "gurrt",
+    "grunzt",
+    "bellt"
+   ],
+   "begruendung": "Die Ziege meckert.",
+   "karte": {
+    "titel": "Ziege",
+    "text": "Die Ziege meckert.",
+    "merke": "Die Ziege meckert."
+   },
+   "ddf": true
+  },
+  {
+   "id": "nat-la-loewe",
+   "schwierigkeit": "leicht",
+   "frage": "Welchen Laut macht der Löwe?",
+   "richtig": "brüllt",
+   "falsch": [
+    "röhrt",
+    "wiehert",
+    "gurrt"
+   ],
+   "begruendung": "Der Löwe brüllt.",
+   "karte": {
+    "titel": "Löwe",
+    "text": "Der Löwe brüllt.",
+    "merke": "Der Löwe brüllt."
+   },
+   "ddf": true
+  },
+  {
+   "id": "nat-la-frosch",
+   "schwierigkeit": "leicht",
+   "frage": "Welchen Laut macht der Frosch?",
+   "richtig": "quakt",
+   "falsch": [
+    "heult",
+    "miaut",
+    "zischt"
+   ],
+   "begruendung": "Der Frosch quakt.",
+   "karte": {
+    "titel": "Frosch",
+    "text": "Der Frosch quakt.",
+    "merke": "Der Frosch quakt."
+   },
+   "ddf": true
+  },
+  {
+   "id": "nat-la-wolf",
+   "schwierigkeit": "leicht",
+   "frage": "Welchen Laut macht der Wolf?",
+   "richtig": "heult",
+   "falsch": [
+    "grunzt",
+    "muht",
+    "trompetet"
+   ],
+   "begruendung": "Der Wolf heult.",
+   "karte": {
+    "titel": "Wolf",
+    "text": "Der Wolf heult.",
+    "merke": "Der Wolf heult."
+   },
+   "ddf": true
+  },
+  {
+   "id": "nat-la-gans",
+   "schwierigkeit": "mittel",
+   "frage": "Welchen Laut macht die Gans?",
+   "richtig": "schnattert",
+   "falsch": [
+    "summt",
+    "trompetet",
+    "zischt"
+   ],
+   "begruendung": "Die Gans schnattert.",
+   "karte": {
+    "titel": "Gans",
+    "text": "Die Gans schnattert.",
+    "merke": "Die Gans schnattert."
+   },
+   "ddf": true
+  },
+  {
+   "id": "nat-la-taube",
+   "schwierigkeit": "mittel",
+   "frage": "Welchen Laut macht die Taube?",
+   "richtig": "gurrt",
+   "falsch": [
+    "wiehert",
+    "schnattert",
+    "heult"
+   ],
+   "begruendung": "Die Taube gurrt.",
+   "karte": {
+    "titel": "Taube",
+    "text": "Die Taube gurrt.",
+    "merke": "Die Taube gurrt."
+   },
+   "ddf": true
+  },
+  {
+   "id": "nat-la-hahn",
+   "schwierigkeit": "leicht",
+   "frage": "Welchen Laut macht der Hahn?",
+   "richtig": "kräht",
+   "falsch": [
+    "quakt",
+    "miaut",
+    "blökt"
+   ],
+   "begruendung": "Der Hahn kräht.",
+   "karte": {
+    "titel": "Hahn",
+    "text": "Der Hahn kräht.",
+    "merke": "Der Hahn kräht."
+   },
+   "ddf": true
+  },
+  {
+   "id": "nat-la-hirsch",
+   "schwierigkeit": "mittel",
+   "frage": "Welchen Laut macht der Hirsch?",
+   "richtig": "röhrt",
+   "falsch": [
+    "heult",
+    "iaht",
+    "zischt"
+   ],
+   "begruendung": "Der Hirsch röhrt.",
+   "karte": {
+    "titel": "Hirsch",
+    "text": "Der Hirsch röhrt.",
+    "merke": "Der Hirsch röhrt."
+   },
+   "ddf": true
+  },
+  {
+   "id": "nat-la-elefant",
+   "schwierigkeit": "mittel",
+   "frage": "Welchen Laut macht der Elefant?",
+   "richtig": "trompetet",
+   "falsch": [
+    "zischt",
+    "meckert",
+    "grunzt"
+   ],
+   "begruendung": "Der Elefant trompetet.",
+   "karte": {
+    "titel": "Elefant",
+    "text": "Der Elefant trompetet.",
+    "merke": "Der Elefant trompetet."
+   },
+   "ddf": true
+  },
+  {
+   "id": "nat-la-schlange",
+   "schwierigkeit": "leicht",
+   "frage": "Welchen Laut macht die Schlange?",
+   "richtig": "zischt",
+   "falsch": [
+    "grunzt",
+    "brüllt",
+    "bellt"
+   ],
+   "begruendung": "Die Schlange zischt.",
+   "karte": {
+    "titel": "Schlange",
+    "text": "Die Schlange zischt.",
+    "merke": "Die Schlange zischt."
+   },
+   "ddf": true
+  },
+  {
+   "id": "nat-la-biene",
+   "schwierigkeit": "leicht",
+   "frage": "Welchen Laut macht die Biene?",
+   "richtig": "summt",
+   "falsch": [
+    "muht",
+    "trompetet",
+    "heult"
+   ],
+   "begruendung": "Die Biene summt.",
+   "karte": {
+    "titel": "Biene",
+    "text": "Die Biene summt.",
+    "merke": "Die Biene summt."
+   },
+   "ddf": true
+  },
+  {
+   "id": "nat-la-esel",
+   "schwierigkeit": "mittel",
+   "frage": "Welchen Laut macht der Esel?",
+   "richtig": "iaht",
+   "falsch": [
+    "wiehert",
+    "quakt",
+    "meckert"
+   ],
+   "begruendung": "Der Esel iaht.",
+   "karte": {
+    "titel": "Esel",
+    "text": "Der Esel iaht.",
+    "merke": "Der Esel iaht."
+   },
+   "ddf": true
+  },
+  {
+   "id": "nat-he-kaengurus",
+   "schwierigkeit": "leicht",
+   "frage": "Wo leben Kängurus in freier Wildbahn?",
+   "richtig": "Australien",
+   "falsch": [
+    "Afrika",
+    "Südamerika",
+    "Arktis"
+   ],
+   "begruendung": "Kängurus leben in freier Wildbahn in Australien.",
+   "karte": {
+    "titel": "Kängurus",
+    "text": "Kängurus sind Beuteltiere. Das Junge wächst im Beutel der Mutter heran.",
+    "merke": "Kängurus leben in freier Wildbahn in Australien."
+   },
+   "ddf": true
+  },
+  {
+   "id": "nat-he-koalas",
+   "schwierigkeit": "leicht",
+   "frage": "Wo leben Koalas in freier Wildbahn?",
+   "richtig": "Australien",
+   "falsch": [
+    "Europa",
+    "Südamerika",
+    "Nordamerika"
+   ],
+   "begruendung": "Koalas leben in freier Wildbahn in Australien.",
+   "karte": {
+    "titel": "Koalas",
+    "text": "Koalas fressen fast nur Eukalyptusblätter und schlafen bis zu 20 Stunden am Tag.",
+    "merke": "Koalas leben in freier Wildbahn in Australien."
+   },
+   "ddf": true
+  },
+  {
+   "id": "nat-he-lamas",
+   "schwierigkeit": "mittel",
+   "frage": "Wo leben Lamas in freier Wildbahn?",
+   "richtig": "Südamerika",
+   "falsch": [
+    "Arktis",
+    "Europa",
+    "Madagaskar"
+   ],
+   "begruendung": "Lamas leben in freier Wildbahn in Südamerika.",
+   "karte": {
+    "titel": "Lamas",
+    "text": "Lamas stammen aus den Anden und dienen dort seit Jahrtausenden als Lasttiere.",
+    "merke": "Lamas leben in freier Wildbahn in Südamerika."
+   }
+  },
+  {
+   "id": "nat-he-grosse-pandas",
+   "schwierigkeit": "leicht",
+   "frage": "Wo leben Große Pandas in freier Wildbahn?",
+   "richtig": "Asien",
+   "falsch": [
+    "Südamerika",
+    "Australien",
+    "Madagaskar"
+   ],
+   "begruendung": "Große Pandas leben in freier Wildbahn in Asien.",
+   "karte": {
+    "titel": "Große Pandas",
+    "text": "Große Pandas leben nur in Bergwäldern Chinas.",
+    "merke": "Große Pandas leben in freier Wildbahn in Asien."
+   },
+   "ddf": true
+  },
+  {
+   "id": "nat-he-orang-utans",
+   "schwierigkeit": "mittel",
+   "frage": "Wo leben Orang-Utans in freier Wildbahn?",
+   "richtig": "Asien",
+   "falsch": [
+    "Madagaskar",
+    "Australien",
+    "Südamerika"
+   ],
+   "begruendung": "Orang-Utans leben in freier Wildbahn in Asien.",
+   "karte": {
+    "titel": "Orang-Utans",
+    "text": "Orang-Utans leben nur auf Borneo und Sumatra. Der Name heißt auf Malaiisch „Waldmensch“.",
+    "merke": "Orang-Utans leben in freier Wildbahn in Asien."
+   }
+  },
+  {
+   "id": "nat-he-tiger",
+   "schwierigkeit": "leicht",
+   "frage": "Wo leben Tiger in freier Wildbahn?",
+   "richtig": "Asien",
+   "falsch": [
+    "Südamerika",
+    "Australien",
+    "Antarktis"
+   ],
+   "begruendung": "Tiger leben in freier Wildbahn in Asien.",
+   "karte": {
+    "titel": "Tiger",
+    "text": "Tiger sind die größten Katzen der Welt. In freier Wildbahn leben sie nur in Asien.",
+    "merke": "Tiger leben in freier Wildbahn in Asien."
+   },
+   "ddf": true
+  },
+  {
+   "id": "nat-he-komodowarane",
+   "schwierigkeit": "schwer",
+   "frage": "Wo leben Komodowarane in freier Wildbahn?",
+   "richtig": "Asien",
+   "falsch": [
+    "Afrika",
+    "Arktis",
+    "Madagaskar"
+   ],
+   "begruendung": "Komodowarane leben in freier Wildbahn in Asien.",
+   "karte": {
+    "titel": "Komodowarane",
+    "text": "Komodowarane leben auf wenigen indonesischen Inseln und sind die größten Echsen der Welt.",
+    "merke": "Komodowarane leben in freier Wildbahn in Asien."
+   }
+  },
+  {
+   "id": "nat-he-giraffen",
+   "schwierigkeit": "leicht",
+   "frage": "Wo leben Giraffen in freier Wildbahn?",
+   "richtig": "Afrika",
+   "falsch": [
+    "Madagaskar",
+    "Nordamerika",
+    "Asien"
+   ],
+   "begruendung": "Giraffen leben in freier Wildbahn in Afrika.",
+   "karte": {
+    "titel": "Giraffen",
+    "text": "Giraffen haben wie Menschen nur sieben Halswirbel, aber jeder ist bis zu 30 cm lang.",
+    "merke": "Giraffen leben in freier Wildbahn in Afrika."
+   },
+   "ddf": true
+  },
+  {
+   "id": "nat-he-flusspferde",
+   "schwierigkeit": "leicht",
+   "frage": "Wo leben Flusspferde in freier Wildbahn?",
+   "richtig": "Afrika",
+   "falsch": [
+    "Nordamerika",
+    "Europa",
+    "Asien"
+   ],
+   "begruendung": "Flusspferde leben in freier Wildbahn in Afrika.",
+   "karte": {
+    "titel": "Flusspferde",
+    "text": "Flusspferde verbringen den Tag im Wasser und gehen nachts an Land grasen.",
+    "merke": "Flusspferde leben in freier Wildbahn in Afrika."
+   },
+   "ddf": true
+  },
+  {
+   "id": "nat-he-okapis",
+   "schwierigkeit": "schwer",
+   "frage": "Wo leben Okapis in freier Wildbahn?",
+   "richtig": "Afrika",
+   "falsch": [
+    "Australien",
+    "Südamerika",
+    "Arktis"
+   ],
+   "begruendung": "Okapis leben in freier Wildbahn in Afrika.",
+   "karte": {
+    "titel": "Okapis",
+    "text": "Das Okapi lebt im Regenwald des Kongo und ist mit der Giraffe verwandt.",
+    "merke": "Okapis leben in freier Wildbahn in Afrika."
+   }
+  },
+  {
+   "id": "nat-he-eisbaeren",
+   "schwierigkeit": "leicht",
+   "frage": "Wo leben Eisbären in freier Wildbahn?",
+   "richtig": "Arktis",
+   "falsch": [
+    "Asien",
+    "Europa",
+    "Australien"
+   ],
+   "begruendung": "Eisbären leben in freier Wildbahn in der Arktis.",
+   "karte": {
+    "titel": "Eisbären",
+    "text": "Eisbären haben unter dem weißen Fell schwarze Haut.",
+    "merke": "Eisbären leben in freier Wildbahn in der Arktis."
+   },
+   "ddf": true
+  },
+  {
+   "id": "nat-he-kaiserpinguine",
+   "schwierigkeit": "leicht",
+   "frage": "Wo leben Kaiserpinguine in freier Wildbahn?",
+   "richtig": "Antarktis",
+   "falsch": [
+    "Europa",
+    "Afrika",
+    "Nordamerika"
+   ],
+   "begruendung": "Kaiserpinguine leben in freier Wildbahn in der Antarktis.",
+   "karte": {
+    "titel": "Kaiserpinguine",
+    "text": "Kaiserpinguine brüten mitten im antarktischen Winter.",
+    "merke": "Kaiserpinguine leben in freier Wildbahn in der Antarktis."
+   },
+   "ddf": true
+  },
+  {
+   "id": "nat-he-lemuren",
+   "schwierigkeit": "mittel",
+   "frage": "Wo leben Lemuren in freier Wildbahn?",
+   "richtig": "Madagaskar",
+   "falsch": [
+    "Südamerika",
+    "Asien",
+    "Afrika"
+   ],
+   "begruendung": "Lemuren leben in freier Wildbahn in Madagaskar.",
+   "karte": {
+    "titel": "Lemuren",
+    "text": "Lemuren gibt es in freier Wildbahn nur auf Madagaskar.",
+    "merke": "Lemuren leben in freier Wildbahn in Madagaskar."
+   }
+  },
+  {
+   "id": "nat-he-bisons",
+   "schwierigkeit": "mittel",
+   "frage": "Wo leben Bisons in freier Wildbahn?",
+   "richtig": "Nordamerika",
+   "falsch": [
+    "Madagaskar",
+    "Afrika",
+    "Arktis"
+   ],
+   "begruendung": "Bisons leben in freier Wildbahn in Nordamerika.",
+   "karte": {
+    "titel": "Bisons",
+    "text": "Im 19. Jahrhundert wurden Bisons fast ausgerottet. Heute leben wieder Hunderttausende.",
+    "merke": "Bisons leben in freier Wildbahn in Nordamerika."
+   }
+  }
+ ]
+}

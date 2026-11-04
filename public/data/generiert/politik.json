@@ -1,0 +1,1519 @@
+{
+ "klasse": "politik",
+ "erzeugt": "scripts/generate-fakten.mjs",
+ "fragen": [
+  {
+   "id": "pol-eu-belgien",
+   "schwierigkeit": "mittel",
+   "frage": "Seit wann gehört Belgien zur EU (oder ihren Vorgängern)?",
+   "richtig": "1958",
+   "falsch": [
+    "1973",
+    "1986",
+    "2013"
+   ],
+   "begruendung": "EU-Mitglied seit 1958: Belgien.",
+   "karte": {
+    "titel": "EU-Beitritt: Belgien",
+    "text": "Die sechs Gründerstaaten unterschrieben 1957 die Römischen Verträge. Die Europäische Wirtschaftsgemeinschaft startete am 1. Januar 1958.",
+    "merke": "EU-Mitglied seit 1958: Belgien."
+   }
+  },
+  {
+   "id": "pol-eu-deutschland",
+   "schwierigkeit": "leicht",
+   "frage": "Seit wann gehört Deutschland zur EU (oder ihren Vorgängern)?",
+   "richtig": "1958",
+   "falsch": [
+    "1981",
+    "1973",
+    "1995"
+   ],
+   "begruendung": "EU-Mitglied seit 1958: Deutschland.",
+   "karte": {
+    "titel": "EU-Beitritt: Deutschland",
+    "text": "Die sechs Gründerstaaten unterschrieben 1957 die Römischen Verträge. Die Europäische Wirtschaftsgemeinschaft startete am 1. Januar 1958.",
+    "merke": "EU-Mitglied seit 1958: Deutschland."
+   }
+  },
+  {
+   "id": "pol-eu-frankreich",
+   "schwierigkeit": "leicht",
+   "frage": "Seit wann gehört Frankreich zur EU (oder ihren Vorgängern)?",
+   "richtig": "1958",
+   "falsch": [
+    "1952",
+    "2010",
+    "2004"
+   ],
+   "begruendung": "EU-Mitglied seit 1958: Frankreich.",
+   "karte": {
+    "titel": "EU-Beitritt: Frankreich",
+    "text": "Die sechs Gründerstaaten unterschrieben 1957 die Römischen Verträge. Die Europäische Wirtschaftsgemeinschaft startete am 1. Januar 1958.",
+    "merke": "EU-Mitglied seit 1958: Frankreich."
+   }
+  },
+  {
+   "id": "pol-eu-italien",
+   "schwierigkeit": "mittel",
+   "frage": "Seit wann gehört Italien zur EU (oder ihren Vorgängern)?",
+   "richtig": "1958",
+   "falsch": [
+    "1981",
+    "2007",
+    "1952"
+   ],
+   "begruendung": "EU-Mitglied seit 1958: Italien.",
+   "karte": {
+    "titel": "EU-Beitritt: Italien",
+    "text": "Die sechs Gründerstaaten unterschrieben 1957 die Römischen Verträge. Die Europäische Wirtschaftsgemeinschaft startete am 1. Januar 1958.",
+    "merke": "EU-Mitglied seit 1958: Italien."
+   }
+  },
+  {
+   "id": "pol-eu-luxemburg",
+   "schwierigkeit": "mittel",
+   "frage": "Seit wann gehört Luxemburg zur EU (oder ihren Vorgängern)?",
+   "richtig": "1958",
+   "falsch": [
+    "1952",
+    "1981",
+    "2007"
+   ],
+   "begruendung": "EU-Mitglied seit 1958: Luxemburg.",
+   "karte": {
+    "titel": "EU-Beitritt: Luxemburg",
+    "text": "Die sechs Gründerstaaten unterschrieben 1957 die Römischen Verträge. Die Europäische Wirtschaftsgemeinschaft startete am 1. Januar 1958.",
+    "merke": "EU-Mitglied seit 1958: Luxemburg."
+   }
+  },
+  {
+   "id": "pol-eu-den-niederlanden",
+   "schwierigkeit": "mittel",
+   "frage": "Seit wann gehören die Niederlande zur EU (oder ihren Vorgängern)?",
+   "richtig": "1958",
+   "falsch": [
+    "2013",
+    "2020",
+    "2007"
+   ],
+   "begruendung": "EU-Mitglied seit 1958: Niederlande.",
+   "karte": {
+    "titel": "EU-Beitritt: Niederlande",
+    "text": "Die sechs Gründerstaaten unterschrieben 1957 die Römischen Verträge. Die Europäische Wirtschaftsgemeinschaft startete am 1. Januar 1958.",
+    "merke": "EU-Mitglied seit 1958: Niederlande."
+   }
+  },
+  {
+   "id": "pol-eu-daenemark",
+   "schwierigkeit": "mittel",
+   "frage": "Seit wann gehört Dänemark zur EU (oder ihren Vorgängern)?",
+   "richtig": "1973",
+   "falsch": [
+    "2020",
+    "2007",
+    "1995"
+   ],
+   "begruendung": "EU-Mitglied seit 1973: Dänemark.",
+   "karte": {
+    "titel": "EU-Beitritt: Dänemark",
+    "text": "EU-Mitglied seit 1973: Dänemark.",
+    "merke": "EU-Mitglied seit 1973: Dänemark."
+   }
+  },
+  {
+   "id": "pol-eu-irland",
+   "schwierigkeit": "schwer",
+   "frage": "Seit wann gehört Irland zur EU (oder ihren Vorgängern)?",
+   "richtig": "1973",
+   "falsch": [
+    "1986",
+    "2013",
+    "1990"
+   ],
+   "begruendung": "EU-Mitglied seit 1973: Irland.",
+   "karte": {
+    "titel": "EU-Beitritt: Irland",
+    "text": "EU-Mitglied seit 1973: Irland.",
+    "merke": "EU-Mitglied seit 1973: Irland."
+   }
+  },
+  {
+   "id": "pol-eu-griechenland",
+   "schwierigkeit": "mittel",
+   "frage": "Seit wann gehört Griechenland zur EU (oder ihren Vorgängern)?",
+   "richtig": "1981",
+   "falsch": [
+    "1986",
+    "1990",
+    "1958"
+   ],
+   "begruendung": "EU-Mitglied seit 1981: Griechenland.",
+   "karte": {
+    "titel": "EU-Beitritt: Griechenland",
+    "text": "EU-Mitglied seit 1981: Griechenland.",
+    "merke": "EU-Mitglied seit 1981: Griechenland."
+   }
+  },
+  {
+   "id": "pol-eu-spanien",
+   "schwierigkeit": "mittel",
+   "frage": "Seit wann gehört Spanien zur EU (oder ihren Vorgängern)?",
+   "richtig": "1986",
+   "falsch": [
+    "1952",
+    "1973",
+    "1995"
+   ],
+   "begruendung": "EU-Mitglied seit 1986: Spanien.",
+   "karte": {
+    "titel": "EU-Beitritt: Spanien",
+    "text": "EU-Mitglied seit 1986: Spanien.",
+    "merke": "EU-Mitglied seit 1986: Spanien."
+   }
+  },
+  {
+   "id": "pol-eu-portugal",
+   "schwierigkeit": "mittel",
+   "frage": "Seit wann gehört Portugal zur EU (oder ihren Vorgängern)?",
+   "richtig": "1986",
+   "falsch": [
+    "2020",
+    "1973",
+    "1981"
+   ],
+   "begruendung": "EU-Mitglied seit 1986: Portugal.",
+   "karte": {
+    "titel": "EU-Beitritt: Portugal",
+    "text": "EU-Mitglied seit 1986: Portugal.",
+    "merke": "EU-Mitglied seit 1986: Portugal."
+   }
+  },
+  {
+   "id": "pol-eu-oesterreich",
+   "schwierigkeit": "leicht",
+   "frage": "Seit wann gehört Österreich zur EU (oder ihren Vorgängern)?",
+   "richtig": "1995",
+   "falsch": [
+    "1958",
+    "1986",
+    "2013"
+   ],
+   "begruendung": "EU-Mitglied seit 1995: Österreich.",
+   "karte": {
+    "titel": "EU-Beitritt: Österreich",
+    "text": "1995 kamen Österreich, Finnland und Schweden hinzu. Norwegen hatte den Beitritt in einer Volksabstimmung abgelehnt.",
+    "merke": "EU-Mitglied seit 1995: Österreich."
+   }
+  },
+  {
+   "id": "pol-eu-finnland",
+   "schwierigkeit": "mittel",
+   "frage": "Seit wann gehört Finnland zur EU (oder ihren Vorgängern)?",
+   "richtig": "1995",
+   "falsch": [
+    "2007",
+    "1981",
+    "1958"
+   ],
+   "begruendung": "EU-Mitglied seit 1995: Finnland.",
+   "karte": {
+    "titel": "EU-Beitritt: Finnland",
+    "text": "1995 kamen Österreich, Finnland und Schweden hinzu. Norwegen hatte den Beitritt in einer Volksabstimmung abgelehnt.",
+    "merke": "EU-Mitglied seit 1995: Finnland."
+   }
+  },
+  {
+   "id": "pol-eu-schweden",
+   "schwierigkeit": "mittel",
+   "frage": "Seit wann gehört Schweden zur EU (oder ihren Vorgängern)?",
+   "richtig": "1995",
+   "falsch": [
+    "1986",
+    "1973",
+    "2020"
+   ],
+   "begruendung": "EU-Mitglied seit 1995: Schweden.",
+   "karte": {
+    "titel": "EU-Beitritt: Schweden",
+    "text": "1995 kamen Österreich, Finnland und Schweden hinzu. Norwegen hatte den Beitritt in einer Volksabstimmung abgelehnt.",
+    "merke": "EU-Mitglied seit 1995: Schweden."
+   }
+  },
+  {
+   "id": "pol-eu-polen",
+   "schwierigkeit": "leicht",
+   "frage": "Seit wann gehört Polen zur EU (oder ihren Vorgängern)?",
+   "richtig": "2004",
+   "falsch": [
+    "1981",
+    "1995",
+    "2010"
+   ],
+   "begruendung": "EU-Mitglied seit 2004: Polen.",
+   "karte": {
+    "titel": "EU-Beitritt: Polen",
+    "text": "2004 traten zehn Länder auf einmal bei, die größte Erweiterung der EU-Geschichte.",
+    "merke": "EU-Mitglied seit 2004: Polen."
+   }
+  },
+  {
+   "id": "pol-eu-tschechien",
+   "schwierigkeit": "mittel",
+   "frage": "Seit wann gehört Tschechien zur EU (oder ihren Vorgängern)?",
+   "richtig": "2004",
+   "falsch": [
+    "1952",
+    "1986",
+    "1958"
+   ],
+   "begruendung": "EU-Mitglied seit 2004: Tschechien.",
+   "karte": {
+    "titel": "EU-Beitritt: Tschechien",
+    "text": "2004 traten zehn Länder auf einmal bei, die größte Erweiterung der EU-Geschichte.",
+    "merke": "EU-Mitglied seit 2004: Tschechien."
+   }
+  },
+  {
+   "id": "pol-eu-der-slowakei",
+   "schwierigkeit": "schwer",
+   "frage": "Seit wann gehört die Slowakei zur EU (oder ihren Vorgängern)?",
+   "richtig": "2004",
+   "falsch": [
+    "1995",
+    "2010",
+    "1990"
+   ],
+   "begruendung": "EU-Mitglied seit 2004: Slowakei.",
+   "karte": {
+    "titel": "EU-Beitritt: Slowakei",
+    "text": "2004 traten zehn Länder auf einmal bei, die größte Erweiterung der EU-Geschichte.",
+    "merke": "EU-Mitglied seit 2004: Slowakei."
+   }
+  },
+  {
+   "id": "pol-eu-ungarn",
+   "schwierigkeit": "mittel",
+   "frage": "Seit wann gehört Ungarn zur EU (oder ihren Vorgängern)?",
+   "richtig": "2004",
+   "falsch": [
+    "1995",
+    "2010",
+    "1952"
+   ],
+   "begruendung": "EU-Mitglied seit 2004: Ungarn.",
+   "karte": {
+    "titel": "EU-Beitritt: Ungarn",
+    "text": "2004 traten zehn Länder auf einmal bei, die größte Erweiterung der EU-Geschichte.",
+    "merke": "EU-Mitglied seit 2004: Ungarn."
+   }
+  },
+  {
+   "id": "pol-eu-slowenien",
+   "schwierigkeit": "schwer",
+   "frage": "Seit wann gehört Slowenien zur EU (oder ihren Vorgängern)?",
+   "richtig": "2004",
+   "falsch": [
+    "1990",
+    "1981",
+    "1958"
+   ],
+   "begruendung": "EU-Mitglied seit 2004: Slowenien.",
+   "karte": {
+    "titel": "EU-Beitritt: Slowenien",
+    "text": "2004 traten zehn Länder auf einmal bei, die größte Erweiterung der EU-Geschichte.",
+    "merke": "EU-Mitglied seit 2004: Slowenien."
+   }
+  },
+  {
+   "id": "pol-eu-estland",
+   "schwierigkeit": "schwer",
+   "frage": "Seit wann gehört Estland zur EU (oder ihren Vorgängern)?",
+   "richtig": "2004",
+   "falsch": [
+    "2007",
+    "1981",
+    "1990"
+   ],
+   "begruendung": "EU-Mitglied seit 2004: Estland.",
+   "karte": {
+    "titel": "EU-Beitritt: Estland",
+    "text": "2004 traten zehn Länder auf einmal bei, die größte Erweiterung der EU-Geschichte.",
+    "merke": "EU-Mitglied seit 2004: Estland."
+   }
+  },
+  {
+   "id": "pol-eu-lettland",
+   "schwierigkeit": "schwer",
+   "frage": "Seit wann gehört Lettland zur EU (oder ihren Vorgängern)?",
+   "richtig": "2004",
+   "falsch": [
+    "1981",
+    "1990",
+    "1952"
+   ],
+   "begruendung": "EU-Mitglied seit 2004: Lettland.",
+   "karte": {
+    "titel": "EU-Beitritt: Lettland",
+    "text": "2004 traten zehn Länder auf einmal bei, die größte Erweiterung der EU-Geschichte.",
+    "merke": "EU-Mitglied seit 2004: Lettland."
+   }
+  },
+  {
+   "id": "pol-eu-litauen",
+   "schwierigkeit": "schwer",
+   "frage": "Seit wann gehört Litauen zur EU (oder ihren Vorgängern)?",
+   "richtig": "2004",
+   "falsch": [
+    "1973",
+    "1981",
+    "1995"
+   ],
+   "begruendung": "EU-Mitglied seit 2004: Litauen.",
+   "karte": {
+    "titel": "EU-Beitritt: Litauen",
+    "text": "2004 traten zehn Länder auf einmal bei, die größte Erweiterung der EU-Geschichte.",
+    "merke": "EU-Mitglied seit 2004: Litauen."
+   }
+  },
+  {
+   "id": "pol-eu-malta",
+   "schwierigkeit": "schwer",
+   "frage": "Seit wann gehört Malta zur EU (oder ihren Vorgängern)?",
+   "richtig": "2004",
+   "falsch": [
+    "2007",
+    "1973",
+    "1986"
+   ],
+   "begruendung": "EU-Mitglied seit 2004: Malta.",
+   "karte": {
+    "titel": "EU-Beitritt: Malta",
+    "text": "2004 traten zehn Länder auf einmal bei, die größte Erweiterung der EU-Geschichte.",
+    "merke": "EU-Mitglied seit 2004: Malta."
+   }
+  },
+  {
+   "id": "pol-eu-zypern",
+   "schwierigkeit": "schwer",
+   "frage": "Seit wann gehört Zypern zur EU (oder ihren Vorgängern)?",
+   "richtig": "2004",
+   "falsch": [
+    "2007",
+    "1986",
+    "1990"
+   ],
+   "begruendung": "EU-Mitglied seit 2004: Zypern.",
+   "karte": {
+    "titel": "EU-Beitritt: Zypern",
+    "text": "2004 traten zehn Länder auf einmal bei, die größte Erweiterung der EU-Geschichte.",
+    "merke": "EU-Mitglied seit 2004: Zypern."
+   }
+  },
+  {
+   "id": "pol-eu-bulgarien",
+   "schwierigkeit": "mittel",
+   "frage": "Seit wann gehört Bulgarien zur EU (oder ihren Vorgängern)?",
+   "richtig": "2007",
+   "falsch": [
+    "1995",
+    "2010",
+    "1990"
+   ],
+   "begruendung": "EU-Mitglied seit 2007: Bulgarien.",
+   "karte": {
+    "titel": "EU-Beitritt: Bulgarien",
+    "text": "EU-Mitglied seit 2007: Bulgarien.",
+    "merke": "EU-Mitglied seit 2007: Bulgarien."
+   }
+  },
+  {
+   "id": "pol-eu-rumaenien",
+   "schwierigkeit": "mittel",
+   "frage": "Seit wann gehört Rumänien zur EU (oder ihren Vorgängern)?",
+   "richtig": "2007",
+   "falsch": [
+    "1995",
+    "1973",
+    "1958"
+   ],
+   "begruendung": "EU-Mitglied seit 2007: Rumänien.",
+   "karte": {
+    "titel": "EU-Beitritt: Rumänien",
+    "text": "EU-Mitglied seit 2007: Rumänien.",
+    "merke": "EU-Mitglied seit 2007: Rumänien."
+   }
+  },
+  {
+   "id": "pol-eu-kroatien",
+   "schwierigkeit": "mittel",
+   "frage": "Seit wann gehört Kroatien zur EU (oder ihren Vorgängern)?",
+   "richtig": "2013",
+   "falsch": [
+    "2020",
+    "2010",
+    "2004"
+   ],
+   "begruendung": "EU-Mitglied seit 2013: Kroatien.",
+   "karte": {
+    "titel": "EU-Beitritt: Kroatien",
+    "text": "EU-Mitglied seit 2013: Kroatien.",
+    "merke": "EU-Mitglied seit 2013: Kroatien."
+   }
+  },
+  {
+   "id": "pol-bk-konrad-adenauer-1",
+   "schwierigkeit": "leicht",
+   "frage": "Wer wurde 1949 Bundeskanzler?",
+   "richtig": "Konrad Adenauer",
+   "falsch": [
+    "Ludwig Erhard",
+    "Gerhard Schröder",
+    "Kurt Georg Kiesinger"
+   ],
+   "begruendung": "1949: Konrad Adenauer (CDU).",
+   "karte": {
+    "titel": "Konrad Adenauer",
+    "text": "Konrad Adenauer (CDU) wurde 1949 Bundeskanzler.",
+    "merke": "1949: Konrad Adenauer (CDU)."
+   }
+  },
+  {
+   "id": "pol-bk-ludwig-erhard-1",
+   "schwierigkeit": "mittel",
+   "frage": "Wer wurde 1963 Bundeskanzler?",
+   "richtig": "Ludwig Erhard",
+   "falsch": [
+    "Konrad Adenauer",
+    "Kurt Georg Kiesinger",
+    "Helmut Kohl"
+   ],
+   "begruendung": "1963: Ludwig Erhard (CDU).",
+   "karte": {
+    "titel": "Ludwig Erhard",
+    "text": "Ludwig Erhard (CDU) wurde 1963 Bundeskanzler.",
+    "merke": "1963: Ludwig Erhard (CDU)."
+   }
+  },
+  {
+   "id": "pol-bk-kurt-georg-kiesinger-1",
+   "schwierigkeit": "schwer",
+   "frage": "Wer wurde 1966 Bundeskanzler?",
+   "richtig": "Kurt Georg Kiesinger",
+   "falsch": [
+    "Angela Merkel",
+    "Willy Brandt",
+    "Olaf Scholz"
+   ],
+   "begruendung": "1966: Kurt Georg Kiesinger (CDU).",
+   "karte": {
+    "titel": "Kurt Georg Kiesinger",
+    "text": "Kurt Georg Kiesinger (CDU) wurde 1966 Bundeskanzler.",
+    "merke": "1966: Kurt Georg Kiesinger (CDU)."
+   }
+  },
+  {
+   "id": "pol-bk-willy-brandt-1",
+   "schwierigkeit": "leicht",
+   "frage": "Wer wurde 1969 Bundeskanzler?",
+   "richtig": "Willy Brandt",
+   "falsch": [
+    "Helmut Kohl",
+    "Ludwig Erhard",
+    "Konrad Adenauer"
+   ],
+   "begruendung": "1969: Willy Brandt (SPD).",
+   "karte": {
+    "titel": "Willy Brandt",
+    "text": "Willy Brandt (SPD) wurde 1969 Bundeskanzler.",
+    "merke": "1969: Willy Brandt (SPD)."
+   }
+  },
+  {
+   "id": "pol-bk-helmut-schmidt-1",
+   "schwierigkeit": "mittel",
+   "frage": "Wer wurde 1974 Bundeskanzler?",
+   "richtig": "Helmut Schmidt",
+   "falsch": [
+    "Angela Merkel",
+    "Friedrich Merz",
+    "Olaf Scholz"
+   ],
+   "begruendung": "1974: Helmut Schmidt (SPD).",
+   "karte": {
+    "titel": "Helmut Schmidt",
+    "text": "Helmut Schmidt (SPD) wurde 1974 Bundeskanzler.",
+    "merke": "1974: Helmut Schmidt (SPD)."
+   }
+  },
+  {
+   "id": "pol-bk-helmut-kohl-1",
+   "schwierigkeit": "leicht",
+   "frage": "Wer wurde 1982 Bundeskanzler?",
+   "richtig": "Helmut Kohl",
+   "falsch": [
+    "Helmut Schmidt",
+    "Angela Merkel",
+    "Kurt Georg Kiesinger"
+   ],
+   "begruendung": "1982: Helmut Kohl (CDU).",
+   "karte": {
+    "titel": "Helmut Kohl",
+    "text": "Helmut Kohl (CDU) wurde 1982 Bundeskanzler.",
+    "merke": "1982: Helmut Kohl (CDU)."
+   }
+  },
+  {
+   "id": "pol-bk-gerhard-schroeder-1",
+   "schwierigkeit": "leicht",
+   "frage": "Wer wurde 1998 Bundeskanzler?",
+   "richtig": "Gerhard Schröder",
+   "falsch": [
+    "Friedrich Merz",
+    "Helmut Kohl",
+    "Olaf Scholz"
+   ],
+   "begruendung": "1998: Gerhard Schröder (SPD).",
+   "karte": {
+    "titel": "Gerhard Schröder",
+    "text": "Gerhard Schröder (SPD) wurde 1998 Bundeskanzler.",
+    "merke": "1998: Gerhard Schröder (SPD)."
+   }
+  },
+  {
+   "id": "pol-bk-angela-merkel-1",
+   "schwierigkeit": "leicht",
+   "frage": "Wer wurde 2005 Bundeskanzlerin?",
+   "richtig": "Angela Merkel",
+   "falsch": [
+    "Friedrich Merz",
+    "Gerhard Schröder",
+    "Willy Brandt"
+   ],
+   "begruendung": "2005: Angela Merkel (CDU).",
+   "karte": {
+    "titel": "Angela Merkel",
+    "text": "Angela Merkel (CDU) wurde 2005 Bundeskanzlerin.",
+    "merke": "2005: Angela Merkel (CDU)."
+   }
+  },
+  {
+   "id": "pol-bk-olaf-scholz-1",
+   "schwierigkeit": "leicht",
+   "frage": "Wer wurde 2021 Bundeskanzler?",
+   "richtig": "Olaf Scholz",
+   "falsch": [
+    "Konrad Adenauer",
+    "Helmut Kohl",
+    "Kurt Georg Kiesinger"
+   ],
+   "begruendung": "2021: Olaf Scholz (SPD).",
+   "karte": {
+    "titel": "Olaf Scholz",
+    "text": "Olaf Scholz (SPD) wurde 2021 Bundeskanzler.",
+    "merke": "2021: Olaf Scholz (SPD)."
+   }
+  },
+  {
+   "id": "pol-bk-friedrich-merz-1",
+   "schwierigkeit": "leicht",
+   "frage": "Wer wurde 2025 Bundeskanzler?",
+   "richtig": "Friedrich Merz",
+   "falsch": [
+    "Helmut Schmidt",
+    "Gerhard Schröder",
+    "Ludwig Erhard"
+   ],
+   "begruendung": "2025: Friedrich Merz (CDU).",
+   "karte": {
+    "titel": "Friedrich Merz",
+    "text": "Friedrich Merz (CDU) wurde 2025 Bundeskanzler.",
+    "merke": "2025: Friedrich Merz (CDU)."
+   }
+  },
+  {
+   "id": "pol-bk-konrad-adenauer-2",
+   "schwierigkeit": "leicht",
+   "frage": "Welcher Partei gehörte Konrad Adenauer als Kanzler an?",
+   "richtig": "CDU",
+   "falsch": [
+    "FDP",
+    "CSU",
+    "SPD"
+   ],
+   "begruendung": "Konrad Adenauer: CDU.",
+   "karte": {
+    "titel": "Konrad Adenauer",
+    "text": "Konrad Adenauer: CDU.",
+    "merke": "Konrad Adenauer: CDU."
+   }
+  },
+  {
+   "id": "pol-bk-ludwig-erhard-2",
+   "schwierigkeit": "mittel",
+   "frage": "Welcher Partei gehörte Ludwig Erhard als Kanzler an?",
+   "richtig": "CDU",
+   "falsch": [
+    "CSU",
+    "FDP",
+    "SPD"
+   ],
+   "begruendung": "Ludwig Erhard: CDU.",
+   "karte": {
+    "titel": "Ludwig Erhard",
+    "text": "Ludwig Erhard: CDU.",
+    "merke": "Ludwig Erhard: CDU."
+   }
+  },
+  {
+   "id": "pol-bk-kurt-georg-kiesinger-2",
+   "schwierigkeit": "schwer",
+   "frage": "Welcher Partei gehörte Kurt Georg Kiesinger als Kanzler an?",
+   "richtig": "CDU",
+   "falsch": [
+    "CSU",
+    "SPD",
+    "FDP"
+   ],
+   "begruendung": "Kurt Georg Kiesinger: CDU.",
+   "karte": {
+    "titel": "Kurt Georg Kiesinger",
+    "text": "Kurt Georg Kiesinger: CDU.",
+    "merke": "Kurt Georg Kiesinger: CDU."
+   }
+  },
+  {
+   "id": "pol-bk-willy-brandt-2",
+   "schwierigkeit": "leicht",
+   "frage": "Welcher Partei gehörte Willy Brandt als Kanzler an?",
+   "richtig": "SPD",
+   "falsch": [
+    "CSU",
+    "FDP",
+    "CDU"
+   ],
+   "begruendung": "Willy Brandt: SPD.",
+   "karte": {
+    "titel": "Willy Brandt",
+    "text": "Willy Brandt: SPD.",
+    "merke": "Willy Brandt: SPD."
+   }
+  },
+  {
+   "id": "pol-bk-helmut-schmidt-2",
+   "schwierigkeit": "mittel",
+   "frage": "Welcher Partei gehörte Helmut Schmidt als Kanzler an?",
+   "richtig": "SPD",
+   "falsch": [
+    "FDP",
+    "CSU",
+    "Grüne"
+   ],
+   "begruendung": "Helmut Schmidt: SPD.",
+   "karte": {
+    "titel": "Helmut Schmidt",
+    "text": "Helmut Schmidt: SPD.",
+    "merke": "Helmut Schmidt: SPD."
+   }
+  },
+  {
+   "id": "pol-bk-helmut-kohl-2",
+   "schwierigkeit": "leicht",
+   "frage": "Welcher Partei gehörte Helmut Kohl als Kanzler an?",
+   "richtig": "CDU",
+   "falsch": [
+    "Grüne",
+    "SPD",
+    "FDP"
+   ],
+   "begruendung": "Helmut Kohl: CDU.",
+   "karte": {
+    "titel": "Helmut Kohl",
+    "text": "Helmut Kohl: CDU.",
+    "merke": "Helmut Kohl: CDU."
+   }
+  },
+  {
+   "id": "pol-bk-gerhard-schroeder-2",
+   "schwierigkeit": "leicht",
+   "frage": "Welcher Partei gehörte Gerhard Schröder als Kanzler an?",
+   "richtig": "SPD",
+   "falsch": [
+    "Grüne",
+    "CDU",
+    "CSU"
+   ],
+   "begruendung": "Gerhard Schröder: SPD.",
+   "karte": {
+    "titel": "Gerhard Schröder",
+    "text": "Gerhard Schröder: SPD.",
+    "merke": "Gerhard Schröder: SPD."
+   }
+  },
+  {
+   "id": "pol-bk-angela-merkel-2",
+   "schwierigkeit": "leicht",
+   "frage": "Welcher Partei gehörte Angela Merkel als Kanzlerin an?",
+   "richtig": "CDU",
+   "falsch": [
+    "FDP",
+    "SPD",
+    "Grüne"
+   ],
+   "begruendung": "Angela Merkel: CDU.",
+   "karte": {
+    "titel": "Angela Merkel",
+    "text": "Angela Merkel: CDU.",
+    "merke": "Angela Merkel: CDU."
+   }
+  },
+  {
+   "id": "pol-bk-olaf-scholz-2",
+   "schwierigkeit": "leicht",
+   "frage": "Welcher Partei gehörte Olaf Scholz als Kanzler an?",
+   "richtig": "SPD",
+   "falsch": [
+    "CSU",
+    "CDU",
+    "FDP"
+   ],
+   "begruendung": "Olaf Scholz: SPD.",
+   "karte": {
+    "titel": "Olaf Scholz",
+    "text": "Olaf Scholz: SPD.",
+    "merke": "Olaf Scholz: SPD."
+   }
+  },
+  {
+   "id": "pol-bk-friedrich-merz-2",
+   "schwierigkeit": "leicht",
+   "frage": "Welcher Partei gehört Friedrich Merz als Kanzler an?",
+   "richtig": "CDU",
+   "falsch": [
+    "CSU",
+    "SPD",
+    "Grüne"
+   ],
+   "begruendung": "Friedrich Merz: CDU.",
+   "karte": {
+    "titel": "Friedrich Merz",
+    "text": "Friedrich Merz: CDU.",
+    "merke": "Friedrich Merz: CDU."
+   }
+  },
+  {
+   "id": "pol-bp-theodor-heuss",
+   "schwierigkeit": "leicht",
+   "frage": "Wer wurde 1949 Bundespräsident?",
+   "richtig": "Theodor Heuss",
+   "falsch": [
+    "Johannes Rau",
+    "Joachim Gauck",
+    "Frank-Walter Steinmeier"
+   ],
+   "begruendung": "Bundespräsident ab 1949: Theodor Heuss.",
+   "karte": {
+    "titel": "Theodor Heuss",
+    "text": "Bundespräsident ab 1949: Theodor Heuss.",
+    "merke": "Bundespräsident ab 1949: Theodor Heuss."
+   }
+  },
+  {
+   "id": "pol-bp-heinrich-luebke",
+   "schwierigkeit": "schwer",
+   "frage": "Wer wurde 1959 Bundespräsident?",
+   "richtig": "Heinrich Lübke",
+   "falsch": [
+    "Walter Scheel",
+    "Theodor Heuss",
+    "Richard von Weizsäcker"
+   ],
+   "begruendung": "Bundespräsident ab 1959: Heinrich Lübke.",
+   "karte": {
+    "titel": "Heinrich Lübke",
+    "text": "Bundespräsident ab 1959: Heinrich Lübke.",
+    "merke": "Bundespräsident ab 1959: Heinrich Lübke."
+   }
+  },
+  {
+   "id": "pol-bp-gustav-heinemann",
+   "schwierigkeit": "schwer",
+   "frage": "Wer wurde 1969 Bundespräsident?",
+   "richtig": "Gustav Heinemann",
+   "falsch": [
+    "Heinrich Lübke",
+    "Theodor Heuss",
+    "Walter Scheel"
+   ],
+   "begruendung": "Bundespräsident ab 1969: Gustav Heinemann.",
+   "karte": {
+    "titel": "Gustav Heinemann",
+    "text": "Bundespräsident ab 1969: Gustav Heinemann.",
+    "merke": "Bundespräsident ab 1969: Gustav Heinemann."
+   }
+  },
+  {
+   "id": "pol-bp-walter-scheel",
+   "schwierigkeit": "schwer",
+   "frage": "Wer wurde 1974 Bundespräsident?",
+   "richtig": "Walter Scheel",
+   "falsch": [
+    "Theodor Heuss",
+    "Johannes Rau",
+    "Frank-Walter Steinmeier"
+   ],
+   "begruendung": "Bundespräsident ab 1974: Walter Scheel.",
+   "karte": {
+    "titel": "Walter Scheel",
+    "text": "Bundespräsident ab 1974: Walter Scheel.",
+    "merke": "Bundespräsident ab 1974: Walter Scheel."
+   }
+  },
+  {
+   "id": "pol-bp-karl-carstens",
+   "schwierigkeit": "schwer",
+   "frage": "Wer wurde 1979 Bundespräsident?",
+   "richtig": "Karl Carstens",
+   "falsch": [
+    "Gustav Heinemann",
+    "Johannes Rau",
+    "Joachim Gauck"
+   ],
+   "begruendung": "Bundespräsident ab 1979: Karl Carstens.",
+   "karte": {
+    "titel": "Karl Carstens",
+    "text": "Bundespräsident ab 1979: Karl Carstens.",
+    "merke": "Bundespräsident ab 1979: Karl Carstens."
+   }
+  },
+  {
+   "id": "pol-bp-richard-von-weizsaecker",
+   "schwierigkeit": "mittel",
+   "frage": "Wer wurde 1984 Bundespräsident?",
+   "richtig": "Richard von Weizsäcker",
+   "falsch": [
+    "Roman Herzog",
+    "Walter Scheel",
+    "Heinrich Lübke"
+   ],
+   "begruendung": "Bundespräsident ab 1984: Richard von Weizsäcker.",
+   "karte": {
+    "titel": "Richard von Weizsäcker",
+    "text": "Bundespräsident ab 1984: Richard von Weizsäcker.",
+    "merke": "Bundespräsident ab 1984: Richard von Weizsäcker."
+   }
+  },
+  {
+   "id": "pol-bp-roman-herzog",
+   "schwierigkeit": "mittel",
+   "frage": "Wer wurde 1994 Bundespräsident?",
+   "richtig": "Roman Herzog",
+   "falsch": [
+    "Christian Wulff",
+    "Theodor Heuss",
+    "Walter Scheel"
+   ],
+   "begruendung": "Bundespräsident ab 1994: Roman Herzog.",
+   "karte": {
+    "titel": "Roman Herzog",
+    "text": "Bundespräsident ab 1994: Roman Herzog.",
+    "merke": "Bundespräsident ab 1994: Roman Herzog."
+   }
+  },
+  {
+   "id": "pol-bp-johannes-rau",
+   "schwierigkeit": "mittel",
+   "frage": "Wer wurde 1999 Bundespräsident?",
+   "richtig": "Johannes Rau",
+   "falsch": [
+    "Karl Carstens",
+    "Frank-Walter Steinmeier",
+    "Gustav Heinemann"
+   ],
+   "begruendung": "Bundespräsident ab 1999: Johannes Rau.",
+   "karte": {
+    "titel": "Johannes Rau",
+    "text": "Bundespräsident ab 1999: Johannes Rau.",
+    "merke": "Bundespräsident ab 1999: Johannes Rau."
+   }
+  },
+  {
+   "id": "pol-bp-horst-koehler",
+   "schwierigkeit": "mittel",
+   "frage": "Wer wurde 2004 Bundespräsident?",
+   "richtig": "Horst Köhler",
+   "falsch": [
+    "Gustav Heinemann",
+    "Richard von Weizsäcker",
+    "Walter Scheel"
+   ],
+   "begruendung": "Bundespräsident ab 2004: Horst Köhler.",
+   "karte": {
+    "titel": "Horst Köhler",
+    "text": "Bundespräsident ab 2004: Horst Köhler.",
+    "merke": "Bundespräsident ab 2004: Horst Köhler."
+   }
+  },
+  {
+   "id": "pol-bp-christian-wulff",
+   "schwierigkeit": "mittel",
+   "frage": "Wer wurde 2010 Bundespräsident?",
+   "richtig": "Christian Wulff",
+   "falsch": [
+    "Roman Herzog",
+    "Theodor Heuss",
+    "Walter Scheel"
+   ],
+   "begruendung": "Bundespräsident ab 2010: Christian Wulff.",
+   "karte": {
+    "titel": "Christian Wulff",
+    "text": "Bundespräsident ab 2010: Christian Wulff.",
+    "merke": "Bundespräsident ab 2010: Christian Wulff."
+   }
+  },
+  {
+   "id": "pol-bp-joachim-gauck",
+   "schwierigkeit": "leicht",
+   "frage": "Wer wurde 2012 Bundespräsident?",
+   "richtig": "Joachim Gauck",
+   "falsch": [
+    "Richard von Weizsäcker",
+    "Gustav Heinemann",
+    "Heinrich Lübke"
+   ],
+   "begruendung": "Bundespräsident ab 2012: Joachim Gauck.",
+   "karte": {
+    "titel": "Joachim Gauck",
+    "text": "Bundespräsident ab 2012: Joachim Gauck.",
+    "merke": "Bundespräsident ab 2012: Joachim Gauck."
+   }
+  },
+  {
+   "id": "pol-bp-frank-walter-steinmeier",
+   "schwierigkeit": "leicht",
+   "frage": "Wer wurde 2017 Bundespräsident?",
+   "richtig": "Frank-Walter Steinmeier",
+   "falsch": [
+    "Karl Carstens",
+    "Horst Köhler",
+    "Gustav Heinemann"
+   ],
+   "begruendung": "Bundespräsident ab 2017: Frank-Walter Steinmeier.",
+   "karte": {
+    "titel": "Frank-Walter Steinmeier",
+    "text": "Bundespräsident ab 2017: Frank-Walter Steinmeier.",
+    "merke": "Bundespräsident ab 2017: Frank-Walter Steinmeier."
+   }
+  },
+  {
+   "id": "pol-be-koalition",
+   "schwierigkeit": "leicht",
+   "frage": "Was bedeutet „Koalition“?",
+   "richtig": "Zusammenschluss von Parteien, die gemeinsam regieren",
+   "falsch": [
+    "Aufteilung der Staatsaufgaben zwischen Bund und Ländern",
+    "Verteilung der Staatsmacht auf Gesetzgebung, Regierung und Gerichte",
+    "Bitte oder Beschwerde von Bürgern an das Parlament"
+   ],
+   "begruendung": "Koalition: Zusammenschluss von Parteien, die gemeinsam regieren.",
+   "karte": {
+    "titel": "Koalition",
+    "text": "Koalition: Zusammenschluss von Parteien, die gemeinsam regieren.",
+    "merke": "Koalition: Zusammenschluss von Parteien, die gemeinsam regieren."
+   }
+  },
+  {
+   "id": "pol-be-opposition",
+   "schwierigkeit": "leicht",
+   "frage": "Was bedeutet „Opposition“?",
+   "richtig": "Parteien im Parlament, die nicht an der Regierung beteiligt sind",
+   "falsch": [
+    "Bitte oder Beschwerde von Bürgern an das Parlament",
+    "Mehrheit der Mitglieder des Bundestags, nicht nur der Anwesenden",
+    "Politikstil, der „das Volk“ gegen „die Elite“ ausspielt"
+   ],
+   "begruendung": "Opposition: Parteien im Parlament, die nicht an der Regierung beteiligt sind.",
+   "karte": {
+    "titel": "Opposition",
+    "text": "Opposition: Parteien im Parlament, die nicht an der Regierung beteiligt sind.",
+    "merke": "Opposition: Parteien im Parlament, die nicht an der Regierung beteiligt sind."
+   }
+  },
+  {
+   "id": "pol-be-fraktion",
+   "schwierigkeit": "mittel",
+   "frage": "Was bedeutet „Fraktion“?",
+   "richtig": "Zusammenschluss der Abgeordneten einer Partei im Parlament",
+   "falsch": [
+    "Recht der Medien, ohne staatliche Zensur zu berichten",
+    "Staatsform mit einem König oder einer Königin an der Spitze",
+    "Versuch von Interessengruppen, Politik zu beeinflussen"
+   ],
+   "begruendung": "Fraktion: Zusammenschluss der Abgeordneten einer Partei im Parlament.",
+   "karte": {
+    "titel": "Fraktion",
+    "text": "Fraktion: Zusammenschluss der Abgeordneten einer Partei im Parlament.",
+    "merke": "Fraktion: Zusammenschluss der Abgeordneten einer Partei im Parlament."
+   }
+  },
+  {
+   "id": "pol-be-legislaturperiode",
+   "schwierigkeit": "mittel",
+   "frage": "Was bedeutet „Legislaturperiode“?",
+   "richtig": "Zeitraum, für den ein Parlament gewählt ist",
+   "falsch": [
+    "Sitz durch mehr gewonnene Wahlkreise, als einer Partei nach Zweitstimmen zustehen (bis 2023)",
+    "Gremium, das Streit zwischen Bundestag und Bundesrat schlichtet",
+    "Bitte oder Beschwerde von Bürgern an das Parlament"
+   ],
+   "begruendung": "Legislaturperiode: Zeitraum, für den ein Parlament gewählt ist.",
+   "karte": {
+    "titel": "Legislaturperiode",
+    "text": "Legislaturperiode: Zeitraum, für den ein Parlament gewählt ist.",
+    "merke": "Legislaturperiode: Zeitraum, für den ein Parlament gewählt ist."
+   }
+  },
+  {
+   "id": "pol-be-foederalismus",
+   "schwierigkeit": "mittel",
+   "frage": "Was bedeutet „Föderalismus“?",
+   "richtig": "Aufteilung der Staatsaufgaben zwischen Bund und Ländern",
+   "falsch": [
+    "Schutz für Menschen, die in ihrer Heimat verfolgt werden",
+    "Parteien im Parlament, die nicht an der Regierung beteiligt sind",
+    "Sitz durch mehr gewonnene Wahlkreise, als einer Partei nach Zweitstimmen zustehen (bis 2023)"
+   ],
+   "begruendung": "Föderalismus: Aufteilung der Staatsaufgaben zwischen Bund und Ländern.",
+   "karte": {
+    "titel": "Föderalismus",
+    "text": "Föderalismus: Aufteilung der Staatsaufgaben zwischen Bund und Ländern.",
+    "merke": "Föderalismus: Aufteilung der Staatsaufgaben zwischen Bund und Ländern."
+   }
+  },
+  {
+   "id": "pol-be-konstruktives-misstrauensvotum",
+   "schwierigkeit": "schwer",
+   "frage": "Was bedeutet „Konstruktives Misstrauensvotum“?",
+   "richtig": "Sturz des Kanzlers durch Wahl eines Nachfolgers",
+   "falsch": [
+    "Abstimmungsverfahren, bei dem Abgeordnete durch verschiedene Türen gehen",
+    "Stimmabgabe per Post statt im Wahllokal",
+    "Staat, der für soziale Sicherheit seiner Bürger sorgt"
+   ],
+   "begruendung": "Konstruktives Misstrauensvotum: Sturz des Kanzlers durch Wahl eines Nachfolgers.",
+   "karte": {
+    "titel": "Konstruktives Misstrauensvotum",
+    "text": "Konstruktives Misstrauensvotum: Sturz des Kanzlers durch Wahl eines Nachfolgers.",
+    "merke": "Konstruktives Misstrauensvotum: Sturz des Kanzlers durch Wahl eines Nachfolgers."
+   }
+  },
+  {
+   "id": "pol-be-immunitaet",
+   "schwierigkeit": "schwer",
+   "frage": "Was bedeutet „Immunität“?",
+   "richtig": "Schutz von Abgeordneten vor Strafverfolgung ohne Zustimmung des Parlaments",
+   "falsch": [
+    "Abstimmung, bei der die Bürger direkt über eine Sachfrage entscheiden",
+    "Aufteilung der Staatsaufgaben zwischen Bund und Ländern",
+    "Regierungschef und Minister zusammen"
+   ],
+   "begruendung": "Immunität: Schutz von Abgeordneten vor Strafverfolgung ohne Zustimmung des Parlaments.",
+   "karte": {
+    "titel": "Immunität",
+    "text": "Immunität: Schutz von Abgeordneten vor Strafverfolgung ohne Zustimmung des Parlaments.",
+    "merke": "Immunität: Schutz von Abgeordneten vor Strafverfolgung ohne Zustimmung des Parlaments."
+   }
+  },
+  {
+   "id": "pol-be-petition",
+   "schwierigkeit": "mittel",
+   "frage": "Was bedeutet „Petition“?",
+   "richtig": "Bitte oder Beschwerde von Bürgern an das Parlament",
+   "falsch": [
+    "Staat, der für soziale Sicherheit seiner Bürger sorgt",
+    "Erwartung, dass Abgeordnete wie ihre Fraktion abstimmen",
+    "Bezahlung der Abgeordneten"
+   ],
+   "begruendung": "Petition: Bitte oder Beschwerde von Bürgern an das Parlament.",
+   "karte": {
+    "titel": "Petition",
+    "text": "Petition: Bitte oder Beschwerde von Bürgern an das Parlament.",
+    "merke": "Petition: Bitte oder Beschwerde von Bürgern an das Parlament."
+   }
+  },
+  {
+   "id": "pol-be-volksentscheid",
+   "schwierigkeit": "mittel",
+   "frage": "Was bedeutet „Volksentscheid“?",
+   "richtig": "Abstimmung, bei der die Bürger direkt über eine Sachfrage entscheiden",
+   "falsch": [
+    "Bitte oder Beschwerde von Bürgern an das Parlament",
+    "Regierungschef und Minister zusammen",
+    "Schutz für Menschen, die in ihrer Heimat verfolgt werden"
+   ],
+   "begruendung": "Volksentscheid: Abstimmung, bei der die Bürger direkt über eine Sachfrage entscheiden.",
+   "karte": {
+    "titel": "Volksentscheid",
+    "text": "Volksentscheid: Abstimmung, bei der die Bürger direkt über eine Sachfrage entscheiden.",
+    "merke": "Volksentscheid: Abstimmung, bei der die Bürger direkt über eine Sachfrage entscheiden."
+   }
+  },
+  {
+   "id": "pol-be-diaeten",
+   "schwierigkeit": "mittel",
+   "frage": "Was bedeutet „Diäten“?",
+   "richtig": "Bezahlung der Abgeordneten",
+   "falsch": [
+    "Zusammenschluss von Parteien, die gemeinsam regieren",
+    "Staat, der für soziale Sicherheit seiner Bürger sorgt",
+    "Erwartung, dass Abgeordnete wie ihre Fraktion abstimmen"
+   ],
+   "begruendung": "Diäten: Bezahlung der Abgeordneten.",
+   "karte": {
+    "titel": "Diäten",
+    "text": "Diäten: Bezahlung der Abgeordneten.",
+    "merke": "Diäten: Bezahlung der Abgeordneten."
+   }
+  },
+  {
+   "id": "pol-be-lobbyismus",
+   "schwierigkeit": "mittel",
+   "frage": "Was bedeutet „Lobbyismus“?",
+   "richtig": "Versuch von Interessengruppen, Politik zu beeinflussen",
+   "falsch": [
+    "Verteilung der Staatsmacht auf Gesetzgebung, Regierung und Gerichte",
+    "Recht der Medien, ohne staatliche Zensur zu berichten",
+    "Schutz für Menschen, die in ihrer Heimat verfolgt werden"
+   ],
+   "begruendung": "Lobbyismus: Versuch von Interessengruppen, Politik zu beeinflussen.",
+   "karte": {
+    "titel": "Lobbyismus",
+    "text": "Lobbyismus: Versuch von Interessengruppen, Politik zu beeinflussen.",
+    "merke": "Lobbyismus: Versuch von Interessengruppen, Politik zu beeinflussen."
+   }
+  },
+  {
+   "id": "pol-be-fraktionsdisziplin",
+   "schwierigkeit": "schwer",
+   "frage": "Was bedeutet „Fraktionsdisziplin“?",
+   "richtig": "Erwartung, dass Abgeordnete wie ihre Fraktion abstimmen",
+   "falsch": [
+    "Regierungschef eines Bundeslandes",
+    "Zeitraum, für den ein Parlament gewählt ist",
+    "Gremium, das Streit zwischen Bundestag und Bundesrat schlichtet"
+   ],
+   "begruendung": "Fraktionsdisziplin: Erwartung, dass Abgeordnete wie ihre Fraktion abstimmen.",
+   "karte": {
+    "titel": "Fraktionsdisziplin",
+    "text": "Fraktionsdisziplin: Erwartung, dass Abgeordnete wie ihre Fraktion abstimmen.",
+    "merke": "Fraktionsdisziplin: Erwartung, dass Abgeordnete wie ihre Fraktion abstimmen."
+   }
+  },
+  {
+   "id": "pol-be-gewaltenteilung",
+   "schwierigkeit": "leicht",
+   "frage": "Was bedeutet „Gewaltenteilung“?",
+   "richtig": "Verteilung der Staatsmacht auf Gesetzgebung, Regierung und Gerichte",
+   "falsch": [
+    "Bezahlung der Abgeordneten",
+    "Politikstil, der „das Volk“ gegen „die Elite“ ausspielt",
+    "Zusammenschluss von Parteien, die gemeinsam regieren"
+   ],
+   "begruendung": "Gewaltenteilung: Verteilung der Staatsmacht auf Gesetzgebung, Regierung und Gerichte.",
+   "karte": {
+    "titel": "Gewaltenteilung",
+    "text": "Gewaltenteilung: Verteilung der Staatsmacht auf Gesetzgebung, Regierung und Gerichte.",
+    "merke": "Gewaltenteilung: Verteilung der Staatsmacht auf Gesetzgebung, Regierung und Gerichte."
+   }
+  },
+  {
+   "id": "pol-be-rechtsstaat",
+   "schwierigkeit": "mittel",
+   "frage": "Was bedeutet „Rechtsstaat“?",
+   "richtig": "Staat, in dem auch die Regierung an Gesetze gebunden ist",
+   "falsch": [
+    "Schutz von Abgeordneten vor Strafverfolgung ohne Zustimmung des Parlaments",
+    "Zusammenschluss der Abgeordneten einer Partei im Parlament",
+    "Parteien im Parlament, die nicht an der Regierung beteiligt sind"
+   ],
+   "begruendung": "Rechtsstaat: Staat, in dem auch die Regierung an Gesetze gebunden ist.",
+   "karte": {
+    "titel": "Rechtsstaat",
+    "text": "Rechtsstaat: Staat, in dem auch die Regierung an Gesetze gebunden ist.",
+    "merke": "Rechtsstaat: Staat, in dem auch die Regierung an Gesetze gebunden ist."
+   }
+  },
+  {
+   "id": "pol-be-sozialstaat",
+   "schwierigkeit": "mittel",
+   "frage": "Was bedeutet „Sozialstaat“?",
+   "richtig": "Staat, der für soziale Sicherheit seiner Bürger sorgt",
+   "falsch": [
+    "Zuständigkeitsbereich eines Ministeriums",
+    "Herrschaft des Volkes",
+    "Zusammenschluss der Abgeordneten einer Partei im Parlament"
+   ],
+   "begruendung": "Sozialstaat: Staat, der für soziale Sicherheit seiner Bürger sorgt.",
+   "karte": {
+    "titel": "Sozialstaat",
+    "text": "Sozialstaat: Staat, der für soziale Sicherheit seiner Bürger sorgt.",
+    "merke": "Sozialstaat: Staat, der für soziale Sicherheit seiner Bürger sorgt."
+   }
+  },
+  {
+   "id": "pol-be-wahlgeheimnis",
+   "schwierigkeit": "leicht",
+   "frage": "Was bedeutet „Wahlgeheimnis“?",
+   "richtig": "Niemand darf erfahren, wen du gewählt hast",
+   "falsch": [
+    "Regierungschef und Minister zusammen",
+    "Aufteilung der Staatsaufgaben zwischen Bund und Ländern",
+    "Erwartung, dass Abgeordnete wie ihre Fraktion abstimmen"
+   ],
+   "begruendung": "Wahlgeheimnis: Niemand darf erfahren, wen du gewählt hast.",
+   "karte": {
+    "titel": "Wahlgeheimnis",
+    "text": "Wahlgeheimnis: Niemand darf erfahren, wen du gewählt hast.",
+    "merke": "Wahlgeheimnis: Niemand darf erfahren, wen du gewählt hast."
+   }
+  },
+  {
+   "id": "pol-be-briefwahl",
+   "schwierigkeit": "leicht",
+   "frage": "Was bedeutet „Briefwahl“?",
+   "richtig": "Stimmabgabe per Post statt im Wahllokal",
+   "falsch": [
+    "Recht der Medien, ohne staatliche Zensur zu berichten",
+    "Niemand darf erfahren, wen du gewählt hast",
+    "Staat, der für soziale Sicherheit seiner Bürger sorgt"
+   ],
+   "begruendung": "Briefwahl: Stimmabgabe per Post statt im Wahllokal.",
+   "karte": {
+    "titel": "Briefwahl",
+    "text": "Briefwahl: Stimmabgabe per Post statt im Wahllokal.",
+    "merke": "Briefwahl: Stimmabgabe per Post statt im Wahllokal."
+   }
+  },
+  {
+   "id": "pol-be-kabinett",
+   "schwierigkeit": "mittel",
+   "frage": "Was bedeutet „Kabinett“?",
+   "richtig": "Regierungschef und Minister zusammen",
+   "falsch": [
+    "Abstimmung, bei der die Bürger direkt über eine Sachfrage entscheiden",
+    "Mehrheit der Mitglieder des Bundestags, nicht nur der Anwesenden",
+    "Sturz des Kanzlers durch Wahl eines Nachfolgers"
+   ],
+   "begruendung": "Kabinett: Regierungschef und Minister zusammen.",
+   "karte": {
+    "titel": "Kabinett",
+    "text": "Kabinett: Regierungschef und Minister zusammen.",
+    "merke": "Kabinett: Regierungschef und Minister zusammen."
+   }
+  },
+  {
+   "id": "pol-be-ressort",
+   "schwierigkeit": "schwer",
+   "frage": "Was bedeutet „Ressort“?",
+   "richtig": "Zuständigkeitsbereich eines Ministeriums",
+   "falsch": [
+    "Zusammenschluss der Abgeordneten einer Partei im Parlament",
+    "Herrschaft des Volkes",
+    "Schutz für Menschen, die in ihrer Heimat verfolgt werden"
+   ],
+   "begruendung": "Ressort: Zuständigkeitsbereich eines Ministeriums.",
+   "karte": {
+    "titel": "Ressort",
+    "text": "Ressort: Zuständigkeitsbereich eines Ministeriums.",
+    "merke": "Ressort: Zuständigkeitsbereich eines Ministeriums."
+   }
+  },
+  {
+   "id": "pol-be-hammelsprung",
+   "schwierigkeit": "schwer",
+   "frage": "Was bedeutet „Hammelsprung“?",
+   "richtig": "Abstimmungsverfahren, bei dem Abgeordnete durch verschiedene Türen gehen",
+   "falsch": [
+    "Zusammenschluss von Parteien, die gemeinsam regieren",
+    "Verteilung der Staatsmacht auf Gesetzgebung, Regierung und Gerichte",
+    "Staat, in dem auch die Regierung an Gesetze gebunden ist"
+   ],
+   "begruendung": "Hammelsprung: Abstimmungsverfahren, bei dem Abgeordnete durch verschiedene Türen gehen.",
+   "karte": {
+    "titel": "Hammelsprung",
+    "text": "Hammelsprung: Abstimmungsverfahren, bei dem Abgeordnete durch verschiedene Türen gehen.",
+    "merke": "Hammelsprung: Abstimmungsverfahren, bei dem Abgeordnete durch verschiedene Türen gehen."
+   }
+  },
+  {
+   "id": "pol-be-ueberhangmandat",
+   "schwierigkeit": "schwer",
+   "frage": "Was bedeutet „Überhangmandat“?",
+   "richtig": "Sitz durch mehr gewonnene Wahlkreise, als einer Partei nach Zweitstimmen zustehen (bis 2023)",
+   "falsch": [
+    "Sturz des Kanzlers durch Wahl eines Nachfolgers",
+    "Gremium, das Streit zwischen Bundestag und Bundesrat schlichtet",
+    "Schutz für Menschen, die in ihrer Heimat verfolgt werden"
+   ],
+   "begruendung": "Überhangmandat: Sitz durch mehr gewonnene Wahlkreise, als einer Partei nach Zweitstimmen zustehen (bis 2023).",
+   "karte": {
+    "titel": "Überhangmandat",
+    "text": "Überhangmandat: Sitz durch mehr gewonnene Wahlkreise, als einer Partei nach Zweitstimmen zustehen (bis 2023).",
+    "merke": "Überhangmandat: Sitz durch mehr gewonnene Wahlkreise, als einer Partei nach Zweitstimmen zustehen (bis 2023)."
+   }
+  },
+  {
+   "id": "pol-be-kanzlermehrheit",
+   "schwierigkeit": "schwer",
+   "frage": "Was bedeutet „Kanzlermehrheit“?",
+   "richtig": "Mehrheit der Mitglieder des Bundestags, nicht nur der Anwesenden",
+   "falsch": [
+    "Recht der Medien, ohne staatliche Zensur zu berichten",
+    "Stimmabgabe per Post statt im Wahllokal",
+    "Herrschaft des Volkes"
+   ],
+   "begruendung": "Kanzlermehrheit: Mehrheit der Mitglieder des Bundestags, nicht nur der Anwesenden.",
+   "karte": {
+    "titel": "Kanzlermehrheit",
+    "text": "Kanzlermehrheit: Mehrheit der Mitglieder des Bundestags, nicht nur der Anwesenden.",
+    "merke": "Kanzlermehrheit: Mehrheit der Mitglieder des Bundestags, nicht nur der Anwesenden."
+   }
+  },
+  {
+   "id": "pol-be-ministerpraesident",
+   "schwierigkeit": "leicht",
+   "frage": "Was bedeutet „Ministerpräsident“?",
+   "richtig": "Regierungschef eines Bundeslandes",
+   "falsch": [
+    "Zusammenschluss von Parteien, die gemeinsam regieren",
+    "Parteien im Parlament, die nicht an der Regierung beteiligt sind",
+    "Sturz des Kanzlers durch Wahl eines Nachfolgers"
+   ],
+   "begruendung": "Ministerpräsident: Regierungschef eines Bundeslandes.",
+   "karte": {
+    "titel": "Ministerpräsident",
+    "text": "Ministerpräsident: Regierungschef eines Bundeslandes.",
+    "merke": "Ministerpräsident: Regierungschef eines Bundeslandes."
+   }
+  },
+  {
+   "id": "pol-be-bundesrat",
+   "schwierigkeit": "mittel",
+   "frage": "Was bedeutet „Bundesrat“?",
+   "richtig": "Verfassungsorgan, über das die Länder an der Gesetzgebung mitwirken",
+   "falsch": [
+    "Herrschaft des Volkes",
+    "Bezahlung der Abgeordneten",
+    "Regierungschef und Minister zusammen"
+   ],
+   "begruendung": "Bundesrat: Verfassungsorgan, über das die Länder an der Gesetzgebung mitwirken.",
+   "karte": {
+    "titel": "Bundesrat",
+    "text": "Bundesrat: Verfassungsorgan, über das die Länder an der Gesetzgebung mitwirken.",
+    "merke": "Bundesrat: Verfassungsorgan, über das die Länder an der Gesetzgebung mitwirken."
+   }
+  },
+  {
+   "id": "pol-be-vermittlungsausschuss",
+   "schwierigkeit": "schwer",
+   "frage": "Was bedeutet „Vermittlungsausschuss“?",
+   "richtig": "Gremium, das Streit zwischen Bundestag und Bundesrat schlichtet",
+   "falsch": [
+    "Erwartung, dass Abgeordnete wie ihre Fraktion abstimmen",
+    "Versuch von Interessengruppen, Politik zu beeinflussen",
+    "Verfassungsorgan, über das die Länder an der Gesetzgebung mitwirken"
+   ],
+   "begruendung": "Vermittlungsausschuss: Gremium, das Streit zwischen Bundestag und Bundesrat schlichtet.",
+   "karte": {
+    "titel": "Vermittlungsausschuss",
+    "text": "Vermittlungsausschuss: Gremium, das Streit zwischen Bundestag und Bundesrat schlichtet.",
+    "merke": "Vermittlungsausschuss: Gremium, das Streit zwischen Bundestag und Bundesrat schlichtet."
+   }
+  },
+  {
+   "id": "pol-be-populismus",
+   "schwierigkeit": "mittel",
+   "frage": "Was bedeutet „Populismus“?",
+   "richtig": "Politikstil, der „das Volk“ gegen „die Elite“ ausspielt",
+   "falsch": [
+    "Abstimmung, bei der die Bürger direkt über eine Sachfrage entscheiden",
+    "Verfassungsorgan, über das die Länder an der Gesetzgebung mitwirken",
+    "Recht der Medien, ohne staatliche Zensur zu berichten"
+   ],
+   "begruendung": "Populismus: Politikstil, der „das Volk“ gegen „die Elite“ ausspielt.",
+   "karte": {
+    "titel": "Populismus",
+    "text": "Populismus: Politikstil, der „das Volk“ gegen „die Elite“ ausspielt.",
+    "merke": "Populismus: Politikstil, der „das Volk“ gegen „die Elite“ ausspielt."
+   }
+  },
+  {
+   "id": "pol-be-demokratie",
+   "schwierigkeit": "leicht",
+   "frage": "Was bedeutet „Demokratie“?",
+   "richtig": "Herrschaft des Volkes",
+   "falsch": [
+    "Abstimmungsverfahren, bei dem Abgeordnete durch verschiedene Türen gehen",
+    "Versuch von Interessengruppen, Politik zu beeinflussen",
+    "Zusammenschluss der Abgeordneten einer Partei im Parlament"
+   ],
+   "begruendung": "Demokratie: Herrschaft des Volkes.",
+   "karte": {
+    "titel": "Demokratie",
+    "text": "Demokratie: Herrschaft des Volkes.",
+    "merke": "Demokratie: Herrschaft des Volkes."
+   }
+  },
+  {
+   "id": "pol-be-monarchie",
+   "schwierigkeit": "leicht",
+   "frage": "Was bedeutet „Monarchie“?",
+   "richtig": "Staatsform mit einem König oder einer Königin an der Spitze",
+   "falsch": [
+    "Zusammenschluss von Parteien, die gemeinsam regieren",
+    "Bitte oder Beschwerde von Bürgern an das Parlament",
+    "Verteilung der Staatsmacht auf Gesetzgebung, Regierung und Gerichte"
+   ],
+   "begruendung": "Monarchie: Staatsform mit einem König oder einer Königin an der Spitze.",
+   "karte": {
+    "titel": "Monarchie",
+    "text": "Monarchie: Staatsform mit einem König oder einer Königin an der Spitze.",
+    "merke": "Monarchie: Staatsform mit einem König oder einer Königin an der Spitze."
+   }
+  },
+  {
+   "id": "pol-be-pressefreiheit",
+   "schwierigkeit": "leicht",
+   "frage": "Was bedeutet „Pressefreiheit“?",
+   "richtig": "Recht der Medien, ohne staatliche Zensur zu berichten",
+   "falsch": [
+    "Politikstil, der „das Volk“ gegen „die Elite“ ausspielt",
+    "Bezahlung der Abgeordneten",
+    "Abstimmung, bei der die Bürger direkt über eine Sachfrage entscheiden"
+   ],
+   "begruendung": "Pressefreiheit: Recht der Medien, ohne staatliche Zensur zu berichten.",
+   "karte": {
+    "titel": "Pressefreiheit",
+    "text": "Pressefreiheit: Recht der Medien, ohne staatliche Zensur zu berichten.",
+    "merke": "Pressefreiheit: Recht der Medien, ohne staatliche Zensur zu berichten."
+   }
+  },
+  {
+   "id": "pol-be-asyl",
+   "schwierigkeit": "leicht",
+   "frage": "Was bedeutet „Asyl“?",
+   "richtig": "Schutz für Menschen, die in ihrer Heimat verfolgt werden",
+   "falsch": [
+    "Parteien im Parlament, die nicht an der Regierung beteiligt sind",
+    "Staat, der für soziale Sicherheit seiner Bürger sorgt",
+    "Zusammenschluss der Abgeordneten einer Partei im Parlament"
+   ],
+   "begruendung": "Asyl: Schutz für Menschen, die in ihrer Heimat verfolgt werden.",
+   "karte": {
+    "titel": "Asyl",
+    "text": "Asyl: Schutz für Menschen, die in ihrer Heimat verfolgt werden.",
+    "merke": "Asyl: Schutz für Menschen, die in ihrer Heimat verfolgt werden."
+   }
+  }
+ ]
+}

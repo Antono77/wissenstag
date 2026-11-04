@@ -1,0 +1,159 @@
+{
+  "klasse": "natur",
+  "fragen": [
+    {
+      "id": "nat-001", "schwierigkeit": "leicht", "ddf": true,
+      "frage": "Welches ist das schnellste Landtier?",
+      "richtig": "Gepard", "falsch": ["Löwe", "Antilope", "Windhund"],
+      "begruendung": "Ein Gepard erreicht im Sprint rund 100 km/h, hält das Tempo aber nur wenige Hundert Meter durch.",
+      "karte": { "titel": "Gepard", "text": "Geparden jagen auf Sicht in der Savanne. Nach dem Sprint müssen sie sich erst erholen, bevor sie fressen können.", "merke": "Schnellstes Landtier: Gepard, rund 100 km/h." }
+    },
+    {
+      "id": "nat-002", "schwierigkeit": "leicht",
+      "frage": "Welches ist das größte Tier, das je gelebt hat?",
+      "richtig": "Blauwal", "falsch": ["Argentinosaurus", "Pottwal", "Afrikanischer Elefant"],
+      "begruendung": "Blauwale werden bis zu 30 m lang und rund 150 Tonnen schwer, schwerer als jeder bekannte Dinosaurier.",
+      "karte": { "titel": "Blauwal", "text": "Ein Blauwal ernährt sich fast nur von winzigen Krebsen, dem Krill. Sein Herz ist etwa so groß wie ein kleines Auto.", "merke": "Größtes Tier aller Zeiten: Blauwal." }
+    },
+    {
+      "id": "nat-003", "schwierigkeit": "mittel", "ddf": true,
+      "frage": "Wie viele Herzen hat ein Oktopus?",
+      "richtig": "3", "falsch": ["1", "2", "8"], "alias": ["drei"],
+      "begruendung": "Zwei Herzen pumpen Blut durch die Kiemen, ein drittes versorgt den übrigen Körper.",
+      "karte": { "titel": "Oktopus", "text": "Oktopusse haben blaues Blut und können ihre Hautfarbe in Sekunden ändern. Ein großer Teil ihrer Nervenzellen sitzt in den Armen.", "merke": "Oktopus: drei Herzen, blaues Blut, acht Arme." }
+    },
+    {
+      "id": "nat-004", "schwierigkeit": "leicht", "ddf": true,
+      "frage": "Wie viele Beine hat eine Spinne?",
+      "richtig": "8", "falsch": ["6", "10", "12"], "alias": ["acht"],
+      "begruendung": "Spinnen haben acht Beine. Insekten wie Bienen und Ameisen haben sechs.",
+      "karte": { "titel": "Spinnen", "text": "Die meisten Spinnen haben auch acht Augen. Spinnen sind keine Insekten, sondern Spinnentiere.", "merke": "Spinne 8 Beine, Insekt 6 Beine." }
+    },
+    {
+      "id": "nat-005", "schwierigkeit": "leicht", "ddf": true,
+      "frage": "Wie viele Beine hat eine Biene?",
+      "richtig": "6", "falsch": ["4", "8", "10"], "alias": ["sechs"],
+      "begruendung": "Bienen sind Insekten, und alle Insekten haben sechs Beine.",
+      "karte": { "titel": "Insekten", "text": "Der Körper von Insekten hat drei Teile: Kopf, Brust und Hinterleib. Die Beine sitzen alle an der Brust.", "merke": "Insekten: sechs Beine, drei Körperteile." }
+    },
+    {
+      "id": "nat-006", "schwierigkeit": "mittel", "ddf": true,
+      "frage": "Können Pinguine fliegen?",
+      "richtig": "Nein", "falsch": ["Ja, aber nur kurz", "Ja, die Jungtiere", "Nur Kaiserpinguine"],
+      "begruendung": "Pinguine sind Vögel, können aber nicht fliegen. Ihre Flügel sind zu Flossen geworden.",
+      "karte": { "titel": "Pinguine", "text": "Unter Wasser „fliegen“ Pinguine mit ihren Flossen. Kaiserpinguine tauchen über 500 m tief.", "merke": "Pinguine: flugunfähige Vögel, schwimmen mit Flossen." }
+    },
+    {
+      "id": "nat-007", "schwierigkeit": "leicht", "ddf": true,
+      "frage": "Welches Tier baut Dämme in Flüssen?",
+      "richtig": "Biber", "falsch": ["Otter", "Bisamratte", "Nutria"],
+      "begruendung": "Biber fällen Bäume mit ihren Zähnen und stauen damit Bäche auf.",
+      "karte": { "titel": "Biber", "text": "Der Biber war in Deutschland fast ausgerottet. Heute leben wieder über 40.000 Tiere hier.", "merke": "Biber bauen Dämme und Burgen." }
+    },
+    {
+      "id": "nat-008", "schwierigkeit": "mittel", "ddf": true,
+      "frage": "Welche Farbe hat das Blut eines Tintenfisches?",
+      "richtig": "Blau", "falsch": ["Rot", "Grün", "Farblos"],
+      "begruendung": "Tintenfische transportieren Sauerstoff mit Hämocyanin, das Kupfer enthält und sich blau färbt.",
+      "karte": { "titel": "Blaues Blut", "text": "Unser Blut ist rot, weil das Hämoglobin Eisen enthält. Bei Tintenfischen und Hummern übernimmt Kupfer die Aufgabe.", "merke": "Tintenfischblut: blau, durch Kupfer." }
+    },
+    {
+      "id": "nat-009", "schwierigkeit": "mittel",
+      "frage": "Warum sind Flamingos rosa?",
+      "richtig": "Wegen Farbstoffen in ihrer Nahrung", "falsch": ["Weil sie so geboren werden", "Wegen der Sonne", "Weil sie Blut im Gefieder haben"],
+      "begruendung": "Flamingos fressen Algen und kleine Krebse mit Carotinoiden. Diese Farbstoffe färben ihr Gefieder.",
+      "karte": { "titel": "Flamingos", "text": "Junge Flamingos sind grau. Im Zoo bekommen Flamingos Futter mit Farbstoffen, sonst werden sie blass.", "merke": "Flamingos sind rosa, weil ihr Futter es ist." }
+    },
+    {
+      "id": "nat-010", "schwierigkeit": "schwer", "ddf": true,
+      "frage": "Wie viele Beine hat ein Hummer?",
+      "richtig": "10", "falsch": ["6", "8", "12"], "alias": ["zehn"],
+      "begruendung": "Hummer gehören zu den Zehnfußkrebsen. Das vordere Beinpaar trägt die großen Scheren.",
+      "karte": { "titel": "Zehnfußkrebse", "text": "Zu den Zehnfußkrebsen gehören auch Krabben, Garnelen und Flusskrebse.", "merke": "Hummer: zehn Beine, die vorderen mit Scheren." }
+    },
+    {
+      "id": "nat-011", "schwierigkeit": "leicht",
+      "frage": "Welcher Baum trägt Eicheln?",
+      "richtig": "Eiche", "falsch": ["Buche", "Linde", "Ahorn"],
+      "begruendung": "Eicheln sind die Früchte der Eiche. Die Buche trägt Bucheckern.",
+      "karte": { "titel": "Eiche", "text": "Eichen können über 1.000 Jahre alt werden. Eichhörnchen und Eichelhäher verstecken Eicheln als Wintervorrat.", "merke": "Eiche → Eicheln, Buche → Bucheckern." }
+    },
+    {
+      "id": "nat-012", "schwierigkeit": "mittel",
+      "frage": "Welcher Vogel legt seine Eier in die Nester anderer Vögel?",
+      "richtig": "Kuckuck", "falsch": ["Specht", "Elster", "Amsel"],
+      "begruendung": "Das Kuckucksweibchen legt je ein Ei in ein fremdes Nest. Die Wirtseltern ziehen das Küken groß.",
+      "karte": { "titel": "Kuckuck", "text": "Das junge Kuckucksküken schiebt oft die anderen Eier aus dem Nest. Daher kommt der Ausdruck „Kuckucksei“.", "merke": "Kuckuck: Brutparasit, „Kuckucksei“." }
+    },
+    {
+      "id": "nat-013", "schwierigkeit": "mittel", "ddf": true,
+      "frage": "Welches Tier schläft im Stehen?",
+      "richtig": "Pferd", "falsch": ["Hund", "Katze", "Schwein"],
+      "begruendung": "Pferde können ihre Beine im Stehen „einrasten“. Für den Tiefschlaf legen sie sich aber hin.",
+      "karte": { "titel": "Schlafen im Stehen", "text": "Als Fluchttiere sind Pferde im Stehen schneller weg. Auch Giraffen und Elefanten dösen oft stehend.", "merke": "Pferde dösen im Stehen, tief schlafen sie im Liegen." }
+    },
+    {
+      "id": "nat-014", "schwierigkeit": "leicht",
+      "frage": "Was frisst ein Großer Panda hauptsächlich?",
+      "richtig": "Bambus", "falsch": ["Fisch", "Eukalyptus", "Insekten"],
+      "begruendung": "Bambus macht über 99 Prozent der Nahrung des Großen Pandas aus.",
+      "karte": { "titel": "Großer Panda", "text": "Ein Panda frisst bis zu 14 Stunden am Tag. Eukalyptus frisst der Koala.", "merke": "Panda: Bambus. Koala: Eukalyptus." }
+    },
+    {
+      "id": "nat-015", "schwierigkeit": "schwer", "ddf": true,
+      "frage": "Welches Säugetier legt Eier?",
+      "richtig": "Schnabeltier", "falsch": ["Fledermaus", "Känguru", "Maulwurf"],
+      "begruendung": "Schnabeltier und Ameisenigel sind die einzigen Säugetiere, die Eier legen.",
+      "karte": { "titel": "Kloakentiere", "text": "Das Schnabeltier lebt in Australien. Die Männchen haben einen Giftsporn an den Hinterbeinen.", "merke": "Eier legende Säugetiere: Schnabeltier und Ameisenigel." }
+    },
+    {
+      "id": "nat-016", "schwierigkeit": "mittel",
+      "frage": "Wie lange ist eine Elefantenkuh ungefähr trächtig?",
+      "richtig": "Fast 2 Jahre", "falsch": ["9 Monate", "1 Jahr", "3 Jahre"], "alias": ["22 Monate"],
+      "begruendung": "Afrikanische Elefanten tragen ihr Junges rund 22 Monate aus, länger als jedes andere Landsäugetier.",
+      "karte": { "titel": "Elefanten", "text": "Ein neugeborener Elefant wiegt rund 100 kg. Die Herde wird von der ältesten Kuh geführt.", "merke": "Elefanten: rund 22 Monate Tragzeit." }
+    },
+    {
+      "id": "nat-017", "schwierigkeit": "leicht", "ddf": true,
+      "frage": "Welches Tier ist für seine Stacheln bekannt und rollt sich bei Gefahr ein?",
+      "richtig": "Igel", "falsch": ["Maulwurf", "Dachs", "Siebenschläfer"],
+      "begruendung": "Ein Igel hat rund 6.000 bis 8.000 Stacheln und rollt sich zur Kugel zusammen.",
+      "karte": { "titel": "Igel", "text": "Igel fressen Insekten, Würmer und Schnecken. Milch vertragen sie nicht, Katzenfutter schon.", "merke": "Igel: Stachelkugel, Winterschlaf, frisst Insekten." }
+    },
+    {
+      "id": "nat-018", "schwierigkeit": "mittel",
+      "frage": "Wozu dient der Höcker eines Kamels?",
+      "richtig": "Als Fettspeicher", "falsch": ["Als Wasserspeicher", "Als Schutz vor Sonne", "Zum Balancieren"],
+      "begruendung": "Im Höcker lagert Fett. Daraus gewinnt das Kamel Energie, wenn es lange nichts frisst.",
+      "karte": { "titel": "Kamel", "text": "Kamele trinken in wenigen Minuten über 100 Liter. Das Wasser speichern sie aber im Blut und Gewebe, nicht im Höcker.", "merke": "Kamelhöcker = Fett, nicht Wasser." }
+    },
+    {
+      "id": "nat-019", "schwierigkeit": "mittel", "ddf": true,
+      "frage": "Welche Pflanze liefert Baumwolle?",
+      "richtig": "Die Baumwollpflanze", "falsch": ["Der Flachs", "Der Hanf", "Die Jute"], "alias": ["Baumwollpflanze", "Baumwolle"],
+      "begruendung": "Baumwolle wächst als Faserbausch um die Samen der Baumwollpflanze, einem Malvengewächs.",
+      "karte": { "titel": "Baumwolle", "text": "Aus Flachs macht man Leinen, aus Hanf Seile und Stoffe. Baumwolle braucht beim Anbau sehr viel Wasser.", "merke": "Baumwolle: Samenhaare der Baumwollpflanze. Leinen: Flachs." }
+    },
+    {
+      "id": "nat-020", "schwierigkeit": "schwer",
+      "frage": "Welches Tier hat die größten Augen im Tierreich?",
+      "richtig": "Riesenkalmar", "falsch": ["Blauwal", "Strauß", "Koboldmaki"],
+      "begruendung": "Die Augen von Riesen- und Koloss-Kalmaren werden bis zu 27 cm groß, so groß wie ein Fußball.",
+      "karte": { "titel": "Riesenkalmar", "text": "Mit den riesigen Augen erkennen Kalmare in der dunklen Tiefsee Pottwale, ihre Fressfeinde.", "merke": "Größte Augen: Riesenkalmar, etwa fußballgroß." }
+    },
+    {
+      "id": "nat-021", "schwierigkeit": "mittel",
+      "frage": "Welcher Vogel kann rückwärts fliegen?",
+      "richtig": "Kolibri", "falsch": ["Spatz", "Eisvogel", "Schwalbe"],
+      "begruendung": "Kolibris schlagen ihre Flügel bis zu 80-mal pro Sekunde und können in der Luft stehen und rückwärts fliegen.",
+      "karte": { "titel": "Kolibri", "text": "Die kleinste Art, die Bienenelfe aus Kuba, wiegt rund 2 Gramm.", "merke": "Kolibri: schwebt und fliegt rückwärts." }
+    },
+    {
+      "id": "nat-022", "schwierigkeit": "leicht",
+      "frage": "Welches Tier gilt als Symbol der Weisheit?",
+      "richtig": "Eule", "falsch": ["Rabe", "Fuchs", "Elefant"],
+      "begruendung": "Die Eule war das Tier der griechischen Göttin Athene, der Göttin der Weisheit.",
+      "karte": { "titel": "Eule der Weisheit", "text": "Auf antiken Münzen aus Athen war eine Eule abgebildet. Auf der griechischen 1-Euro-Münze ist sie bis heute zu sehen.", "merke": "Eule = Weisheit (Athene)." }
+    }
+  ]
+}

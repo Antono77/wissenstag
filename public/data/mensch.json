@@ -1,0 +1,145 @@
+{
+  "klasse": "mensch",
+  "fragen": [
+    {
+      "id": "men-001", "schwierigkeit": "leicht", "ddf": true,
+      "frage": "Welches ist das größte Organ des Menschen?",
+      "richtig": "Die Haut", "falsch": ["Die Leber", "Die Lunge", "Der Darm"], "alias": ["Haut"],
+      "begruendung": "Die Haut eines Erwachsenen hat eine Fläche von fast zwei Quadratmetern.",
+      "karte": { "titel": "Die Haut", "text": "Die Haut schützt vor Keimen, kühlt durch Schweiß und spürt Druck, Wärme und Schmerz. Das größte innere Organ ist die Leber.", "merke": "Größtes Organ: Haut. Größtes inneres Organ: Leber." }
+    },
+    {
+      "id": "men-002", "schwierigkeit": "leicht", "ddf": true,
+      "frage": "Wie viele Zähne hat ein Erwachsener normalerweise, Weisheitszähne mitgezählt?",
+      "richtig": "32", "falsch": ["28", "30", "36"],
+      "begruendung": "Mit den vier Weisheitszähnen sind es 32 Zähne. Ein Milchgebiss hat 20.",
+      "karte": { "titel": "Gebiss", "text": "Bei vielen Menschen wachsen die Weisheitszähne nicht oder nur teilweise. Dann sind es weniger als 32.", "merke": "Erwachsene: 32 Zähne. Kinder: 20 Milchzähne." }
+    },
+    {
+      "id": "men-003", "schwierigkeit": "mittel", "ddf": true,
+      "frage": "Wie viele Knochen hat ein erwachsener Mensch ungefähr?",
+      "richtig": "206", "falsch": ["106", "306", "412"],
+      "begruendung": "Ein Erwachsener hat etwa 206 Knochen. Babys haben über 300, viele wachsen später zusammen.",
+      "karte": { "titel": "Skelett", "text": "Mehr als die Hälfte aller Knochen steckt in Händen und Füßen.", "merke": "Erwachsene: rund 206 Knochen." }
+    },
+    {
+      "id": "men-004", "schwierigkeit": "leicht", "ddf": true,
+      "frage": "Wie heißt der längste Knochen im menschlichen Körper?",
+      "richtig": "Oberschenkelknochen", "falsch": ["Schienbein", "Oberarmknochen", "Wadenbein"], "alias": ["Femur", "Oberschenkel"],
+      "begruendung": "Der Oberschenkelknochen macht etwa ein Viertel der Körpergröße aus.",
+      "karte": { "titel": "Oberschenkelknochen", "text": "Der Oberschenkelknochen hält beim Gehen ein Vielfaches des Körpergewichts aus.", "merke": "Längster Knochen: Oberschenkelknochen (Femur)." }
+    },
+    {
+      "id": "men-005", "schwierigkeit": "mittel",
+      "frage": "Wie heißt der kleinste Knochen des Menschen?",
+      "richtig": "Steigbügel", "falsch": ["Hammer", "Kahnbein", "Steißbein"],
+      "begruendung": "Der Steigbügel im Mittelohr ist nur etwa 3 mm groß.",
+      "karte": { "titel": "Gehörknöchelchen", "text": "Hammer, Amboss und Steigbügel leiten den Schall vom Trommelfell ins Innenohr.", "merke": "Kleinster Knochen: Steigbügel im Ohr." }
+    },
+    {
+      "id": "men-006", "schwierigkeit": "mittel",
+      "frage": "Wie viele Liter Blut hat ein Erwachsener ungefähr?",
+      "richtig": "5 bis 6 Liter", "falsch": ["1 bis 2 Liter", "10 bis 12 Liter", "20 Liter"],
+      "begruendung": "Blut macht etwa 7 bis 8 Prozent des Körpergewichts aus, bei einem Erwachsenen rund 5 bis 6 Liter.",
+      "karte": { "titel": "Blut", "text": "Bei einer Blutspende gibst du einen halben Liter. Der Körper ersetzt die Flüssigkeit in einem Tag.", "merke": "Erwachsene: rund 5 bis 6 Liter Blut." }
+    },
+    {
+      "id": "men-007", "schwierigkeit": "mittel",
+      "frage": "Welche Blutgruppe gilt als Universalspender?",
+      "richtig": "0 negativ", "falsch": ["AB positiv", "A positiv", "B negativ"], "alias": ["0-", "Null negativ"],
+      "begruendung": "Rote Blutkörperchen der Gruppe 0 negativ haben keine A-, B- oder Rhesus-Merkmale und passen deshalb fast immer.",
+      "karte": { "titel": "Blutgruppen", "text": "AB positiv gilt dagegen als Universalempfänger für rote Blutkörperchen. In Deutschland ist A positiv am häufigsten.", "merke": "Universalspender: 0 negativ." }
+    },
+    {
+      "id": "men-008", "schwierigkeit": "mittel", "ddf": true,
+      "frage": "Wie viele Chromosomen hat ein Mensch normalerweise?",
+      "richtig": "46", "falsch": ["23", "44", "48"],
+      "begruendung": "Menschen haben 23 Chromosomenpaare, also 46 Chromosomen.",
+      "karte": { "titel": "Chromosomen", "text": "Je ein Satz von 23 Chromosomen stammt von Mutter und Vater. Beim Down-Syndrom ist das Chromosom 21 dreifach vorhanden.", "merke": "46 Chromosomen = 23 Paare." }
+    },
+    {
+      "id": "men-009", "schwierigkeit": "schwer", "ddf": true,
+      "frage": "Wie viele Knochen hat eine menschliche Hand?",
+      "richtig": "27", "falsch": ["14", "19", "33"],
+      "begruendung": "Acht Handwurzelknochen, fünf Mittelhandknochen und 14 Fingerknochen ergeben 27.",
+      "karte": { "titel": "Die Hand", "text": "Beide Hände zusammen haben 54 Knochen, ein Viertel aller Knochen im Körper.", "merke": "Eine Hand: 27 Knochen." }
+    },
+    {
+      "id": "men-010", "schwierigkeit": "leicht",
+      "frage": "Welches Vitamin bildet die Haut mit Sonnenlicht?",
+      "richtig": "Vitamin D", "falsch": ["Vitamin C", "Vitamin A", "Vitamin B12"], "alias": ["D"],
+      "begruendung": "UV-B-Strahlen lassen in der Haut Vitamin D entstehen. Es ist wichtig für die Knochen.",
+      "karte": { "titel": "Vitamin D", "text": "Im Winter reicht die Sonne in Deutschland dafür oft nicht. Vitamin C steckt in Obst und Gemüse.", "merke": "Sonne → Vitamin D → starke Knochen." }
+    },
+    {
+      "id": "men-011", "schwierigkeit": "mittel",
+      "frage": "Wie viel Prozent Wasser enthält der Körper eines Erwachsenen ungefähr?",
+      "richtig": "Etwa 60 %", "falsch": ["Etwa 30 %", "Etwa 80 %", "Etwa 95 %"], "alias": ["60"],
+      "begruendung": "Bei Erwachsenen sind es rund 50 bis 60 Prozent, bei Babys sogar etwa 75 Prozent.",
+      "karte": { "titel": "Wasser im Körper", "text": "Muskeln enthalten viel Wasser, Fettgewebe wenig. Schon zwei Prozent Wasserverlust machen sich als Durst und Konzentrationsschwäche bemerkbar.", "merke": "Erwachsene: rund 60 % Wasser." }
+    },
+    {
+      "id": "men-012", "schwierigkeit": "mittel",
+      "frage": "Welche Blutzellen bekämpfen Krankheitserreger?",
+      "richtig": "Weiße Blutkörperchen", "falsch": ["Rote Blutkörperchen", "Blutplättchen", "Plasmazellen des Magens"], "alias": ["Leukozyten"],
+      "begruendung": "Weiße Blutkörperchen (Leukozyten) sind die Zellen der Immunabwehr.",
+      "karte": { "titel": "Blutzellen", "text": "Rote Blutkörperchen transportieren Sauerstoff. Blutplättchen sorgen dafür, dass Wunden sich schließen.", "merke": "Rot: Sauerstoff. Weiß: Abwehr. Plättchen: Gerinnung." }
+    },
+    {
+      "id": "men-013", "schwierigkeit": "leicht", "ddf": true,
+      "frage": "Wie viele Sinne nennt man klassisch beim Menschen?",
+      "richtig": "5", "falsch": ["3", "4", "7"], "alias": ["fünf"],
+      "begruendung": "Sehen, Hören, Riechen, Schmecken und Tasten sind die fünf klassischen Sinne.",
+      "karte": { "titel": "Fünf Sinne", "text": "Forscher zählen heute mehr Sinne, etwa den Gleichgewichtssinn, das Temperaturempfinden und den Schmerz.", "merke": "Klassisch fünf Sinne, tatsächlich einige mehr." }
+    },
+    {
+      "id": "men-014", "schwierigkeit": "mittel",
+      "frage": "Welche fünf Grundgeschmacksrichtungen gibt es?",
+      "richtig": "Süß, sauer, salzig, bitter, umami", "falsch": ["Süß, sauer, salzig, bitter, scharf", "Süß, sauer, fettig, bitter, würzig", "Süß, salzig, scharf, bitter, mild"],
+      "begruendung": "Scharf ist kein Geschmack, sondern ein Schmerzreiz. Umami ist der herzhafte Geschmack von Glutamat.",
+      "karte": { "titel": "Geschmack", "text": "Umami heißt auf Japanisch etwa „köstlich“. Es steckt in Parmesan, Tomaten und Sojasoße.", "merke": "Süß, sauer, salzig, bitter, umami. Scharf ist Schmerz." }
+    },
+    {
+      "id": "men-015", "schwierigkeit": "mittel",
+      "frage": "Wer entdeckte 1928 das Penicillin?",
+      "richtig": "Alexander Fleming", "falsch": ["Louis Pasteur", "Robert Koch", "Paul Ehrlich"], "alias": ["Fleming"],
+      "begruendung": "Fleming bemerkte, dass ein Schimmelpilz auf seiner Bakterienkultur die Bakterien abtötete.",
+      "karte": { "titel": "Penicillin", "text": "Penicillin war das erste Antibiotikum. In großen Mengen hergestellt wurde es erst ab den 1940er-Jahren.", "merke": "Penicillin: Fleming, 1928." }
+    },
+    {
+      "id": "men-016", "schwierigkeit": "leicht",
+      "frage": "Wo im Körper sitzt die Hornhaut, durch die Licht ins Auge fällt?",
+      "richtig": "Vorn am Auge", "falsch": ["Hinten im Auge", "Im Ohr", "An der Fußsohle"],
+      "begruendung": "Die Hornhaut ist die durchsichtige Schicht vorn am Auge. Hornhaut an den Füßen ist etwas anderes, verdickte Haut.",
+      "karte": { "titel": "Hornhaut des Auges", "text": "Die Hornhaut bricht das Licht stärker als die Linse. Bei Augenlaser-Behandlungen formen Ärzte sie neu.", "merke": "Hornhaut: durchsichtige Schicht vorn am Auge." }
+    },
+    {
+      "id": "men-017", "schwierigkeit": "mittel", "ddf": true,
+      "frage": "Wie oft schlägt das Herz eines Erwachsenen in Ruhe etwa pro Minute?",
+      "richtig": "60 bis 80 Mal", "falsch": ["20 bis 30 Mal", "120 bis 140 Mal", "200 Mal"],
+      "begruendung": "Ein normaler Ruhepuls liegt bei Erwachsenen zwischen etwa 60 und 80 Schlägen pro Minute.",
+      "karte": { "titel": "Puls", "text": "Sportler haben oft einen niedrigeren Ruhepuls, weil ihr Herz mit jedem Schlag mehr Blut pumpt.", "merke": "Ruhepuls: etwa 60 bis 80 pro Minute." }
+    },
+    {
+      "id": "men-018", "schwierigkeit": "schwer",
+      "frage": "Welcher Muskel ist im Verhältnis zu seiner Größe der kräftigste?",
+      "richtig": "Kaumuskel", "falsch": ["Bizeps", "Herzmuskel", "Oberschenkelmuskel"],
+      "begruendung": "Der Kaumuskel kann gemessen an seiner Größe den stärksten Druck erzeugen, bei den Backenzähnen über 70 kg.",
+      "karte": { "titel": "Kaumuskel", "text": "Der größte Muskel ist der große Gesäßmuskel. Der Herzmuskel arbeitet ein ganzes Leben ohne Pause.", "merke": "Relativ am stärksten: Kaumuskel. Größter: Gesäßmuskel." }
+    },
+    {
+      "id": "men-019", "schwierigkeit": "leicht",
+      "frage": "Wie heißt die Röhre, die Nahrung vom Mund zum Magen bringt?",
+      "richtig": "Speiseröhre", "falsch": ["Luftröhre", "Darm", "Kehlkopf"],
+      "begruendung": "Die Speiseröhre ist etwa 25 cm lang. Muskelwellen schieben das Essen hinunter, sogar im Kopfstand.",
+      "karte": { "titel": "Speiseröhre", "text": "Der Kehldeckel verschließt beim Schlucken die Luftröhre. Klappt das nicht, verschluckst du dich.", "merke": "Speiseröhre: Mund → Magen. Luftröhre: Mund → Lunge." }
+    },
+    {
+      "id": "men-020", "schwierigkeit": "mittel",
+      "frage": "Wie lang ist der Darm eines Erwachsenen ungefähr?",
+      "richtig": "Etwa 5 bis 8 Meter", "falsch": ["Etwa 1 Meter", "Etwa 20 Meter", "Etwa 50 Meter"],
+      "begruendung": "Dünn- und Dickdarm zusammen sind je nach Messung rund 5 bis 8 Meter lang. Im lebenden Körper ist der Darm durch die Muskelspannung kürzer.",
+      "karte": { "titel": "Darm", "text": "Der Dünndarm macht den größten Teil aus. Zotten in seiner Wand vergrößern die Oberfläche enorm.", "merke": "Darm: mehrere Meter lang, rund 5 bis 8 m." }
+    }
+  ]
+}

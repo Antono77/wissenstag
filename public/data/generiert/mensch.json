@@ -1,0 +1,1451 @@
+{
+ "klasse": "mensch",
+ "erzeugt": "scripts/generate-fakten.mjs",
+ "fragen": [
+  {
+   "id": "men-or-das-herz-1",
+   "schwierigkeit": "leicht",
+   "frage": "Welche Aufgabe hat das Herz?",
+   "richtig": "Pumpt Blut durch den Körper",
+   "falsch": [
+    "Schützt den Körper und regelt die Temperatur",
+    "Nimmt die meisten Nährstoffe ins Blut auf",
+    "Baut Giftstoffe ab und bildet Galle"
+   ],
+   "begruendung": "Das Herz pumpt Blut durch den Körper.",
+   "karte": {
+    "titel": "Herz",
+    "text": "Das Herz schlägt rund 100.000-mal am Tag.",
+    "merke": "Das Herz pumpt Blut durch den Körper."
+   }
+  },
+  {
+   "id": "men-or-die-lunge-1",
+   "schwierigkeit": "leicht",
+   "frage": "Welche Aufgabe hat die Lunge?",
+   "richtig": "Nimmt Sauerstoff auf und gibt Kohlendioxid ab",
+   "falsch": [
+    "Schützt den Körper und regelt die Temperatur",
+    "Sortiert alte Blutkörperchen aus und hilft der Immunabwehr",
+    "Entzieht dem Nahrungsbrei Wasser"
+   ],
+   "begruendung": "Die Lunge nimmt Sauerstoff auf und gibt Kohlendioxid ab.",
+   "karte": {
+    "titel": "Lunge",
+    "text": "Die Lungenbläschen haben zusammen etwa die Fläche eines halben Tennisplatzes.",
+    "merke": "Die Lunge nimmt Sauerstoff auf und gibt Kohlendioxid ab."
+   }
+  },
+  {
+   "id": "men-or-die-leber-1",
+   "schwierigkeit": "mittel",
+   "frage": "Welche Aufgabe hat die Leber?",
+   "richtig": "Baut Giftstoffe ab und bildet Galle",
+   "falsch": [
+    "Erzeugt mit den Stimmlippen die Stimme",
+    "Sortiert alte Blutkörperchen aus und hilft der Immunabwehr",
+    "Zersetzt die Nahrung mit Säure"
+   ],
+   "begruendung": "Die Leber baut Giftstoffe ab und bildet Galle.",
+   "karte": {
+    "titel": "Leber",
+    "text": "Die Leber ist die größte Drüse des Körpers und kann nachwachsen.",
+    "merke": "Die Leber baut Giftstoffe ab und bildet Galle."
+   }
+  },
+  {
+   "id": "men-or-die-nieren-1",
+   "schwierigkeit": "leicht",
+   "frage": "Welche Aufgabe hat die Nieren?",
+   "richtig": "Filtern das Blut und bilden Urin",
+   "falsch": [
+    "Zersetzt die Nahrung mit Säure",
+    "Sortiert alte Blutkörperchen aus und hilft der Immunabwehr",
+    "Wandelt Licht in Nervensignale um"
+   ],
+   "begruendung": "Die Nieren filtern das Blut und bilden Urin.",
+   "karte": {
+    "titel": "Nieren",
+    "text": "Die Nieren filtern jeden Tag rund 180 Liter Blutplasma.",
+    "merke": "Die Nieren filtern das Blut und bilden Urin."
+   }
+  },
+  {
+   "id": "men-or-der-magen-1",
+   "schwierigkeit": "leicht",
+   "frage": "Welche Aufgabe hat der Magen?",
+   "richtig": "Zersetzt die Nahrung mit Säure",
+   "falsch": [
+    "Baut Giftstoffe ab und bildet Galle",
+    "Erzeugt mit den Stimmlippen die Stimme",
+    "Nimmt die meisten Nährstoffe ins Blut auf"
+   ],
+   "begruendung": "Der Magen zersetzt die Nahrung mit Säure.",
+   "karte": {
+    "titel": "Magen",
+    "text": "Die Magensäure ist so sauer, dass sie Bakterien abtötet.",
+    "merke": "Der Magen zersetzt die Nahrung mit Säure."
+   }
+  },
+  {
+   "id": "men-or-der-duenndarm-1",
+   "schwierigkeit": "mittel",
+   "frage": "Welche Aufgabe hat der Dünndarm?",
+   "richtig": "Nimmt die meisten Nährstoffe ins Blut auf",
+   "falsch": [
+    "Filtern das Blut und bilden Urin",
+    "Schützt den Körper und regelt die Temperatur",
+    "Überträgt Schall auf die Gehörknöchelchen"
+   ],
+   "begruendung": "Der Dünndarm nimmt die meisten Nährstoffe ins Blut auf.",
+   "karte": {
+    "titel": "Dünndarm",
+    "text": "Der Dünndarm ist mehrere Meter lang.",
+    "merke": "Der Dünndarm nimmt die meisten Nährstoffe ins Blut auf."
+   }
+  },
+  {
+   "id": "men-or-der-dickdarm-1",
+   "schwierigkeit": "mittel",
+   "frage": "Welche Aufgabe hat der Dickdarm?",
+   "richtig": "Entzieht dem Nahrungsbrei Wasser",
+   "falsch": [
+    "Überträgt Schall auf die Gehörknöchelchen",
+    "Steuert mit Hormonen den Stoffwechsel",
+    "Erzeugt mit den Stimmlippen die Stimme"
+   ],
+   "begruendung": "Der Dickdarm entzieht dem Nahrungsbrei Wasser.",
+   "karte": {
+    "titel": "Dickdarm",
+    "text": "Im Dickdarm leben Billionen nützlicher Bakterien.",
+    "merke": "Der Dickdarm entzieht dem Nahrungsbrei Wasser."
+   }
+  },
+  {
+   "id": "men-or-die-bauchspeicheldruese-1",
+   "schwierigkeit": "mittel",
+   "frage": "Welche Aufgabe hat die Bauchspeicheldrüse?",
+   "richtig": "Bildet Insulin und Verdauungssäfte",
+   "falsch": [
+    "Bildet neue Blutzellen",
+    "Pumpt Blut durch den Körper",
+    "Sortiert alte Blutkörperchen aus und hilft der Immunabwehr"
+   ],
+   "begruendung": "Die Bauchspeicheldrüse bildet Insulin und Verdauungssäfte.",
+   "karte": {
+    "titel": "Bauchspeicheldrüse",
+    "text": "Bei Diabetes Typ 1 bildet die Bauchspeicheldrüse kein Insulin mehr.",
+    "merke": "Die Bauchspeicheldrüse bildet Insulin und Verdauungssäfte."
+   }
+  },
+  {
+   "id": "men-or-die-schilddruese-1",
+   "schwierigkeit": "mittel",
+   "frage": "Welche Aufgabe hat die Schilddrüse?",
+   "richtig": "Steuert mit Hormonen den Stoffwechsel",
+   "falsch": [
+    "Leitet Nervensignale zwischen Gehirn und Körper",
+    "Speichert Gallenflüssigkeit",
+    "Sortiert alte Blutkörperchen aus und hilft der Immunabwehr"
+   ],
+   "begruendung": "Die Schilddrüse steuert mit Hormonen den Stoffwechsel.",
+   "karte": {
+    "titel": "Schilddrüse",
+    "text": "Für ihre Hormone braucht die Schilddrüse Iod.",
+    "merke": "Die Schilddrüse steuert mit Hormonen den Stoffwechsel."
+   }
+  },
+  {
+   "id": "men-or-die-gallenblase-1",
+   "schwierigkeit": "schwer",
+   "frage": "Welche Aufgabe hat die Gallenblase?",
+   "richtig": "Speichert Gallenflüssigkeit",
+   "falsch": [
+    "Entzieht dem Nahrungsbrei Wasser",
+    "Baut Giftstoffe ab und bildet Galle",
+    "Pumpt Blut durch den Körper"
+   ],
+   "begruendung": "Die Gallenblase speichert Gallenflüssigkeit.",
+   "karte": {
+    "titel": "Gallenblase",
+    "text": "Galle hilft dabei, Fett zu verdauen.",
+    "merke": "Die Gallenblase speichert Gallenflüssigkeit."
+   }
+  },
+  {
+   "id": "men-or-das-zwerchfell-1",
+   "schwierigkeit": "mittel",
+   "frage": "Welche Aufgabe hat das Zwerchfell?",
+   "richtig": "Ist der wichtigste Muskel zum Atmen",
+   "falsch": [
+    "Bildet Insulin und Verdauungssäfte",
+    "Wandelt Licht in Nervensignale um",
+    "Sortiert alte Blutkörperchen aus und hilft der Immunabwehr"
+   ],
+   "begruendung": "Das Zwerchfell ist der wichtigste Muskel zum Atmen.",
+   "karte": {
+    "titel": "Zwerchfell",
+    "text": "Schluckauf entsteht, wenn sich das Zwerchfell ruckartig zusammenzieht.",
+    "merke": "Das Zwerchfell ist der wichtigste Muskel zum Atmen."
+   }
+  },
+  {
+   "id": "men-or-der-kehlkopf-1",
+   "schwierigkeit": "mittel",
+   "frage": "Welche Aufgabe hat der Kehlkopf?",
+   "richtig": "Erzeugt mit den Stimmlippen die Stimme",
+   "falsch": [
+    "Bildet Insulin und Verdauungssäfte",
+    "Nimmt die meisten Nährstoffe ins Blut auf",
+    "Schützt den Körper und regelt die Temperatur"
+   ],
+   "begruendung": "Der Kehlkopf erzeugt mit den Stimmlippen die Stimme.",
+   "karte": {
+    "titel": "Kehlkopf",
+    "text": "Bei Männern tritt der Kehlkopf oft als „Adamsapfel“ hervor.",
+    "merke": "Der Kehlkopf erzeugt mit den Stimmlippen die Stimme."
+   }
+  },
+  {
+   "id": "men-or-das-rueckenmark-1",
+   "schwierigkeit": "mittel",
+   "frage": "Welche Aufgabe hat das Rückenmark?",
+   "richtig": "Leitet Nervensignale zwischen Gehirn und Körper",
+   "falsch": [
+    "Überträgt Schall auf die Gehörknöchelchen",
+    "Zersetzt die Nahrung mit Säure",
+    "Filtern das Blut und bilden Urin"
+   ],
+   "begruendung": "Das Rückenmark leitet Nervensignale zwischen Gehirn und Körper.",
+   "karte": {
+    "titel": "Rückenmark",
+    "text": "Das Rückenmark liegt geschützt in der Wirbelsäule.",
+    "merke": "Das Rückenmark leitet Nervensignale zwischen Gehirn und Körper."
+   }
+  },
+  {
+   "id": "men-or-das-knochenmark-1",
+   "schwierigkeit": "mittel",
+   "frage": "Welche Aufgabe hat das Knochenmark?",
+   "richtig": "Bildet neue Blutzellen",
+   "falsch": [
+    "Zersetzt die Nahrung mit Säure",
+    "Nimmt die meisten Nährstoffe ins Blut auf",
+    "Baut Giftstoffe ab und bildet Galle"
+   ],
+   "begruendung": "Das Knochenmark bildet neue Blutzellen.",
+   "karte": {
+    "titel": "Knochenmark",
+    "text": "Rotes Knochenmark bildet jede Sekunde Millionen roter Blutkörperchen.",
+    "merke": "Das Knochenmark bildet neue Blutzellen."
+   }
+  },
+  {
+   "id": "men-or-die-netzhaut-1",
+   "schwierigkeit": "mittel",
+   "frage": "Welche Aufgabe hat die Netzhaut?",
+   "richtig": "Wandelt Licht in Nervensignale um",
+   "falsch": [
+    "Leitet Nervensignale zwischen Gehirn und Körper",
+    "Zersetzt die Nahrung mit Säure",
+    "Erzeugt mit den Stimmlippen die Stimme"
+   ],
+   "begruendung": "Die Netzhaut wandelt Licht in Nervensignale um.",
+   "karte": {
+    "titel": "Netzhaut",
+    "text": "Auf der Netzhaut sitzen Stäbchen für Hell-Dunkel und Zapfen für Farben.",
+    "merke": "Die Netzhaut wandelt Licht in Nervensignale um."
+   }
+  },
+  {
+   "id": "men-or-das-trommelfell-1",
+   "schwierigkeit": "mittel",
+   "frage": "Welche Aufgabe hat das Trommelfell?",
+   "richtig": "Überträgt Schall auf die Gehörknöchelchen",
+   "falsch": [
+    "Entzieht dem Nahrungsbrei Wasser",
+    "Filtern das Blut und bilden Urin",
+    "Bildet Insulin und Verdauungssäfte"
+   ],
+   "begruendung": "Das Trommelfell überträgt Schall auf die Gehörknöchelchen.",
+   "karte": {
+    "titel": "Trommelfell",
+    "text": "Das Trommelfell ist etwa 0,1 mm dünn.",
+    "merke": "Das Trommelfell überträgt Schall auf die Gehörknöchelchen."
+   }
+  },
+  {
+   "id": "men-or-die-milz-1",
+   "schwierigkeit": "schwer",
+   "frage": "Welche Aufgabe hat die Milz?",
+   "richtig": "Sortiert alte Blutkörperchen aus und hilft der Immunabwehr",
+   "falsch": [
+    "Zersetzt die Nahrung mit Säure",
+    "Leitet Nervensignale zwischen Gehirn und Körper",
+    "Filtern das Blut und bilden Urin"
+   ],
+   "begruendung": "Die Milz sortiert alte Blutkörperchen aus und hilft der Immunabwehr.",
+   "karte": {
+    "titel": "Milz",
+    "text": "Ohne Milz kannst du leben, bist aber anfälliger für manche Infekte.",
+    "merke": "Die Milz sortiert alte Blutkörperchen aus und hilft der Immunabwehr."
+   }
+  },
+  {
+   "id": "men-or-die-haut-1",
+   "schwierigkeit": "leicht",
+   "frage": "Welche Aufgabe hat die Haut?",
+   "richtig": "Schützt den Körper und regelt die Temperatur",
+   "falsch": [
+    "Nimmt die meisten Nährstoffe ins Blut auf",
+    "Leitet Nervensignale zwischen Gehirn und Körper",
+    "Sortiert alte Blutkörperchen aus und hilft der Immunabwehr"
+   ],
+   "begruendung": "Die Haut schützt den Körper und regelt die Temperatur.",
+   "karte": {
+    "titel": "Haut",
+    "text": "Die Haut ist das größte Organ des Menschen.",
+    "merke": "Die Haut schützt den Körper und regelt die Temperatur."
+   }
+  },
+  {
+   "id": "men-or-das-herz-2",
+   "schwierigkeit": "leicht",
+   "frage": "Welches Organ pumpt Blut durch den Körper?",
+   "richtig": "Herz",
+   "falsch": [
+    "Netzhaut",
+    "Trommelfell",
+    "Dünndarm"
+   ],
+   "begruendung": "Das Herz pumpt Blut durch den Körper.",
+   "karte": {
+    "titel": "Herz",
+    "text": "Das Herz schlägt rund 100.000-mal am Tag.",
+    "merke": "Das Herz pumpt Blut durch den Körper."
+   }
+  },
+  {
+   "id": "men-or-die-lunge-2",
+   "schwierigkeit": "leicht",
+   "frage": "Welches Organ nimmt Sauerstoff auf und gibt Kohlendioxid ab?",
+   "richtig": "Lunge",
+   "falsch": [
+    "Herz",
+    "Dünndarm",
+    "Zwerchfell"
+   ],
+   "begruendung": "Die Lunge nimmt Sauerstoff auf und gibt Kohlendioxid ab.",
+   "karte": {
+    "titel": "Lunge",
+    "text": "Die Lungenbläschen haben zusammen etwa die Fläche eines halben Tennisplatzes.",
+    "merke": "Die Lunge nimmt Sauerstoff auf und gibt Kohlendioxid ab."
+   }
+  },
+  {
+   "id": "men-or-die-leber-2",
+   "schwierigkeit": "mittel",
+   "frage": "Welches Organ baut Giftstoffe ab und bildet Galle?",
+   "richtig": "Leber",
+   "falsch": [
+    "Zwerchfell",
+    "Bauchspeicheldrüse",
+    "Trommelfell"
+   ],
+   "begruendung": "Die Leber baut Giftstoffe ab und bildet Galle.",
+   "karte": {
+    "titel": "Leber",
+    "text": "Die Leber ist die größte Drüse des Körpers und kann nachwachsen.",
+    "merke": "Die Leber baut Giftstoffe ab und bildet Galle."
+   }
+  },
+  {
+   "id": "men-or-die-nieren-2",
+   "schwierigkeit": "leicht",
+   "frage": "Welches Organ filtert das Blut und bildet Urin?",
+   "richtig": "Niere",
+   "falsch": [
+    "Lunge",
+    "Schilddrüse",
+    "Magen"
+   ],
+   "begruendung": "Die Nieren filtern das Blut und bilden Urin.",
+   "karte": {
+    "titel": "Nieren",
+    "text": "Die Nieren filtern jeden Tag rund 180 Liter Blutplasma.",
+    "merke": "Die Nieren filtern das Blut und bilden Urin."
+   }
+  },
+  {
+   "id": "men-or-der-magen-2",
+   "schwierigkeit": "leicht",
+   "frage": "Welches Organ zersetzt die Nahrung mit Säure?",
+   "richtig": "Magen",
+   "falsch": [
+    "Niere",
+    "Knochenmark",
+    "Milz"
+   ],
+   "begruendung": "Der Magen zersetzt die Nahrung mit Säure.",
+   "karte": {
+    "titel": "Magen",
+    "text": "Die Magensäure ist so sauer, dass sie Bakterien abtötet.",
+    "merke": "Der Magen zersetzt die Nahrung mit Säure."
+   }
+  },
+  {
+   "id": "men-or-der-duenndarm-2",
+   "schwierigkeit": "mittel",
+   "frage": "Welches Organ nimmt die meisten Nährstoffe ins Blut auf?",
+   "richtig": "Dünndarm",
+   "falsch": [
+    "Niere",
+    "Schilddrüse",
+    "Netzhaut"
+   ],
+   "begruendung": "Der Dünndarm nimmt die meisten Nährstoffe ins Blut auf.",
+   "karte": {
+    "titel": "Dünndarm",
+    "text": "Der Dünndarm ist mehrere Meter lang.",
+    "merke": "Der Dünndarm nimmt die meisten Nährstoffe ins Blut auf."
+   }
+  },
+  {
+   "id": "men-or-der-dickdarm-2",
+   "schwierigkeit": "mittel",
+   "frage": "Welches Organ entzieht dem Nahrungsbrei Wasser?",
+   "richtig": "Dickdarm",
+   "falsch": [
+    "Milz",
+    "Rückenmark",
+    "Zwerchfell"
+   ],
+   "begruendung": "Der Dickdarm entzieht dem Nahrungsbrei Wasser.",
+   "karte": {
+    "titel": "Dickdarm",
+    "text": "Im Dickdarm leben Billionen nützlicher Bakterien.",
+    "merke": "Der Dickdarm entzieht dem Nahrungsbrei Wasser."
+   }
+  },
+  {
+   "id": "men-or-die-bauchspeicheldruese-2",
+   "schwierigkeit": "mittel",
+   "frage": "Welches Organ bildet Insulin und Verdauungssäfte?",
+   "richtig": "Bauchspeicheldrüse",
+   "falsch": [
+    "Zwerchfell",
+    "Niere",
+    "Gallenblase"
+   ],
+   "begruendung": "Die Bauchspeicheldrüse bildet Insulin und Verdauungssäfte.",
+   "karte": {
+    "titel": "Bauchspeicheldrüse",
+    "text": "Bei Diabetes Typ 1 bildet die Bauchspeicheldrüse kein Insulin mehr.",
+    "merke": "Die Bauchspeicheldrüse bildet Insulin und Verdauungssäfte."
+   }
+  },
+  {
+   "id": "men-or-die-schilddruese-2",
+   "schwierigkeit": "mittel",
+   "frage": "Welches Organ steuert mit Hormonen den Stoffwechsel?",
+   "richtig": "Schilddrüse",
+   "falsch": [
+    "Milz",
+    "Kehlkopf",
+    "Dünndarm"
+   ],
+   "begruendung": "Die Schilddrüse steuert mit Hormonen den Stoffwechsel.",
+   "karte": {
+    "titel": "Schilddrüse",
+    "text": "Für ihre Hormone braucht die Schilddrüse Iod.",
+    "merke": "Die Schilddrüse steuert mit Hormonen den Stoffwechsel."
+   }
+  },
+  {
+   "id": "men-or-die-gallenblase-2",
+   "schwierigkeit": "schwer",
+   "frage": "Welches Organ speichert Gallenflüssigkeit?",
+   "richtig": "Gallenblase",
+   "falsch": [
+    "Magen",
+    "Netzhaut",
+    "Zwerchfell"
+   ],
+   "begruendung": "Die Gallenblase speichert Gallenflüssigkeit.",
+   "karte": {
+    "titel": "Gallenblase",
+    "text": "Galle hilft dabei, Fett zu verdauen.",
+    "merke": "Die Gallenblase speichert Gallenflüssigkeit."
+   }
+  },
+  {
+   "id": "men-or-das-zwerchfell-2",
+   "schwierigkeit": "mittel",
+   "frage": "Welcher Muskel ist der wichtigste zum Atmen?",
+   "richtig": "Zwerchfell",
+   "falsch": [
+    "Magen",
+    "Kehlkopf",
+    "Lunge"
+   ],
+   "begruendung": "Das Zwerchfell ist der wichtigste Muskel zum Atmen.",
+   "karte": {
+    "titel": "Zwerchfell",
+    "text": "Schluckauf entsteht, wenn sich das Zwerchfell ruckartig zusammenzieht.",
+    "merke": "Das Zwerchfell ist der wichtigste Muskel zum Atmen."
+   }
+  },
+  {
+   "id": "men-or-der-kehlkopf-2",
+   "schwierigkeit": "mittel",
+   "frage": "Welches Organ erzeugt mit den Stimmlippen die Stimme?",
+   "richtig": "Kehlkopf",
+   "falsch": [
+    "Leber",
+    "Niere",
+    "Schilddrüse"
+   ],
+   "begruendung": "Der Kehlkopf erzeugt mit den Stimmlippen die Stimme.",
+   "karte": {
+    "titel": "Kehlkopf",
+    "text": "Bei Männern tritt der Kehlkopf oft als „Adamsapfel“ hervor.",
+    "merke": "Der Kehlkopf erzeugt mit den Stimmlippen die Stimme."
+   }
+  },
+  {
+   "id": "men-or-das-rueckenmark-2",
+   "schwierigkeit": "mittel",
+   "frage": "Welches Organ leitet Nervensignale zwischen Gehirn und Körper?",
+   "richtig": "Rückenmark",
+   "falsch": [
+    "Dickdarm",
+    "Kehlkopf",
+    "Milz"
+   ],
+   "begruendung": "Das Rückenmark leitet Nervensignale zwischen Gehirn und Körper.",
+   "karte": {
+    "titel": "Rückenmark",
+    "text": "Das Rückenmark liegt geschützt in der Wirbelsäule.",
+    "merke": "Das Rückenmark leitet Nervensignale zwischen Gehirn und Körper."
+   }
+  },
+  {
+   "id": "men-or-das-knochenmark-2",
+   "schwierigkeit": "mittel",
+   "frage": "Welches Organ bildet neue Blutzellen?",
+   "richtig": "Knochenmark",
+   "falsch": [
+    "Leber",
+    "Dickdarm",
+    "Rückenmark"
+   ],
+   "begruendung": "Das Knochenmark bildet neue Blutzellen.",
+   "karte": {
+    "titel": "Knochenmark",
+    "text": "Rotes Knochenmark bildet jede Sekunde Millionen roter Blutkörperchen.",
+    "merke": "Das Knochenmark bildet neue Blutzellen."
+   }
+  },
+  {
+   "id": "men-or-die-netzhaut-2",
+   "schwierigkeit": "mittel",
+   "frage": "Welches Organ wandelt Licht in Nervensignale um?",
+   "richtig": "Netzhaut",
+   "falsch": [
+    "Rückenmark",
+    "Bauchspeicheldrüse",
+    "Dickdarm"
+   ],
+   "begruendung": "Die Netzhaut wandelt Licht in Nervensignale um.",
+   "karte": {
+    "titel": "Netzhaut",
+    "text": "Auf der Netzhaut sitzen Stäbchen für Hell-Dunkel und Zapfen für Farben.",
+    "merke": "Die Netzhaut wandelt Licht in Nervensignale um."
+   }
+  },
+  {
+   "id": "men-or-das-trommelfell-2",
+   "schwierigkeit": "mittel",
+   "frage": "Welches Organ überträgt Schall auf die Gehörknöchelchen?",
+   "richtig": "Trommelfell",
+   "falsch": [
+    "Herz",
+    "Niere",
+    "Leber"
+   ],
+   "begruendung": "Das Trommelfell überträgt Schall auf die Gehörknöchelchen.",
+   "karte": {
+    "titel": "Trommelfell",
+    "text": "Das Trommelfell ist etwa 0,1 mm dünn.",
+    "merke": "Das Trommelfell überträgt Schall auf die Gehörknöchelchen."
+   }
+  },
+  {
+   "id": "men-or-die-milz-2",
+   "schwierigkeit": "schwer",
+   "frage": "Welches Organ sortiert alte Blutkörperchen aus und hilft der Immunabwehr?",
+   "richtig": "Milz",
+   "falsch": [
+    "Trommelfell",
+    "Schilddrüse",
+    "Magen"
+   ],
+   "begruendung": "Die Milz sortiert alte Blutkörperchen aus und hilft der Immunabwehr.",
+   "karte": {
+    "titel": "Milz",
+    "text": "Ohne Milz kannst du leben, bist aber anfälliger für manche Infekte.",
+    "merke": "Die Milz sortiert alte Blutkörperchen aus und hilft der Immunabwehr."
+   }
+  },
+  {
+   "id": "men-or-die-haut-2",
+   "schwierigkeit": "leicht",
+   "frage": "Welches Organ schützt den Körper und regelt die Temperatur?",
+   "richtig": "Haut",
+   "falsch": [
+    "Lunge",
+    "Dickdarm",
+    "Rückenmark"
+   ],
+   "begruendung": "Die Haut schützt den Körper und regelt die Temperatur.",
+   "karte": {
+    "titel": "Haut",
+    "text": "Die Haut ist das größte Organ des Menschen.",
+    "merke": "Die Haut schützt den Körper und regelt die Temperatur."
+   }
+  },
+  {
+   "id": "men-kn-der-oberschenkelknochen",
+   "schwierigkeit": "leicht",
+   "frage": "Wo im Körper liegt der Oberschenkelknochen?",
+   "richtig": "Im Oberschenkel",
+   "falsch": [
+    "Am unteren Ende der Wirbelsäule",
+    "Im Oberarm",
+    "Im Unterschenkel"
+   ],
+   "begruendung": "Der Oberschenkelknochen liegt im Oberschenkel.",
+   "karte": {
+    "titel": "Oberschenkelknochen",
+    "text": "Der Oberschenkelknochen ist der längste und stärkste Knochen des Menschen.",
+    "merke": "Der Oberschenkelknochen liegt im Oberschenkel."
+   }
+  },
+  {
+   "id": "men-kn-das-schienbein",
+   "schwierigkeit": "leicht",
+   "frage": "Wo im Körper liegt das Schienbein?",
+   "richtig": "Im Unterschenkel",
+   "falsch": [
+    "Vorn in der Mitte des Brustkorbs",
+    "Im Oberarm",
+    "Im Oberschenkel"
+   ],
+   "begruendung": "Das Schienbein liegt im Unterschenkel.",
+   "karte": {
+    "titel": "Schienbein",
+    "text": "Das Schienbein liegt im Unterschenkel.",
+    "merke": "Das Schienbein liegt im Unterschenkel."
+   }
+  },
+  {
+   "id": "men-kn-die-elle",
+   "schwierigkeit": "mittel",
+   "frage": "Wo im Körper liegt die Elle?",
+   "richtig": "Im Unterarm",
+   "falsch": [
+    "Im Oberschenkel",
+    "In der Handwurzel",
+    "Im Oberarm"
+   ],
+   "begruendung": "Die Elle liegt im Unterarm.",
+   "karte": {
+    "titel": "Elle",
+    "text": "Die Elle liegt im Unterarm.",
+    "merke": "Die Elle liegt im Unterarm."
+   }
+  },
+  {
+   "id": "men-kn-die-speiche",
+   "schwierigkeit": "mittel",
+   "frage": "Wo im Körper liegt die Speiche?",
+   "richtig": "Im Unterarm",
+   "falsch": [
+    "Ganz oben an der Wirbelsäule",
+    "Am unteren Ende der Wirbelsäule",
+    "Im Oberarm"
+   ],
+   "begruendung": "Die Speiche liegt im Unterarm.",
+   "karte": {
+    "titel": "Speiche",
+    "text": "Die Speiche liegt im Unterarm.",
+    "merke": "Die Speiche liegt im Unterarm."
+   }
+  },
+  {
+   "id": "men-kn-das-schluesselbein",
+   "schwierigkeit": "leicht",
+   "frage": "Wo im Körper liegt das Schlüsselbein?",
+   "richtig": "An der Schulter",
+   "falsch": [
+    "In der Handwurzel",
+    "Im Ohr",
+    "Im Unterarm"
+   ],
+   "begruendung": "Das Schlüsselbein liegt an der Schulter.",
+   "karte": {
+    "titel": "Schlüsselbein",
+    "text": "Das Schlüsselbein liegt an der Schulter.",
+    "merke": "Das Schlüsselbein liegt an der Schulter."
+   }
+  },
+  {
+   "id": "men-kn-die-kniescheibe",
+   "schwierigkeit": "leicht",
+   "frage": "Wo im Körper liegt die Kniescheibe?",
+   "richtig": "Am Knie",
+   "falsch": [
+    "Vorn in der Mitte des Brustkorbs",
+    "Im Unterarm",
+    "Ganz oben an der Wirbelsäule"
+   ],
+   "begruendung": "Die Kniescheibe liegt am Knie.",
+   "karte": {
+    "titel": "Kniescheibe",
+    "text": "Die Kniescheibe liegt am Knie.",
+    "merke": "Die Kniescheibe liegt am Knie."
+   }
+  },
+  {
+   "id": "men-kn-das-steissbein",
+   "schwierigkeit": "mittel",
+   "frage": "Wo im Körper liegt das Steißbein?",
+   "richtig": "Am unteren Ende der Wirbelsäule",
+   "falsch": [
+    "Im Oberarm",
+    "Im Fuß",
+    "Im Oberschenkel"
+   ],
+   "begruendung": "Das Steißbein liegt am unteren Ende der Wirbelsäule.",
+   "karte": {
+    "titel": "Steißbein",
+    "text": "Das Steißbein liegt am unteren Ende der Wirbelsäule.",
+    "merke": "Das Steißbein liegt am unteren Ende der Wirbelsäule."
+   }
+  },
+  {
+   "id": "men-kn-der-steigbuegel",
+   "schwierigkeit": "mittel",
+   "frage": "Wo im Körper liegt der Steigbügel?",
+   "richtig": "Im Ohr",
+   "falsch": [
+    "Im Oberarm",
+    "Im Unterschenkel",
+    "Im Oberschenkel"
+   ],
+   "begruendung": "Der Steigbügel liegt im Ohr.",
+   "karte": {
+    "titel": "Steigbügel",
+    "text": "Der Steigbügel ist mit rund 3 mm der kleinste Knochen des Menschen.",
+    "merke": "Der Steigbügel liegt im Ohr."
+   }
+  },
+  {
+   "id": "men-kn-der-amboss",
+   "schwierigkeit": "mittel",
+   "frage": "Wo im Körper liegt der Amboss?",
+   "richtig": "Im Ohr",
+   "falsch": [
+    "Im Unterarm",
+    "Am unteren Ende der Wirbelsäule",
+    "Im Fuß"
+   ],
+   "begruendung": "Der Amboss liegt im Ohr.",
+   "karte": {
+    "titel": "Amboss",
+    "text": "Der Amboss liegt im Ohr.",
+    "merke": "Der Amboss liegt im Ohr."
+   }
+  },
+  {
+   "id": "men-kn-das-brustbein",
+   "schwierigkeit": "mittel",
+   "frage": "Wo im Körper liegt das Brustbein?",
+   "richtig": "Vorn in der Mitte des Brustkorbs",
+   "falsch": [
+    "Im Unterarm",
+    "Im Oberarm",
+    "Ganz oben an der Wirbelsäule"
+   ],
+   "begruendung": "Das Brustbein liegt vorn in der Mitte des Brustkorbs.",
+   "karte": {
+    "titel": "Brustbein",
+    "text": "Das Brustbein liegt vorn in der Mitte des Brustkorbs.",
+    "merke": "Das Brustbein liegt vorn in der Mitte des Brustkorbs."
+   }
+  },
+  {
+   "id": "men-kn-das-fersenbein",
+   "schwierigkeit": "mittel",
+   "frage": "Wo im Körper liegt das Fersenbein?",
+   "richtig": "Im Fuß",
+   "falsch": [
+    "Im Unterarm",
+    "Im Oberschenkel",
+    "Vorn in der Mitte des Brustkorbs"
+   ],
+   "begruendung": "Das Fersenbein liegt im Fuß.",
+   "karte": {
+    "titel": "Fersenbein",
+    "text": "Das Fersenbein liegt im Fuß.",
+    "merke": "Das Fersenbein liegt im Fuß."
+   }
+  },
+  {
+   "id": "men-kn-der-oberarmknochen",
+   "schwierigkeit": "leicht",
+   "frage": "Wo im Körper liegt der Oberarmknochen?",
+   "richtig": "Im Oberarm",
+   "falsch": [
+    "Ganz oben an der Wirbelsäule",
+    "In der Handwurzel",
+    "Am unteren Ende der Wirbelsäule"
+   ],
+   "begruendung": "Der Oberarmknochen liegt im Oberarm.",
+   "karte": {
+    "titel": "Oberarmknochen",
+    "text": "Der Oberarmknochen liegt im Oberarm.",
+    "merke": "Der Oberarmknochen liegt im Oberarm."
+   }
+  },
+  {
+   "id": "men-kn-das-kahnbein",
+   "schwierigkeit": "schwer",
+   "frage": "Wo im Körper liegt das Kahnbein?",
+   "richtig": "In der Handwurzel",
+   "falsch": [
+    "Vorn in der Mitte des Brustkorbs",
+    "Am Knie",
+    "Im Fuß"
+   ],
+   "begruendung": "Das Kahnbein liegt in der Handwurzel.",
+   "karte": {
+    "titel": "Kahnbein",
+    "text": "Das Kahnbein liegt in der Handwurzel.",
+    "merke": "Das Kahnbein liegt in der Handwurzel."
+   }
+  },
+  {
+   "id": "men-kn-der-atlas",
+   "schwierigkeit": "schwer",
+   "frage": "Wo im Körper liegt der Atlas?",
+   "richtig": "Ganz oben an der Wirbelsäule",
+   "falsch": [
+    "In der Handwurzel",
+    "An der Schulter",
+    "Am unteren Ende der Wirbelsäule"
+   ],
+   "begruendung": "Der Atlas liegt ganz oben an der Wirbelsäule.",
+   "karte": {
+    "titel": "Atlas",
+    "text": "Der Atlas ist der erste Halswirbel. Er trägt den Kopf, wie der Titan Atlas das Himmelsgewölbe.",
+    "merke": "Der Atlas liegt ganz oben an der Wirbelsäule."
+   }
+  },
+  {
+   "id": "men-kr-hepatitis",
+   "schwierigkeit": "mittel",
+   "frage": "Welchen Körperteil betrifft die Krankheit Hepatitis?",
+   "richtig": "Leber",
+   "falsch": [
+    "Rachen",
+    "Herz",
+    "Augenlinse"
+   ],
+   "begruendung": "Hepatitis: Leber.",
+   "karte": {
+    "titel": "Hepatitis",
+    "text": "Hepatitis ist eine Entzündung der Leber, oft durch Viren.",
+    "merke": "Hepatitis: Leber."
+   }
+  },
+  {
+   "id": "men-kr-gastritis",
+   "schwierigkeit": "mittel",
+   "frage": "Welchen Körperteil betrifft die Krankheit Gastritis?",
+   "richtig": "Magen",
+   "falsch": [
+    "Herz",
+    "Ohren",
+    "Bronchien"
+   ],
+   "begruendung": "Gastritis: Magen.",
+   "karte": {
+    "titel": "Gastritis",
+    "text": "Gastritis ist eine Entzündung der Magenschleimhaut.",
+    "merke": "Gastritis: Magen."
+   }
+  },
+  {
+   "id": "men-kr-bronchitis",
+   "schwierigkeit": "leicht",
+   "frage": "Welchen Körperteil betrifft die Krankheit Bronchitis?",
+   "richtig": "Bronchien",
+   "falsch": [
+    "Rachen",
+    "Zähne",
+    "Gelenke"
+   ],
+   "begruendung": "Bronchitis: Bronchien.",
+   "karte": {
+    "titel": "Bronchitis",
+    "text": "Bei einer Bronchitis sind die Atemwege in der Lunge entzündet.",
+    "merke": "Bronchitis: Bronchien."
+   }
+  },
+  {
+   "id": "men-kr-arthrose",
+   "schwierigkeit": "mittel",
+   "frage": "Welchen Körperteil betrifft die Krankheit Arthrose?",
+   "richtig": "Gelenke",
+   "falsch": [
+    "Herz",
+    "Rachen",
+    "Wurmfortsatz"
+   ],
+   "begruendung": "Arthrose: Gelenke.",
+   "karte": {
+    "titel": "Arthrose",
+    "text": "Bei Arthrose nutzt sich der Knorpel in den Gelenken ab.",
+    "merke": "Arthrose: Gelenke."
+   }
+  },
+  {
+   "id": "men-kr-karies",
+   "schwierigkeit": "leicht",
+   "frage": "Welchen Körperteil betrifft die Krankheit Karies?",
+   "richtig": "Zähne",
+   "falsch": [
+    "Knochen",
+    "Augenlinse",
+    "Gehirn"
+   ],
+   "begruendung": "Karies: Zähne.",
+   "karte": {
+    "titel": "Karies",
+    "text": "Bakterien bilden aus Zucker Säuren, die den Zahnschmelz angreifen.",
+    "merke": "Karies: Zähne."
+   }
+  },
+  {
+   "id": "men-kr-tinnitus",
+   "schwierigkeit": "mittel",
+   "frage": "Welchen Körperteil betrifft ein Tinnitus?",
+   "richtig": "Ohren",
+   "falsch": [
+    "Bronchien",
+    "Zähne",
+    "Augen"
+   ],
+   "begruendung": "Tinnitus: Ohren.",
+   "karte": {
+    "titel": "Tinnitus",
+    "text": "Bei Tinnitus hörst du Pfeifen oder Rauschen ohne äußere Quelle.",
+    "merke": "Tinnitus: Ohren."
+   }
+  },
+  {
+   "id": "men-kr-grauer-star",
+   "schwierigkeit": "mittel",
+   "frage": "Welchen Körperteil betrifft der Graue Star?",
+   "richtig": "Augenlinse",
+   "falsch": [
+    "Haut",
+    "Herz",
+    "Augen"
+   ],
+   "begruendung": "Grauer Star: Augenlinse.",
+   "karte": {
+    "titel": "Grauer Star",
+    "text": "Beim Grauen Star trübt sich die Linse. Ärzte können sie durch eine Kunstlinse ersetzen.",
+    "merke": "Grauer Star: Augenlinse."
+   }
+  },
+  {
+   "id": "men-kr-osteoporose",
+   "schwierigkeit": "mittel",
+   "frage": "Welchen Körperteil betrifft die Krankheit Osteoporose?",
+   "richtig": "Knochen",
+   "falsch": [
+    "Wurmfortsatz",
+    "Gehirn",
+    "Augenlinse"
+   ],
+   "begruendung": "Osteoporose: Knochen.",
+   "karte": {
+    "titel": "Osteoporose",
+    "text": "Bei Osteoporose verlieren die Knochen Masse und brechen leichter.",
+    "merke": "Osteoporose: Knochen."
+   }
+  },
+  {
+   "id": "men-kr-neurodermitis",
+   "schwierigkeit": "mittel",
+   "frage": "Welchen Körperteil betrifft die Krankheit Neurodermitis?",
+   "richtig": "Haut",
+   "falsch": [
+    "Herz",
+    "Zähne",
+    "Gehirn"
+   ],
+   "begruendung": "Neurodermitis: Haut.",
+   "karte": {
+    "titel": "Neurodermitis",
+    "text": "Neurodermitis verursacht trockene, juckende Haut.",
+    "merke": "Neurodermitis: Haut."
+   }
+  },
+  {
+   "id": "men-kr-blinddarmentzuendung",
+   "schwierigkeit": "schwer",
+   "frage": "Welchen Körperteil betrifft die Krankheit Blinddarmentzündung?",
+   "richtig": "Wurmfortsatz",
+   "falsch": [
+    "Magen",
+    "Haut",
+    "Ohren"
+   ],
+   "begruendung": "Blinddarmentzündung: Wurmfortsatz.",
+   "karte": {
+    "titel": "Blinddarmentzündung",
+    "text": "Entzündet ist eigentlich der Wurmfortsatz am Blinddarm.",
+    "merke": "Blinddarmentzündung: Wurmfortsatz."
+   }
+  },
+  {
+   "id": "men-kr-mandelentzuendung",
+   "schwierigkeit": "leicht",
+   "frage": "Welchen Körperteil betrifft die Krankheit Mandelentzündung?",
+   "richtig": "Rachen",
+   "falsch": [
+    "Gelenke",
+    "Leber",
+    "Nieren"
+   ],
+   "begruendung": "Mandelentzündung: Rachen.",
+   "karte": {
+    "titel": "Mandelentzündung",
+    "text": "Die Gaumenmandeln im Rachen gehören zur Immunabwehr.",
+    "merke": "Mandelentzündung: Rachen."
+   }
+  },
+  {
+   "id": "men-kr-nierensteine",
+   "schwierigkeit": "mittel",
+   "frage": "Welchen Körperteil betrifft die Krankheit Nierensteine?",
+   "richtig": "Nieren",
+   "falsch": [
+    "Gehirn",
+    "Herz",
+    "Gelenke"
+   ],
+   "begruendung": "Nierensteine: Nieren.",
+   "karte": {
+    "titel": "Nierensteine",
+    "text": "Nierensteine entstehen aus Salzen im Urin.",
+    "merke": "Nierensteine: Nieren."
+   }
+  },
+  {
+   "id": "men-kr-herzinfarkt",
+   "schwierigkeit": "leicht",
+   "frage": "Welchen Körperteil betrifft ein Herzinfarkt?",
+   "richtig": "Herz",
+   "falsch": [
+    "Gehirn",
+    "Haut",
+    "Wurmfortsatz"
+   ],
+   "begruendung": "Herzinfarkt: Herz.",
+   "karte": {
+    "titel": "Herzinfarkt",
+    "text": "Beim Herzinfarkt verstopft ein Herzkranzgefäß und Herzmuskel stirbt ab.",
+    "merke": "Herzinfarkt: Herz."
+   }
+  },
+  {
+   "id": "men-kr-schlaganfall",
+   "schwierigkeit": "leicht",
+   "frage": "Welchen Körperteil betrifft ein Schlaganfall?",
+   "richtig": "Gehirn",
+   "falsch": [
+    "Ohren",
+    "Leber",
+    "Zähne"
+   ],
+   "begruendung": "Schlaganfall: Gehirn.",
+   "karte": {
+    "titel": "Schlaganfall",
+    "text": "Beim Schlaganfall bekommt ein Teil des Gehirns zu wenig Blut.",
+    "merke": "Schlaganfall: Gehirn."
+   }
+  },
+  {
+   "id": "men-kr-bindehautentzuendung",
+   "schwierigkeit": "leicht",
+   "frage": "Welchen Körperteil betrifft die Krankheit Bindehautentzündung?",
+   "richtig": "Augen",
+   "falsch": [
+    "Gehirn",
+    "Bronchien",
+    "Ohren"
+   ],
+   "begruendung": "Bindehautentzündung: Augen.",
+   "karte": {
+    "titel": "Bindehautentzündung",
+    "text": "Die Bindehaut überzieht das Weiße im Auge.",
+    "merke": "Bindehautentzündung: Augen."
+   }
+  },
+  {
+   "id": "men-fb-fraktur",
+   "schwierigkeit": "leicht",
+   "frage": "Was bedeutet der Fachbegriff „Fraktur“?",
+   "richtig": "Knochenbruch",
+   "falsch": [
+    "Lehre vom Nervensystem",
+    "Schlaflosigkeit",
+    "Zeit von der Ansteckung bis zu den ersten Beschwerden"
+   ],
+   "begruendung": "Fraktur = Knochenbruch.",
+   "karte": {
+    "titel": "Fraktur",
+    "text": "Fraktur = Knochenbruch.",
+    "merke": "Fraktur = Knochenbruch."
+   }
+  },
+  {
+   "id": "men-fb-hypertonie",
+   "schwierigkeit": "mittel",
+   "frage": "Was bedeutet der Fachbegriff „Hypertonie“?",
+   "richtig": "Bluthochdruck",
+   "falsch": [
+    "Anfallsartiger, oft einseitiger Kopfschmerz",
+    "Blutarmut",
+    "Lehre von der Haut"
+   ],
+   "begruendung": "Hypertonie = Bluthochdruck.",
+   "karte": {
+    "titel": "Hypertonie",
+    "text": "Hypertonie = Bluthochdruck.",
+    "merke": "Hypertonie = Bluthochdruck."
+   }
+  },
+  {
+   "id": "men-fb-tachykardie",
+   "schwierigkeit": "schwer",
+   "frage": "Was bedeutet der Fachbegriff „Tachykardie“?",
+   "richtig": "Zu schneller Herzschlag",
+   "falsch": [
+    "Schlaflosigkeit",
+    "Bluterguss",
+    "Zeit von der Ansteckung bis zu den ersten Beschwerden"
+   ],
+   "begruendung": "Tachykardie = zu schneller Herzschlag.",
+   "karte": {
+    "titel": "Tachykardie",
+    "text": "Tachykardie = zu schneller Herzschlag.",
+    "merke": "Tachykardie = zu schneller Herzschlag."
+   }
+  },
+  {
+   "id": "men-fb-anaemie",
+   "schwierigkeit": "mittel",
+   "frage": "Was bedeutet der Fachbegriff „Anämie“?",
+   "richtig": "Blutarmut",
+   "falsch": [
+    "Scheinmedikament ohne Wirkstoff",
+    "Überreaktion des Immunsystems",
+    "Weltweite Ausbreitung einer Krankheit"
+   ],
+   "begruendung": "Anämie = Blutarmut.",
+   "karte": {
+    "titel": "Anämie",
+    "text": "Anämie = Blutarmut.",
+    "merke": "Anämie = Blutarmut."
+   }
+  },
+  {
+   "id": "men-fb-insomnie",
+   "schwierigkeit": "schwer",
+   "frage": "Was bedeutet der Fachbegriff „Insomnie“?",
+   "richtig": "Schlaflosigkeit",
+   "falsch": [
+    "Bluterguss",
+    "Weltweite Ausbreitung einer Krankheit",
+    "Lehre von der Haut"
+   ],
+   "begruendung": "Insomnie = Schlaflosigkeit.",
+   "karte": {
+    "titel": "Insomnie",
+    "text": "Insomnie = Schlaflosigkeit.",
+    "merke": "Insomnie = Schlaflosigkeit."
+   }
+  },
+  {
+   "id": "men-fb-analgetikum",
+   "schwierigkeit": "mittel",
+   "frage": "Was bedeutet der Fachbegriff „Analgetikum“?",
+   "richtig": "Schmerzmittel",
+   "falsch": [
+    "Zeit von der Ansteckung bis zu den ersten Beschwerden",
+    "Kinderheilkunde",
+    "Überreaktion des Immunsystems"
+   ],
+   "begruendung": "Analgetikum = Schmerzmittel.",
+   "karte": {
+    "titel": "Analgetikum",
+    "text": "Analgetikum = Schmerzmittel.",
+    "merke": "Analgetikum = Schmerzmittel."
+   }
+  },
+  {
+   "id": "men-fb-antibiotikum",
+   "schwierigkeit": "leicht",
+   "frage": "Was bedeutet der Fachbegriff „Antibiotikum“?",
+   "richtig": "Mittel gegen Bakterien",
+   "falsch": [
+    "Knochenbruch",
+    "Schlaflosigkeit",
+    "Bluterguss"
+   ],
+   "begruendung": "Antibiotikum = Mittel gegen Bakterien.",
+   "karte": {
+    "titel": "Antibiotikum",
+    "text": "Antibiotikum = Mittel gegen Bakterien.",
+    "merke": "Antibiotikum = Mittel gegen Bakterien."
+   }
+  },
+  {
+   "id": "men-fb-anaesthesie",
+   "schwierigkeit": "mittel",
+   "frage": "Was bedeutet der Fachbegriff „Anästhesie“?",
+   "richtig": "Betäubung",
+   "falsch": [
+    "Unterkühlung",
+    "Schlaflosigkeit",
+    "Kinderheilkunde"
+   ],
+   "begruendung": "Anästhesie = Betäubung.",
+   "karte": {
+    "titel": "Anästhesie",
+    "text": "Anästhesie = Betäubung.",
+    "merke": "Anästhesie = Betäubung."
+   }
+  },
+  {
+   "id": "men-fb-prophylaxe",
+   "schwierigkeit": "mittel",
+   "frage": "Was bedeutet der Fachbegriff „Prophylaxe“?",
+   "richtig": "Vorbeugung",
+   "falsch": [
+    "Unterkühlung",
+    "Zu schneller Herzschlag",
+    "Überreaktion des Immunsystems"
+   ],
+   "begruendung": "Prophylaxe = Vorbeugung.",
+   "karte": {
+    "titel": "Prophylaxe",
+    "text": "Prophylaxe = Vorbeugung.",
+    "merke": "Prophylaxe = Vorbeugung."
+   }
+  },
+  {
+   "id": "men-fb-kardiologie",
+   "schwierigkeit": "mittel",
+   "frage": "Was bedeutet der Fachbegriff „Kardiologie“?",
+   "richtig": "Lehre vom Herzen",
+   "falsch": [
+    "Scheinmedikament ohne Wirkstoff",
+    "Schmerzmittel",
+    "Kinderheilkunde"
+   ],
+   "begruendung": "Kardiologie = Lehre vom Herzen.",
+   "karte": {
+    "titel": "Kardiologie",
+    "text": "Kardiologie = Lehre vom Herzen.",
+    "merke": "Kardiologie = Lehre vom Herzen."
+   }
+  },
+  {
+   "id": "men-fb-dermatologie",
+   "schwierigkeit": "mittel",
+   "frage": "Was bedeutet der Fachbegriff „Dermatologie“?",
+   "richtig": "Lehre von der Haut",
+   "falsch": [
+    "Überreaktion des Immunsystems",
+    "Mittel gegen Bakterien",
+    "Bluthochdruck"
+   ],
+   "begruendung": "Dermatologie = Lehre von der Haut.",
+   "karte": {
+    "titel": "Dermatologie",
+    "text": "Dermatologie = Lehre von der Haut.",
+    "merke": "Dermatologie = Lehre von der Haut."
+   }
+  },
+  {
+   "id": "men-fb-paediatrie",
+   "schwierigkeit": "mittel",
+   "frage": "Was bedeutet der Fachbegriff „Pädiatrie“?",
+   "richtig": "Kinderheilkunde",
+   "falsch": [
+    "Knochenbruch",
+    "Schmerzmittel",
+    "Bluterguss"
+   ],
+   "begruendung": "Pädiatrie = Kinderheilkunde.",
+   "karte": {
+    "titel": "Pädiatrie",
+    "text": "Pädiatrie = Kinderheilkunde.",
+    "merke": "Pädiatrie = Kinderheilkunde."
+   }
+  },
+  {
+   "id": "men-fb-neurologie",
+   "schwierigkeit": "mittel",
+   "frage": "Was bedeutet der Fachbegriff „Neurologie“?",
+   "richtig": "Lehre vom Nervensystem",
+   "falsch": [
+    "Unterkühlung",
+    "Vorbeugung",
+    "Anfallsartiger, oft einseitiger Kopfschmerz"
+   ],
+   "begruendung": "Neurologie = Lehre vom Nervensystem.",
+   "karte": {
+    "titel": "Neurologie",
+    "text": "Neurologie = Lehre vom Nervensystem.",
+    "merke": "Neurologie = Lehre vom Nervensystem."
+   }
+  },
+  {
+   "id": "men-fb-placebo",
+   "schwierigkeit": "leicht",
+   "frage": "Was bedeutet der Fachbegriff „Placebo“?",
+   "richtig": "Scheinmedikament ohne Wirkstoff",
+   "falsch": [
+    "Zu schneller Herzschlag",
+    "Anfallsartiger, oft einseitiger Kopfschmerz",
+    "Lehre von der Haut"
+   ],
+   "begruendung": "Placebo = Scheinmedikament ohne Wirkstoff.",
+   "karte": {
+    "titel": "Placebo",
+    "text": "Placebo = Scheinmedikament ohne Wirkstoff.",
+    "merke": "Placebo = Scheinmedikament ohne Wirkstoff."
+   }
+  },
+  {
+   "id": "men-fb-pandemie",
+   "schwierigkeit": "leicht",
+   "frage": "Was bedeutet der Fachbegriff „Pandemie“?",
+   "richtig": "Weltweite Ausbreitung einer Krankheit",
+   "falsch": [
+    "Kinderheilkunde",
+    "Knochenbruch",
+    "Schmerzmittel"
+   ],
+   "begruendung": "Pandemie = weltweite Ausbreitung einer Krankheit.",
+   "karte": {
+    "titel": "Pandemie",
+    "text": "Pandemie = weltweite Ausbreitung einer Krankheit.",
+    "merke": "Pandemie = weltweite Ausbreitung einer Krankheit."
+   }
+  },
+  {
+   "id": "men-fb-inkubationszeit",
+   "schwierigkeit": "mittel",
+   "frage": "Was bedeutet der Fachbegriff „Inkubationszeit“?",
+   "richtig": "Zeit von der Ansteckung bis zu den ersten Beschwerden",
+   "falsch": [
+    "Blutarmut",
+    "Unterkühlung",
+    "Schlaflosigkeit"
+   ],
+   "begruendung": "Inkubationszeit = Zeit von der Ansteckung bis zu den ersten Beschwerden.",
+   "karte": {
+    "titel": "Inkubationszeit",
+    "text": "Inkubationszeit = Zeit von der Ansteckung bis zu den ersten Beschwerden.",
+    "merke": "Inkubationszeit = Zeit von der Ansteckung bis zu den ersten Beschwerden."
+   }
+  },
+  {
+   "id": "men-fb-allergie",
+   "schwierigkeit": "leicht",
+   "frage": "Was bedeutet der Fachbegriff „Allergie“?",
+   "richtig": "Überreaktion des Immunsystems",
+   "falsch": [
+    "Lehre vom Nervensystem",
+    "Bluterguss",
+    "Schlaflosigkeit"
+   ],
+   "begruendung": "Allergie = Überreaktion des Immunsystems.",
+   "karte": {
+    "titel": "Allergie",
+    "text": "Allergie = Überreaktion des Immunsystems.",
+    "merke": "Allergie = Überreaktion des Immunsystems."
+   }
+  },
+  {
+   "id": "men-fb-haematom",
+   "schwierigkeit": "mittel",
+   "frage": "Was bedeutet der Fachbegriff „Hämatom“?",
+   "richtig": "Bluterguss",
+   "falsch": [
+    "Mittel gegen Bakterien",
+    "Lehre vom Herzen",
+    "Bluthochdruck"
+   ],
+   "begruendung": "Hämatom = Bluterguss.",
+   "karte": {
+    "titel": "Hämatom",
+    "text": "Hämatom = Bluterguss.",
+    "merke": "Hämatom = Bluterguss."
+   }
+  },
+  {
+   "id": "men-fb-migraene",
+   "schwierigkeit": "leicht",
+   "frage": "Was bedeutet der Fachbegriff „Migräne“?",
+   "richtig": "Anfallsartiger, oft einseitiger Kopfschmerz",
+   "falsch": [
+    "Schmerzmittel",
+    "Zeit von der Ansteckung bis zu den ersten Beschwerden",
+    "Betäubung"
+   ],
+   "begruendung": "Migräne = anfallsartiger, oft einseitiger Kopfschmerz.",
+   "karte": {
+    "titel": "Migräne",
+    "text": "Migräne = anfallsartiger, oft einseitiger Kopfschmerz.",
+    "merke": "Migräne = anfallsartiger, oft einseitiger Kopfschmerz."
+   }
+  },
+  {
+   "id": "men-fb-hypothermie",
+   "schwierigkeit": "schwer",
+   "frage": "Was bedeutet der Fachbegriff „Hypothermie“?",
+   "richtig": "Unterkühlung",
+   "falsch": [
+    "Mittel gegen Bakterien",
+    "Vorbeugung",
+    "Bluthochdruck"
+   ],
+   "begruendung": "Hypothermie = Unterkühlung.",
+   "karte": {
+    "titel": "Hypothermie",
+    "text": "Hypothermie = Unterkühlung.",
+    "merke": "Hypothermie = Unterkühlung."
+   }
+  }
+ ]
+}

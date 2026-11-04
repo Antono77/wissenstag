@@ -1,0 +1,1247 @@
+{
+ "klasse": "weltraum",
+ "erzeugt": "scripts/generate-fakten.mjs",
+ "fragen": [
+  {
+   "id": "wel-pl-merkur-1",
+   "schwierigkeit": "leicht",
+   "frage": "Der wievielte Planet von der Sonne aus ist der Merkur?",
+   "richtig": "Der erste",
+   "falsch": [
+    "Der siebte",
+    "Der sechste",
+    "Der achte"
+   ],
+   "begruendung": "Merkur ist der erste Planet von der Sonne aus.",
+   "karte": {
+    "titel": "Merkur",
+    "text": "Merkur ist der kleinste Planet und hat keinen Mond.",
+    "merke": "Merkur ist der erste Planet von der Sonne aus."
+   }
+  },
+  {
+   "id": "wel-pl-venus-1",
+   "schwierigkeit": "leicht",
+   "frage": "Der wievielte Planet von der Sonne aus ist die Venus?",
+   "richtig": "Der zweite",
+   "falsch": [
+    "Der achte",
+    "Der siebte",
+    "Der sechste"
+   ],
+   "begruendung": "Venus ist der zweite Planet von der Sonne aus.",
+   "karte": {
+    "titel": "Venus",
+    "text": "Die Venus dreht sich rückwärts. Auf ihr geht die Sonne im Westen auf.",
+    "merke": "Venus ist der zweite Planet von der Sonne aus."
+   }
+  },
+  {
+   "id": "wel-pl-erde-1",
+   "schwierigkeit": "leicht",
+   "frage": "Der wievielte Planet von der Sonne aus ist die Erde?",
+   "richtig": "Der dritte",
+   "falsch": [
+    "Der siebte",
+    "Der zweite",
+    "Der fünfte"
+   ],
+   "begruendung": "Erde ist der dritte Planet von der Sonne aus.",
+   "karte": {
+    "titel": "Erde",
+    "text": "Die Erde ist der einzige bekannte Planet mit flüssigem Wasser an der Oberfläche und Leben.",
+    "merke": "Erde ist der dritte Planet von der Sonne aus."
+   }
+  },
+  {
+   "id": "wel-pl-mars-1",
+   "schwierigkeit": "leicht",
+   "frage": "Der wievielte Planet von der Sonne aus ist der Mars?",
+   "richtig": "Der vierte",
+   "falsch": [
+    "Der siebte",
+    "Der dritte",
+    "Der erste"
+   ],
+   "begruendung": "Mars ist der vierte Planet von der Sonne aus.",
+   "karte": {
+    "titel": "Mars",
+    "text": "Ein Marstag dauert etwa 24 Stunden und 40 Minuten.",
+    "merke": "Mars ist der vierte Planet von der Sonne aus."
+   }
+  },
+  {
+   "id": "wel-pl-jupiter-1",
+   "schwierigkeit": "mittel",
+   "frage": "Der wievielte Planet von der Sonne aus ist der Jupiter?",
+   "richtig": "Der fünfte",
+   "falsch": [
+    "Der erste",
+    "Der zweite",
+    "Der siebte"
+   ],
+   "begruendung": "Jupiter ist der fünfte Planet von der Sonne aus.",
+   "karte": {
+    "titel": "Jupiter",
+    "text": "Jupiter ist ein Gasriese und der größte Planet.",
+    "merke": "Jupiter ist der fünfte Planet von der Sonne aus."
+   }
+  },
+  {
+   "id": "wel-pl-saturn-1",
+   "schwierigkeit": "mittel",
+   "frage": "Der wievielte Planet von der Sonne aus ist der Saturn?",
+   "richtig": "Der sechste",
+   "falsch": [
+    "Der zweite",
+    "Der achte",
+    "Der dritte"
+   ],
+   "begruendung": "Saturn ist der sechste Planet von der Sonne aus.",
+   "karte": {
+    "titel": "Saturn",
+    "text": "Saturn hat eine so geringe Dichte, dass er in einer riesigen Badewanne schwimmen würde.",
+    "merke": "Saturn ist der sechste Planet von der Sonne aus."
+   }
+  },
+  {
+   "id": "wel-pl-uranus-1",
+   "schwierigkeit": "mittel",
+   "frage": "Der wievielte Planet von der Sonne aus ist der Uranus?",
+   "richtig": "Der siebte",
+   "falsch": [
+    "Der dritte",
+    "Der sechste",
+    "Der fünfte"
+   ],
+   "begruendung": "Uranus ist der siebte Planet von der Sonne aus.",
+   "karte": {
+    "titel": "Uranus",
+    "text": "Uranus wurde 1781 als erster Planet mit dem Fernrohr entdeckt.",
+    "merke": "Uranus ist der siebte Planet von der Sonne aus."
+   }
+  },
+  {
+   "id": "wel-pl-neptun-1",
+   "schwierigkeit": "mittel",
+   "frage": "Der wievielte Planet von der Sonne aus ist der Neptun?",
+   "richtig": "Der achte",
+   "falsch": [
+    "Der vierte",
+    "Der sechste",
+    "Der erste"
+   ],
+   "begruendung": "Neptun ist der achte Planet von der Sonne aus.",
+   "karte": {
+    "titel": "Neptun",
+    "text": "Neptun wurde 1846 zuerst berechnet und dann gefunden.",
+    "merke": "Neptun ist der achte Planet von der Sonne aus."
+   }
+  },
+  {
+   "id": "wel-pl-merkur-2",
+   "schwierigkeit": "leicht",
+   "frage": "Welcher ist der erste Planet von der Sonne aus?",
+   "richtig": "Merkur",
+   "falsch": [
+    "Uranus",
+    "Neptun",
+    "Venus"
+   ],
+   "begruendung": "Platz 1: Merkur. Merkspruch: Mein Vater erklärt mir jeden Sonntag unseren Nachthimmel.",
+   "karte": {
+    "titel": "Merkur",
+    "text": "Merkur ist der kleinste Planet und hat keinen Mond.",
+    "merke": "Platz 1: Merkur. Merkspruch: Mein Vater erklärt mir jeden Sonntag unseren Nachthimmel."
+   }
+  },
+  {
+   "id": "wel-pl-venus-2",
+   "schwierigkeit": "leicht",
+   "frage": "Welcher ist der zweite Planet von der Sonne aus?",
+   "richtig": "Venus",
+   "falsch": [
+    "Mars",
+    "Saturn",
+    "Erde"
+   ],
+   "begruendung": "Platz 2: Venus. Merkspruch: Mein Vater erklärt mir jeden Sonntag unseren Nachthimmel.",
+   "karte": {
+    "titel": "Venus",
+    "text": "Die Venus dreht sich rückwärts. Auf ihr geht die Sonne im Westen auf.",
+    "merke": "Platz 2: Venus. Merkspruch: Mein Vater erklärt mir jeden Sonntag unseren Nachthimmel."
+   }
+  },
+  {
+   "id": "wel-pl-erde-2",
+   "schwierigkeit": "leicht",
+   "frage": "Welcher ist der dritte Planet von der Sonne aus?",
+   "richtig": "Erde",
+   "falsch": [
+    "Neptun",
+    "Venus",
+    "Uranus"
+   ],
+   "begruendung": "Platz 3: Erde. Merkspruch: Mein Vater erklärt mir jeden Sonntag unseren Nachthimmel.",
+   "karte": {
+    "titel": "Erde",
+    "text": "Die Erde ist der einzige bekannte Planet mit flüssigem Wasser an der Oberfläche und Leben.",
+    "merke": "Platz 3: Erde. Merkspruch: Mein Vater erklärt mir jeden Sonntag unseren Nachthimmel."
+   }
+  },
+  {
+   "id": "wel-pl-mars-2",
+   "schwierigkeit": "leicht",
+   "frage": "Welcher ist der vierte Planet von der Sonne aus?",
+   "richtig": "Mars",
+   "falsch": [
+    "Venus",
+    "Jupiter",
+    "Merkur"
+   ],
+   "begruendung": "Platz 4: Mars. Merkspruch: Mein Vater erklärt mir jeden Sonntag unseren Nachthimmel.",
+   "karte": {
+    "titel": "Mars",
+    "text": "Ein Marstag dauert etwa 24 Stunden und 40 Minuten.",
+    "merke": "Platz 4: Mars. Merkspruch: Mein Vater erklärt mir jeden Sonntag unseren Nachthimmel."
+   }
+  },
+  {
+   "id": "wel-pl-jupiter-2",
+   "schwierigkeit": "mittel",
+   "frage": "Welcher ist der fünfte Planet von der Sonne aus?",
+   "richtig": "Jupiter",
+   "falsch": [
+    "Saturn",
+    "Erde",
+    "Merkur"
+   ],
+   "begruendung": "Platz 5: Jupiter. Merkspruch: Mein Vater erklärt mir jeden Sonntag unseren Nachthimmel.",
+   "karte": {
+    "titel": "Jupiter",
+    "text": "Jupiter ist ein Gasriese und der größte Planet.",
+    "merke": "Platz 5: Jupiter. Merkspruch: Mein Vater erklärt mir jeden Sonntag unseren Nachthimmel."
+   }
+  },
+  {
+   "id": "wel-pl-saturn-2",
+   "schwierigkeit": "mittel",
+   "frage": "Welcher ist der sechste Planet von der Sonne aus?",
+   "richtig": "Saturn",
+   "falsch": [
+    "Neptun",
+    "Venus",
+    "Jupiter"
+   ],
+   "begruendung": "Platz 6: Saturn. Merkspruch: Mein Vater erklärt mir jeden Sonntag unseren Nachthimmel.",
+   "karte": {
+    "titel": "Saturn",
+    "text": "Saturn hat eine so geringe Dichte, dass er in einer riesigen Badewanne schwimmen würde.",
+    "merke": "Platz 6: Saturn. Merkspruch: Mein Vater erklärt mir jeden Sonntag unseren Nachthimmel."
+   }
+  },
+  {
+   "id": "wel-pl-uranus-2",
+   "schwierigkeit": "mittel",
+   "frage": "Welcher ist der siebte Planet von der Sonne aus?",
+   "richtig": "Uranus",
+   "falsch": [
+    "Merkur",
+    "Venus",
+    "Mars"
+   ],
+   "begruendung": "Platz 7: Uranus. Merkspruch: Mein Vater erklärt mir jeden Sonntag unseren Nachthimmel.",
+   "karte": {
+    "titel": "Uranus",
+    "text": "Uranus wurde 1781 als erster Planet mit dem Fernrohr entdeckt.",
+    "merke": "Platz 7: Uranus. Merkspruch: Mein Vater erklärt mir jeden Sonntag unseren Nachthimmel."
+   }
+  },
+  {
+   "id": "wel-pl-neptun-2",
+   "schwierigkeit": "mittel",
+   "frage": "Welcher ist der achte Planet von der Sonne aus?",
+   "richtig": "Neptun",
+   "falsch": [
+    "Saturn",
+    "Erde",
+    "Uranus"
+   ],
+   "begruendung": "Platz 8: Neptun. Merkspruch: Mein Vater erklärt mir jeden Sonntag unseren Nachthimmel.",
+   "karte": {
+    "titel": "Neptun",
+    "text": "Neptun wurde 1846 zuerst berechnet und dann gefunden.",
+    "merke": "Platz 8: Neptun. Merkspruch: Mein Vater erklärt mir jeden Sonntag unseren Nachthimmel."
+   }
+  },
+  {
+   "id": "wel-j-sputnik-1",
+   "schwierigkeit": "mittel",
+   "frage": "In welchem Jahr startete mit Sputnik 1 der erste künstliche Satellit?",
+   "richtig": "1957",
+   "falsch": [
+    "1975",
+    "1995",
+    "1981"
+   ],
+   "begruendung": "Sputnik 1: 1957.",
+   "karte": {
+    "titel": "Sputnik 1",
+    "text": "Die Sowjetunion schoss Sputnik 1 ins All. Der „Sputnik-Schock“ trieb die USA zur Gründung der NASA.",
+    "merke": "Sputnik 1: 1957."
+   }
+  },
+  {
+   "id": "wel-j-huendin-laika",
+   "schwierigkeit": "schwer",
+   "frage": "In welchem Jahr flog die Hündin Laika als erstes Tier in eine Erdumlaufbahn?",
+   "richtig": "1957",
+   "falsch": [
+    "1978",
+    "1990",
+    "1958"
+   ],
+   "begruendung": "Hündin Laika: 1957.",
+   "karte": {
+    "titel": "Hündin Laika",
+    "text": "Laika überlebte den Flug in Sputnik 2 nicht.",
+    "merke": "Hündin Laika: 1957."
+   }
+  },
+  {
+   "id": "wel-j-gagarins-flug",
+   "schwierigkeit": "leicht",
+   "frage": "In welchem Jahr flog Juri Gagarin als erster Mensch ins All?",
+   "richtig": "1961",
+   "falsch": [
+    "1990",
+    "1969",
+    "1983"
+   ],
+   "begruendung": "Gagarins Flug: 1961.",
+   "karte": {
+    "titel": "Gagarins Flug",
+    "text": "Der Flug dauerte 108 Minuten.",
+    "merke": "Gagarins Flug: 1961."
+   }
+  },
+  {
+   "id": "wel-j-erste-frau-im-all",
+   "schwierigkeit": "mittel",
+   "frage": "In welchem Jahr flog Valentina Tereschkowa als erste Frau ins All?",
+   "richtig": "1963",
+   "falsch": [
+    "1972",
+    "1975",
+    "1978"
+   ],
+   "begruendung": "Erste Frau im All: 1963.",
+   "karte": {
+    "titel": "Erste Frau im All",
+    "text": "Sie umrundete die Erde 48-mal.",
+    "merke": "Erste Frau im All: 1963."
+   }
+  },
+  {
+   "id": "wel-j-erster-weltraumausstieg",
+   "schwierigkeit": "schwer",
+   "frage": "In welchem Jahr stieg Alexei Leonow als erster Mensch frei ins All aus?",
+   "richtig": "1965",
+   "falsch": [
+    "1983",
+    "1970",
+    "1998"
+   ],
+   "begruendung": "Erster Weltraumausstieg: 1965.",
+   "karte": {
+    "titel": "Erster Weltraumausstieg",
+    "text": "Leonows Anzug blähte sich auf. Er musste Luft ablassen, um wieder in die Kapsel zu passen.",
+    "merke": "Erster Weltraumausstieg: 1965."
+   }
+  },
+  {
+   "id": "wel-j-erste-mondlandung",
+   "schwierigkeit": "leicht",
+   "frage": "In welchem Jahr landeten mit Apollo 11 erstmals Menschen auf dem Mond?",
+   "richtig": "1969",
+   "falsch": [
+    "1965",
+    "1981",
+    "2006"
+   ],
+   "begruendung": "Erste Mondlandung: 1969.",
+   "karte": {
+    "titel": "Erste Mondlandung",
+    "text": "Neil Armstrong und Buzz Aldrin betraten den Mond.",
+    "merke": "Erste Mondlandung: 1969."
+   }
+  },
+  {
+   "id": "wel-j-apollo-13",
+   "schwierigkeit": "mittel",
+   "frage": "In welchem Jahr kehrte die beschädigte Apollo 13 sicher zur Erde zurück?",
+   "richtig": "1970",
+   "falsch": [
+    "1978",
+    "1995",
+    "1961"
+   ],
+   "begruendung": "Apollo 13: 1970.",
+   "karte": {
+    "titel": "Apollo 13",
+    "text": "„Houston, wir haben ein Problem“: Ein Sauerstofftank explodierte, die Crew überlebte.",
+    "merke": "Apollo 13: 1970."
+   }
+  },
+  {
+   "id": "wel-j-letzte-mondlandung",
+   "schwierigkeit": "mittel",
+   "frage": "In welchem Jahr betraten mit Apollo 17 zum letzten Mal Menschen den Mond?",
+   "richtig": "1972",
+   "falsch": [
+    "2003",
+    "1975",
+    "1983"
+   ],
+   "begruendung": "Letzte Mondlandung: 1972.",
+   "karte": {
+    "titel": "Letzte Mondlandung",
+    "text": "Seitdem war niemand mehr auf dem Mond.",
+    "merke": "Letzte Mondlandung: 1972."
+   }
+  },
+  {
+   "id": "wel-j-start-der-voyager-sonden",
+   "schwierigkeit": "mittel",
+   "frage": "In welchem Jahr starteten die Raumsonden Voyager 1 und 2?",
+   "richtig": "1977",
+   "falsch": [
+    "1975",
+    "1981",
+    "2014"
+   ],
+   "begruendung": "Start der Voyager-Sonden: 1977.",
+   "karte": {
+    "titel": "Start der Voyager-Sonden",
+    "text": "Beide Sonden senden nach fast 50 Jahren noch Daten.",
+    "merke": "Start der Voyager-Sonden: 1977."
+   }
+  },
+  {
+   "id": "wel-j-sigmund-jaehn-im-all",
+   "schwierigkeit": "mittel",
+   "frage": "In welchem Jahr flog Sigmund Jähn als erster Deutscher ins All?",
+   "richtig": "1978",
+   "falsch": [
+    "1972",
+    "2015",
+    "1981"
+   ],
+   "begruendung": "Sigmund Jähn im All: 1978.",
+   "karte": {
+    "titel": "Sigmund Jähn im All",
+    "text": "Jähn aus der DDR flog mit der sowjetischen Sojus 31.",
+    "merke": "Sigmund Jähn im All: 1978."
+   }
+  },
+  {
+   "id": "wel-j-erster-space-shuttle-flug",
+   "schwierigkeit": "schwer",
+   "frage": "In welchem Jahr startete das erste Space Shuttle?",
+   "richtig": "1981",
+   "falsch": [
+    "2014",
+    "1995",
+    "1977"
+   ],
+   "begruendung": "Erster Space-Shuttle-Flug: 1981.",
+   "karte": {
+    "titel": "Erster Space-Shuttle-Flug",
+    "text": "Die Columbia hob am 12. April 1981 ab, genau 20 Jahre nach Gagarins Flug.",
+    "merke": "Erster Space-Shuttle-Flug: 1981."
+   }
+  },
+  {
+   "id": "wel-j-ulf-merbold-im-all",
+   "schwierigkeit": "schwer",
+   "frage": "In welchem Jahr flog Ulf Merbold als erster Westdeutscher ins All?",
+   "richtig": "1983",
+   "falsch": [
+    "1965",
+    "1978",
+    "2003"
+   ],
+   "begruendung": "Ulf Merbold im All: 1983.",
+   "karte": {
+    "titel": "Ulf Merbold im All",
+    "text": "Merbold flog mit dem Space Shuttle Columbia.",
+    "merke": "Ulf Merbold im All: 1983."
+   }
+  },
+  {
+   "id": "wel-j-challenger-unglueck",
+   "schwierigkeit": "mittel",
+   "frage": "In welchem Jahr explodierte die Raumfähre Challenger kurz nach dem Start?",
+   "richtig": "1986",
+   "falsch": [
+    "1983",
+    "2023",
+    "1972"
+   ],
+   "begruendung": "Challenger-Unglück: 1986.",
+   "karte": {
+    "titel": "Challenger-Unglück",
+    "text": "Alle sieben Menschen an Bord starben.",
+    "merke": "Challenger-Unglück: 1986."
+   }
+  },
+  {
+   "id": "wel-j-start-von-hubble",
+   "schwierigkeit": "mittel",
+   "frage": "In welchem Jahr wurde das Weltraumteleskop Hubble gestartet?",
+   "richtig": "1990",
+   "falsch": [
+    "1978",
+    "2012",
+    "1969"
+   ],
+   "begruendung": "Start von Hubble: 1990.",
+   "karte": {
+    "titel": "Start von Hubble",
+    "text": "Ein Fehler im Spiegel machte die Bilder zuerst unscharf. Astronauten reparierten Hubble 1993.",
+    "merke": "Start von Hubble: 1990."
+   }
+  },
+  {
+   "id": "wel-j-erstes-iss-modul",
+   "schwierigkeit": "schwer",
+   "frage": "In welchem Jahr wurde das erste Modul der Internationalen Raumstation gestartet?",
+   "richtig": "1998",
+   "falsch": [
+    "1975",
+    "2012",
+    "2020"
+   ],
+   "begruendung": "Erstes ISS-Modul: 1998.",
+   "karte": {
+    "titel": "Erstes ISS-Modul",
+    "text": "Das russische Modul Sarja war der Anfang der ISS.",
+    "merke": "Erstes ISS-Modul: 1998."
+   }
+  },
+  {
+   "id": "wel-j-columbia-unglueck",
+   "schwierigkeit": "schwer",
+   "frage": "In welchem Jahr zerbrach die Raumfähre Columbia beim Wiedereintritt?",
+   "richtig": "2003",
+   "falsch": [
+    "2021",
+    "1975",
+    "1998"
+   ],
+   "begruendung": "Columbia-Unglück: 2003.",
+   "karte": {
+    "titel": "Columbia-Unglück",
+    "text": "Ein beschädigter Hitzeschild führte zum Unglück. Alle sieben Astronauten starben.",
+    "merke": "Columbia-Unglück: 2003."
+   }
+  },
+  {
+   "id": "wel-j-pluto-wird-zwergplanet",
+   "schwierigkeit": "mittel",
+   "frage": "In welchem Jahr wurde Pluto zum Zwergplaneten erklärt?",
+   "richtig": "2006",
+   "falsch": [
+    "1969",
+    "2015",
+    "1986"
+   ],
+   "begruendung": "Pluto wird Zwergplanet: 2006.",
+   "karte": {
+    "titel": "Pluto wird Zwergplanet",
+    "text": "Die Internationale Astronomische Union legte 2006 fest, was ein Planet ist.",
+    "merke": "Pluto wird Zwergplanet: 2006."
+   }
+  },
+  {
+   "id": "wel-j-landung-von-curiosity",
+   "schwierigkeit": "schwer",
+   "frage": "In welchem Jahr landete der Rover Curiosity auf dem Mars?",
+   "richtig": "2012",
+   "falsch": [
+    "2014",
+    "1975",
+    "2015"
+   ],
+   "begruendung": "Landung von Curiosity: 2012.",
+   "karte": {
+    "titel": "Landung von Curiosity",
+    "text": "Curiosity schwebte an einem „Himmelskran“ zu Boden.",
+    "merke": "Landung von Curiosity: 2012."
+   }
+  },
+  {
+   "id": "wel-j-philae-auf-einem-kometen",
+   "schwierigkeit": "schwer",
+   "frage": "In welchem Jahr landete mit Philae erstmals eine Sonde auf einem Kometen?",
+   "richtig": "2014",
+   "falsch": [
+    "2021",
+    "1981",
+    "2019"
+   ],
+   "begruendung": "Philae auf einem Kometen: 2014.",
+   "karte": {
+    "titel": "Philae auf einem Kometen",
+    "text": "Die ESA-Mission Rosetta setzte Philae auf dem Kometen Tschurjumow-Gerassimenko ab.",
+    "merke": "Philae auf einem Kometen: 2014."
+   }
+  },
+  {
+   "id": "wel-j-new-horizons-an-pluto",
+   "schwierigkeit": "schwer",
+   "frage": "In welchem Jahr flog die Sonde New Horizons an Pluto vorbei?",
+   "richtig": "2015",
+   "falsch": [
+    "2012",
+    "1977",
+    "1981"
+   ],
+   "begruendung": "New Horizons an Pluto: 2015.",
+   "karte": {
+    "titel": "New Horizons an Pluto",
+    "text": "Die Bilder zeigten eine herzförmige Ebene aus Stickstoffeis.",
+    "merke": "New Horizons an Pluto: 2015."
+   }
+  },
+  {
+   "id": "wel-j-bild-eines-schwarzen-lochs",
+   "schwierigkeit": "mittel",
+   "frage": "In welchem Jahr wurde das erste Bild eines Schwarzen Lochs veröffentlicht?",
+   "richtig": "2019",
+   "falsch": [
+    "2014",
+    "2020",
+    "2021"
+   ],
+   "begruendung": "Bild eines Schwarzen Lochs: 2019.",
+   "karte": {
+    "titel": "Bild eines Schwarzen Lochs",
+    "text": "Das Event Horizon Telescope verband Radioteleskope auf der ganzen Welt.",
+    "merke": "Bild eines Schwarzen Lochs: 2019."
+   }
+  },
+  {
+   "id": "wel-j-start-von-james-webb",
+   "schwierigkeit": "mittel",
+   "frage": "In welchem Jahr startete das James-Webb-Weltraumteleskop?",
+   "richtig": "2021",
+   "falsch": [
+    "1983",
+    "2020",
+    "1981"
+   ],
+   "begruendung": "Start von James Webb: 2021.",
+   "karte": {
+    "titel": "Start von James Webb",
+    "text": "Webb startete am 25. Dezember 2021 mit einer Ariane-5-Rakete.",
+    "merke": "Start von James Webb: 2021."
+   }
+  },
+  {
+   "id": "wel-j-gruendung-der-nasa",
+   "schwierigkeit": "mittel",
+   "frage": "In welchem Jahr wurde die US-Raumfahrtbehörde NASA gegründet?",
+   "richtig": "1958",
+   "falsch": [
+    "1963",
+    "1998",
+    "1983"
+   ],
+   "begruendung": "Gründung der NASA: 1958.",
+   "karte": {
+    "titel": "Gründung der NASA",
+    "text": "Die NASA entstand als Antwort auf den Sputnik-Schock.",
+    "merke": "Gründung der NASA: 1958."
+   }
+  },
+  {
+   "id": "wel-j-gruendung-der-esa",
+   "schwierigkeit": "schwer",
+   "frage": "In welchem Jahr wurde die Europäische Weltraumorganisation ESA gegründet?",
+   "richtig": "1975",
+   "falsch": [
+    "1963",
+    "1990",
+    "2003"
+   ],
+   "begruendung": "Gründung der ESA: 1975.",
+   "karte": {
+    "titel": "Gründung der ESA",
+    "text": "Die ESA hat ihren Hauptsitz in Paris, ihr Kontrollzentrum ESOC liegt in Darmstadt.",
+    "merke": "Gründung der ESA: 1975."
+   }
+  },
+  {
+   "id": "wel-j-erster-exoplanet-bei-einem-sonnenaehnlic",
+   "schwierigkeit": "schwer",
+   "frage": "In welchem Jahr entdeckten Forscher den ersten Planeten bei einem sonnenähnlichen Stern?",
+   "richtig": "1995",
+   "falsch": [
+    "2023",
+    "1969",
+    "1965"
+   ],
+   "begruendung": "Erster Exoplanet bei einem sonnenähnlichen Stern: 1995.",
+   "karte": {
+    "titel": "Erster Exoplanet bei einem sonnenähnlichen Stern",
+    "text": "Michel Mayor und Didier Queloz fanden 51 Pegasi b und erhielten dafür 2019 den Physik-Nobelpreis.",
+    "merke": "Erster Exoplanet bei einem sonnenähnlichen Stern: 1995."
+   }
+  },
+  {
+   "id": "wel-j-alexander-gersts-erster-iss-flug",
+   "schwierigkeit": "schwer",
+   "frage": "In welchem Jahr flog Alexander Gerst zum ersten Mal zur ISS?",
+   "richtig": "2014",
+   "falsch": [
+    "2021",
+    "1975",
+    "1977"
+   ],
+   "begruendung": "Alexander Gersts erster ISS-Flug: 2014.",
+   "karte": {
+    "titel": "Alexander Gersts erster ISS-Flug",
+    "text": "2018 war Gerst als erster Deutscher Kommandant der ISS.",
+    "merke": "Alexander Gersts erster ISS-Flug: 2014."
+   }
+  },
+  {
+   "id": "wel-j-erster-nachweis-von-gravitationswellen",
+   "schwierigkeit": "schwer",
+   "frage": "In welchem Jahr wurden zum ersten Mal Gravitationswellen gemessen?",
+   "richtig": "2015",
+   "falsch": [
+    "1981",
+    "1990",
+    "1977"
+   ],
+   "begruendung": "Erster Nachweis von Gravitationswellen: 2015.",
+   "karte": {
+    "titel": "Erster Nachweis von Gravitationswellen",
+    "text": "Die Wellen stammten von zwei verschmelzenden Schwarzen Löchern. Einstein hatte sie 100 Jahre vorher vorhergesagt.",
+    "merke": "Erster Nachweis von Gravitationswellen: 2015."
+   }
+  },
+  {
+   "id": "wel-j-erster-bemannter-flug-von-spacex",
+   "schwierigkeit": "schwer",
+   "frage": "In welchem Jahr brachte SpaceX zum ersten Mal Astronauten zur ISS?",
+   "richtig": "2020",
+   "falsch": [
+    "2014",
+    "2015",
+    "1995"
+   ],
+   "begruendung": "Erster bemannter Flug von SpaceX: 2020.",
+   "karte": {
+    "titel": "Erster bemannter Flug von SpaceX",
+    "text": "Die Kapsel Crew Dragon war das erste private Raumschiff mit Menschen an Bord, das die ISS erreichte.",
+    "merke": "Erster bemannter Flug von SpaceX: 2020."
+   }
+  },
+  {
+   "id": "wel-j-landung-von-perseverance",
+   "schwierigkeit": "schwer",
+   "frage": "In welchem Jahr landete der Rover Perseverance auf dem Mars?",
+   "richtig": "2021",
+   "falsch": [
+    "1981",
+    "1995",
+    "2015"
+   ],
+   "begruendung": "Landung von Perseverance: 2021.",
+   "karte": {
+    "titel": "Landung von Perseverance",
+    "text": "Mit Perseverance flog der kleine Hubschrauber Ingenuity, das erste Fluggerät auf einem anderen Planeten.",
+    "merke": "Landung von Perseverance: 2021."
+   }
+  },
+  {
+   "id": "wel-j-indien-am-mondsuedpol",
+   "schwierigkeit": "schwer",
+   "frage": "In welchem Jahr landete Indien als erstes Land nahe dem Südpol des Mondes?",
+   "richtig": "2023",
+   "falsch": [
+    "2021",
+    "2012",
+    "2014"
+   ],
+   "begruendung": "Indien am Mondsüdpol: 2023.",
+   "karte": {
+    "titel": "Indien am Mondsüdpol",
+    "text": "Die Mission hieß Chandrayaan-3.",
+    "merke": "Indien am Mondsüdpol: 2023."
+   }
+  },
+  {
+   "id": "wel-mo-phobos",
+   "schwierigkeit": "mittel",
+   "frage": "Um welchen Himmelskörper kreist der Mond Phobos?",
+   "richtig": "Mars",
+   "falsch": [
+    "Neptun",
+    "Uranus",
+    "Saturn"
+   ],
+   "begruendung": "Phobos ist ein Mond des Mars.",
+   "karte": {
+    "titel": "Phobos",
+    "text": "Phobos heißt auf Griechisch Furcht. Er nähert sich dem Mars und wird in Millionen Jahren zerbrechen.",
+    "merke": "Phobos ist ein Mond des Mars."
+   }
+  },
+  {
+   "id": "wel-mo-deimos",
+   "schwierigkeit": "schwer",
+   "frage": "Um welchen Himmelskörper kreist der Mond Deimos?",
+   "richtig": "Mars",
+   "falsch": [
+    "Venus",
+    "Erde",
+    "Saturn"
+   ],
+   "begruendung": "Deimos ist ein Mond des Mars.",
+   "karte": {
+    "titel": "Deimos",
+    "text": "Deimos heißt Schrecken. Er ist nur etwa 12 km groß.",
+    "merke": "Deimos ist ein Mond des Mars."
+   }
+  },
+  {
+   "id": "wel-mo-io",
+   "schwierigkeit": "mittel",
+   "frage": "Um welchen Himmelskörper kreist der Mond Io?",
+   "richtig": "Jupiter",
+   "falsch": [
+    "Pluto",
+    "Mars",
+    "Venus"
+   ],
+   "begruendung": "Io ist ein Mond des Jupiter.",
+   "karte": {
+    "titel": "Io",
+    "text": "Io ist der Himmelskörper mit den meisten aktiven Vulkanen im Sonnensystem.",
+    "merke": "Io ist ein Mond des Jupiter."
+   }
+  },
+  {
+   "id": "wel-mo-europa",
+   "schwierigkeit": "mittel",
+   "frage": "Um welchen Himmelskörper kreist der Mond Europa?",
+   "richtig": "Jupiter",
+   "falsch": [
+    "Erde",
+    "Uranus",
+    "Venus"
+   ],
+   "begruendung": "Europa ist ein Mond des Jupiter.",
+   "karte": {
+    "titel": "Europa",
+    "text": "Unter dem Eis von Europa liegt vermutlich ein Ozean aus flüssigem Wasser.",
+    "merke": "Europa ist ein Mond des Jupiter."
+   }
+  },
+  {
+   "id": "wel-mo-ganymed",
+   "schwierigkeit": "mittel",
+   "frage": "Um welchen Himmelskörper kreist der Mond Ganymed?",
+   "richtig": "Jupiter",
+   "falsch": [
+    "Erde",
+    "Pluto",
+    "Neptun"
+   ],
+   "begruendung": "Ganymed ist ein Mond des Jupiter.",
+   "karte": {
+    "titel": "Ganymed",
+    "text": "Ganymed ist der größte Mond im Sonnensystem, größer als der Planet Merkur.",
+    "merke": "Ganymed ist ein Mond des Jupiter."
+   }
+  },
+  {
+   "id": "wel-mo-kallisto",
+   "schwierigkeit": "schwer",
+   "frage": "Um welchen Himmelskörper kreist der Mond Kallisto?",
+   "richtig": "Jupiter",
+   "falsch": [
+    "Erde",
+    "Saturn",
+    "Venus"
+   ],
+   "begruendung": "Kallisto ist ein Mond des Jupiter.",
+   "karte": {
+    "titel": "Kallisto",
+    "text": "Kallisto hat eine der am stärksten verkraterten Oberflächen im Sonnensystem.",
+    "merke": "Kallisto ist ein Mond des Jupiter."
+   }
+  },
+  {
+   "id": "wel-mo-titan",
+   "schwierigkeit": "mittel",
+   "frage": "Um welchen Himmelskörper kreist der Mond Titan?",
+   "richtig": "Saturn",
+   "falsch": [
+    "Venus",
+    "Mars",
+    "Neptun"
+   ],
+   "begruendung": "Titan ist ein Mond des Saturn.",
+   "karte": {
+    "titel": "Titan",
+    "text": "Titan hat eine dichte Atmosphäre und Seen aus flüssigem Methan.",
+    "merke": "Titan ist ein Mond des Saturn."
+   }
+  },
+  {
+   "id": "wel-mo-enceladus",
+   "schwierigkeit": "schwer",
+   "frage": "Um welchen Himmelskörper kreist der Mond Enceladus?",
+   "richtig": "Saturn",
+   "falsch": [
+    "Neptun",
+    "Jupiter",
+    "Venus"
+   ],
+   "begruendung": "Enceladus ist ein Mond des Saturn.",
+   "karte": {
+    "titel": "Enceladus",
+    "text": "Aus Spalten am Südpol von Enceladus schießen Wasserfontänen ins All.",
+    "merke": "Enceladus ist ein Mond des Saturn."
+   }
+  },
+  {
+   "id": "wel-mo-mimas",
+   "schwierigkeit": "schwer",
+   "frage": "Um welchen Himmelskörper kreist der Mond Mimas?",
+   "richtig": "Saturn",
+   "falsch": [
+    "Jupiter",
+    "Neptun",
+    "Mars"
+   ],
+   "begruendung": "Mimas ist ein Mond des Saturn.",
+   "karte": {
+    "titel": "Mimas",
+    "text": "Ein riesiger Krater lässt Mimas aussehen wie den Todesstern aus Star Wars.",
+    "merke": "Mimas ist ein Mond des Saturn."
+   }
+  },
+  {
+   "id": "wel-mo-triton",
+   "schwierigkeit": "schwer",
+   "frage": "Um welchen Himmelskörper kreist der Mond Triton?",
+   "richtig": "Neptun",
+   "falsch": [
+    "Pluto",
+    "Saturn",
+    "Jupiter"
+   ],
+   "begruendung": "Triton ist ein Mond des Neptun.",
+   "karte": {
+    "titel": "Triton",
+    "text": "Triton umkreist Neptun rückwärts. Vermutlich hat Neptun ihn eingefangen.",
+    "merke": "Triton ist ein Mond des Neptun."
+   }
+  },
+  {
+   "id": "wel-mo-titania",
+   "schwierigkeit": "schwer",
+   "frage": "Um welchen Himmelskörper kreist der Mond Titania?",
+   "richtig": "Uranus",
+   "falsch": [
+    "Venus",
+    "Mars",
+    "Saturn"
+   ],
+   "begruendung": "Titania ist ein Mond des Uranus.",
+   "karte": {
+    "titel": "Titania",
+    "text": "Die Uranusmonde tragen Namen aus Werken von Shakespeare und Alexander Pope.",
+    "merke": "Titania ist ein Mond des Uranus."
+   }
+  },
+  {
+   "id": "wel-mo-oberon",
+   "schwierigkeit": "schwer",
+   "frage": "Um welchen Himmelskörper kreist der Mond Oberon?",
+   "richtig": "Uranus",
+   "falsch": [
+    "Venus",
+    "Erde",
+    "Pluto"
+   ],
+   "begruendung": "Oberon ist ein Mond des Uranus.",
+   "karte": {
+    "titel": "Oberon",
+    "text": "Oberon ist nach dem Elfenkönig aus Shakespeares „Ein Sommernachtstraum“ benannt.",
+    "merke": "Oberon ist ein Mond des Uranus."
+   }
+  },
+  {
+   "id": "wel-mo-miranda",
+   "schwierigkeit": "schwer",
+   "frage": "Um welchen Himmelskörper kreist der Mond Miranda?",
+   "richtig": "Uranus",
+   "falsch": [
+    "Mars",
+    "Pluto",
+    "Jupiter"
+   ],
+   "begruendung": "Miranda ist ein Mond des Uranus.",
+   "karte": {
+    "titel": "Miranda",
+    "text": "Auf Miranda gibt es Steilwände, die bis zu 20 km tief abfallen.",
+    "merke": "Miranda ist ein Mond des Uranus."
+   }
+  },
+  {
+   "id": "wel-mo-charon",
+   "schwierigkeit": "schwer",
+   "frage": "Um welchen Himmelskörper kreist der Mond Charon?",
+   "richtig": "Pluto",
+   "falsch": [
+    "Jupiter",
+    "Erde",
+    "Saturn"
+   ],
+   "begruendung": "Charon ist ein Mond des Zwergplaneten Pluto.",
+   "karte": {
+    "titel": "Charon",
+    "text": "Charon ist halb so groß wie Pluto. Beide drehen sich um einen gemeinsamen Punkt.",
+    "merke": "Charon ist ein Mond des Zwergplaneten Pluto."
+   }
+  },
+  {
+   "id": "wel-st-beteigeuze",
+   "schwierigkeit": "mittel",
+   "frage": "Zu welchem Sternbild gehört der Stern Beteigeuze?",
+   "richtig": "Orion",
+   "falsch": [
+    "Bärenhüter",
+    "Kleiner Bär",
+    "Kassiopeia"
+   ],
+   "begruendung": "Beteigeuze gehört zum Sternbild Orion.",
+   "karte": {
+    "titel": "Beteigeuze",
+    "text": "Beteigeuze ist ein Roter Überriese und wird irgendwann als Supernova explodieren.",
+    "merke": "Beteigeuze gehört zum Sternbild Orion."
+   }
+  },
+  {
+   "id": "wel-st-rigel",
+   "schwierigkeit": "schwer",
+   "frage": "Zu welchem Sternbild gehört der Stern Rigel?",
+   "richtig": "Orion",
+   "falsch": [
+    "Schwan",
+    "Großer Hund",
+    "Großer Bär"
+   ],
+   "begruendung": "Rigel gehört zum Sternbild Orion.",
+   "karte": {
+    "titel": "Rigel",
+    "text": "Rigel ist ein blauweißer Riesenstern am Fuß des Orion.",
+    "merke": "Rigel gehört zum Sternbild Orion."
+   }
+  },
+  {
+   "id": "wel-st-polarstern",
+   "schwierigkeit": "mittel",
+   "frage": "Zu welchem Sternbild gehört der Polarstern?",
+   "richtig": "Kleiner Bär",
+   "falsch": [
+    "Großer Hund",
+    "Löwe",
+    "Orion"
+   ],
+   "begruendung": "Polarstern gehört zum Sternbild Kleiner Bär.",
+   "karte": {
+    "titel": "Polarstern",
+    "text": "Der Polarstern steht fast genau über dem Nordpol der Erde.",
+    "merke": "Polarstern gehört zum Sternbild Kleiner Bär."
+   }
+  },
+  {
+   "id": "wel-st-sirius",
+   "schwierigkeit": "mittel",
+   "frage": "Zu welchem Sternbild gehört der Stern Sirius?",
+   "richtig": "Großer Hund",
+   "falsch": [
+    "Kassiopeia",
+    "Orion",
+    "Großer Bär"
+   ],
+   "begruendung": "Sirius gehört zum Sternbild Großer Hund.",
+   "karte": {
+    "titel": "Sirius",
+    "text": "Sirius ist der hellste Stern am Nachthimmel.",
+    "merke": "Sirius gehört zum Sternbild Großer Hund."
+   }
+  },
+  {
+   "id": "wel-st-wega",
+   "schwierigkeit": "schwer",
+   "frage": "Zu welchem Sternbild gehört der Stern Wega?",
+   "richtig": "Leier",
+   "falsch": [
+    "Kassiopeia",
+    "Löwe",
+    "Jungfrau"
+   ],
+   "begruendung": "Wega gehört zum Sternbild Leier.",
+   "karte": {
+    "titel": "Wega",
+    "text": "Wega bildet mit Deneb und Atair das Sommerdreieck.",
+    "merke": "Wega gehört zum Sternbild Leier."
+   }
+  },
+  {
+   "id": "wel-st-deneb",
+   "schwierigkeit": "schwer",
+   "frage": "Zu welchem Sternbild gehört der Stern Deneb?",
+   "richtig": "Schwan",
+   "falsch": [
+    "Bärenhüter",
+    "Kleiner Bär",
+    "Kassiopeia"
+   ],
+   "begruendung": "Deneb gehört zum Sternbild Schwan.",
+   "karte": {
+    "titel": "Deneb",
+    "text": "Deneb gehört zu den leuchtkräftigsten Sternen, die du mit bloßem Auge sehen kannst.",
+    "merke": "Deneb gehört zum Sternbild Schwan."
+   }
+  },
+  {
+   "id": "wel-st-atair",
+   "schwierigkeit": "schwer",
+   "frage": "Zu welchem Sternbild gehört der Stern Atair?",
+   "richtig": "Adler",
+   "falsch": [
+    "Stier",
+    "Großer Bär",
+    "Kleiner Bär"
+   ],
+   "begruendung": "Atair gehört zum Sternbild Adler.",
+   "karte": {
+    "titel": "Atair",
+    "text": "Atair dreht sich so schnell, dass er an den Polen abgeplattet ist.",
+    "merke": "Atair gehört zum Sternbild Adler."
+   }
+  },
+  {
+   "id": "wel-st-aldebaran",
+   "schwierigkeit": "schwer",
+   "frage": "Zu welchem Sternbild gehört der Stern Aldebaran?",
+   "richtig": "Stier",
+   "falsch": [
+    "Zwillinge",
+    "Orion",
+    "Skorpion"
+   ],
+   "begruendung": "Aldebaran gehört zum Sternbild Stier.",
+   "karte": {
+    "titel": "Aldebaran",
+    "text": "Aldebaran leuchtet als rötliches „Auge des Stiers“.",
+    "merke": "Aldebaran gehört zum Sternbild Stier."
+   }
+  },
+  {
+   "id": "wel-st-antares",
+   "schwierigkeit": "schwer",
+   "frage": "Zu welchem Sternbild gehört der Stern Antares?",
+   "richtig": "Skorpion",
+   "falsch": [
+    "Kassiopeia",
+    "Orion",
+    "Löwe"
+   ],
+   "begruendung": "Antares gehört zum Sternbild Skorpion.",
+   "karte": {
+    "titel": "Antares",
+    "text": "Antares heißt „Gegenspieler des Mars“, weil er ähnlich rot leuchtet.",
+    "merke": "Antares gehört zum Sternbild Skorpion."
+   }
+  },
+  {
+   "id": "wel-st-arktur",
+   "schwierigkeit": "schwer",
+   "frage": "Zu welchem Sternbild gehört der Stern Arktur?",
+   "richtig": "Bärenhüter",
+   "falsch": [
+    "Stier",
+    "Fische",
+    "Großer Bär"
+   ],
+   "begruendung": "Arktur gehört zum Sternbild Bärenhüter.",
+   "karte": {
+    "titel": "Arktur",
+    "text": "Arktur ist der hellste Stern am Nordhimmel.",
+    "merke": "Arktur gehört zum Sternbild Bärenhüter."
+   }
+  },
+  {
+   "id": "wel-st-spica",
+   "schwierigkeit": "schwer",
+   "frage": "Zu welchem Sternbild gehört der Stern Spica?",
+   "richtig": "Jungfrau",
+   "falsch": [
+    "Stier",
+    "Orion",
+    "Bärenhüter"
+   ],
+   "begruendung": "Spica gehört zum Sternbild Jungfrau.",
+   "karte": {
+    "titel": "Spica",
+    "text": "Spica heißt auf Lateinisch Ähre.",
+    "merke": "Spica gehört zum Sternbild Jungfrau."
+   }
+  },
+  {
+   "id": "wel-st-regulus",
+   "schwierigkeit": "schwer",
+   "frage": "Zu welchem Sternbild gehört der Stern Regulus?",
+   "richtig": "Löwe",
+   "falsch": [
+    "Kassiopeia",
+    "Skorpion",
+    "Jungfrau"
+   ],
+   "begruendung": "Regulus gehört zum Sternbild Löwe.",
+   "karte": {
+    "titel": "Regulus",
+    "text": "Regulus heißt „kleiner König“.",
+    "merke": "Regulus gehört zum Sternbild Löwe."
+   }
+  },
+  {
+   "id": "wel-st-pollux",
+   "schwierigkeit": "schwer",
+   "frage": "Zu welchem Sternbild gehört der Stern Pollux?",
+   "richtig": "Zwillinge",
+   "falsch": [
+    "Leier",
+    "Fische",
+    "Großer Hund"
+   ],
+   "begruendung": "Pollux gehört zum Sternbild Zwillinge.",
+   "karte": {
+    "titel": "Pollux",
+    "text": "Pollux und Kastor sind nach den Zwillingen der griechischen Sage benannt.",
+    "merke": "Pollux gehört zum Sternbild Zwillinge."
+   }
+  }
+ ]
+}

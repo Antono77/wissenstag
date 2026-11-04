@@ -1,0 +1,1869 @@
+{
+ "klasse": "wissenschaft",
+ "erzeugt": "scripts/generate-fakten.mjs",
+ "fragen": [
+  {
+   "id": "wis-el-wasserstoff-1",
+   "schwierigkeit": "leicht",
+   "frage": "Welches Element hat das Symbol H?",
+   "richtig": "Wasserstoff",
+   "falsch": [
+    "Nickel",
+    "Calcium",
+    "Lithium"
+   ],
+   "begruendung": "H = Wasserstoff.",
+   "karte": {
+    "titel": "Wasserstoff (H)",
+    "text": "Wasserstoff ist das leichteste und häufigste Element im Universum.",
+    "merke": "H = Wasserstoff."
+   },
+   "ddf": true
+  },
+  {
+   "id": "wis-el-helium-1",
+   "schwierigkeit": "leicht",
+   "frage": "Welches Element hat das Symbol He?",
+   "richtig": "Helium",
+   "falsch": [
+    "Platin",
+    "Quecksilber",
+    "Radon"
+   ],
+   "begruendung": "He = Helium.",
+   "karte": {
+    "titel": "Helium (He)",
+    "text": "Helium ist leichter als Luft und lässt Ballons steigen.",
+    "merke": "He = Helium."
+   },
+   "ddf": true
+  },
+  {
+   "id": "wis-el-lithium-1",
+   "schwierigkeit": "mittel",
+   "frage": "Welches Element hat das Symbol Li?",
+   "richtig": "Lithium",
+   "falsch": [
+    "Iod",
+    "Platin",
+    "Silicium"
+   ],
+   "begruendung": "Li = Lithium.",
+   "karte": {
+    "titel": "Lithium (Li)",
+    "text": "Lithium steckt in Akkus von Handys und E-Autos.",
+    "merke": "Li = Lithium."
+   }
+  },
+  {
+   "id": "wis-el-kohlenstoff-1",
+   "schwierigkeit": "leicht",
+   "frage": "Welches Element hat das Symbol C?",
+   "richtig": "Kohlenstoff",
+   "falsch": [
+    "Wolfram",
+    "Lithium",
+    "Silber"
+   ],
+   "begruendung": "C = Kohlenstoff.",
+   "karte": {
+    "titel": "Kohlenstoff (C)",
+    "text": "Kohlenstoff ist der Grundbaustein aller Lebewesen.",
+    "merke": "C = Kohlenstoff."
+   },
+   "ddf": true
+  },
+  {
+   "id": "wis-el-stickstoff-1",
+   "schwierigkeit": "leicht",
+   "frage": "Welches Element hat das Symbol N?",
+   "richtig": "Stickstoff",
+   "falsch": [
+    "Silber",
+    "Helium",
+    "Brom"
+   ],
+   "begruendung": "N = Stickstoff.",
+   "karte": {
+    "titel": "Stickstoff (N)",
+    "text": "Stickstoff macht rund 78 Prozent der Luft aus.",
+    "merke": "N = Stickstoff."
+   },
+   "ddf": true
+  },
+  {
+   "id": "wis-el-sauerstoff-1",
+   "schwierigkeit": "leicht",
+   "frage": "Welches Element hat das Symbol O?",
+   "richtig": "Sauerstoff",
+   "falsch": [
+    "Natrium",
+    "Uran",
+    "Phosphor"
+   ],
+   "begruendung": "O = Sauerstoff.",
+   "karte": {
+    "titel": "Sauerstoff (O)",
+    "text": "Sauerstoff brauchst du zum Atmen.",
+    "merke": "O = Sauerstoff."
+   },
+   "ddf": true
+  },
+  {
+   "id": "wis-el-fluor-1",
+   "schwierigkeit": "mittel",
+   "frage": "Welches Element hat das Symbol F?",
+   "richtig": "Fluor",
+   "falsch": [
+    "Kalium",
+    "Sauerstoff",
+    "Schwefel"
+   ],
+   "begruendung": "F = Fluor.",
+   "karte": {
+    "titel": "Fluor (F)",
+    "text": "Fluorid in Zahnpasta schützt die Zähne vor Karies.",
+    "merke": "F = Fluor."
+   }
+  },
+  {
+   "id": "wis-el-neon-1",
+   "schwierigkeit": "mittel",
+   "frage": "Welches Element hat das Symbol Ne?",
+   "richtig": "Neon",
+   "falsch": [
+    "Wasserstoff",
+    "Natrium",
+    "Mangan"
+   ],
+   "begruendung": "Ne = Neon.",
+   "karte": {
+    "titel": "Neon (Ne)",
+    "text": "Neon leuchtet in Leuchtreklamen rot-orange.",
+    "merke": "Ne = Neon."
+   }
+  },
+  {
+   "id": "wis-el-natrium-1",
+   "schwierigkeit": "mittel",
+   "frage": "Welches Element hat das Symbol Na?",
+   "richtig": "Natrium",
+   "falsch": [
+    "Schwefel",
+    "Blei",
+    "Titan"
+   ],
+   "begruendung": "Na = Natrium.",
+   "karte": {
+    "titel": "Natrium (Na)",
+    "text": "Natrium bildet mit Chlor Kochsalz.",
+    "merke": "Na = Natrium."
+   }
+  },
+  {
+   "id": "wis-el-magnesium-1",
+   "schwierigkeit": "mittel",
+   "frage": "Welches Element hat das Symbol Mg?",
+   "richtig": "Magnesium",
+   "falsch": [
+    "Iod",
+    "Natrium",
+    "Phosphor"
+   ],
+   "begruendung": "Mg = Magnesium.",
+   "karte": {
+    "titel": "Magnesium (Mg)",
+    "text": "Magnesium brennt mit grellweißem Licht.",
+    "merke": "Mg = Magnesium."
+   }
+  },
+  {
+   "id": "wis-el-aluminium-1",
+   "schwierigkeit": "leicht",
+   "frage": "Welches Element hat das Symbol Al?",
+   "richtig": "Aluminium",
+   "falsch": [
+    "Wolfram",
+    "Phosphor",
+    "Helium"
+   ],
+   "begruendung": "Al = Aluminium.",
+   "karte": {
+    "titel": "Aluminium (Al)",
+    "text": "Aluminium ist das häufigste Metall in der Erdkruste.",
+    "merke": "Al = Aluminium."
+   },
+   "ddf": true
+  },
+  {
+   "id": "wis-el-silicium-1",
+   "schwierigkeit": "mittel",
+   "frage": "Welches Element hat das Symbol Si?",
+   "richtig": "Silicium",
+   "falsch": [
+    "Silber",
+    "Chrom",
+    "Brom"
+   ],
+   "begruendung": "Si = Silicium.",
+   "karte": {
+    "titel": "Silicium (Si)",
+    "text": "Silicium ist der Rohstoff für Computerchips.",
+    "merke": "Si = Silicium."
+   }
+  },
+  {
+   "id": "wis-el-phosphor-1",
+   "schwierigkeit": "mittel",
+   "frage": "Welches Element hat das Symbol P?",
+   "richtig": "Phosphor",
+   "falsch": [
+    "Quecksilber",
+    "Cobalt",
+    "Lithium"
+   ],
+   "begruendung": "P = Phosphor.",
+   "karte": {
+    "titel": "Phosphor (P)",
+    "text": "Phosphor steckt in Streichholzschachteln an der Reibfläche.",
+    "merke": "P = Phosphor."
+   }
+  },
+  {
+   "id": "wis-el-schwefel-1",
+   "schwierigkeit": "mittel",
+   "frage": "Welches Element hat das Symbol S?",
+   "richtig": "Schwefel",
+   "falsch": [
+    "Radon",
+    "Stickstoff",
+    "Aluminium"
+   ],
+   "begruendung": "S = Schwefel.",
+   "karte": {
+    "titel": "Schwefel (S)",
+    "text": "Schwefel riecht in Verbindungen nach faulen Eiern.",
+    "merke": "S = Schwefel."
+   }
+  },
+  {
+   "id": "wis-el-chlor-1",
+   "schwierigkeit": "mittel",
+   "frage": "Welches Element hat das Symbol Cl?",
+   "richtig": "Chlor",
+   "falsch": [
+    "Neon",
+    "Mangan",
+    "Uran"
+   ],
+   "begruendung": "Cl = Chlor.",
+   "karte": {
+    "titel": "Chlor (Cl)",
+    "text": "Chlor desinfiziert Wasser in Schwimmbädern.",
+    "merke": "Cl = Chlor."
+   }
+  },
+  {
+   "id": "wis-el-argon-1",
+   "schwierigkeit": "schwer",
+   "frage": "Welches Element hat das Symbol Ar?",
+   "richtig": "Argon",
+   "falsch": [
+    "Sauerstoff",
+    "Xenon",
+    "Brom"
+   ],
+   "begruendung": "Ar = Argon.",
+   "karte": {
+    "titel": "Argon (Ar)",
+    "text": "Argon ist das häufigste Edelgas in der Luft.",
+    "merke": "Ar = Argon."
+   }
+  },
+  {
+   "id": "wis-el-kalium-1",
+   "schwierigkeit": "mittel",
+   "frage": "Welches Element hat das Symbol K?",
+   "richtig": "Kalium",
+   "falsch": [
+    "Schwefel",
+    "Nickel",
+    "Kupfer"
+   ],
+   "begruendung": "K = Kalium.",
+   "karte": {
+    "titel": "Kalium (K)",
+    "text": "Kalium steckt reichlich in Bananen.",
+    "merke": "K = Kalium."
+   }
+  },
+  {
+   "id": "wis-el-calcium-1",
+   "schwierigkeit": "mittel",
+   "frage": "Welches Element hat das Symbol Ca?",
+   "richtig": "Calcium",
+   "falsch": [
+    "Aluminium",
+    "Schwefel",
+    "Zink"
+   ],
+   "begruendung": "Ca = Calcium.",
+   "karte": {
+    "titel": "Calcium (Ca)",
+    "text": "Calcium macht Knochen und Zähne stabil.",
+    "merke": "Ca = Calcium."
+   }
+  },
+  {
+   "id": "wis-el-titan-1",
+   "schwierigkeit": "schwer",
+   "frage": "Welches Element hat das Symbol Ti?",
+   "richtig": "Titan",
+   "falsch": [
+    "Brom",
+    "Chlor",
+    "Aluminium"
+   ],
+   "begruendung": "Ti = Titan.",
+   "karte": {
+    "titel": "Titan (Ti)",
+    "text": "Titan ist leicht und fest und wird für Implantate genutzt.",
+    "merke": "Ti = Titan."
+   }
+  },
+  {
+   "id": "wis-el-chrom-1",
+   "schwierigkeit": "schwer",
+   "frage": "Welches Element hat das Symbol Cr?",
+   "richtig": "Chrom",
+   "falsch": [
+    "Wolfram",
+    "Silber",
+    "Plutonium"
+   ],
+   "begruendung": "Cr = Chrom.",
+   "karte": {
+    "titel": "Chrom (Cr)",
+    "text": "Chrom lässt Armaturen glänzen und macht Stahl rostfrei.",
+    "merke": "Cr = Chrom."
+   }
+  },
+  {
+   "id": "wis-el-mangan-1",
+   "schwierigkeit": "schwer",
+   "frage": "Welches Element hat das Symbol Mn?",
+   "richtig": "Mangan",
+   "falsch": [
+    "Lithium",
+    "Titan",
+    "Chlor"
+   ],
+   "begruendung": "Mn = Mangan.",
+   "karte": {
+    "titel": "Mangan (Mn)",
+    "text": "Mangan härtet Stahl.",
+    "merke": "Mn = Mangan."
+   }
+  },
+  {
+   "id": "wis-el-eisen-1",
+   "schwierigkeit": "leicht",
+   "frage": "Welches Element hat das Symbol Fe?",
+   "richtig": "Eisen",
+   "falsch": [
+    "Titan",
+    "Chrom",
+    "Lithium"
+   ],
+   "begruendung": "Fe = Eisen.",
+   "karte": {
+    "titel": "Eisen (Fe)",
+    "text": "Fe kommt vom lateinischen „ferrum“.",
+    "merke": "Fe = Eisen."
+   },
+   "ddf": true
+  },
+  {
+   "id": "wis-el-cobalt-1",
+   "schwierigkeit": "schwer",
+   "frage": "Welches Element hat das Symbol Co?",
+   "richtig": "Cobalt",
+   "falsch": [
+    "Neon",
+    "Eisen",
+    "Natrium"
+   ],
+   "begruendung": "Co = Cobalt.",
+   "karte": {
+    "titel": "Cobalt (Co)",
+    "text": "Cobalt färbt Glas blau und steckt in vielen Akkus.",
+    "merke": "Co = Cobalt."
+   }
+  },
+  {
+   "id": "wis-el-nickel-1",
+   "schwierigkeit": "mittel",
+   "frage": "Welches Element hat das Symbol Ni?",
+   "richtig": "Nickel",
+   "falsch": [
+    "Wasserstoff",
+    "Schwefel",
+    "Eisen"
+   ],
+   "begruendung": "Ni = Nickel.",
+   "karte": {
+    "titel": "Nickel (Ni)",
+    "text": "Nickel steckt in vielen Euromünzen.",
+    "merke": "Ni = Nickel."
+   }
+  },
+  {
+   "id": "wis-el-kupfer-1",
+   "schwierigkeit": "leicht",
+   "frage": "Welches Element hat das Symbol Cu?",
+   "richtig": "Kupfer",
+   "falsch": [
+    "Uran",
+    "Schwefel",
+    "Plutonium"
+   ],
+   "begruendung": "Cu = Kupfer.",
+   "karte": {
+    "titel": "Kupfer (Cu)",
+    "text": "Cu kommt vom lateinischen „cuprum“, nach der Insel Zypern.",
+    "merke": "Cu = Kupfer."
+   },
+   "ddf": true
+  },
+  {
+   "id": "wis-el-zink-1",
+   "schwierigkeit": "mittel",
+   "frage": "Welches Element hat das Symbol Zn?",
+   "richtig": "Zink",
+   "falsch": [
+    "Kalium",
+    "Lithium",
+    "Platin"
+   ],
+   "begruendung": "Zn = Zink.",
+   "karte": {
+    "titel": "Zink (Zn)",
+    "text": "Eine Zinkschicht schützt Stahl vor Rost.",
+    "merke": "Zn = Zink."
+   }
+  },
+  {
+   "id": "wis-el-brom-1",
+   "schwierigkeit": "schwer",
+   "frage": "Welches Element hat das Symbol Br?",
+   "richtig": "Brom",
+   "falsch": [
+    "Uran",
+    "Nickel",
+    "Titan"
+   ],
+   "begruendung": "Br = Brom.",
+   "karte": {
+    "titel": "Brom (Br)",
+    "text": "Brom ist neben Quecksilber das einzige Element, das bei Raumtemperatur flüssig ist.",
+    "merke": "Br = Brom."
+   }
+  },
+  {
+   "id": "wis-el-silber-1",
+   "schwierigkeit": "leicht",
+   "frage": "Welches Element hat das Symbol Ag?",
+   "richtig": "Silber",
+   "falsch": [
+    "Wasserstoff",
+    "Gold",
+    "Fluor"
+   ],
+   "begruendung": "Ag = Silber.",
+   "karte": {
+    "titel": "Silber (Ag)",
+    "text": "Ag kommt vom lateinischen „argentum“.",
+    "merke": "Ag = Silber."
+   },
+   "ddf": true
+  },
+  {
+   "id": "wis-el-zinn-1",
+   "schwierigkeit": "mittel",
+   "frage": "Welches Element hat das Symbol Sn?",
+   "richtig": "Zinn",
+   "falsch": [
+    "Nickel",
+    "Calcium",
+    "Aluminium"
+   ],
+   "begruendung": "Sn = Zinn.",
+   "karte": {
+    "titel": "Zinn (Sn)",
+    "text": "Sn kommt vom lateinischen „stannum“.",
+    "merke": "Sn = Zinn."
+   }
+  },
+  {
+   "id": "wis-el-iod-1",
+   "schwierigkeit": "mittel",
+   "frage": "Welches Element hat das Symbol I?",
+   "richtig": "Iod",
+   "falsch": [
+    "Xenon",
+    "Fluor",
+    "Nickel"
+   ],
+   "begruendung": "I = Iod.",
+   "karte": {
+    "titel": "Iod (I)",
+    "text": "Iod braucht deine Schilddrüse, deshalb gibt es iodiertes Speisesalz.",
+    "merke": "I = Iod."
+   }
+  },
+  {
+   "id": "wis-el-xenon-1",
+   "schwierigkeit": "schwer",
+   "frage": "Welches Element hat das Symbol Xe?",
+   "richtig": "Xenon",
+   "falsch": [
+    "Magnesium",
+    "Titan",
+    "Wolfram"
+   ],
+   "begruendung": "Xe = Xenon.",
+   "karte": {
+    "titel": "Xenon (Xe)",
+    "text": "Xenon leuchtet in Autoscheinwerfern bläulich.",
+    "merke": "Xe = Xenon."
+   }
+  },
+  {
+   "id": "wis-el-wolfram-1",
+   "schwierigkeit": "schwer",
+   "frage": "Welches Element hat das Symbol W?",
+   "richtig": "Wolfram",
+   "falsch": [
+    "Eisen",
+    "Chlor",
+    "Uran"
+   ],
+   "begruendung": "W = Wolfram.",
+   "karte": {
+    "titel": "Wolfram (W)",
+    "text": "Wolfram hat den höchsten Schmelzpunkt aller Metalle.",
+    "merke": "W = Wolfram."
+   }
+  },
+  {
+   "id": "wis-el-platin-1",
+   "schwierigkeit": "mittel",
+   "frage": "Welches Element hat das Symbol Pt?",
+   "richtig": "Platin",
+   "falsch": [
+    "Eisen",
+    "Kohlenstoff",
+    "Aluminium"
+   ],
+   "begruendung": "Pt = Platin.",
+   "karte": {
+    "titel": "Platin (Pt)",
+    "text": "Platin steckt in Katalysatoren von Autos.",
+    "merke": "Pt = Platin."
+   }
+  },
+  {
+   "id": "wis-el-gold-1",
+   "schwierigkeit": "leicht",
+   "frage": "Welches Element hat das Symbol Au?",
+   "richtig": "Gold",
+   "falsch": [
+    "Plutonium",
+    "Magnesium",
+    "Silicium"
+   ],
+   "begruendung": "Au = Gold.",
+   "karte": {
+    "titel": "Gold (Au)",
+    "text": "Au kommt vom lateinischen „aurum“.",
+    "merke": "Au = Gold."
+   },
+   "ddf": true
+  },
+  {
+   "id": "wis-el-quecksilber-1",
+   "schwierigkeit": "mittel",
+   "frage": "Welches Element hat das Symbol Hg?",
+   "richtig": "Quecksilber",
+   "falsch": [
+    "Wasserstoff",
+    "Mangan",
+    "Neon"
+   ],
+   "begruendung": "Hg = Quecksilber.",
+   "karte": {
+    "titel": "Quecksilber (Hg)",
+    "text": "Hg kommt vom griechisch-lateinischen „hydrargyrum“, flüssiges Silber.",
+    "merke": "Hg = Quecksilber."
+   }
+  },
+  {
+   "id": "wis-el-blei-1",
+   "schwierigkeit": "mittel",
+   "frage": "Welches Element hat das Symbol Pb?",
+   "richtig": "Blei",
+   "falsch": [
+    "Chrom",
+    "Wasserstoff",
+    "Quecksilber"
+   ],
+   "begruendung": "Pb = Blei.",
+   "karte": {
+    "titel": "Blei (Pb)",
+    "text": "Pb kommt vom lateinischen „plumbum“.",
+    "merke": "Pb = Blei."
+   }
+  },
+  {
+   "id": "wis-el-radon-1",
+   "schwierigkeit": "schwer",
+   "frage": "Welches Element hat das Symbol Rn?",
+   "richtig": "Radon",
+   "falsch": [
+    "Brom",
+    "Silicium",
+    "Zink"
+   ],
+   "begruendung": "Rn = Radon.",
+   "karte": {
+    "titel": "Radon (Rn)",
+    "text": "Das radioaktive Gas Radon kann aus dem Boden in Keller dringen.",
+    "merke": "Rn = Radon."
+   }
+  },
+  {
+   "id": "wis-el-uran-1",
+   "schwierigkeit": "mittel",
+   "frage": "Welches Element hat das Symbol U?",
+   "richtig": "Uran",
+   "falsch": [
+    "Iod",
+    "Platin",
+    "Aluminium"
+   ],
+   "begruendung": "U = Uran.",
+   "karte": {
+    "titel": "Uran (U)",
+    "text": "Uran dient als Brennstoff in Kernkraftwerken.",
+    "merke": "U = Uran."
+   }
+  },
+  {
+   "id": "wis-el-plutonium-1",
+   "schwierigkeit": "schwer",
+   "frage": "Welches Element hat das Symbol Pu?",
+   "richtig": "Plutonium",
+   "falsch": [
+    "Fluor",
+    "Wasserstoff",
+    "Uran"
+   ],
+   "begruendung": "Pu = Plutonium.",
+   "karte": {
+    "titel": "Plutonium (Pu)",
+    "text": "Plutonium ist nach dem Zwergplaneten Pluto benannt.",
+    "merke": "Pu = Plutonium."
+   }
+  },
+  {
+   "id": "wis-el-wasserstoff-2",
+   "schwierigkeit": "leicht",
+   "frage": "Welches chemische Symbol hat Wasserstoff?",
+   "richtig": "H",
+   "falsch": [
+    "U",
+    "W",
+    "Mn"
+   ],
+   "begruendung": "Wasserstoff = H, Ordnungszahl 1.",
+   "karte": {
+    "titel": "Wasserstoff (H)",
+    "text": "Wasserstoff ist das leichteste und häufigste Element im Universum.",
+    "merke": "Wasserstoff = H, Ordnungszahl 1."
+   }
+  },
+  {
+   "id": "wis-el-helium-2",
+   "schwierigkeit": "leicht",
+   "frage": "Welches chemische Symbol hat Helium?",
+   "richtig": "He",
+   "falsch": [
+    "Li",
+    "Ni",
+    "Si"
+   ],
+   "begruendung": "Helium = He, Ordnungszahl 2.",
+   "karte": {
+    "titel": "Helium (He)",
+    "text": "Helium ist leichter als Luft und lässt Ballons steigen.",
+    "merke": "Helium = He, Ordnungszahl 2."
+   }
+  },
+  {
+   "id": "wis-el-lithium-2",
+   "schwierigkeit": "mittel",
+   "frage": "Welches chemische Symbol hat Lithium?",
+   "richtig": "Li",
+   "falsch": [
+    "K",
+    "H",
+    "Xe"
+   ],
+   "begruendung": "Lithium = Li, Ordnungszahl 3.",
+   "karte": {
+    "titel": "Lithium (Li)",
+    "text": "Lithium steckt in Akkus von Handys und E-Autos.",
+    "merke": "Lithium = Li, Ordnungszahl 3."
+   }
+  },
+  {
+   "id": "wis-el-kohlenstoff-2",
+   "schwierigkeit": "leicht",
+   "frage": "Welches chemische Symbol hat Kohlenstoff?",
+   "richtig": "C",
+   "falsch": [
+    "Fe",
+    "Hg",
+    "Zn"
+   ],
+   "begruendung": "Kohlenstoff = C, Ordnungszahl 6.",
+   "karte": {
+    "titel": "Kohlenstoff (C)",
+    "text": "Kohlenstoff ist der Grundbaustein aller Lebewesen.",
+    "merke": "Kohlenstoff = C, Ordnungszahl 6."
+   }
+  },
+  {
+   "id": "wis-el-stickstoff-2",
+   "schwierigkeit": "leicht",
+   "frage": "Welches chemische Symbol hat Stickstoff?",
+   "richtig": "N",
+   "falsch": [
+    "I",
+    "Mn",
+    "Ag"
+   ],
+   "begruendung": "Stickstoff = N, Ordnungszahl 7.",
+   "karte": {
+    "titel": "Stickstoff (N)",
+    "text": "Stickstoff macht rund 78 Prozent der Luft aus.",
+    "merke": "Stickstoff = N, Ordnungszahl 7."
+   }
+  },
+  {
+   "id": "wis-el-sauerstoff-2",
+   "schwierigkeit": "leicht",
+   "frage": "Welches chemische Symbol hat Sauerstoff?",
+   "richtig": "O",
+   "falsch": [
+    "H",
+    "Hg",
+    "W"
+   ],
+   "begruendung": "Sauerstoff = O, Ordnungszahl 8.",
+   "karte": {
+    "titel": "Sauerstoff (O)",
+    "text": "Sauerstoff brauchst du zum Atmen.",
+    "merke": "Sauerstoff = O, Ordnungszahl 8."
+   }
+  },
+  {
+   "id": "wis-el-fluor-2",
+   "schwierigkeit": "mittel",
+   "frage": "Welches chemische Symbol hat Fluor?",
+   "richtig": "F",
+   "falsch": [
+    "Rn",
+    "Mg",
+    "Ti"
+   ],
+   "begruendung": "Fluor = F, Ordnungszahl 9.",
+   "karte": {
+    "titel": "Fluor (F)",
+    "text": "Fluorid in Zahnpasta schützt die Zähne vor Karies.",
+    "merke": "Fluor = F, Ordnungszahl 9."
+   }
+  },
+  {
+   "id": "wis-el-neon-2",
+   "schwierigkeit": "mittel",
+   "frage": "Welches chemische Symbol hat Neon?",
+   "richtig": "Ne",
+   "falsch": [
+    "Mg",
+    "Fe",
+    "Mn"
+   ],
+   "begruendung": "Neon = Ne, Ordnungszahl 10.",
+   "karte": {
+    "titel": "Neon (Ne)",
+    "text": "Neon leuchtet in Leuchtreklamen rot-orange.",
+    "merke": "Neon = Ne, Ordnungszahl 10."
+   }
+  },
+  {
+   "id": "wis-el-natrium-2",
+   "schwierigkeit": "mittel",
+   "frage": "Welches chemische Symbol hat Natrium?",
+   "richtig": "Na",
+   "falsch": [
+    "W",
+    "Ag",
+    "Rn"
+   ],
+   "begruendung": "Natrium = Na, Ordnungszahl 11.",
+   "karte": {
+    "titel": "Natrium (Na)",
+    "text": "Natrium bildet mit Chlor Kochsalz.",
+    "merke": "Natrium = Na, Ordnungszahl 11."
+   }
+  },
+  {
+   "id": "wis-el-magnesium-2",
+   "schwierigkeit": "mittel",
+   "frage": "Welches chemische Symbol hat Magnesium?",
+   "richtig": "Mg",
+   "falsch": [
+    "W",
+    "Pu",
+    "Cu"
+   ],
+   "begruendung": "Magnesium = Mg, Ordnungszahl 12.",
+   "karte": {
+    "titel": "Magnesium (Mg)",
+    "text": "Magnesium brennt mit grellweißem Licht.",
+    "merke": "Magnesium = Mg, Ordnungszahl 12."
+   }
+  },
+  {
+   "id": "wis-el-aluminium-2",
+   "schwierigkeit": "leicht",
+   "frage": "Welches chemische Symbol hat Aluminium?",
+   "richtig": "Al",
+   "falsch": [
+    "Pb",
+    "H",
+    "Hg"
+   ],
+   "begruendung": "Aluminium = Al, Ordnungszahl 13.",
+   "karte": {
+    "titel": "Aluminium (Al)",
+    "text": "Aluminium ist das häufigste Metall in der Erdkruste.",
+    "merke": "Aluminium = Al, Ordnungszahl 13."
+   }
+  },
+  {
+   "id": "wis-el-silicium-2",
+   "schwierigkeit": "mittel",
+   "frage": "Welches chemische Symbol hat Silicium?",
+   "richtig": "Si",
+   "falsch": [
+    "Ni",
+    "Pu",
+    "Br"
+   ],
+   "begruendung": "Silicium = Si, Ordnungszahl 14.",
+   "karte": {
+    "titel": "Silicium (Si)",
+    "text": "Silicium ist der Rohstoff für Computerchips.",
+    "merke": "Silicium = Si, Ordnungszahl 14."
+   }
+  },
+  {
+   "id": "wis-el-phosphor-2",
+   "schwierigkeit": "mittel",
+   "frage": "Welches chemische Symbol hat Phosphor?",
+   "richtig": "P",
+   "falsch": [
+    "Na",
+    "Pb",
+    "Hg"
+   ],
+   "begruendung": "Phosphor = P, Ordnungszahl 15.",
+   "karte": {
+    "titel": "Phosphor (P)",
+    "text": "Phosphor steckt in Streichholzschachteln an der Reibfläche.",
+    "merke": "Phosphor = P, Ordnungszahl 15."
+   }
+  },
+  {
+   "id": "wis-el-schwefel-2",
+   "schwierigkeit": "mittel",
+   "frage": "Welches chemische Symbol hat Schwefel?",
+   "richtig": "S",
+   "falsch": [
+    "P",
+    "Pb",
+    "Br"
+   ],
+   "begruendung": "Schwefel = S, Ordnungszahl 16.",
+   "karte": {
+    "titel": "Schwefel (S)",
+    "text": "Schwefel riecht in Verbindungen nach faulen Eiern.",
+    "merke": "Schwefel = S, Ordnungszahl 16."
+   }
+  },
+  {
+   "id": "wis-el-chlor-2",
+   "schwierigkeit": "mittel",
+   "frage": "Welches chemische Symbol hat Chlor?",
+   "richtig": "Cl",
+   "falsch": [
+    "Zn",
+    "Pt",
+    "Cu"
+   ],
+   "begruendung": "Chlor = Cl, Ordnungszahl 17.",
+   "karte": {
+    "titel": "Chlor (Cl)",
+    "text": "Chlor desinfiziert Wasser in Schwimmbädern.",
+    "merke": "Chlor = Cl, Ordnungszahl 17."
+   }
+  },
+  {
+   "id": "wis-el-argon-2",
+   "schwierigkeit": "schwer",
+   "frage": "Welches chemische Symbol hat Argon?",
+   "richtig": "Ar",
+   "falsch": [
+    "H",
+    "K",
+    "Rn"
+   ],
+   "begruendung": "Argon = Ar, Ordnungszahl 18.",
+   "karte": {
+    "titel": "Argon (Ar)",
+    "text": "Argon ist das häufigste Edelgas in der Luft.",
+    "merke": "Argon = Ar, Ordnungszahl 18."
+   }
+  },
+  {
+   "id": "wis-el-kalium-2",
+   "schwierigkeit": "mittel",
+   "frage": "Welches chemische Symbol hat Kalium?",
+   "richtig": "K",
+   "falsch": [
+    "Au",
+    "Si",
+    "Pu"
+   ],
+   "begruendung": "Kalium = K, Ordnungszahl 19.",
+   "karte": {
+    "titel": "Kalium (K)",
+    "text": "Kalium steckt reichlich in Bananen.",
+    "merke": "Kalium = K, Ordnungszahl 19."
+   }
+  },
+  {
+   "id": "wis-el-calcium-2",
+   "schwierigkeit": "mittel",
+   "frage": "Welches chemische Symbol hat Calcium?",
+   "richtig": "Ca",
+   "falsch": [
+    "U",
+    "Na",
+    "O"
+   ],
+   "begruendung": "Calcium = Ca, Ordnungszahl 20.",
+   "karte": {
+    "titel": "Calcium (Ca)",
+    "text": "Calcium macht Knochen und Zähne stabil.",
+    "merke": "Calcium = Ca, Ordnungszahl 20."
+   }
+  },
+  {
+   "id": "wis-el-titan-2",
+   "schwierigkeit": "schwer",
+   "frage": "Welches chemische Symbol hat Titan?",
+   "richtig": "Ti",
+   "falsch": [
+    "U",
+    "Cu",
+    "Rn"
+   ],
+   "begruendung": "Titan = Ti, Ordnungszahl 22.",
+   "karte": {
+    "titel": "Titan (Ti)",
+    "text": "Titan ist leicht und fest und wird für Implantate genutzt.",
+    "merke": "Titan = Ti, Ordnungszahl 22."
+   }
+  },
+  {
+   "id": "wis-el-chrom-2",
+   "schwierigkeit": "schwer",
+   "frage": "Welches chemische Symbol hat Chrom?",
+   "richtig": "Cr",
+   "falsch": [
+    "P",
+    "Pu",
+    "Ag"
+   ],
+   "begruendung": "Chrom = Cr, Ordnungszahl 24.",
+   "karte": {
+    "titel": "Chrom (Cr)",
+    "text": "Chrom lässt Armaturen glänzen und macht Stahl rostfrei.",
+    "merke": "Chrom = Cr, Ordnungszahl 24."
+   }
+  },
+  {
+   "id": "wis-el-mangan-2",
+   "schwierigkeit": "schwer",
+   "frage": "Welches chemische Symbol hat Mangan?",
+   "richtig": "Mn",
+   "falsch": [
+    "Pt",
+    "Na",
+    "I"
+   ],
+   "begruendung": "Mangan = Mn, Ordnungszahl 25.",
+   "karte": {
+    "titel": "Mangan (Mn)",
+    "text": "Mangan härtet Stahl.",
+    "merke": "Mangan = Mn, Ordnungszahl 25."
+   }
+  },
+  {
+   "id": "wis-el-eisen-2",
+   "schwierigkeit": "leicht",
+   "frage": "Welches chemische Symbol hat Eisen?",
+   "richtig": "Fe",
+   "falsch": [
+    "K",
+    "Pb",
+    "Hg"
+   ],
+   "begruendung": "Eisen = Fe, Ordnungszahl 26.",
+   "karte": {
+    "titel": "Eisen (Fe)",
+    "text": "Fe kommt vom lateinischen „ferrum“.",
+    "merke": "Eisen = Fe, Ordnungszahl 26."
+   }
+  },
+  {
+   "id": "wis-el-cobalt-2",
+   "schwierigkeit": "schwer",
+   "frage": "Welches chemische Symbol hat Cobalt?",
+   "richtig": "Co",
+   "falsch": [
+    "W",
+    "S",
+    "Mn"
+   ],
+   "begruendung": "Cobalt = Co, Ordnungszahl 27.",
+   "karte": {
+    "titel": "Cobalt (Co)",
+    "text": "Cobalt färbt Glas blau und steckt in vielen Akkus.",
+    "merke": "Cobalt = Co, Ordnungszahl 27."
+   }
+  },
+  {
+   "id": "wis-el-nickel-2",
+   "schwierigkeit": "mittel",
+   "frage": "Welches chemische Symbol hat Nickel?",
+   "richtig": "Ni",
+   "falsch": [
+    "W",
+    "Cu",
+    "He"
+   ],
+   "begruendung": "Nickel = Ni, Ordnungszahl 28.",
+   "karte": {
+    "titel": "Nickel (Ni)",
+    "text": "Nickel steckt in vielen Euromünzen.",
+    "merke": "Nickel = Ni, Ordnungszahl 28."
+   }
+  },
+  {
+   "id": "wis-el-kupfer-2",
+   "schwierigkeit": "leicht",
+   "frage": "Welches chemische Symbol hat Kupfer?",
+   "richtig": "Cu",
+   "falsch": [
+    "Pb",
+    "Co",
+    "Fe"
+   ],
+   "begruendung": "Kupfer = Cu, Ordnungszahl 29.",
+   "karte": {
+    "titel": "Kupfer (Cu)",
+    "text": "Cu kommt vom lateinischen „cuprum“, nach der Insel Zypern.",
+    "merke": "Kupfer = Cu, Ordnungszahl 29."
+   }
+  },
+  {
+   "id": "wis-el-zink-2",
+   "schwierigkeit": "mittel",
+   "frage": "Welches chemische Symbol hat Zink?",
+   "richtig": "Zn",
+   "falsch": [
+    "Pb",
+    "Mg",
+    "Sn"
+   ],
+   "begruendung": "Zink = Zn, Ordnungszahl 30.",
+   "karte": {
+    "titel": "Zink (Zn)",
+    "text": "Eine Zinkschicht schützt Stahl vor Rost.",
+    "merke": "Zink = Zn, Ordnungszahl 30."
+   }
+  },
+  {
+   "id": "wis-el-brom-2",
+   "schwierigkeit": "schwer",
+   "frage": "Welches chemische Symbol hat Brom?",
+   "richtig": "Br",
+   "falsch": [
+    "O",
+    "N",
+    "Pu"
+   ],
+   "begruendung": "Brom = Br, Ordnungszahl 35.",
+   "karte": {
+    "titel": "Brom (Br)",
+    "text": "Brom ist neben Quecksilber das einzige Element, das bei Raumtemperatur flüssig ist.",
+    "merke": "Brom = Br, Ordnungszahl 35."
+   }
+  },
+  {
+   "id": "wis-el-silber-2",
+   "schwierigkeit": "leicht",
+   "frage": "Welches chemische Symbol hat Silber?",
+   "richtig": "Ag",
+   "falsch": [
+    "U",
+    "Mn",
+    "O"
+   ],
+   "begruendung": "Silber = Ag, Ordnungszahl 47.",
+   "karte": {
+    "titel": "Silber (Ag)",
+    "text": "Ag kommt vom lateinischen „argentum“.",
+    "merke": "Silber = Ag, Ordnungszahl 47."
+   }
+  },
+  {
+   "id": "wis-el-zinn-2",
+   "schwierigkeit": "mittel",
+   "frage": "Welches chemische Symbol hat Zinn?",
+   "richtig": "Sn",
+   "falsch": [
+    "Fe",
+    "Ni",
+    "Pb"
+   ],
+   "begruendung": "Zinn = Sn, Ordnungszahl 50.",
+   "karte": {
+    "titel": "Zinn (Sn)",
+    "text": "Sn kommt vom lateinischen „stannum“.",
+    "merke": "Zinn = Sn, Ordnungszahl 50."
+   }
+  },
+  {
+   "id": "wis-el-iod-2",
+   "schwierigkeit": "mittel",
+   "frage": "Welches chemische Symbol hat Iod?",
+   "richtig": "I",
+   "falsch": [
+    "Ar",
+    "Co",
+    "Ti"
+   ],
+   "begruendung": "Iod = I, Ordnungszahl 53.",
+   "karte": {
+    "titel": "Iod (I)",
+    "text": "Iod braucht deine Schilddrüse, deshalb gibt es iodiertes Speisesalz.",
+    "merke": "Iod = I, Ordnungszahl 53."
+   }
+  },
+  {
+   "id": "wis-el-xenon-2",
+   "schwierigkeit": "schwer",
+   "frage": "Welches chemische Symbol hat Xenon?",
+   "richtig": "Xe",
+   "falsch": [
+    "Na",
+    "Al",
+    "H"
+   ],
+   "begruendung": "Xenon = Xe, Ordnungszahl 54.",
+   "karte": {
+    "titel": "Xenon (Xe)",
+    "text": "Xenon leuchtet in Autoscheinwerfern bläulich.",
+    "merke": "Xenon = Xe, Ordnungszahl 54."
+   }
+  },
+  {
+   "id": "wis-el-wolfram-2",
+   "schwierigkeit": "schwer",
+   "frage": "Welches chemische Symbol hat Wolfram?",
+   "richtig": "W",
+   "falsch": [
+    "Ca",
+    "Li",
+    "C"
+   ],
+   "begruendung": "Wolfram = W, Ordnungszahl 74.",
+   "karte": {
+    "titel": "Wolfram (W)",
+    "text": "Wolfram hat den höchsten Schmelzpunkt aller Metalle.",
+    "merke": "Wolfram = W, Ordnungszahl 74."
+   }
+  },
+  {
+   "id": "wis-el-platin-2",
+   "schwierigkeit": "mittel",
+   "frage": "Welches chemische Symbol hat Platin?",
+   "richtig": "Pt",
+   "falsch": [
+    "Pu",
+    "S",
+    "Cl"
+   ],
+   "begruendung": "Platin = Pt, Ordnungszahl 78.",
+   "karte": {
+    "titel": "Platin (Pt)",
+    "text": "Platin steckt in Katalysatoren von Autos.",
+    "merke": "Platin = Pt, Ordnungszahl 78."
+   }
+  },
+  {
+   "id": "wis-el-gold-2",
+   "schwierigkeit": "leicht",
+   "frage": "Welches chemische Symbol hat Gold?",
+   "richtig": "Au",
+   "falsch": [
+    "Pu",
+    "Ca",
+    "Cu"
+   ],
+   "begruendung": "Gold = Au, Ordnungszahl 79.",
+   "karte": {
+    "titel": "Gold (Au)",
+    "text": "Au kommt vom lateinischen „aurum“.",
+    "merke": "Gold = Au, Ordnungszahl 79."
+   }
+  },
+  {
+   "id": "wis-el-quecksilber-2",
+   "schwierigkeit": "mittel",
+   "frage": "Welches chemische Symbol hat Quecksilber?",
+   "richtig": "Hg",
+   "falsch": [
+    "Rn",
+    "Pb",
+    "Ne"
+   ],
+   "begruendung": "Quecksilber = Hg, Ordnungszahl 80.",
+   "karte": {
+    "titel": "Quecksilber (Hg)",
+    "text": "Hg kommt vom griechisch-lateinischen „hydrargyrum“, flüssiges Silber.",
+    "merke": "Quecksilber = Hg, Ordnungszahl 80."
+   }
+  },
+  {
+   "id": "wis-el-blei-2",
+   "schwierigkeit": "mittel",
+   "frage": "Welches chemische Symbol hat Blei?",
+   "richtig": "Pb",
+   "falsch": [
+    "N",
+    "I",
+    "C"
+   ],
+   "begruendung": "Blei = Pb, Ordnungszahl 82.",
+   "karte": {
+    "titel": "Blei (Pb)",
+    "text": "Pb kommt vom lateinischen „plumbum“.",
+    "merke": "Blei = Pb, Ordnungszahl 82."
+   }
+  },
+  {
+   "id": "wis-el-radon-2",
+   "schwierigkeit": "schwer",
+   "frage": "Welches chemische Symbol hat Radon?",
+   "richtig": "Rn",
+   "falsch": [
+    "Pu",
+    "H",
+    "Xe"
+   ],
+   "begruendung": "Radon = Rn, Ordnungszahl 86.",
+   "karte": {
+    "titel": "Radon (Rn)",
+    "text": "Das radioaktive Gas Radon kann aus dem Boden in Keller dringen.",
+    "merke": "Radon = Rn, Ordnungszahl 86."
+   }
+  },
+  {
+   "id": "wis-el-uran-2",
+   "schwierigkeit": "mittel",
+   "frage": "Welches chemische Symbol hat Uran?",
+   "richtig": "U",
+   "falsch": [
+    "Ca",
+    "Cr",
+    "Zn"
+   ],
+   "begruendung": "Uran = U, Ordnungszahl 92.",
+   "karte": {
+    "titel": "Uran (U)",
+    "text": "Uran dient als Brennstoff in Kernkraftwerken.",
+    "merke": "Uran = U, Ordnungszahl 92."
+   }
+  },
+  {
+   "id": "wis-el-plutonium-2",
+   "schwierigkeit": "schwer",
+   "frage": "Welches chemische Symbol hat Plutonium?",
+   "richtig": "Pu",
+   "falsch": [
+    "I",
+    "Br",
+    "S"
+   ],
+   "begruendung": "Plutonium = Pu, Ordnungszahl 94.",
+   "karte": {
+    "titel": "Plutonium (Pu)",
+    "text": "Plutonium ist nach dem Zwergplaneten Pluto benannt.",
+    "merke": "Plutonium = Pu, Ordnungszahl 94."
+   }
+  },
+  {
+   "id": "wis-ei-kraft",
+   "schwierigkeit": "leicht",
+   "frage": "In welcher Einheit misst man Kraft?",
+   "richtig": "Newton",
+   "falsch": [
+    "Hertz",
+    "Joule",
+    "Kelvin"
+   ],
+   "begruendung": "Newton ist die Einheit für Kraft.",
+   "karte": {
+    "titel": "Newton",
+    "text": "Benannt nach Isaac Newton.",
+    "merke": "Newton ist die Einheit für Kraft."
+   }
+  },
+  {
+   "id": "wis-ei-energie",
+   "schwierigkeit": "mittel",
+   "frage": "In welcher Einheit misst man Energie?",
+   "richtig": "Joule",
+   "falsch": [
+    "Tesla",
+    "Hertz",
+    "Kilogramm"
+   ],
+   "begruendung": "Joule ist die Einheit für Energie.",
+   "karte": {
+    "titel": "Joule",
+    "text": "Benannt nach dem Physiker James Prescott Joule. Auf Lebensmitteln steht oft zusätzlich die Kalorie.",
+    "merke": "Joule ist die Einheit für Energie."
+   }
+  },
+  {
+   "id": "wis-ei-leistung",
+   "schwierigkeit": "leicht",
+   "frage": "In welcher Einheit misst man Leistung?",
+   "richtig": "Watt",
+   "falsch": [
+    "Kilogramm",
+    "Candela",
+    "Becquerel"
+   ],
+   "begruendung": "Watt ist die Einheit für Leistung.",
+   "karte": {
+    "titel": "Watt",
+    "text": "Benannt nach James Watt, der die Dampfmaschine verbesserte.",
+    "merke": "Watt ist die Einheit für Leistung."
+   }
+  },
+  {
+   "id": "wis-ei-druck",
+   "schwierigkeit": "mittel",
+   "frage": "In welcher Einheit misst man Druck?",
+   "richtig": "Pascal",
+   "falsch": [
+    "Newton",
+    "Kelvin",
+    "Tesla"
+   ],
+   "begruendung": "Pascal ist die Einheit für Druck.",
+   "karte": {
+    "titel": "Pascal",
+    "text": "Benannt nach Blaise Pascal. Der Wetterbericht nennt Hektopascal.",
+    "merke": "Pascal ist die Einheit für Druck."
+   }
+  },
+  {
+   "id": "wis-ei-frequenz",
+   "schwierigkeit": "mittel",
+   "frage": "In welcher Einheit misst man Frequenz?",
+   "richtig": "Hertz",
+   "falsch": [
+    "Watt",
+    "Kelvin",
+    "Coulomb"
+   ],
+   "begruendung": "Hertz ist die Einheit für Frequenz.",
+   "karte": {
+    "titel": "Hertz",
+    "text": "Benannt nach Heinrich Hertz, der elektromagnetische Wellen nachwies.",
+    "merke": "Hertz ist die Einheit für Frequenz."
+   }
+  },
+  {
+   "id": "wis-ei-elektrischen-widerstand",
+   "schwierigkeit": "mittel",
+   "frage": "In welcher Einheit misst man elektrischen Widerstand?",
+   "richtig": "Ohm",
+   "falsch": [
+    "Tesla",
+    "Watt",
+    "Candela"
+   ],
+   "begruendung": "Ohm ist die Einheit für elektrischen Widerstand.",
+   "karte": {
+    "titel": "Ohm",
+    "text": "Benannt nach Georg Simon Ohm.",
+    "merke": "Ohm ist die Einheit für elektrischen Widerstand."
+   }
+  },
+  {
+   "id": "wis-ei-elektrische-stromstaerke",
+   "schwierigkeit": "leicht",
+   "frage": "In welcher Einheit misst man elektrische Stromstärke?",
+   "richtig": "Ampere",
+   "falsch": [
+    "Newton",
+    "Coulomb",
+    "Volt"
+   ],
+   "begruendung": "Ampere ist die Einheit für elektrische Stromstärke.",
+   "karte": {
+    "titel": "Ampere",
+    "text": "Benannt nach André-Marie Ampère.",
+    "merke": "Ampere ist die Einheit für elektrische Stromstärke."
+   }
+  },
+  {
+   "id": "wis-ei-elektrische-spannung",
+   "schwierigkeit": "leicht",
+   "frage": "In welcher Einheit misst man elektrische Spannung?",
+   "richtig": "Volt",
+   "falsch": [
+    "Kilogramm",
+    "Newton",
+    "Watt"
+   ],
+   "begruendung": "Volt ist die Einheit für elektrische Spannung.",
+   "karte": {
+    "titel": "Volt",
+    "text": "Benannt nach Alessandro Volta.",
+    "merke": "Volt ist die Einheit für elektrische Spannung."
+   }
+  },
+  {
+   "id": "wis-ei-elektrische-ladung",
+   "schwierigkeit": "schwer",
+   "frage": "In welcher Einheit misst man elektrische Ladung?",
+   "richtig": "Coulomb",
+   "falsch": [
+    "Kilogramm",
+    "Farad",
+    "Becquerel"
+   ],
+   "begruendung": "Coulomb ist die Einheit für elektrische Ladung.",
+   "karte": {
+    "titel": "Coulomb",
+    "text": "Benannt nach Charles-Augustin de Coulomb.",
+    "merke": "Coulomb ist die Einheit für elektrische Ladung."
+   }
+  },
+  {
+   "id": "wis-ei-temperatur-im-si-system",
+   "schwierigkeit": "mittel",
+   "frage": "In welcher Einheit misst man Temperatur im SI-System?",
+   "richtig": "Kelvin",
+   "falsch": [
+    "Hertz",
+    "Mol",
+    "Watt"
+   ],
+   "begruendung": "Kelvin ist die Einheit für Temperatur im SI-System.",
+   "karte": {
+    "titel": "Kelvin",
+    "text": "Benannt nach Lord Kelvin. 0 Kelvin ist der absolute Nullpunkt.",
+    "merke": "Kelvin ist die Einheit für Temperatur im SI-System."
+   }
+  },
+  {
+   "id": "wis-ei-stoffmenge",
+   "schwierigkeit": "schwer",
+   "frage": "In welcher Einheit misst man Stoffmenge?",
+   "richtig": "Mol",
+   "falsch": [
+    "Volt",
+    "Watt",
+    "Candela"
+   ],
+   "begruendung": "Mol ist die Einheit für Stoffmenge.",
+   "karte": {
+    "titel": "Mol",
+    "text": "Ein Mol enthält rund 602 Trilliarden Teilchen.",
+    "merke": "Mol ist die Einheit für Stoffmenge."
+   }
+  },
+  {
+   "id": "wis-ei-lichtstaerke",
+   "schwierigkeit": "schwer",
+   "frage": "In welcher Einheit misst man Lichtstärke?",
+   "richtig": "Candela",
+   "falsch": [
+    "Watt",
+    "Mol",
+    "Becquerel"
+   ],
+   "begruendung": "Candela ist die Einheit für Lichtstärke.",
+   "karte": {
+    "titel": "Candela",
+    "text": "Candela ist Lateinisch und heißt Kerze.",
+    "merke": "Candela ist die Einheit für Lichtstärke."
+   }
+  },
+  {
+   "id": "wis-ei-masse",
+   "schwierigkeit": "leicht",
+   "frage": "In welcher Einheit misst man Masse?",
+   "richtig": "Kilogramm",
+   "falsch": [
+    "Newton",
+    "Mol",
+    "Coulomb"
+   ],
+   "begruendung": "Kilogramm ist die Einheit für Masse.",
+   "karte": {
+    "titel": "Kilogramm",
+    "text": "Seit 2019 ist das Kilogramm über eine Naturkonstante festgelegt, nicht mehr über ein Metallstück in Paris.",
+    "merke": "Kilogramm ist die Einheit für Masse."
+   }
+  },
+  {
+   "id": "wis-ei-radioaktivitaet",
+   "schwierigkeit": "schwer",
+   "frage": "In welcher Einheit misst man Radioaktivität?",
+   "richtig": "Becquerel",
+   "falsch": [
+    "Watt",
+    "Candela",
+    "Tesla"
+   ],
+   "begruendung": "Becquerel ist die Einheit für Radioaktivität.",
+   "karte": {
+    "titel": "Becquerel",
+    "text": "Benannt nach Henri Becquerel, der die Radioaktivität entdeckte.",
+    "merke": "Becquerel ist die Einheit für Radioaktivität."
+   }
+  },
+  {
+   "id": "wis-ei-magnetische-flussdichte",
+   "schwierigkeit": "schwer",
+   "frage": "In welcher Einheit misst man magnetische Flussdichte?",
+   "richtig": "Tesla",
+   "falsch": [
+    "Kilogramm",
+    "Mol",
+    "Newton"
+   ],
+   "begruendung": "Tesla ist die Einheit für magnetische Flussdichte.",
+   "karte": {
+    "titel": "Tesla",
+    "text": "Benannt nach dem Erfinder Nikola Tesla.",
+    "merke": "Tesla ist die Einheit für magnetische Flussdichte."
+   }
+  },
+  {
+   "id": "wis-ei-elektrische-kapazitaet",
+   "schwierigkeit": "schwer",
+   "frage": "In welcher Einheit misst man elektrische Kapazität?",
+   "richtig": "Farad",
+   "falsch": [
+    "Joule",
+    "Watt",
+    "Becquerel"
+   ],
+   "begruendung": "Farad ist die Einheit für elektrische Kapazität.",
+   "karte": {
+    "titel": "Farad",
+    "text": "Benannt nach Michael Faraday.",
+    "merke": "Farad ist die Einheit für elektrische Kapazität."
+   }
+  },
+  {
+   "id": "wis-en-das-penicillin",
+   "schwierigkeit": "leicht",
+   "frage": "Wer entdeckte das Penicillin?",
+   "richtig": "Alexander Fleming",
+   "falsch": [
+    "Johannes Kepler",
+    "Ernest Rutherford",
+    "Louis Pasteur"
+   ],
+   "begruendung": "Alexander Fleming entdeckte das Penicillin.",
+   "karte": {
+    "titel": "Alexander Fleming",
+    "text": "Fleming bemerkte 1928, dass ein Schimmelpilz Bakterien abtötete.",
+    "merke": "Alexander Fleming entdeckte das Penicillin."
+   }
+  },
+  {
+   "id": "wis-en-die-roentgenstrahlen",
+   "schwierigkeit": "leicht",
+   "frage": "Wer entdeckte die Röntgenstrahlen?",
+   "richtig": "Wilhelm Conrad Röntgen",
+   "falsch": [
+    "Alexander Fleming",
+    "Robert Koch",
+    "Karl Landsteiner"
+   ],
+   "begruendung": "Wilhelm Conrad Röntgen entdeckte die Röntgenstrahlen.",
+   "karte": {
+    "titel": "Wilhelm Conrad Röntgen",
+    "text": "Röntgen entdeckte die Strahlen 1895 in Würzburg und erhielt 1901 den ersten Physik-Nobelpreis.",
+    "merke": "Wilhelm Conrad Röntgen entdeckte die Röntgenstrahlen."
+   }
+  },
+  {
+   "id": "wis-en-die-chemischen-elemente-polonium-und-rad",
+   "schwierigkeit": "leicht",
+   "frage": "Wer entdeckte die chemischen Elemente Polonium und Radium?",
+   "richtig": "Marie Curie",
+   "falsch": [
+    "Karl Landsteiner",
+    "Edward Jenner",
+    "Nikolaus Kopernikus"
+   ],
+   "begruendung": "Marie Curie entdeckte die chemischen Elemente Polonium und Radium.",
+   "karte": {
+    "titel": "Marie Curie",
+    "text": "Marie Curie erhielt als bisher einzige Person Nobelpreise in zwei Naturwissenschaften, Physik und Chemie.",
+    "merke": "Marie Curie entdeckte die chemischen Elemente Polonium und Radium."
+   }
+  },
+  {
+   "id": "wis-en-die-evolutionstheorie-durch-natuerliche-",
+   "schwierigkeit": "leicht",
+   "frage": "Wer begründete die Evolutionstheorie durch natürliche Auslese?",
+   "richtig": "Charles Darwin",
+   "falsch": [
+    "Edward Jenner",
+    "Karl Landsteiner",
+    "Johannes Kepler"
+   ],
+   "begruendung": "Charles Darwin begründete die Evolutionstheorie durch natürliche Auslese.",
+   "karte": {
+    "titel": "Charles Darwin",
+    "text": "Darwin veröffentlichte 1859 „Über die Entstehung der Arten“.",
+    "merke": "Charles Darwin begründete die Evolutionstheorie durch natürliche Auslese."
+   }
+  },
+  {
+   "id": "wis-en-die-vererbungsregeln-an-erbsen",
+   "schwierigkeit": "mittel",
+   "frage": "Wer fand die Vererbungsregeln an Erbsen?",
+   "richtig": "Gregor Mendel",
+   "falsch": [
+    "Ernest Rutherford",
+    "Alexander Fleming",
+    "Otto Hahn"
+   ],
+   "begruendung": "Gregor Mendel fand die Vererbungsregeln an Erbsen.",
+   "karte": {
+    "titel": "Gregor Mendel",
+    "text": "Der Mönch Gregor Mendel kreuzte im Klostergarten Erbsen und fand die Regeln der Vererbung.",
+    "merke": "Gregor Mendel fand die Vererbungsregeln an Erbsen."
+   }
+  },
+  {
+   "id": "wis-en-den-tuberkulose-erreger",
+   "schwierigkeit": "mittel",
+   "frage": "Wer entdeckte den Tuberkulose-Erreger?",
+   "richtig": "Robert Koch",
+   "falsch": [
+    "Charles Darwin",
+    "Otto Hahn",
+    "Johannes Kepler"
+   ],
+   "begruendung": "Robert Koch entdeckte den Tuberkulose-Erreger.",
+   "karte": {
+    "titel": "Robert Koch",
+    "text": "Robert Koch entdeckte den Erreger 1882. Das Robert-Koch-Institut ist nach ihm benannt.",
+    "merke": "Robert Koch entdeckte den Tuberkulose-Erreger."
+   }
+  },
+  {
+   "id": "wis-en-die-pockenimpfung",
+   "schwierigkeit": "schwer",
+   "frage": "Wer entwickelte die Pockenimpfung?",
+   "richtig": "Edward Jenner",
+   "falsch": [
+    "Galileo Galilei",
+    "Alexander Fleming",
+    "Ernest Rutherford"
+   ],
+   "begruendung": "Edward Jenner entwickelte die Pockenimpfung.",
+   "karte": {
+    "titel": "Edward Jenner",
+    "text": "Jenner impfte 1796 einen Jungen mit Kuhpocken und schützte ihn so vor echten Pocken.",
+    "merke": "Edward Jenner entwickelte die Pockenimpfung."
+   }
+  },
+  {
+   "id": "wis-en-das-heliozentrische-weltbild",
+   "schwierigkeit": "mittel",
+   "frage": "Wer begründete das heliozentrische Weltbild?",
+   "richtig": "Nikolaus Kopernikus",
+   "falsch": [
+    "Marie Curie",
+    "Max Planck",
+    "Galileo Galilei"
+   ],
+   "begruendung": "Nikolaus Kopernikus begründete das heliozentrische Weltbild.",
+   "karte": {
+    "titel": "Nikolaus Kopernikus",
+    "text": "Kopernikus setzte die Sonne statt der Erde in die Mitte des Planetensystems.",
+    "merke": "Nikolaus Kopernikus begründete das heliozentrische Weltbild."
+   }
+  },
+  {
+   "id": "wis-en-die-jupitermonde-mit-dem-fernrohr",
+   "schwierigkeit": "mittel",
+   "frage": "Wer entdeckte die Jupitermonde mit dem Fernrohr?",
+   "richtig": "Galileo Galilei",
+   "falsch": [
+    "Gregor Mendel",
+    "Max Planck",
+    "Otto Hahn"
+   ],
+   "begruendung": "Galileo Galilei entdeckte die Jupitermonde mit dem Fernrohr.",
+   "karte": {
+    "titel": "Galileo Galilei",
+    "text": "Galilei entdeckte 1610 die vier großen Jupitermonde.",
+    "merke": "Galileo Galilei entdeckte die Jupitermonde mit dem Fernrohr."
+   }
+  },
+  {
+   "id": "wis-en-die-gesetze-der-planetenbewegung",
+   "schwierigkeit": "schwer",
+   "frage": "Wer fand die Gesetze der Planetenbewegung?",
+   "richtig": "Johannes Kepler",
+   "falsch": [
+    "Max Planck",
+    "Alexander Fleming",
+    "Charles Darwin"
+   ],
+   "begruendung": "Johannes Kepler fand die Gesetze der Planetenbewegung.",
+   "karte": {
+    "titel": "Johannes Kepler",
+    "text": "Kepler zeigte, dass Planeten auf Ellipsen um die Sonne laufen.",
+    "merke": "Johannes Kepler fand die Gesetze der Planetenbewegung."
+   }
+  },
+  {
+   "id": "wis-en-die-quantenphysik",
+   "schwierigkeit": "schwer",
+   "frage": "Wer begründete die Quantenphysik?",
+   "richtig": "Max Planck",
+   "falsch": [
+    "Alexander Fleming",
+    "Galileo Galilei",
+    "Otto Hahn"
+   ],
+   "begruendung": "Max Planck begründete die Quantenphysik.",
+   "karte": {
+    "titel": "Max Planck",
+    "text": "Max Planck begründete 1900 die Quantenphysik.",
+    "merke": "Max Planck begründete die Quantenphysik."
+   }
+  },
+  {
+   "id": "wis-en-die-pasteurisierung",
+   "schwierigkeit": "mittel",
+   "frage": "Wer entwickelte die Pasteurisierung?",
+   "richtig": "Louis Pasteur",
+   "falsch": [
+    "Ernest Rutherford",
+    "Otto Hahn",
+    "Wilhelm Conrad Röntgen"
+   ],
+   "begruendung": "Louis Pasteur entwickelte die Pasteurisierung.",
+   "karte": {
+    "titel": "Louis Pasteur",
+    "text": "Pasteur zeigte, dass Erhitzen Keime in Milch und Wein abtötet.",
+    "merke": "Louis Pasteur entwickelte die Pasteurisierung."
+   }
+  },
+  {
+   "id": "wis-en-das-atommodell-mit-kern-und-huelle",
+   "schwierigkeit": "schwer",
+   "frage": "Wer entwickelte das Atommodell mit Kern und Hülle?",
+   "richtig": "Ernest Rutherford",
+   "falsch": [
+    "Wilhelm Conrad Röntgen",
+    "Gregor Mendel",
+    "Edward Jenner"
+   ],
+   "begruendung": "Ernest Rutherford entwickelte das Atommodell mit Kern und Hülle.",
+   "karte": {
+    "titel": "Ernest Rutherford",
+    "text": "Rutherford schoss 1909 bis 1911 Teilchen auf Goldfolie und fand den Atomkern.",
+    "merke": "Ernest Rutherford entwickelte das Atommodell mit Kern und Hülle."
+   }
+  },
+  {
+   "id": "wis-en-die-kernspaltung",
+   "schwierigkeit": "schwer",
+   "frage": "Wer entdeckte die Kernspaltung?",
+   "richtig": "Otto Hahn",
+   "falsch": [
+    "Nikolaus Kopernikus",
+    "Ernest Rutherford",
+    "Charles Darwin"
+   ],
+   "begruendung": "Otto Hahn entdeckte die Kernspaltung.",
+   "karte": {
+    "titel": "Otto Hahn",
+    "text": "Otto Hahn und Fritz Straßmann spalteten 1938 Urankerne, Lise Meitner erklärte den Vorgang.",
+    "merke": "Otto Hahn entdeckte die Kernspaltung."
+   }
+  },
+  {
+   "id": "wis-en-die-blutgruppen-a-b-und-0",
+   "schwierigkeit": "schwer",
+   "frage": "Wer entdeckte die Blutgruppen A, B und 0?",
+   "richtig": "Karl Landsteiner",
+   "falsch": [
+    "Gregor Mendel",
+    "Ernest Rutherford",
+    "Marie Curie"
+   ],
+   "begruendung": "Karl Landsteiner entdeckte die Blutgruppen A, B und 0.",
+   "karte": {
+    "titel": "Karl Landsteiner",
+    "text": "Landsteiner entdeckte die Blutgruppen 1901 und machte damit sichere Bluttransfusionen möglich.",
+    "merke": "Karl Landsteiner entdeckte die Blutgruppen A, B und 0."
+   }
+  }
+ ]
+}
