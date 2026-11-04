@@ -94,7 +94,7 @@ export default {
         ['inkl.', 'inklusive', 1], ['zzgl.', 'zuzüglich', 2], ['MwSt.', 'Mehrwertsteuer', 1], ['z. Hd.', 'zu Händen', 2], ['i. A.', 'im Auftrag', 2],
         ['PLZ', 'Postleitzahl', 1], ['Kfz', 'Kraftfahrzeug', 1], ['ÖPNV', 'öffentlicher Personennahverkehr', 2], ['WG', 'Wohngemeinschaft', 1],
         ['Azubi', 'Auszubildende oder Auszubildender', 1], ['Hbf', 'Hauptbahnhof', 1], ['ICE', 'Intercity-Express', 1], ['u. U.', 'unter Umständen', 2],
-        ['o. Ä.', 'oder Ähnliches', 2], ['Pkw', 'Personenkraftwagen', 1],
+        ['o. Ä.', 'oder Ähnliches', 2], ['Pkw', 'Personenkraftwagen', 1], ['Lkw', 'Lastkraftwagen', 1], ['vgl.', 'vergleiche', 2],
       ],
       fragen: [{
         frage: (r) => `Wofür steht die Abkürzung „${r.abk}“?`,

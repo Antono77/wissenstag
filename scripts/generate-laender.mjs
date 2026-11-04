@@ -232,6 +232,7 @@ for (let versuch = 0; versuch < 4000 && n < 30; versuch++) {
 }
 
 fs.mkdirSync(out, { recursive: true });
-fs.writeFileSync(path.join(out, 'flaggen.json'), JSON.stringify({ klasse: 'flaggen', erzeugt: 'scripts/generate-laender.mjs', fragen: flaggen }, null, 1));
-fs.writeFileSync(path.join(out, 'laender.json'), JSON.stringify({ klasse: 'laender', erzeugt: 'scripts/generate-laender.mjs', fragen: lnd }, null, 1));
+fs.mkdirSync(path.join(out, 'generiert'), { recursive: true });
+fs.writeFileSync(path.join(out, 'generiert', 'flaggen.json'), JSON.stringify({ klasse: 'flaggen', erzeugt: 'scripts/generate-laender.mjs', fragen: flaggen }, null, 1));
+fs.writeFileSync(path.join(out, 'generiert', 'laender.json'), JSON.stringify({ klasse: 'laender', erzeugt: 'scripts/generate-laender.mjs', fragen: lnd }, null, 1));
 console.log(`Flaggen: ${flaggen.length} Fragen, Länder & Hauptstädte: ${lnd.length} Fragen`);

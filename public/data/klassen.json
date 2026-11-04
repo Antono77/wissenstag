@@ -1,0 +1,29 @@
+{
+  "hinweis": "Liste aller Klassen. Jede Klasse lädt ihre Fragen aus den Dateien unter „dateien“. Eigene Fragen gehören in die erste Datei (ohne „generiert/“).",
+  "klassen": [
+    { "id": "geografie", "name": "Geografie", "kurz": "Ge", "text": "Flüsse, Gebirge, Meere und Rekorde", "dateien": ["geografie.json", "generiert/geografie.json"] },
+    { "id": "flaggen", "name": "Flaggen", "kurz": "Fl", "text": "Alle 195 Staaten der Welt", "dateien": ["generiert/flaggen.json"] },
+    { "id": "laender", "name": "Länder & Hauptstädte", "kurz": "LH", "text": "Hauptstadt, Kontinent, Sprache, Währung", "dateien": ["generiert/laender.json"] },
+    { "id": "geschichte", "name": "Geschichte", "kurz": "Gs", "text": "Von der Antike bis heute", "dateien": ["geschichte.json", "generiert/geschichte.json"] },
+    { "id": "politik", "name": "Politik & Gesellschaft", "kurz": "Po", "text": "Deutschland, EU und die Welt", "dateien": ["politik.json", "generiert/politik.json"] },
+    { "id": "wissenschaft", "name": "Wissenschaft", "kurz": "Wi", "text": "Physik, Chemie, Biologie", "dateien": ["wissenschaft.json", "generiert/wissenschaft.json"] },
+    { "id": "weltraum", "name": "Weltraum", "kurz": "Wr", "text": "Planeten, Sterne, Raumfahrt", "dateien": ["weltraum.json", "generiert/weltraum.json"] },
+    { "id": "natur", "name": "Natur & Tiere", "kurz": "NT", "text": "Tiere, Pflanzen, Lebensräume", "dateien": ["natur.json", "generiert/natur.json"] },
+    { "id": "mensch", "name": "Mensch & Körper", "kurz": "MK", "text": "Organe, Knochen, Gesundheit", "dateien": ["mensch.json", "generiert/mensch.json"] },
+    { "id": "technik", "name": "Technik & Erfindungen", "kurz": "Te", "text": "Erfinder, Geräte, Abkürzungen", "dateien": ["technik.json", "generiert/technik.json"] },
+    { "id": "wirtschaft", "name": "Wirtschaft & Geld", "kurz": "WG", "text": "Firmen, Begriffe, Geld", "dateien": ["wirtschaft.json", "generiert/wirtschaft.json"] },
+    { "id": "kunst", "name": "Kunst & Kultur", "kurz": "Ku", "text": "Gemälde, Bauwerke, Museen", "dateien": ["kunst.json", "generiert/kunst.json"] },
+    { "id": "literatur", "name": "Literatur", "kurz": "Li", "text": "Bücher, Autoren, Figuren", "dateien": ["literatur.json", "generiert/literatur.json"] },
+    { "id": "musik", "name": "Musik", "kurz": "Mu", "text": "Klassik, Pop, Instrumente", "dateien": ["musik.json", "generiert/musik.json"] },
+    { "id": "film", "name": "Film & Serien", "kurz": "FS", "text": "Kino, Serien, Figuren", "dateien": ["film.json", "generiert/film.json"] },
+    { "id": "sport", "name": "Sport", "kurz": "Sp", "text": "Olympia, Fußball, Regeln", "dateien": ["sport.json", "generiert/sport.json"] },
+    { "id": "sprache", "name": "Sprache & Redewendungen", "kurz": "SR", "text": "Sprichwörter, Fremdwörter, Herkunft", "dateien": ["sprache.json", "generiert/sprache.json"] },
+    { "id": "religion", "name": "Religion & Mythologie", "kurz": "RM", "text": "Weltreligionen, Götter, Sagen", "dateien": ["religion.json", "generiert/religion.json"] },
+    { "id": "essen", "name": "Essen & Trinken", "kurz": "ET", "text": "Gerichte, Zutaten, Spezialitäten", "dateien": ["essen.json", "generiert/essen.json"] },
+    { "id": "internet", "name": "Internet & Popkultur", "kurz": "IP", "text": "Netz, Games, Memes", "dateien": ["internet.json", "generiert/internet.json"] },
+    { "id": "deutschland", "name": "Deutschland-Wissen", "kurz": "DE", "text": "Bundesländer, Städte, Feiertage", "dateien": ["deutschland.json", "generiert/deutschland.json"] },
+    { "id": "logik", "name": "Logik & Mathe-Kopfnüsse", "kurz": "LM", "text": "Kopfrechnen, Rätsel, Folgen", "dateien": ["logik.json", "generiert/logik.json"] },
+    { "id": "umwelt", "name": "Umwelt & Klima", "kurz": "UK", "text": "Klima, Energie, Mülltrennung", "dateien": ["umwelt.json", "generiert/umwelt.json"] },
+    { "id": "alltag", "name": "Alltag & Allerlei", "kurz": "AA", "text": "Maße, Schilder, Kalender", "dateien": ["alltag.json", "generiert/alltag.json"] }
+  ]
+}
