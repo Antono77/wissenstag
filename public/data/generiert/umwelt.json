@@ -1,0 +1,1418 @@
+{
+ "klasse": "umwelt",
+ "erzeugt": "scripts/generate-fakten.mjs",
+ "fragen": [
+  {
+   "id": "umw-be-treibhauseffekt",
+   "schwierigkeit": "leicht",
+   "frage": "Was bedeutet „Treibhauseffekt“?",
+   "richtig": "Gase in der Luft halten Wärme an der Erde fest",
+   "falsch": [
+    "Rohstoffe werden möglichst lange genutzt und wiederverwertet",
+    "Sich umweltfreundlicher darstellen, als man ist",
+    "Winzige Partikel in der Luft, die in die Lunge gelangen"
+   ],
+   "begruendung": "Treibhauseffekt: Gase in der Luft halten Wärme an der Erde fest.",
+   "karte": {
+    "titel": "Treibhauseffekt",
+    "text": "Treibhauseffekt: Gase in der Luft halten Wärme an der Erde fest.",
+    "merke": "Treibhauseffekt: Gase in der Luft halten Wärme an der Erde fest."
+   }
+  },
+  {
+   "id": "umw-be-co-fussabdruck",
+   "schwierigkeit": "leicht",
+   "frage": "Was bedeutet „CO₂-Fußabdruck“?",
+   "richtig": "Menge an Treibhausgasen, die eine Person oder ein Produkt verursacht",
+   "falsch": [
+    "Es werden nicht mehr Treibhausgase ausgestoßen, als gebunden werden",
+    "Schwelle, ab der sich ein Teil des Klimasystems kaum umkehrbar verändert",
+    "Billige Mode, die schnell produziert und weggeworfen wird"
+   ],
+   "begruendung": "CO₂-Fußabdruck: Menge an Treibhausgasen, die eine Person oder ein Produkt verursacht.",
+   "karte": {
+    "titel": "CO₂-Fußabdruck",
+    "text": "CO₂-Fußabdruck: Menge an Treibhausgasen, die eine Person oder ein Produkt verursacht.",
+    "merke": "CO₂-Fußabdruck: Menge an Treibhausgasen, die eine Person oder ein Produkt verursacht."
+   }
+  },
+  {
+   "id": "umw-be-klimaneutralitaet",
+   "schwierigkeit": "mittel",
+   "frage": "Was bedeutet „Klimaneutralität“?",
+   "richtig": "Es werden nicht mehr Treibhausgase ausgestoßen, als gebunden werden",
+   "falsch": [
+    "Es werden mehr Fische gefangen, als nachwachsen",
+    "Boden, der das ganze Jahr über gefroren ist",
+    "Niederschlag, den Schwefel- und Stickoxide sauer machen"
+   ],
+   "begruendung": "Klimaneutralität: Es werden nicht mehr Treibhausgase ausgestoßen, als gebunden werden.",
+   "karte": {
+    "titel": "Klimaneutralität",
+    "text": "Klimaneutralität: Es werden nicht mehr Treibhausgase ausgestoßen, als gebunden werden.",
+    "merke": "Klimaneutralität: Es werden nicht mehr Treibhausgase ausgestoßen, als gebunden werden."
+   }
+  },
+  {
+   "id": "umw-be-biodiversitaet",
+   "schwierigkeit": "mittel",
+   "frage": "Was bedeutet „Biodiversität“?",
+   "richtig": "Vielfalt der Arten, Gene und Lebensräume",
+   "falsch": [
+    "Billige Mode, die schnell produziert und weggeworfen wird",
+    "Waren aus der Nähe, mit kurzen Transportwegen",
+    "Ausbreitung wüstenähnlicher Gebiete"
+   ],
+   "begruendung": "Biodiversität: Vielfalt der Arten, Gene und Lebensräume.",
+   "karte": {
+    "titel": "Biodiversität",
+    "text": "Biodiversität: Vielfalt der Arten, Gene und Lebensräume.",
+    "merke": "Biodiversität: Vielfalt der Arten, Gene und Lebensräume."
+   }
+  },
+  {
+   "id": "umw-be-erneuerbare-energien",
+   "schwierigkeit": "leicht",
+   "frage": "Was bedeutet „Erneuerbare Energien“?",
+   "richtig": "Energie aus Quellen, die sich nicht erschöpfen, etwa Sonne und Wind",
+   "falsch": [
+    "Plastikteilchen, kleiner als 5 Millimeter",
+    "Meerwasser nimmt CO₂ auf und wird saurer",
+    "Kohle, Erdöl und Erdgas aus Überresten urzeitlicher Lebewesen"
+   ],
+   "begruendung": "Erneuerbare Energien: Energie aus Quellen, die sich nicht erschöpfen, etwa Sonne und Wind.",
+   "karte": {
+    "titel": "Erneuerbare Energien",
+    "text": "Erneuerbare Energien: Energie aus Quellen, die sich nicht erschöpfen, etwa Sonne und Wind.",
+    "merke": "Erneuerbare Energien: Energie aus Quellen, die sich nicht erschöpfen, etwa Sonne und Wind."
+   }
+  },
+  {
+   "id": "umw-be-upcycling",
+   "schwierigkeit": "mittel",
+   "frage": "Was bedeutet „Upcycling“?",
+   "richtig": "Aus Abfall etwas Neues und Wertvolleres machen",
+   "falsch": [
+    "Autos teilen statt selbst besitzen",
+    "Rohstoffe werden möglichst lange genutzt und wiederverwertet",
+    "Energie aus Quellen, die sich nicht erschöpfen, etwa Sonne und Wind"
+   ],
+   "begruendung": "Upcycling: Aus Abfall etwas Neues und Wertvolleres machen.",
+   "karte": {
+    "titel": "Upcycling",
+    "text": "Upcycling: Aus Abfall etwas Neues und Wertvolleres machen.",
+    "merke": "Upcycling: Aus Abfall etwas Neues und Wertvolleres machen."
+   }
+  },
+  {
+   "id": "umw-be-mikroplastik",
+   "schwierigkeit": "leicht",
+   "frage": "Was bedeutet „Mikroplastik“?",
+   "richtig": "Plastikteilchen, kleiner als 5 Millimeter",
+   "falsch": [
+    "Menge an Treibhausgasen, die eine Person oder ein Produkt verursacht",
+    "Autos teilen statt selbst besitzen",
+    "Landwirtschaft ohne chemisch-synthetische Pflanzenschutzmittel"
+   ],
+   "begruendung": "Mikroplastik: Plastikteilchen, kleiner als 5 Millimeter.",
+   "karte": {
+    "titel": "Mikroplastik",
+    "text": "Mikroplastik: Plastikteilchen, kleiner als 5 Millimeter.",
+    "merke": "Mikroplastik: Plastikteilchen, kleiner als 5 Millimeter."
+   }
+  },
+  {
+   "id": "umw-be-permafrost",
+   "schwierigkeit": "mittel",
+   "frage": "Was bedeutet „Permafrost“?",
+   "richtig": "Boden, der das ganze Jahr über gefroren ist",
+   "falsch": [
+    "Niederschlag, den Schwefel- und Stickoxide sauer machen",
+    "Es werden nicht mehr Treibhausgase ausgestoßen, als gebunden werden",
+    "Gase in der Luft halten Wärme an der Erde fest"
+   ],
+   "begruendung": "Permafrost: Boden, der das ganze Jahr über gefroren ist.",
+   "karte": {
+    "titel": "Permafrost",
+    "text": "Permafrost: Boden, der das ganze Jahr über gefroren ist.",
+    "merke": "Permafrost: Boden, der das ganze Jahr über gefroren ist."
+   }
+  },
+  {
+   "id": "umw-be-kipppunkt",
+   "schwierigkeit": "schwer",
+   "frage": "Was bedeutet „Kipppunkt“?",
+   "richtig": "Schwelle, ab der sich ein Teil des Klimasystems kaum umkehrbar verändert",
+   "falsch": [
+    "Wasser, das sich im Boden unter der Erdoberfläche sammelt",
+    "Energie aus Quellen, die sich nicht erschöpfen, etwa Sonne und Wind",
+    "Gase in der Luft halten Wärme an der Erde fest"
+   ],
+   "begruendung": "Kipppunkt: Schwelle, ab der sich ein Teil des Klimasystems kaum umkehrbar verändert.",
+   "karte": {
+    "titel": "Kipppunkt",
+    "text": "Kipppunkt: Schwelle, ab der sich ein Teil des Klimasystems kaum umkehrbar verändert.",
+    "merke": "Kipppunkt: Schwelle, ab der sich ein Teil des Klimasystems kaum umkehrbar verändert."
+   }
+  },
+  {
+   "id": "umw-be-el-nino",
+   "schwierigkeit": "schwer",
+   "frage": "Was bedeutet „El Niño“?",
+   "richtig": "Wetterphänomen mit ungewöhnlich warmem Wasser im Pazifik",
+   "falsch": [
+    "Stadtgebiet, das sich stärker aufheizt als das Umland",
+    "Energie aus Quellen, die sich nicht erschöpfen, etwa Sonne und Wind",
+    "Winzige Partikel in der Luft, die in die Lunge gelangen"
+   ],
+   "begruendung": "El Niño: Wetterphänomen mit ungewöhnlich warmem Wasser im Pazifik.",
+   "karte": {
+    "titel": "El Niño",
+    "text": "El Niño: Wetterphänomen mit ungewöhnlich warmem Wasser im Pazifik.",
+    "merke": "El Niño: Wetterphänomen mit ungewöhnlich warmem Wasser im Pazifik."
+   }
+  },
+  {
+   "id": "umw-be-ozonloch",
+   "schwierigkeit": "mittel",
+   "frage": "Was bedeutet „Ozonloch“?",
+   "richtig": "Ausdünnung der schützenden Ozonschicht über den Polen",
+   "falsch": [
+    "Strom aus erneuerbaren Quellen",
+    "Rohstoffe werden möglichst lange genutzt und wiederverwertet",
+    "Boden, der das ganze Jahr über gefroren ist"
+   ],
+   "begruendung": "Ozonloch: Ausdünnung der schützenden Ozonschicht über den Polen.",
+   "karte": {
+    "titel": "Ozonloch",
+    "text": "Ozonloch: Ausdünnung der schützenden Ozonschicht über den Polen.",
+    "merke": "Ozonloch: Ausdünnung der schützenden Ozonschicht über den Polen."
+   }
+  },
+  {
+   "id": "umw-be-smog",
+   "schwierigkeit": "leicht",
+   "frage": "Was bedeutet „Smog“?",
+   "richtig": "Dunstige Luftverschmutzung über Städten",
+   "falsch": [
+    "Mit weniger Energie dasselbe erreichen",
+    "Es werden mehr Fische gefangen, als nachwachsen",
+    "Schwelle, ab der sich ein Teil des Klimasystems kaum umkehrbar verändert"
+   ],
+   "begruendung": "Smog: Dunstige Luftverschmutzung über Städten.",
+   "karte": {
+    "titel": "Smog",
+    "text": "Smog: Dunstige Luftverschmutzung über Städten.",
+    "merke": "Smog: Dunstige Luftverschmutzung über Städten."
+   }
+  },
+  {
+   "id": "umw-be-versauerung-der-meere",
+   "schwierigkeit": "schwer",
+   "frage": "Was bedeutet „Versauerung der Meere“?",
+   "richtig": "Meerwasser nimmt CO₂ auf und wird saurer",
+   "falsch": [
+    "Strom aus erneuerbaren Quellen",
+    "Sich umweltfreundlicher darstellen, als man ist",
+    "Energie aus Quellen, die sich nicht erschöpfen, etwa Sonne und Wind"
+   ],
+   "begruendung": "Versauerung der Meere: Meerwasser nimmt CO₂ auf und wird saurer.",
+   "karte": {
+    "titel": "Versauerung der Meere",
+    "text": "Versauerung der Meere: Meerwasser nimmt CO₂ auf und wird saurer.",
+    "merke": "Versauerung der Meere: Meerwasser nimmt CO₂ auf und wird saurer."
+   }
+  },
+  {
+   "id": "umw-be-kreislaufwirtschaft",
+   "schwierigkeit": "mittel",
+   "frage": "Was bedeutet „Kreislaufwirtschaft“?",
+   "richtig": "Rohstoffe werden möglichst lange genutzt und wiederverwertet",
+   "falsch": [
+    "Autos teilen statt selbst besitzen",
+    "Anbau immer derselben Pflanze auf einer großen Fläche",
+    "Strom aus erneuerbaren Quellen"
+   ],
+   "begruendung": "Kreislaufwirtschaft: Rohstoffe werden möglichst lange genutzt und wiederverwertet.",
+   "karte": {
+    "titel": "Kreislaufwirtschaft",
+    "text": "Kreislaufwirtschaft: Rohstoffe werden möglichst lange genutzt und wiederverwertet.",
+    "merke": "Kreislaufwirtschaft: Rohstoffe werden möglichst lange genutzt und wiederverwertet."
+   }
+  },
+  {
+   "id": "umw-be-emissionshandel",
+   "schwierigkeit": "schwer",
+   "frage": "Was bedeutet „Emissionshandel“?",
+   "richtig": "Firmen brauchen Zertifikate, um CO₂ ausstoßen zu dürfen",
+   "falsch": [
+    "Dunstige Luftverschmutzung über Städten",
+    "Niederschlag, den Schwefel- und Stickoxide sauer machen",
+    "Strom aus erneuerbaren Quellen"
+   ],
+   "begruendung": "Emissionshandel: Firmen brauchen Zertifikate, um CO₂ ausstoßen zu dürfen.",
+   "karte": {
+    "titel": "Emissionshandel",
+    "text": "Emissionshandel: Firmen brauchen Zertifikate, um CO₂ ausstoßen zu dürfen.",
+    "merke": "Emissionshandel: Firmen brauchen Zertifikate, um CO₂ ausstoßen zu dürfen."
+   }
+  },
+  {
+   "id": "umw-be-waermepumpe",
+   "schwierigkeit": "leicht",
+   "frage": "Was bedeutet „Wärmepumpe“?",
+   "richtig": "Heizung, die Wärme aus Luft, Erde oder Wasser nutzt",
+   "falsch": [
+    "Rohstoffe werden möglichst lange genutzt und wiederverwertet",
+    "Niederschlag, den Schwefel- und Stickoxide sauer machen",
+    "Boden, der das ganze Jahr über gefroren ist"
+   ],
+   "begruendung": "Wärmepumpe: Heizung, die Wärme aus Luft, Erde oder Wasser nutzt.",
+   "karte": {
+    "titel": "Wärmepumpe",
+    "text": "Wärmepumpe: Heizung, die Wärme aus Luft, Erde oder Wasser nutzt.",
+    "merke": "Wärmepumpe: Heizung, die Wärme aus Luft, Erde oder Wasser nutzt."
+   }
+  },
+  {
+   "id": "umw-be-greenwashing",
+   "schwierigkeit": "mittel",
+   "frage": "Was bedeutet „Greenwashing“?",
+   "richtig": "Sich umweltfreundlicher darstellen, als man ist",
+   "falsch": [
+    "Pflanzen neuer Wälder",
+    "Es werden nicht mehr Treibhausgase ausgestoßen, als gebunden werden",
+    "Schwelle, ab der sich ein Teil des Klimasystems kaum umkehrbar verändert"
+   ],
+   "begruendung": "Greenwashing: Sich umweltfreundlicher darstellen, als man ist.",
+   "karte": {
+    "titel": "Greenwashing",
+    "text": "Greenwashing: Sich umweltfreundlicher darstellen, als man ist.",
+    "merke": "Greenwashing: Sich umweltfreundlicher darstellen, als man ist."
+   }
+  },
+  {
+   "id": "umw-be-feinstaub",
+   "schwierigkeit": "leicht",
+   "frage": "Was bedeutet „Feinstaub“?",
+   "richtig": "Winzige Partikel in der Luft, die in die Lunge gelangen",
+   "falsch": [
+    "Strom aus erneuerbaren Quellen",
+    "Pflanzen neuer Wälder",
+    "Es werden nicht mehr Treibhausgase ausgestoßen, als gebunden werden"
+   ],
+   "begruendung": "Feinstaub: Winzige Partikel in der Luft, die in die Lunge gelangen.",
+   "karte": {
+    "titel": "Feinstaub",
+    "text": "Feinstaub: Winzige Partikel in der Luft, die in die Lunge gelangen.",
+    "merke": "Feinstaub: Winzige Partikel in der Luft, die in die Lunge gelangen."
+   }
+  },
+  {
+   "id": "umw-be-saurer-regen",
+   "schwierigkeit": "mittel",
+   "frage": "Was bedeutet „Saurer Regen“?",
+   "richtig": "Niederschlag, den Schwefel- und Stickoxide sauer machen",
+   "falsch": [
+    "Wetterphänomen mit ungewöhnlich warmem Wasser im Pazifik",
+    "Vielfalt der Arten, Gene und Lebensräume",
+    "Dunstige Luftverschmutzung über Städten"
+   ],
+   "begruendung": "Saurer Regen: Niederschlag, den Schwefel- und Stickoxide sauer machen.",
+   "karte": {
+    "titel": "Saurer Regen",
+    "text": "Saurer Regen: Niederschlag, den Schwefel- und Stickoxide sauer machen.",
+    "merke": "Saurer Regen: Niederschlag, den Schwefel- und Stickoxide sauer machen."
+   }
+  },
+  {
+   "id": "umw-be-monokultur",
+   "schwierigkeit": "mittel",
+   "frage": "Was bedeutet „Monokultur“?",
+   "richtig": "Anbau immer derselben Pflanze auf einer großen Fläche",
+   "falsch": [
+    "Menge an Treibhausgasen, die eine Person oder ein Produkt verursacht",
+    "Ausbreitung wüstenähnlicher Gebiete",
+    "Verzeichnis gefährdeter Tier- und Pflanzenarten"
+   ],
+   "begruendung": "Monokultur: Anbau immer derselben Pflanze auf einer großen Fläche.",
+   "karte": {
+    "titel": "Monokultur",
+    "text": "Monokultur: Anbau immer derselben Pflanze auf einer großen Fläche.",
+    "merke": "Monokultur: Anbau immer derselben Pflanze auf einer großen Fläche."
+   }
+  },
+  {
+   "id": "umw-be-ueberfischung",
+   "schwierigkeit": "leicht",
+   "frage": "Was bedeutet „Überfischung“?",
+   "richtig": "Es werden mehr Fische gefangen, als nachwachsen",
+   "falsch": [
+    "Boden, der das ganze Jahr über gefroren ist",
+    "Gase in der Luft halten Wärme an der Erde fest",
+    "Menge an Treibhausgasen, die eine Person oder ein Produkt verursacht"
+   ],
+   "begruendung": "Überfischung: Es werden mehr Fische gefangen, als nachwachsen.",
+   "karte": {
+    "titel": "Überfischung",
+    "text": "Überfischung: Es werden mehr Fische gefangen, als nachwachsen.",
+    "merke": "Überfischung: Es werden mehr Fische gefangen, als nachwachsen."
+   }
+  },
+  {
+   "id": "umw-be-desertifikation",
+   "schwierigkeit": "schwer",
+   "frage": "Was bedeutet „Desertifikation“?",
+   "richtig": "Ausbreitung wüstenähnlicher Gebiete",
+   "falsch": [
+    "Stadtgebiet, das sich stärker aufheizt als das Umland",
+    "Einen Lebensraum wieder in einen naturnahen Zustand versetzen",
+    "Heizung, die Wärme aus Luft, Erde oder Wasser nutzt"
+   ],
+   "begruendung": "Desertifikation: Ausbreitung wüstenähnlicher Gebiete.",
+   "karte": {
+    "titel": "Desertifikation",
+    "text": "Desertifikation: Ausbreitung wüstenähnlicher Gebiete.",
+    "merke": "Desertifikation: Ausbreitung wüstenähnlicher Gebiete."
+   }
+  },
+  {
+   "id": "umw-be-aufforstung",
+   "schwierigkeit": "leicht",
+   "frage": "Was bedeutet „Aufforstung“?",
+   "richtig": "Pflanzen neuer Wälder",
+   "falsch": [
+    "Ausbreitung wüstenähnlicher Gebiete",
+    "Es werden nicht mehr Treibhausgase ausgestoßen, als gebunden werden",
+    "Verzeichnis gefährdeter Tier- und Pflanzenarten"
+   ],
+   "begruendung": "Aufforstung: Pflanzen neuer Wälder.",
+   "karte": {
+    "titel": "Aufforstung",
+    "text": "Aufforstung: Pflanzen neuer Wälder.",
+    "merke": "Aufforstung: Pflanzen neuer Wälder."
+   }
+  },
+  {
+   "id": "umw-be-regionalitaet",
+   "schwierigkeit": "leicht",
+   "frage": "Was bedeutet „Regionalität“?",
+   "richtig": "Waren aus der Nähe, mit kurzen Transportwegen",
+   "falsch": [
+    "Kohle, Erdöl und Erdgas aus Überresten urzeitlicher Lebewesen",
+    "Sehr viel Regen in kurzer Zeit",
+    "Sich umweltfreundlicher darstellen, als man ist"
+   ],
+   "begruendung": "Regionalität: Waren aus der Nähe, mit kurzen Transportwegen.",
+   "karte": {
+    "titel": "Regionalität",
+    "text": "Regionalität: Waren aus der Nähe, mit kurzen Transportwegen.",
+    "merke": "Regionalität: Waren aus der Nähe, mit kurzen Transportwegen."
+   }
+  },
+  {
+   "id": "umw-be-fast-fashion",
+   "schwierigkeit": "leicht",
+   "frage": "Was bedeutet „Fast Fashion“?",
+   "richtig": "Billige Mode, die schnell produziert und weggeworfen wird",
+   "falsch": [
+    "Vielfalt der Arten, Gene und Lebensräume",
+    "Anbau immer derselben Pflanze auf einer großen Fläche",
+    "Plastikteilchen, kleiner als 5 Millimeter"
+   ],
+   "begruendung": "Fast Fashion: Billige Mode, die schnell produziert und weggeworfen wird.",
+   "karte": {
+    "titel": "Fast Fashion",
+    "text": "Fast Fashion: Billige Mode, die schnell produziert und weggeworfen wird.",
+    "merke": "Fast Fashion: Billige Mode, die schnell produziert und weggeworfen wird."
+   }
+  },
+  {
+   "id": "umw-be-oekologischer-landbau",
+   "schwierigkeit": "mittel",
+   "frage": "Was bedeutet „Ökologischer Landbau“?",
+   "richtig": "Landwirtschaft ohne chemisch-synthetische Pflanzenschutzmittel",
+   "falsch": [
+    "Schwelle, ab der sich ein Teil des Klimasystems kaum umkehrbar verändert",
+    "Energie aus Quellen, die sich nicht erschöpfen, etwa Sonne und Wind",
+    "Es werden mehr Fische gefangen, als nachwachsen"
+   ],
+   "begruendung": "Ökologischer Landbau: Landwirtschaft ohne chemisch-synthetische Pflanzenschutzmittel.",
+   "karte": {
+    "titel": "Ökologischer Landbau",
+    "text": "Ökologischer Landbau: Landwirtschaft ohne chemisch-synthetische Pflanzenschutzmittel.",
+    "merke": "Ökologischer Landbau: Landwirtschaft ohne chemisch-synthetische Pflanzenschutzmittel."
+   }
+  },
+  {
+   "id": "umw-be-energieeffizienz",
+   "schwierigkeit": "mittel",
+   "frage": "Was bedeutet „Energieeffizienz“?",
+   "richtig": "Mit weniger Energie dasselbe erreichen",
+   "falsch": [
+    "Wetterphänomen mit ungewöhnlich warmem Wasser im Pazifik",
+    "Billige Mode, die schnell produziert und weggeworfen wird",
+    "Boden, der das ganze Jahr über gefroren ist"
+   ],
+   "begruendung": "Energieeffizienz: Mit weniger Energie dasselbe erreichen.",
+   "karte": {
+    "titel": "Energieeffizienz",
+    "text": "Energieeffizienz: Mit weniger Energie dasselbe erreichen.",
+    "merke": "Energieeffizienz: Mit weniger Energie dasselbe erreichen."
+   }
+  },
+  {
+   "id": "umw-be-grundwasser",
+   "schwierigkeit": "leicht",
+   "frage": "Was bedeutet „Grundwasser“?",
+   "richtig": "Wasser, das sich im Boden unter der Erdoberfläche sammelt",
+   "falsch": [
+    "Boden, der das ganze Jahr über gefroren ist",
+    "Heizung, die Wärme aus Luft, Erde oder Wasser nutzt",
+    "Gase in der Luft halten Wärme an der Erde fest"
+   ],
+   "begruendung": "Grundwasser: Wasser, das sich im Boden unter der Erdoberfläche sammelt.",
+   "karte": {
+    "titel": "Grundwasser",
+    "text": "Grundwasser: Wasser, das sich im Boden unter der Erdoberfläche sammelt.",
+    "merke": "Grundwasser: Wasser, das sich im Boden unter der Erdoberfläche sammelt."
+   }
+  },
+  {
+   "id": "umw-be-fossile-brennstoffe",
+   "schwierigkeit": "leicht",
+   "frage": "Was bedeutet „Fossile Brennstoffe“?",
+   "richtig": "Kohle, Erdöl und Erdgas aus Überresten urzeitlicher Lebewesen",
+   "falsch": [
+    "Ausbreitung wüstenähnlicher Gebiete",
+    "Plastikteilchen, kleiner als 5 Millimeter",
+    "Wetterphänomen mit ungewöhnlich warmem Wasser im Pazifik"
+   ],
+   "begruendung": "Fossile Brennstoffe: Kohle, Erdöl und Erdgas aus Überresten urzeitlicher Lebewesen.",
+   "karte": {
+    "titel": "Fossile Brennstoffe",
+    "text": "Fossile Brennstoffe: Kohle, Erdöl und Erdgas aus Überresten urzeitlicher Lebewesen.",
+    "merke": "Fossile Brennstoffe: Kohle, Erdöl und Erdgas aus Überresten urzeitlicher Lebewesen."
+   }
+  },
+  {
+   "id": "umw-be-rote-liste",
+   "schwierigkeit": "mittel",
+   "frage": "Was bedeutet „Rote Liste“?",
+   "richtig": "Verzeichnis gefährdeter Tier- und Pflanzenarten",
+   "falsch": [
+    "Es werden mehr Fische gefangen, als nachwachsen",
+    "Vielfalt der Arten, Gene und Lebensräume",
+    "Sich umweltfreundlicher darstellen, als man ist"
+   ],
+   "begruendung": "Rote Liste: Verzeichnis gefährdeter Tier- und Pflanzenarten.",
+   "karte": {
+    "titel": "Rote Liste",
+    "text": "Rote Liste: Verzeichnis gefährdeter Tier- und Pflanzenarten.",
+    "merke": "Rote Liste: Verzeichnis gefährdeter Tier- und Pflanzenarten."
+   }
+  },
+  {
+   "id": "umw-be-hitzeinsel",
+   "schwierigkeit": "mittel",
+   "frage": "Was bedeutet „Hitzeinsel“?",
+   "richtig": "Stadtgebiet, das sich stärker aufheizt als das Umland",
+   "falsch": [
+    "Landwirtschaft ohne chemisch-synthetische Pflanzenschutzmittel",
+    "Sehr viel Regen in kurzer Zeit",
+    "Aus Abfall etwas Neues und Wertvolleres machen"
+   ],
+   "begruendung": "Hitzeinsel: Stadtgebiet, das sich stärker aufheizt als das Umland.",
+   "karte": {
+    "titel": "Hitzeinsel",
+    "text": "Hitzeinsel: Stadtgebiet, das sich stärker aufheizt als das Umland.",
+    "merke": "Hitzeinsel: Stadtgebiet, das sich stärker aufheizt als das Umland."
+   }
+  },
+  {
+   "id": "umw-be-starkregen",
+   "schwierigkeit": "leicht",
+   "frage": "Was bedeutet „Starkregen“?",
+   "richtig": "Sehr viel Regen in kurzer Zeit",
+   "falsch": [
+    "Aus Abfall etwas Neues und Wertvolleres machen",
+    "Strom aus erneuerbaren Quellen",
+    "Vielfalt der Arten, Gene und Lebensräume"
+   ],
+   "begruendung": "Starkregen: Sehr viel Regen in kurzer Zeit.",
+   "karte": {
+    "titel": "Starkregen",
+    "text": "Starkregen: Sehr viel Regen in kurzer Zeit.",
+    "merke": "Starkregen: Sehr viel Regen in kurzer Zeit."
+   }
+  },
+  {
+   "id": "umw-be-carsharing",
+   "schwierigkeit": "leicht",
+   "frage": "Was bedeutet „Carsharing“?",
+   "richtig": "Autos teilen statt selbst besitzen",
+   "falsch": [
+    "Wasser, das sich im Boden unter der Erdoberfläche sammelt",
+    "Meerwasser nimmt CO₂ auf und wird saurer",
+    "Aus Abfall etwas Neues und Wertvolleres machen"
+   ],
+   "begruendung": "Carsharing: Autos teilen statt selbst besitzen.",
+   "karte": {
+    "titel": "Carsharing",
+    "text": "Carsharing: Autos teilen statt selbst besitzen.",
+    "merke": "Carsharing: Autos teilen statt selbst besitzen."
+   }
+  },
+  {
+   "id": "umw-be-oekostrom",
+   "schwierigkeit": "leicht",
+   "frage": "Was bedeutet „Ökostrom“?",
+   "richtig": "Strom aus erneuerbaren Quellen",
+   "falsch": [
+    "Wetterphänomen mit ungewöhnlich warmem Wasser im Pazifik",
+    "Es werden mehr Fische gefangen, als nachwachsen",
+    "Pflanzen neuer Wälder"
+   ],
+   "begruendung": "Ökostrom: Strom aus erneuerbaren Quellen.",
+   "karte": {
+    "titel": "Ökostrom",
+    "text": "Ökostrom: Strom aus erneuerbaren Quellen.",
+    "merke": "Ökostrom: Strom aus erneuerbaren Quellen."
+   }
+  },
+  {
+   "id": "umw-be-renaturierung",
+   "schwierigkeit": "schwer",
+   "frage": "Was bedeutet „Renaturierung“?",
+   "richtig": "Einen Lebensraum wieder in einen naturnahen Zustand versetzen",
+   "falsch": [
+    "Ausdünnung der schützenden Ozonschicht über den Polen",
+    "Gase in der Luft halten Wärme an der Erde fest",
+    "Winzige Partikel in der Luft, die in die Lunge gelangen"
+   ],
+   "begruendung": "Renaturierung: Einen Lebensraum wieder in einen naturnahen Zustand versetzen.",
+   "karte": {
+    "titel": "Renaturierung",
+    "text": "Renaturierung: Einen Lebensraum wieder in einen naturnahen Zustand versetzen.",
+    "merke": "Renaturierung: Einen Lebensraum wieder in einen naturnahen Zustand versetzen."
+   }
+  },
+  {
+   "id": "umw-mu-ein-leerer-joghurtbecher",
+   "schwierigkeit": "leicht",
+   "frage": "Wohin gehört ein leerer Joghurtbecher in den meisten deutschen Gemeinden?",
+   "richtig": "Gelbe Tonne oder Gelber Sack",
+   "falsch": [
+    "Wertstoffhof oder Sammelstelle",
+    "Restmüll",
+    "Papiertonne"
+   ],
+   "begruendung": "Ein leerer Joghurtbecher: Gelbe Tonne oder Gelber Sack.",
+   "karte": {
+    "titel": "Leerer Joghurtbecher",
+    "text": "Die Regeln unterscheiden sich etwas von Ort zu Ort. Im Zweifel hilft der Abfallkalender deiner Gemeinde.",
+    "merke": "Ein leerer Joghurtbecher: Gelbe Tonne oder Gelber Sack."
+   },
+   "stand": "2026-11"
+  },
+  {
+   "id": "umw-mu-ein-sauberer-pizzakarton",
+   "schwierigkeit": "leicht",
+   "frage": "Wohin gehört ein sauberer Pizzakarton in den meisten deutschen Gemeinden?",
+   "richtig": "Papiertonne",
+   "falsch": [
+    "Sammelbox im Handel",
+    "Restmüll",
+    "Altglascontainer"
+   ],
+   "begruendung": "Ein sauberer Pizzakarton: Papiertonne.",
+   "karte": {
+    "titel": "Sauberer Pizzakarton",
+    "text": "Stark verschmutzte Kartons mit Essensresten gehören in den Restmüll.",
+    "merke": "Ein sauberer Pizzakarton: Papiertonne."
+   },
+   "stand": "2026-11"
+  },
+  {
+   "id": "umw-mu-kaffeesatz",
+   "schwierigkeit": "leicht",
+   "frage": "Wohin gehört Kaffeesatz in den meisten deutschen Gemeinden?",
+   "richtig": "Biotonne",
+   "falsch": [
+    "Sammelbox im Handel",
+    "Wertstoffhof oder Sammelstelle",
+    "Papiertonne"
+   ],
+   "begruendung": "Kaffeesatz: Biotonne.",
+   "karte": {
+    "titel": "Kaffeesatz",
+    "text": "Die Regeln unterscheiden sich etwas von Ort zu Ort. Im Zweifel hilft der Abfallkalender deiner Gemeinde.",
+    "merke": "Kaffeesatz: Biotonne."
+   },
+   "stand": "2026-11"
+  },
+  {
+   "id": "umw-mu-alte-batterien",
+   "schwierigkeit": "leicht",
+   "frage": "Wohin gehört alte Batterien in den meisten deutschen Gemeinden?",
+   "richtig": "Sammelbox im Handel",
+   "falsch": [
+    "Gelbe Tonne oder Gelber Sack",
+    "Papiertonne",
+    "Altglascontainer"
+   ],
+   "begruendung": "Alte Batterien: Sammelbox im Handel.",
+   "karte": {
+    "titel": "Alte Batterien",
+    "text": "Jeder Laden, der Batterien verkauft, muss alte zurücknehmen.",
+    "merke": "Alte Batterien: Sammelbox im Handel."
+   },
+   "stand": "2026-11"
+  },
+  {
+   "id": "umw-mu-eine-leere-glasflasche-ohne-pfand",
+   "schwierigkeit": "leicht",
+   "frage": "Wohin gehört eine leere Glasflasche ohne Pfand in den meisten deutschen Gemeinden?",
+   "richtig": "Altglascontainer",
+   "falsch": [
+    "Gelbe Tonne oder Gelber Sack",
+    "Papiertonne",
+    "Biotonne"
+   ],
+   "begruendung": "Eine leere Glasflasche ohne Pfand: Altglascontainer.",
+   "karte": {
+    "titel": "Leere Glasflasche ohne Pfand",
+    "text": "Die Regeln unterscheiden sich etwas von Ort zu Ort. Im Zweifel hilft der Abfallkalender deiner Gemeinde.",
+    "merke": "Eine leere Glasflasche ohne Pfand: Altglascontainer."
+   },
+   "stand": "2026-11"
+  },
+  {
+   "id": "umw-mu-eine-alte-zeitung",
+   "schwierigkeit": "leicht",
+   "frage": "Wohin gehört eine alte Zeitung in den meisten deutschen Gemeinden?",
+   "richtig": "Papiertonne",
+   "falsch": [
+    "Gelbe Tonne oder Gelber Sack",
+    "Altglascontainer",
+    "Wertstoffhof oder Sammelstelle"
+   ],
+   "begruendung": "Eine alte Zeitung: Papiertonne.",
+   "karte": {
+    "titel": "Alte Zeitung",
+    "text": "Die Regeln unterscheiden sich etwas von Ort zu Ort. Im Zweifel hilft der Abfallkalender deiner Gemeinde.",
+    "merke": "Eine alte Zeitung: Papiertonne."
+   },
+   "stand": "2026-11"
+  },
+  {
+   "id": "umw-mu-eierschalen",
+   "schwierigkeit": "leicht",
+   "frage": "Wohin gehört Eierschalen in den meisten deutschen Gemeinden?",
+   "richtig": "Biotonne",
+   "falsch": [
+    "Sammelbox im Handel",
+    "Altglascontainer",
+    "Gelbe Tonne oder Gelber Sack"
+   ],
+   "begruendung": "Eierschalen: Biotonne.",
+   "karte": {
+    "titel": "Eierschalen",
+    "text": "Die Regeln unterscheiden sich etwas von Ort zu Ort. Im Zweifel hilft der Abfallkalender deiner Gemeinde.",
+    "merke": "Eierschalen: Biotonne."
+   },
+   "stand": "2026-11"
+  },
+  {
+   "id": "umw-mu-eine-leere-konservendose",
+   "schwierigkeit": "leicht",
+   "frage": "Wohin gehört eine leere Konservendose in den meisten deutschen Gemeinden?",
+   "richtig": "Gelbe Tonne oder Gelber Sack",
+   "falsch": [
+    "Sammelbox im Handel",
+    "Altglascontainer",
+    "Papiertonne"
+   ],
+   "begruendung": "Eine leere Konservendose: Gelbe Tonne oder Gelber Sack.",
+   "karte": {
+    "titel": "Leere Konservendose",
+    "text": "Die Regeln unterscheiden sich etwas von Ort zu Ort. Im Zweifel hilft der Abfallkalender deiner Gemeinde.",
+    "merke": "Eine leere Konservendose: Gelbe Tonne oder Gelber Sack."
+   },
+   "stand": "2026-11"
+  },
+  {
+   "id": "umw-mu-ein-benutztes-taschentuch",
+   "schwierigkeit": "mittel",
+   "frage": "Wohin gehört ein benutztes Taschentuch in den meisten deutschen Gemeinden?",
+   "richtig": "Restmüll",
+   "falsch": [
+    "Papiertonne",
+    "Wertstoffhof oder Sammelstelle",
+    "Altglascontainer"
+   ],
+   "begruendung": "Ein benutztes Taschentuch: Restmüll.",
+   "karte": {
+    "titel": "Benutztes Taschentuch",
+    "text": "Die Regeln unterscheiden sich etwas von Ort zu Ort. Im Zweifel hilft der Abfallkalender deiner Gemeinde.",
+    "merke": "Ein benutztes Taschentuch: Restmüll."
+   },
+   "stand": "2026-11"
+  },
+  {
+   "id": "umw-mu-ein-voller-staubsaugerbeutel",
+   "schwierigkeit": "leicht",
+   "frage": "Wohin gehört ein voller Staubsaugerbeutel in den meisten deutschen Gemeinden?",
+   "richtig": "Restmüll",
+   "falsch": [
+    "Gelbe Tonne oder Gelber Sack",
+    "Papiertonne",
+    "Biotonne"
+   ],
+   "begruendung": "Ein voller Staubsaugerbeutel: Restmüll.",
+   "karte": {
+    "titel": "Voller Staubsaugerbeutel",
+    "text": "Die Regeln unterscheiden sich etwas von Ort zu Ort. Im Zweifel hilft der Abfallkalender deiner Gemeinde.",
+    "merke": "Ein voller Staubsaugerbeutel: Restmüll."
+   },
+   "stand": "2026-11"
+  },
+  {
+   "id": "umw-mu-ein-zerbrochenes-trinkglas",
+   "schwierigkeit": "schwer",
+   "frage": "Wohin gehört ein zerbrochenes Trinkglas in den meisten deutschen Gemeinden?",
+   "richtig": "Restmüll",
+   "falsch": [
+    "Altglascontainer",
+    "Papiertonne",
+    "Biotonne"
+   ],
+   "begruendung": "Ein zerbrochenes Trinkglas: Restmüll.",
+   "karte": {
+    "titel": "Zerbrochenes Trinkglas",
+    "text": "Trinkgläser schmelzen bei anderen Temperaturen als Flaschenglas. Ins Altglas gehören nur Flaschen und Gläser für Lebensmittel.",
+    "merke": "Ein zerbrochenes Trinkglas: Restmüll."
+   },
+   "stand": "2026-11"
+  },
+  {
+   "id": "umw-mu-ein-getraenkekarton-tetrapak",
+   "schwierigkeit": "mittel",
+   "frage": "Wohin gehört ein Getränkekarton (Tetrapak) in den meisten deutschen Gemeinden?",
+   "richtig": "Gelbe Tonne oder Gelber Sack",
+   "falsch": [
+    "Biotonne",
+    "Wertstoffhof oder Sammelstelle",
+    "Sammelbox im Handel"
+   ],
+   "begruendung": "Ein Getränkekarton (Tetrapak): Gelbe Tonne oder Gelber Sack.",
+   "karte": {
+    "titel": "Getränkekarton (Tetrapak)",
+    "text": "Die Regeln unterscheiden sich etwas von Ort zu Ort. Im Zweifel hilft der Abfallkalender deiner Gemeinde.",
+    "merke": "Ein Getränkekarton (Tetrapak): Gelbe Tonne oder Gelber Sack."
+   },
+   "stand": "2026-11"
+  },
+  {
+   "id": "umw-mu-zerbrochenes-porzellan",
+   "schwierigkeit": "mittel",
+   "frage": "Wohin gehört zerbrochenes Porzellan in den meisten deutschen Gemeinden?",
+   "richtig": "Restmüll",
+   "falsch": [
+    "Biotonne",
+    "Sammelbox im Handel",
+    "Gelbe Tonne oder Gelber Sack"
+   ],
+   "begruendung": "Zerbrochenes Porzellan: Restmüll.",
+   "karte": {
+    "titel": "Zerbrochenes Porzellan",
+    "text": "Die Regeln unterscheiden sich etwas von Ort zu Ort. Im Zweifel hilft der Abfallkalender deiner Gemeinde.",
+    "merke": "Zerbrochenes Porzellan: Restmüll."
+   },
+   "stand": "2026-11"
+  },
+  {
+   "id": "umw-mu-ein-kassenbon-aus-thermopapier",
+   "schwierigkeit": "schwer",
+   "frage": "Wohin gehört ein Kassenbon aus Thermopapier in den meisten deutschen Gemeinden?",
+   "richtig": "Restmüll",
+   "falsch": [
+    "Wertstoffhof oder Sammelstelle",
+    "Biotonne",
+    "Altglascontainer"
+   ],
+   "begruendung": "Ein Kassenbon aus Thermopapier: Restmüll.",
+   "karte": {
+    "titel": "Kassenbon aus Thermopapier",
+    "text": "Thermopapier enthält Chemikalien, die das Papierrecycling stören.",
+    "merke": "Ein Kassenbon aus Thermopapier: Restmüll."
+   },
+   "stand": "2026-11"
+  },
+  {
+   "id": "umw-mu-eine-kaputte-led-lampe",
+   "schwierigkeit": "schwer",
+   "frage": "Wohin gehört eine kaputte LED-Lampe in den meisten deutschen Gemeinden?",
+   "richtig": "Wertstoffhof oder Sammelstelle",
+   "falsch": [
+    "Restmüll",
+    "Gelbe Tonne oder Gelber Sack",
+    "Sammelbox im Handel"
+   ],
+   "begruendung": "Eine kaputte LED-Lampe: Wertstoffhof oder Sammelstelle.",
+   "karte": {
+    "titel": "Kaputte LED-Lampe",
+    "text": "Die Regeln unterscheiden sich etwas von Ort zu Ort. Im Zweifel hilft der Abfallkalender deiner Gemeinde.",
+    "merke": "Eine kaputte LED-Lampe: Wertstoffhof oder Sammelstelle."
+   },
+   "stand": "2026-11"
+  },
+  {
+   "id": "umw-mu-eine-bananenschale",
+   "schwierigkeit": "leicht",
+   "frage": "Wohin gehört eine Bananenschale in den meisten deutschen Gemeinden?",
+   "richtig": "Biotonne",
+   "falsch": [
+    "Restmüll",
+    "Gelbe Tonne oder Gelber Sack",
+    "Altglascontainer"
+   ],
+   "begruendung": "Eine Bananenschale: Biotonne.",
+   "karte": {
+    "titel": "Bananenschale",
+    "text": "Die Regeln unterscheiden sich etwas von Ort zu Ort. Im Zweifel hilft der Abfallkalender deiner Gemeinde.",
+    "merke": "Eine Bananenschale: Biotonne."
+   },
+   "stand": "2026-11"
+  },
+  {
+   "id": "umw-mu-ein-altes-handy",
+   "schwierigkeit": "mittel",
+   "frage": "Wohin gehört ein altes Handy in den meisten deutschen Gemeinden?",
+   "richtig": "Wertstoffhof oder Sammelstelle",
+   "falsch": [
+    "Restmüll",
+    "Biotonne",
+    "Sammelbox im Handel"
+   ],
+   "begruendung": "Ein altes Handy: Wertstoffhof oder Sammelstelle.",
+   "karte": {
+    "titel": "Altes Handy",
+    "text": "Die Regeln unterscheiden sich etwas von Ort zu Ort. Im Zweifel hilft der Abfallkalender deiner Gemeinde.",
+    "merke": "Ein altes Handy: Wertstoffhof oder Sammelstelle."
+   },
+   "stand": "2026-11"
+  },
+  {
+   "id": "umw-mu-alufolie",
+   "schwierigkeit": "mittel",
+   "frage": "Wohin gehört Alufolie in den meisten deutschen Gemeinden?",
+   "richtig": "Gelbe Tonne oder Gelber Sack",
+   "falsch": [
+    "Sammelbox im Handel",
+    "Altglascontainer",
+    "Wertstoffhof oder Sammelstelle"
+   ],
+   "begruendung": "Alufolie: Gelbe Tonne oder Gelber Sack.",
+   "karte": {
+    "titel": "Alufolie",
+    "text": "Die Regeln unterscheiden sich etwas von Ort zu Ort. Im Zweifel hilft der Abfallkalender deiner Gemeinde.",
+    "merke": "Alufolie: Gelbe Tonne oder Gelber Sack."
+   },
+   "stand": "2026-11"
+  },
+  {
+   "id": "umw-en-ein-windrad",
+   "schwierigkeit": "leicht",
+   "frage": "Welche Energiequelle nutzt ein Windrad?",
+   "richtig": "Wind",
+   "falsch": [
+    "Pflanzenreste und Gülle",
+    "Erdgas",
+    "Erdwärme"
+   ],
+   "begruendung": "Ein Windrad nutzt Wind.",
+   "karte": {
+    "titel": "Windrad",
+    "text": "Ein Windrad nutzt Wind.",
+    "merke": "Ein Windrad nutzt Wind."
+   }
+  },
+  {
+   "id": "umw-en-eine-photovoltaikanlage",
+   "schwierigkeit": "leicht",
+   "frage": "Welche Energiequelle nutzt eine Photovoltaikanlage?",
+   "richtig": "Sonnenlicht",
+   "falsch": [
+    "Erdgas",
+    "Erdwärme",
+    "Fließendes Wasser"
+   ],
+   "begruendung": "Eine Photovoltaikanlage nutzt Sonnenlicht.",
+   "karte": {
+    "titel": "Photovoltaikanlage",
+    "text": "Eine Photovoltaikanlage nutzt Sonnenlicht.",
+    "merke": "Eine Photovoltaikanlage nutzt Sonnenlicht."
+   }
+  },
+  {
+   "id": "umw-en-ein-wasserkraftwerk",
+   "schwierigkeit": "leicht",
+   "frage": "Welche Energiequelle nutzt ein Wasserkraftwerk?",
+   "richtig": "Fließendes Wasser",
+   "falsch": [
+    "Pflanzenreste und Gülle",
+    "Kohle",
+    "Sonnenlicht"
+   ],
+   "begruendung": "Ein Wasserkraftwerk nutzt Fließendes Wasser.",
+   "karte": {
+    "titel": "Wasserkraftwerk",
+    "text": "Ein Wasserkraftwerk nutzt Fließendes Wasser.",
+    "merke": "Ein Wasserkraftwerk nutzt Fließendes Wasser."
+   }
+  },
+  {
+   "id": "umw-en-ein-geothermiekraftwerk",
+   "schwierigkeit": "mittel",
+   "frage": "Welche Energiequelle nutzt ein Geothermiekraftwerk?",
+   "richtig": "Erdwärme",
+   "falsch": [
+    "Wind",
+    "Fließendes Wasser",
+    "Kohle"
+   ],
+   "begruendung": "Ein Geothermiekraftwerk nutzt Erdwärme.",
+   "karte": {
+    "titel": "Geothermiekraftwerk",
+    "text": "Ein Geothermiekraftwerk nutzt Erdwärme.",
+    "merke": "Ein Geothermiekraftwerk nutzt Erdwärme."
+   }
+  },
+  {
+   "id": "umw-en-eine-biogasanlage",
+   "schwierigkeit": "mittel",
+   "frage": "Welche Energiequelle nutzt eine Biogasanlage?",
+   "richtig": "Pflanzenreste und Gülle",
+   "falsch": [
+    "Erdgas",
+    "Erdwärme",
+    "Kohle"
+   ],
+   "begruendung": "Eine Biogasanlage nutzt Pflanzenreste und Gülle.",
+   "karte": {
+    "titel": "Biogasanlage",
+    "text": "Eine Biogasanlage nutzt Pflanzenreste und Gülle.",
+    "merke": "Eine Biogasanlage nutzt Pflanzenreste und Gülle."
+   }
+  },
+  {
+   "id": "umw-en-ein-gezeitenkraftwerk",
+   "schwierigkeit": "mittel",
+   "frage": "Welche Energiequelle nutzt ein Gezeitenkraftwerk?",
+   "richtig": "Ebbe und Flut",
+   "falsch": [
+    "Erdgas",
+    "Sonnenlicht",
+    "Fließendes Wasser"
+   ],
+   "begruendung": "Ein Gezeitenkraftwerk nutzt Ebbe und Flut.",
+   "karte": {
+    "titel": "Gezeitenkraftwerk",
+    "text": "Ein Gezeitenkraftwerk nutzt Ebbe und Flut.",
+    "merke": "Ein Gezeitenkraftwerk nutzt Ebbe und Flut."
+   }
+  },
+  {
+   "id": "umw-j-kyoto-protokoll",
+   "schwierigkeit": "mittel",
+   "frage": "In welchem Jahr wurde das Kyoto-Protokoll beschlossen?",
+   "richtig": "1997",
+   "falsch": [
+    "1987",
+    "1971",
+    "2003"
+   ],
+   "begruendung": "Kyoto-Protokoll: 1997.",
+   "karte": {
+    "titel": "Kyoto-Protokoll",
+    "text": "Zum ersten Mal verpflichteten sich Industriestaaten, ihre Treibhausgase zu senken.",
+    "merke": "Kyoto-Protokoll: 1997."
+   }
+  },
+  {
+   "id": "umw-j-pariser-klimaabkommen",
+   "schwierigkeit": "leicht",
+   "frage": "In welchem Jahr beschlossen fast alle Staaten der Welt das Pariser Klimaabkommen?",
+   "richtig": "2015",
+   "falsch": [
+    "1992",
+    "2019",
+    "1997"
+   ],
+   "begruendung": "Pariser Klimaabkommen: 2015.",
+   "karte": {
+    "titel": "Pariser Klimaabkommen",
+    "text": "Ziel ist, die Erwärmung deutlich unter 2 Grad zu halten, möglichst bei 1,5 Grad.",
+    "merke": "Pariser Klimaabkommen: 2015."
+   }
+  },
+  {
+   "id": "umw-j-erdgipfel-von-rio",
+   "schwierigkeit": "schwer",
+   "frage": "In welchem Jahr fand der Erdgipfel in Rio de Janeiro statt?",
+   "richtig": "1992",
+   "falsch": [
+    "2015",
+    "1997",
+    "1987"
+   ],
+   "begruendung": "Erdgipfel von Rio: 1992.",
+   "karte": {
+    "titel": "Erdgipfel von Rio",
+    "text": "Dort entstand die Klimarahmenkonvention der Vereinten Nationen.",
+    "merke": "Erdgipfel von Rio: 1992."
+   }
+  },
+  {
+   "id": "umw-j-montreal-protokoll",
+   "schwierigkeit": "schwer",
+   "frage": "In welchem Jahr wurde das Montreal-Protokoll zum Schutz der Ozonschicht beschlossen?",
+   "richtig": "1987",
+   "falsch": [
+    "2018",
+    "1992",
+    "2022"
+   ],
+   "begruendung": "Montreal-Protokoll: 1987.",
+   "karte": {
+    "titel": "Montreal-Protokoll",
+    "text": "Das Verbot der FCKW gilt als erfolgreichstes Umweltabkommen. Die Ozonschicht erholt sich langsam.",
+    "merke": "Montreal-Protokoll: 1987."
+   }
+  },
+  {
+   "id": "umw-j-erster-weltklimabericht",
+   "schwierigkeit": "schwer",
+   "frage": "In welchem Jahr erschien der erste Sachstandsbericht des Weltklimarats IPCC?",
+   "richtig": "1990",
+   "falsch": [
+    "1992",
+    "1997",
+    "2022"
+   ],
+   "begruendung": "Erster Weltklimabericht: 1990.",
+   "karte": {
+    "titel": "Erster Weltklimabericht",
+    "text": "Der IPCC wurde 1988 gegründet und fasst den Stand der Klimaforschung zusammen.",
+    "merke": "Erster Weltklimabericht: 1990."
+   }
+  },
+  {
+   "id": "umw-j-start-von-fridays-for-future",
+   "schwierigkeit": "leicht",
+   "frage": "In welchem Jahr begann Greta Thunberg ihren Schulstreik für das Klima?",
+   "richtig": "2018",
+   "falsch": [
+    "2015",
+    "1992",
+    "2019"
+   ],
+   "begruendung": "Start von Fridays for Future: 2018.",
+   "karte": {
+    "titel": "Start von Fridays for Future",
+    "text": "Sie setzte sich mit einem Schild vor das schwedische Parlament.",
+    "merke": "Start von Fridays for Future: 2018."
+   }
+  },
+  {
+   "id": "umw-j-gruendung-von-greenpeace",
+   "schwierigkeit": "mittel",
+   "frage": "In welchem Jahr wurde Greenpeace gegründet?",
+   "richtig": "1971",
+   "falsch": [
+    "2003",
+    "1997",
+    "1990"
+   ],
+   "begruendung": "Gründung von Greenpeace: 1971.",
+   "karte": {
+    "titel": "Gründung von Greenpeace",
+    "text": "Aktivisten wollten mit einem Boot einen US-Atomtest vor Alaska verhindern.",
+    "merke": "Gründung von Greenpeace: 1971."
+   }
+  },
+  {
+   "id": "umw-j-gruendung-des-wwf",
+   "schwierigkeit": "mittel",
+   "frage": "In welchem Jahr wurde der WWF gegründet?",
+   "richtig": "1961",
+   "falsch": [
+    "1971",
+    "1990",
+    "1992"
+   ],
+   "begruendung": "Gründung des WWF: 1961.",
+   "karte": {
+    "titel": "Gründung des WWF",
+    "text": "Das Logo zeigt einen Großen Panda.",
+    "merke": "Gründung des WWF: 1961."
+   }
+  },
+  {
+   "id": "umw-j-erster-earth-day",
+   "schwierigkeit": "schwer",
+   "frage": "In welchem Jahr fand der erste „Tag der Erde“ statt?",
+   "richtig": "1970",
+   "falsch": [
+    "1997",
+    "1990",
+    "1987"
+   ],
+   "begruendung": "Erster Earth Day: 1970.",
+   "karte": {
+    "titel": "Erster Earth Day",
+    "text": "In den USA demonstrierten rund 20 Millionen Menschen für Umweltschutz.",
+    "merke": "Erster Earth Day: 1970."
+   }
+  },
+  {
+   "id": "umw-j-einfuehrung-des-einwegpfands",
+   "schwierigkeit": "mittel",
+   "frage": "In welchem Jahr führte Deutschland das Pfand auf Einweg-Getränkeverpackungen ein?",
+   "richtig": "2003",
+   "falsch": [
+    "1992",
+    "2018",
+    "1971"
+   ],
+   "begruendung": "Einführung des Einwegpfands: 2003.",
+   "karte": {
+    "titel": "Einführung des Einwegpfands",
+    "text": "Für Einwegflaschen und Dosen gibt es 25 Cent Pfand.",
+    "merke": "Einführung des Einwegpfands: 2003."
+   }
+  },
+  {
+   "id": "umw-j-eu-verbot-von-einweg-strohhalmen",
+   "schwierigkeit": "mittel",
+   "frage": "In welchem Jahr verbot die EU Einweg-Strohhalme und -Besteck aus Plastik?",
+   "richtig": "2021",
+   "falsch": [
+    "2015",
+    "2018",
+    "2019"
+   ],
+   "begruendung": "EU-Verbot von Einweg-Strohhalmen: 2021.",
+   "karte": {
+    "titel": "EU-Verbot von Einweg-Strohhalmen",
+    "text": "Auch Wattestäbchen und Rührstäbchen aus Plastik sind seitdem verboten.",
+    "merke": "EU-Verbot von Einweg-Strohhalmen: 2021."
+   }
+  },
+  {
+   "id": "umw-j-verbot-leichter-plastiktueten",
+   "schwierigkeit": "mittel",
+   "frage": "In welchem Jahr wurden leichte Plastiktüten an Ladenkassen in Deutschland verboten?",
+   "richtig": "2022",
+   "falsch": [
+    "1990",
+    "2021",
+    "1997"
+   ],
+   "begruendung": "Verbot leichter Plastiktüten: 2022.",
+   "karte": {
+    "titel": "Verbot leichter Plastiktüten",
+    "text": "Ausgenommen sind sehr dünne Tüten, etwa für Obst und Gemüse.",
+    "merke": "Verbot leichter Plastiktüten: 2022."
+   }
+  },
+  {
+   "id": "umw-j-bundes-klimaschutzgesetz",
+   "schwierigkeit": "schwer",
+   "frage": "In welchem Jahr beschloss der Bundestag das erste Bundes-Klimaschutzgesetz?",
+   "richtig": "2019",
+   "falsch": [
+    "2018",
+    "1997",
+    "2021"
+   ],
+   "begruendung": "Bundes-Klimaschutzgesetz: 2019.",
+   "karte": {
+    "titel": "Bundes-Klimaschutzgesetz",
+    "text": "Deutschland will bis 2045 klimaneutral werden.",
+    "merke": "Bundes-Klimaschutzgesetz: 2019."
+   }
+  },
+  {
+   "id": "umw-np-bayerischer-wald",
+   "schwierigkeit": "leicht",
+   "frage": "In welchem Bundesland liegt der Nationalpark Bayerischer Wald?",
+   "richtig": "Bayern",
+   "falsch": [
+    "Mecklenburg-Vorpommern",
+    "Sachsen",
+    "Hessen"
+   ],
+   "begruendung": "Nationalpark Bayerischer Wald: Bayern.",
+   "karte": {
+    "titel": "Nationalpark Bayerischer Wald",
+    "text": "Der Bayerische Wald wurde 1970 der erste Nationalpark Deutschlands.",
+    "merke": "Nationalpark Bayerischer Wald: Bayern."
+   }
+  },
+  {
+   "id": "umw-np-berchtesgaden",
+   "schwierigkeit": "leicht",
+   "frage": "In welchem Bundesland liegt der Nationalpark Berchtesgaden?",
+   "richtig": "Bayern",
+   "falsch": [
+    "Hessen",
+    "Baden-Württemberg",
+    "Thüringen"
+   ],
+   "begruendung": "Nationalpark Berchtesgaden: Bayern.",
+   "karte": {
+    "titel": "Nationalpark Berchtesgaden",
+    "text": "Nationalpark Berchtesgaden: Bayern.",
+    "merke": "Nationalpark Berchtesgaden: Bayern."
+   }
+  },
+  {
+   "id": "umw-np-saechsische-schweiz",
+   "schwierigkeit": "leicht",
+   "frage": "In welchem Bundesland liegt der Nationalpark Sächsische Schweiz?",
+   "richtig": "Sachsen",
+   "falsch": [
+    "Bayern",
+    "Brandenburg",
+    "Thüringen"
+   ],
+   "begruendung": "Nationalpark Sächsische Schweiz: Sachsen.",
+   "karte": {
+    "titel": "Nationalpark Sächsische Schweiz",
+    "text": "Nationalpark Sächsische Schweiz: Sachsen.",
+    "merke": "Nationalpark Sächsische Schweiz: Sachsen."
+   }
+  },
+  {
+   "id": "umw-np-jasmund",
+   "schwierigkeit": "mittel",
+   "frage": "In welchem Bundesland liegt der Nationalpark Jasmund?",
+   "richtig": "Mecklenburg-Vorpommern",
+   "falsch": [
+    "Nordrhein-Westfalen",
+    "Bayern",
+    "Thüringen"
+   ],
+   "begruendung": "Nationalpark Jasmund: Mecklenburg-Vorpommern.",
+   "karte": {
+    "titel": "Nationalpark Jasmund",
+    "text": "Nationalpark Jasmund: Mecklenburg-Vorpommern.",
+    "merke": "Nationalpark Jasmund: Mecklenburg-Vorpommern."
+   }
+  },
+  {
+   "id": "umw-np-mueritz",
+   "schwierigkeit": "mittel",
+   "frage": "In welchem Bundesland liegt der Nationalpark Müritz?",
+   "richtig": "Mecklenburg-Vorpommern",
+   "falsch": [
+    "Nordrhein-Westfalen",
+    "Baden-Württemberg",
+    "Thüringen"
+   ],
+   "begruendung": "Nationalpark Müritz: Mecklenburg-Vorpommern.",
+   "karte": {
+    "titel": "Nationalpark Müritz",
+    "text": "Nationalpark Müritz: Mecklenburg-Vorpommern.",
+    "merke": "Nationalpark Müritz: Mecklenburg-Vorpommern."
+   }
+  },
+  {
+   "id": "umw-np-eifel",
+   "schwierigkeit": "mittel",
+   "frage": "In welchem Bundesland liegt der Nationalpark Eifel?",
+   "richtig": "Nordrhein-Westfalen",
+   "falsch": [
+    "Hessen",
+    "Bayern",
+    "Baden-Württemberg"
+   ],
+   "begruendung": "Nationalpark Eifel: Nordrhein-Westfalen.",
+   "karte": {
+    "titel": "Nationalpark Eifel",
+    "text": "Nationalpark Eifel: Nordrhein-Westfalen.",
+    "merke": "Nationalpark Eifel: Nordrhein-Westfalen."
+   }
+  },
+  {
+   "id": "umw-np-hainich",
+   "schwierigkeit": "mittel",
+   "frage": "In welchem Bundesland liegt der Nationalpark Hainich?",
+   "richtig": "Thüringen",
+   "falsch": [
+    "Nordrhein-Westfalen",
+    "Baden-Württemberg",
+    "Brandenburg"
+   ],
+   "begruendung": "Nationalpark Hainich: Thüringen.",
+   "karte": {
+    "titel": "Nationalpark Hainich",
+    "text": "Die alten Buchenwälder im Hainich gehören zum UNESCO-Welterbe.",
+    "merke": "Nationalpark Hainich: Thüringen."
+   }
+  },
+  {
+   "id": "umw-np-kellerwald-edersee",
+   "schwierigkeit": "schwer",
+   "frage": "In welchem Bundesland liegt der Nationalpark Kellerwald-Edersee?",
+   "richtig": "Hessen",
+   "falsch": [
+    "Mecklenburg-Vorpommern",
+    "Sachsen",
+    "Bayern"
+   ],
+   "begruendung": "Nationalpark Kellerwald-Edersee: Hessen.",
+   "karte": {
+    "titel": "Nationalpark Kellerwald-Edersee",
+    "text": "Nationalpark Kellerwald-Edersee: Hessen.",
+    "merke": "Nationalpark Kellerwald-Edersee: Hessen."
+   }
+  },
+  {
+   "id": "umw-np-schwarzwald",
+   "schwierigkeit": "leicht",
+   "frage": "In welchem Bundesland liegt der Nationalpark Schwarzwald?",
+   "richtig": "Baden-Württemberg",
+   "falsch": [
+    "Bayern",
+    "Sachsen",
+    "Mecklenburg-Vorpommern"
+   ],
+   "begruendung": "Nationalpark Schwarzwald: Baden-Württemberg.",
+   "karte": {
+    "titel": "Nationalpark Schwarzwald",
+    "text": "Nationalpark Schwarzwald: Baden-Württemberg.",
+    "merke": "Nationalpark Schwarzwald: Baden-Württemberg."
+   }
+  },
+  {
+   "id": "umw-np-unteres-odertal",
+   "schwierigkeit": "schwer",
+   "frage": "In welchem Bundesland liegt der Nationalpark Unteres Odertal?",
+   "richtig": "Brandenburg",
+   "falsch": [
+    "Thüringen",
+    "Nordrhein-Westfalen",
+    "Baden-Württemberg"
+   ],
+   "begruendung": "Nationalpark Unteres Odertal: Brandenburg.",
+   "karte": {
+    "titel": "Nationalpark Unteres Odertal",
+    "text": "Nationalpark Unteres Odertal: Brandenburg.",
+    "merke": "Nationalpark Unteres Odertal: Brandenburg."
+   }
+  }
+ ]
+}

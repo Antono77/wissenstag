@@ -1,0 +1,388 @@
+{
+  "klasse": "alltag",
+  "fragen": [
+    {
+      "id": "all-001",
+      "schwierigkeit": "leicht",
+      "ddf": true,
+      "frage": "Welche Nummer wählst du in Deutschland bei einem Notfall für Feuerwehr und Rettungsdienst?",
+      "richtig": "112",
+      "falsch": [
+        "110",
+        "911",
+        "115"
+      ],
+      "begruendung": "Die 112 gilt in der ganzen EU für Feuerwehr und Rettungsdienst. Die Polizei erreichst du in Deutschland unter 110.",
+      "karte": {
+        "titel": "Notrufnummern",
+        "text": "Die 115 ist die Behördennummer, die 911 gilt in den USA. Die 112 funktioniert in allen Ländern der EU.",
+        "merke": "112: Feuerwehr und Rettung. 110: Polizei."
+      }
+    },
+    {
+      "id": "all-002",
+      "schwierigkeit": "mittel",
+      "ddf": true,
+      "frage": "Welche Farbe ist die äußerste in einem Regenbogen?",
+      "richtig": "Rot",
+      "falsch": [
+        "Violett",
+        "Blau",
+        "Gelb"
+      ],
+      "begruendung": "Außen liegt Rot, innen Violett. Die Reihenfolge: Rot, Orange, Gelb, Grün, Blau, Indigo, Violett.",
+      "karte": {
+        "titel": "Regenbogen",
+        "text": "Bei einem Nebenregenbogen ist die Reihenfolge umgekehrt. Du siehst einen Regenbogen nur mit der Sonne im Rücken.",
+        "merke": "Regenbogen: außen Rot, innen Violett."
+      }
+    },
+    {
+      "id": "all-003",
+      "schwierigkeit": "leicht",
+      "ddf": true,
+      "frage": "Welche Himmelsrichtung liegt Osten gegenüber?",
+      "richtig": "Westen",
+      "falsch": [
+        "Norden",
+        "Süden",
+        "Nordosten"
+      ],
+      "begruendung": "Osten und Westen liegen sich gegenüber, ebenso Norden und Süden.",
+      "karte": {
+        "titel": "Himmelsrichtungen",
+        "text": "Die Sonne geht ungefähr im Osten auf und im Westen unter. Merkspruch im Uhrzeigersinn: Nie Ohne Seife Waschen.",
+        "merke": "Nie Ohne Seife Waschen: N, O, S, W."
+      }
+    },
+    {
+      "id": "all-004",
+      "schwierigkeit": "leicht",
+      "ddf": true,
+      "frage": "Was ergeben Rot und Blau gemischt?",
+      "richtig": "Lila",
+      "falsch": [
+        "Grün",
+        "Orange",
+        "Braun"
+      ],
+      "alias": [
+        "Violett",
+        "Purpur"
+      ],
+      "begruendung": "Beim Mischen von Malfarben ergeben Rot und Blau Lila.",
+      "karte": {
+        "titel": "Mischfarben",
+        "text": "Rot + Gelb = Orange, Gelb + Blau = Grün. Licht mischt sich anders: Rot und Grün ergeben dort Gelb.",
+        "merke": "Rot + Blau = Lila."
+      }
+    },
+    {
+      "id": "all-005",
+      "schwierigkeit": "mittel",
+      "frage": "Wie viele Sekunden hat ein Tag?",
+      "richtig": "86.400",
+      "falsch": [
+        "3.600",
+        "36.000",
+        "864.000"
+      ],
+      "alias": [
+        "86400"
+      ],
+      "begruendung": "24 Stunden × 60 Minuten × 60 Sekunden = 86.400 Sekunden.",
+      "karte": {
+        "titel": "Zeit rechnen",
+        "text": "Eine Stunde hat 3.600 Sekunden, eine Woche 604.800.",
+        "merke": "1 Tag = 86.400 Sekunden."
+      }
+    },
+    {
+      "id": "all-006",
+      "schwierigkeit": "mittel",
+      "ddf": true,
+      "frage": "Welche Form hat das Verkehrsschild „Vorfahrtstraße“?",
+      "richtig": "Ein auf der Spitze stehendes Quadrat (Raute)",
+      "falsch": [
+        "Ein Achteck",
+        "Ein Kreis",
+        "Ein Dreieck"
+      ],
+      "begruendung": "Das Schild ist ein um 45° gedrehtes Quadrat, gelb mit weißem Rand.",
+      "karte": {
+        "titel": "Vorfahrtstraße",
+        "text": "Am Ende der Vorfahrtstraße steht dasselbe Schild schwarz durchgestrichen.",
+        "merke": "Vorfahrtstraße: gelbe Raute."
+      }
+    },
+    {
+      "id": "all-007",
+      "schwierigkeit": "leicht",
+      "ddf": true,
+      "frage": "Wie viele Finger haben beide Hände zusammen, Daumen mitgezählt?",
+      "richtig": "10",
+      "falsch": [
+        "8",
+        "9",
+        "12"
+      ],
+      "alias": [
+        "zehn"
+      ],
+      "begruendung": "Jede Hand hat fünf Finger, der Daumen zählt dazu.",
+      "karte": {
+        "titel": "Finger",
+        "text": "Unser Zehnersystem kommt sehr wahrscheinlich daher, dass Menschen mit zehn Fingern zählen.",
+        "merke": "Zwei Hände: zehn Finger."
+      }
+    },
+    {
+      "id": "all-008",
+      "schwierigkeit": "mittel",
+      "frage": "Wann wird in Deutschland die Uhr auf Sommerzeit umgestellt?",
+      "richtig": "Am letzten Sonntag im März",
+      "falsch": [
+        "Am ersten Sonntag im April",
+        "Am 21. März",
+        "Am letzten Sonntag im Oktober"
+      ],
+      "begruendung": "Im März wird die Uhr eine Stunde vor-, am letzten Sonntag im Oktober wieder zurückgestellt.",
+      "karte": {
+        "titel": "Zeitumstellung",
+        "text": "Merkhilfe: Im Frühling stellt man die Gartenmöbel vor das Haus, im Herbst zurück.",
+        "merke": "März vor, Oktober zurück."
+      },
+      "stand": "2026-11"
+    },
+    {
+      "id": "all-009",
+      "schwierigkeit": "mittel",
+      "ddf": true,
+      "frage": "Wie viele Spielkarten hat ein Skatblatt?",
+      "richtig": "32",
+      "falsch": [
+        "52",
+        "36",
+        "24"
+      ],
+      "alias": [
+        "zweiunddreißig"
+      ],
+      "begruendung": "Ein Skatblatt hat 32 Karten, vom Ass bis zur Sieben in vier Farben. Ein Pokerblatt hat 52.",
+      "karte": {
+        "titel": "Skat",
+        "text": "Skat entstand um 1810 in Altenburg in Thüringen. Seit 2016 ist das Skatspielen immaterielles Kulturerbe in Deutschland.",
+        "merke": "Skat 32 Karten, Poker 52."
+      }
+    },
+    {
+      "id": "all-010",
+      "schwierigkeit": "leicht",
+      "frage": "Wie viele Augen hat ein normaler Spielwürfel insgesamt?",
+      "richtig": "21",
+      "falsch": [
+        "18",
+        "20",
+        "36"
+      ],
+      "alias": [
+        "einundzwanzig"
+      ],
+      "begruendung": "1 + 2 + 3 + 4 + 5 + 6 = 21.",
+      "karte": {
+        "titel": "Würfel",
+        "text": "Gegenüberliegende Seiten ergeben zusammen immer sieben.",
+        "merke": "Würfel: 21 Augen, Gegenseiten = 7."
+      }
+    },
+    {
+      "id": "all-011",
+      "schwierigkeit": "mittel",
+      "frage": "Was bedeutet ein grüner Pfeil an einer roten Ampel?",
+      "richtig": "Rechts abbiegen erlaubt, nach vorherigem Halt",
+      "falsch": [
+        "Freie Fahrt geradeaus",
+        "Nur für Radfahrer",
+        "Ampel ist kaputt"
+      ],
+      "begruendung": "Beim Grünpfeil-Schild musst du erst anhalten und darfst dann vorsichtig rechts abbiegen.",
+      "karte": {
+        "titel": "Grünpfeil",
+        "text": "Das Schild stammt aus der DDR und wurde nach der Einheit bundesweit übernommen.",
+        "merke": "Grünpfeil: erst halten, dann rechts abbiegen."
+      }
+    },
+    {
+      "id": "all-012",
+      "schwierigkeit": "mittel",
+      "frage": "Wie heißt der Schnee, der aus kleinen Eiskörnern besteht und im Frühling oft fällt?",
+      "richtig": "Graupel",
+      "falsch": [
+        "Hagel",
+        "Pulverschnee",
+        "Raureif"
+      ],
+      "begruendung": "Graupel sind kleine weiche Eiskügelchen. Hagel besteht aus größeren, harten Eisklumpen, oft im Sommer.",
+      "karte": {
+        "titel": "Niederschlag",
+        "text": "Raureif entsteht, wenn Feuchtigkeit direkt an kalten Oberflächen gefriert.",
+        "merke": "Graupel: kleine weiche Körner. Hagel: große harte Klumpen."
+      }
+    },
+    {
+      "id": "all-013",
+      "schwierigkeit": "leicht",
+      "frage": "Wie viele Minuten hat eine Stunde?",
+      "richtig": "60",
+      "falsch": [
+        "100",
+        "50",
+        "30"
+      ],
+      "alias": [
+        "sechzig"
+      ],
+      "begruendung": "Eine Stunde hat 60 Minuten. Die Babylonier rechneten im Sechzigersystem.",
+      "karte": {
+        "titel": "Sechzigersystem",
+        "text": "Auch die 360 Grad des Kreises gehen auf die Babylonier zurück.",
+        "merke": "60 Minuten, 60 Sekunden, Erbe der Babylonier."
+      }
+    },
+    {
+      "id": "all-014",
+      "schwierigkeit": "mittel",
+      "ddf": true,
+      "frage": "Wie heißt der fünfte Monat des Jahres?",
+      "richtig": "Mai",
+      "falsch": [
+        "April",
+        "Juni",
+        "März"
+      ],
+      "begruendung": "Januar, Februar, März, April, Mai: Der Mai ist der fünfte Monat.",
+      "karte": {
+        "titel": "Monatsnamen",
+        "text": "September heißt eigentlich „siebter Monat“. Im alten römischen Kalender begann das Jahr im März.",
+        "merke": "5. Monat: Mai. September = ursprünglich 7."
+      }
+    },
+    {
+      "id": "all-015",
+      "schwierigkeit": "mittel",
+      "frage": "Was bedeutet ein durchgestrichenes Mülltonnen-Symbol auf einem Elektrogerät?",
+      "richtig": "Es darf nicht in den Hausmüll",
+      "falsch": [
+        "Es ist besonders umweltfreundlich",
+        "Es ist recycelt",
+        "Es enthält keinen Strom"
+      ],
+      "begruendung": "Elektrogeräte gehören zum Wertstoffhof oder zur Rückgabe im Handel, weil sie wertvolle und giftige Stoffe enthalten.",
+      "karte": {
+        "titel": "Elektroschrott",
+        "text": "Große Supermärkte müssen kleine Elektrogeräte bis 25 cm Kantenlänge kostenlos zurücknehmen.",
+        "merke": "Durchgestrichene Tonne: nicht in den Hausmüll."
+      }
+    },
+    {
+      "id": "all-016",
+      "schwierigkeit": "mittel",
+      "frage": "Bei welcher Temperatur sollte ein Kühlschrank im mittleren Fach etwa eingestellt sein?",
+      "richtig": "Etwa 7 °C",
+      "falsch": [
+        "Etwa 0 °C",
+        "Etwa 12 °C",
+        "Etwa −5 °C"
+      ],
+      "alias": [
+        "7"
+      ],
+      "begruendung": "Fachleute empfehlen im mittleren Fach etwa 7 °C. Jedes Grad kälter kostet mehr Strom.",
+      "karte": {
+        "titel": "Kühlschrank",
+        "text": "Am kältesten ist es meist unten über dem Gemüsefach. Dort lagern Fleisch und Fisch.",
+        "merke": "Kühlschrank: etwa 7 °C in der Mitte."
+      }
+    },
+    {
+      "id": "all-017",
+      "schwierigkeit": "schwer",
+      "frage": "Was bedeutet das Symbol eines Waschbottichs mit einem Punkt auf dem Pflegeetikett?",
+      "richtig": "Waschen bei höchstens 30 °C",
+      "falsch": [
+        "Nur einmal waschen",
+        "Nicht waschen",
+        "Waschen bei 60 °C"
+      ],
+      "begruendung": "Ein Punkt steht für 30 °C, zwei Punkte für 40 °C, drei für 50 °C und vier für 60 °C.",
+      "karte": {
+        "titel": "Pflegesymbole",
+        "text": "Eine Hand im Bottich heißt Handwäsche. Ein durchgestrichener Bottich: nicht waschen.",
+        "merke": "Punkte im Bottich: 1 = 30 °C, 2 = 40 °C, 3 = 50 °C, 4 = 60 °C."
+      }
+    },
+    {
+      "id": "all-018",
+      "schwierigkeit": "mittel",
+      "frage": "Wie lange ist ein normaler Personalausweis für Erwachsene ab 24 Jahren gültig?",
+      "richtig": "10 Jahre",
+      "falsch": [
+        "5 Jahre",
+        "15 Jahre",
+        "Unbegrenzt"
+      ],
+      "alias": [
+        "10"
+      ],
+      "begruendung": "Ab 24 Jahren gilt der Personalausweis zehn Jahre, für Jüngere sechs Jahre.",
+      "karte": {
+        "titel": "Personalausweis",
+        "text": "Ab 16 Jahren musst du in Deutschland einen Ausweis oder Pass besitzen.",
+        "merke": "Perso: 10 Jahre gültig (ab 24), Pflicht ab 16."
+      },
+      "stand": "2026-11"
+    },
+    {
+      "id": "all-019",
+      "schwierigkeit": "mittel",
+      "ddf": true,
+      "frage": "Wie heißt der höchste Punkt eines Berges?",
+      "richtig": "Gipfel",
+      "falsch": [
+        "Sattel",
+        "Grat",
+        "Hang"
+      ],
+      "alias": [
+        "Spitze"
+      ],
+      "begruendung": "Der Gipfel ist die höchste Stelle. Ein Sattel ist die tiefste Stelle zwischen zwei Gipfeln.",
+      "karte": {
+        "titel": "Bergbegriffe",
+        "text": "Ein Grat ist ein schmaler Kamm. Auf vielen Gipfeln in den Alpen steht ein Gipfelkreuz.",
+        "merke": "Gipfel oben, Sattel dazwischen."
+      }
+    },
+    {
+      "id": "all-020",
+      "schwierigkeit": "leicht",
+      "ddf": true,
+      "frage": "Welcher Vogel gilt als Symbol des Friedens?",
+      "richtig": "Taube",
+      "falsch": [
+        "Adler",
+        "Rabe",
+        "Schwan"
+      ],
+      "alias": [
+        "Friedenstaube"
+      ],
+      "begruendung": "Die weiße Taube mit Olivenzweig steht für Frieden. Pablo Picasso malte 1949 eine berühmte Friedenstaube.",
+      "karte": {
+        "titel": "Friedenstaube",
+        "text": "In der Bibel bringt eine Taube Noah einen Olivenzweig als Zeichen, dass die Flut vorbei ist.",
+        "merke": "Frieden: weiße Taube mit Olivenzweig."
+      }
+    }
+  ]
+}

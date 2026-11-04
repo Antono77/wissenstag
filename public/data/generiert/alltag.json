@@ -1,0 +1,1360 @@
+{
+ "klasse": "alltag",
+ "erzeugt": "scripts/generate-fakten.mjs",
+ "fragen": [
+  {
+   "id": "all-ho-5",
+   "schwierigkeit": "mittel",
+   "frage": "Wie heißt der Hochzeitstag nach 5 Ehejahren?",
+   "richtig": "Hölzerne Hochzeit",
+   "falsch": [
+    "Perlenhochzeit",
+    "Silberne Hochzeit",
+    "Gnadenhochzeit"
+   ],
+   "begruendung": "5 Jahre: Hölzerne Hochzeit.",
+   "karte": {
+    "titel": "Hochzeitstage",
+    "text": "Für manche Jahrestage gibt es je nach Region unterschiedliche Namen. Silber, Gold und Diamant sind überall gleich.",
+    "merke": "5 Jahre: Hölzerne Hochzeit."
+   }
+  },
+  {
+   "id": "all-ho-10",
+   "schwierigkeit": "mittel",
+   "frage": "Wie heißt der Hochzeitstag nach 10 Ehejahren?",
+   "richtig": "Rosenhochzeit",
+   "falsch": [
+    "Goldene Hochzeit",
+    "Rubinhochzeit",
+    "Silberne Hochzeit"
+   ],
+   "begruendung": "10 Jahre: Rosenhochzeit.",
+   "karte": {
+    "titel": "Hochzeitstage",
+    "text": "Für manche Jahrestage gibt es je nach Region unterschiedliche Namen. Silber, Gold und Diamant sind überall gleich.",
+    "merke": "10 Jahre: Rosenhochzeit."
+   }
+  },
+  {
+   "id": "all-ho-25",
+   "schwierigkeit": "leicht",
+   "frage": "Wie heißt der Hochzeitstag nach 25 Ehejahren?",
+   "richtig": "Silberne Hochzeit",
+   "falsch": [
+    "Diamantene Hochzeit",
+    "Goldene Hochzeit",
+    "Gnadenhochzeit"
+   ],
+   "begruendung": "25 Jahre: Silberne Hochzeit.",
+   "karte": {
+    "titel": "Hochzeitstage",
+    "text": "Für manche Jahrestage gibt es je nach Region unterschiedliche Namen. Silber, Gold und Diamant sind überall gleich.",
+    "merke": "25 Jahre: Silberne Hochzeit."
+   },
+   "ddf": true
+  },
+  {
+   "id": "all-ho-30",
+   "schwierigkeit": "mittel",
+   "frage": "Wie heißt der Hochzeitstag nach 30 Ehejahren?",
+   "richtig": "Perlenhochzeit",
+   "falsch": [
+    "Diamantene Hochzeit",
+    "Goldene Hochzeit",
+    "Silberne Hochzeit"
+   ],
+   "begruendung": "30 Jahre: Perlenhochzeit.",
+   "karte": {
+    "titel": "Hochzeitstage",
+    "text": "Für manche Jahrestage gibt es je nach Region unterschiedliche Namen. Silber, Gold und Diamant sind überall gleich.",
+    "merke": "30 Jahre: Perlenhochzeit."
+   }
+  },
+  {
+   "id": "all-ho-40",
+   "schwierigkeit": "mittel",
+   "frage": "Wie heißt der Hochzeitstag nach 40 Ehejahren?",
+   "richtig": "Rubinhochzeit",
+   "falsch": [
+    "Goldene Hochzeit",
+    "Rosenhochzeit",
+    "Silberne Hochzeit"
+   ],
+   "begruendung": "40 Jahre: Rubinhochzeit.",
+   "karte": {
+    "titel": "Hochzeitstage",
+    "text": "Für manche Jahrestage gibt es je nach Region unterschiedliche Namen. Silber, Gold und Diamant sind überall gleich.",
+    "merke": "40 Jahre: Rubinhochzeit."
+   }
+  },
+  {
+   "id": "all-ho-50",
+   "schwierigkeit": "leicht",
+   "frage": "Wie heißt der Hochzeitstag nach 50 Ehejahren?",
+   "richtig": "Goldene Hochzeit",
+   "falsch": [
+    "Silberne Hochzeit",
+    "Diamantene Hochzeit",
+    "Rosenhochzeit"
+   ],
+   "begruendung": "50 Jahre: Goldene Hochzeit.",
+   "karte": {
+    "titel": "Hochzeitstage",
+    "text": "Für manche Jahrestage gibt es je nach Region unterschiedliche Namen. Silber, Gold und Diamant sind überall gleich.",
+    "merke": "50 Jahre: Goldene Hochzeit."
+   },
+   "ddf": true
+  },
+  {
+   "id": "all-ho-60",
+   "schwierigkeit": "leicht",
+   "frage": "Wie heißt der Hochzeitstag nach 60 Ehejahren?",
+   "richtig": "Diamantene Hochzeit",
+   "falsch": [
+    "Rubinhochzeit",
+    "Perlenhochzeit",
+    "Hölzerne Hochzeit"
+   ],
+   "begruendung": "60 Jahre: Diamantene Hochzeit.",
+   "karte": {
+    "titel": "Hochzeitstage",
+    "text": "Für manche Jahrestage gibt es je nach Region unterschiedliche Namen. Silber, Gold und Diamant sind überall gleich.",
+    "merke": "60 Jahre: Diamantene Hochzeit."
+   },
+   "ddf": true
+  },
+  {
+   "id": "all-ho-65",
+   "schwierigkeit": "schwer",
+   "frage": "Wie heißt der Hochzeitstag nach 65 Ehejahren?",
+   "richtig": "Eiserne Hochzeit",
+   "falsch": [
+    "Rubinhochzeit",
+    "Goldene Hochzeit",
+    "Gnadenhochzeit"
+   ],
+   "begruendung": "65 Jahre: Eiserne Hochzeit.",
+   "karte": {
+    "titel": "Hochzeitstage",
+    "text": "Für manche Jahrestage gibt es je nach Region unterschiedliche Namen. Silber, Gold und Diamant sind überall gleich.",
+    "merke": "65 Jahre: Eiserne Hochzeit."
+   }
+  },
+  {
+   "id": "all-ho-70",
+   "schwierigkeit": "schwer",
+   "frage": "Wie heißt der Hochzeitstag nach 70 Ehejahren?",
+   "richtig": "Gnadenhochzeit",
+   "falsch": [
+    "Goldene Hochzeit",
+    "Eiserne Hochzeit",
+    "Perlenhochzeit"
+   ],
+   "begruendung": "70 Jahre: Gnadenhochzeit.",
+   "karte": {
+    "titel": "Hochzeitstage",
+    "text": "Für manche Jahrestage gibt es je nach Region unterschiedliche Namen. Silber, Gold und Diamant sind überall gleich.",
+    "merke": "70 Jahre: Gnadenhochzeit."
+   }
+  },
+  {
+   "id": "all-vz-das-stoppschild",
+   "schwierigkeit": "leicht",
+   "frage": "Wie sieht das Stoppschild in Deutschland aus?",
+   "richtig": "Achteckig und rot",
+   "falsch": [
+    "Rechteckig und blau",
+    "Dreieck mit rotem Rand, Spitze nach oben",
+    "Rund mit rotem Rand"
+   ],
+   "begruendung": "Das Stoppschild: achteckig und rot.",
+   "karte": {
+    "titel": "Stoppschild",
+    "text": "Die besondere Form soll man auch erkennen, wenn das Schild verschmutzt oder von hinten zu sehen ist.",
+    "merke": "Das Stoppschild: achteckig und rot."
+   },
+   "ddf": true
+  },
+  {
+   "id": "all-vz-das-schild-vorfahrtstrasse",
+   "schwierigkeit": "leicht",
+   "frage": "Wie sieht das Schild „Vorfahrtstraße“ in Deutschland aus?",
+   "richtig": "Auf der Spitze stehendes gelbes Quadrat (Raute)",
+   "falsch": [
+    "Rechteckig und blau",
+    "Achteckig und rot",
+    "Rund mit rotem Rand"
+   ],
+   "begruendung": "Das Schild „Vorfahrtstraße“: auf der Spitze stehendes gelbes Quadrat (Raute).",
+   "karte": {
+    "titel": "Schild „Vorfahrtstraße“",
+    "text": "Das Schild „Vorfahrtstraße“: auf der Spitze stehendes gelbes Quadrat (Raute).",
+    "merke": "Das Schild „Vorfahrtstraße“: auf der Spitze stehendes gelbes Quadrat (Raute)."
+   },
+   "ddf": true
+  },
+  {
+   "id": "all-vz-das-schild-vorfahrt-gewaehren",
+   "schwierigkeit": "leicht",
+   "frage": "Wie sieht das Schild „Vorfahrt gewähren“ in Deutschland aus?",
+   "richtig": "Auf der Spitze stehendes Dreieck mit rotem Rand",
+   "falsch": [
+    "Rechteckig und blau",
+    "Auf der Spitze stehendes gelbes Quadrat (Raute)",
+    "Rund mit rotem Rand"
+   ],
+   "begruendung": "Das Schild „Vorfahrt gewähren“: auf der Spitze stehendes Dreieck mit rotem Rand.",
+   "karte": {
+    "titel": "Schild „Vorfahrt gewähren“",
+    "text": "Das Schild „Vorfahrt gewähren“: auf der Spitze stehendes Dreieck mit rotem Rand.",
+    "merke": "Das Schild „Vorfahrt gewähren“: auf der Spitze stehendes Dreieck mit rotem Rand."
+   },
+   "ddf": true
+  },
+  {
+   "id": "all-vz-ein-gefahrzeichen-z-b-kinder",
+   "schwierigkeit": "mittel",
+   "frage": "Wie sieht ein Gefahrzeichen (z. B. „Kinder“) in Deutschland aus?",
+   "richtig": "Dreieck mit rotem Rand, Spitze nach oben",
+   "falsch": [
+    "Rund mit rotem Rand",
+    "Rechteckig und blau",
+    "Rechteckig und gelb"
+   ],
+   "begruendung": "Ein Gefahrzeichen (z. B. „Kinder“): dreieck mit rotem Rand, Spitze nach oben.",
+   "karte": {
+    "titel": "Gefahrzeichen (z. B. „Kinder“)",
+    "text": "Ein Gefahrzeichen (z. B. „Kinder“): dreieck mit rotem Rand, Spitze nach oben.",
+    "merke": "Ein Gefahrzeichen (z. B. „Kinder“): dreieck mit rotem Rand, Spitze nach oben."
+   }
+  },
+  {
+   "id": "all-vz-ein-verbotszeichen-z-b-tempolimit",
+   "schwierigkeit": "leicht",
+   "frage": "Wie sieht ein Verbotszeichen (z. B. Tempolimit) in Deutschland aus?",
+   "richtig": "Rund mit rotem Rand",
+   "falsch": [
+    "Rechteckig und blau",
+    "Achteckig und rot",
+    "Rechteckig und gelb"
+   ],
+   "begruendung": "Ein Verbotszeichen (z. B. Tempolimit): rund mit rotem Rand.",
+   "karte": {
+    "titel": "Verbotszeichen (z. B. Tempolimit)",
+    "text": "Ein Verbotszeichen (z. B. Tempolimit): rund mit rotem Rand.",
+    "merke": "Ein Verbotszeichen (z. B. Tempolimit): rund mit rotem Rand."
+   },
+   "ddf": true
+  },
+  {
+   "id": "all-vz-ein-gebotszeichen-z-b-radweg",
+   "schwierigkeit": "mittel",
+   "frage": "Wie sieht ein Gebotszeichen (z. B. „Radweg“) in Deutschland aus?",
+   "richtig": "Rund und blau",
+   "falsch": [
+    "Dreieck mit rotem Rand, Spitze nach oben",
+    "Achteckig und rot",
+    "Auf der Spitze stehendes gelbes Quadrat (Raute)"
+   ],
+   "begruendung": "Ein Gebotszeichen (z. B. „Radweg“): rund und blau.",
+   "karte": {
+    "titel": "Gebotszeichen (z. B. „Radweg“)",
+    "text": "Ein Gebotszeichen (z. B. „Radweg“): rund und blau.",
+    "merke": "Ein Gebotszeichen (z. B. „Radweg“): rund und blau."
+   }
+  },
+  {
+   "id": "all-vz-ein-autobahn-wegweiser",
+   "schwierigkeit": "mittel",
+   "frage": "Wie sieht ein Autobahn-Wegweiser in Deutschland aus?",
+   "richtig": "Rechteckig und blau",
+   "falsch": [
+    "Dreieck mit rotem Rand, Spitze nach oben",
+    "Auf der Spitze stehendes Dreieck mit rotem Rand",
+    "Achteckig und rot"
+   ],
+   "begruendung": "Ein Autobahn-Wegweiser: rechteckig und blau.",
+   "karte": {
+    "titel": "Autobahn-Wegweiser",
+    "text": "Ein Autobahn-Wegweiser: rechteckig und blau.",
+    "merke": "Ein Autobahn-Wegweiser: rechteckig und blau."
+   }
+  },
+  {
+   "id": "all-vz-das-ortsschild",
+   "schwierigkeit": "leicht",
+   "frage": "Wie sieht das Ortsschild in Deutschland aus?",
+   "richtig": "Rechteckig und gelb",
+   "falsch": [
+    "Auf der Spitze stehendes Dreieck mit rotem Rand",
+    "Auf der Spitze stehendes gelbes Quadrat (Raute)",
+    "Rund und blau"
+   ],
+   "begruendung": "Das Ortsschild: rechteckig und gelb.",
+   "karte": {
+    "titel": "Ortsschild",
+    "text": "Das Ortsschild: rechteckig und gelb.",
+    "merke": "Das Ortsschild: rechteckig und gelb."
+   },
+   "ddf": true
+  },
+  {
+   "id": "all-ma-ein-dutzend",
+   "schwierigkeit": "leicht",
+   "frage": "Wie viel ist ein Dutzend?",
+   "richtig": "12 Stück",
+   "falsch": [
+    "1,852 Kilometer",
+    "etwa 1,6 Kilometer",
+    "144 Stück"
+   ],
+   "begruendung": "Ein Dutzend = 12 Stück.",
+   "karte": {
+    "titel": "Dutzend",
+    "text": "Ein Dutzend = 12 Stück.",
+    "merke": "Ein Dutzend = 12 Stück."
+   },
+   "ddf": true
+  },
+  {
+   "id": "all-ma-ein-schock",
+   "schwierigkeit": "schwer",
+   "frage": "Wie viel ist ein Schock?",
+   "richtig": "60 Stück",
+   "falsch": [
+    "0,2 Gramm",
+    "50 Kilogramm",
+    "12 Stück"
+   ],
+   "begruendung": "Ein Schock = 60 Stück.",
+   "karte": {
+    "titel": "Schock",
+    "text": "Ein Schock = 60 Stück.",
+    "merke": "Ein Schock = 60 Stück."
+   }
+  },
+  {
+   "id": "all-ma-ein-gros",
+   "schwierigkeit": "schwer",
+   "frage": "Wie viel ist ein Gros?",
+   "richtig": "144 Stück",
+   "falsch": [
+    "etwa 159 Liter",
+    "etwa 0,74 Kilowatt",
+    "500 Gramm"
+   ],
+   "begruendung": "Ein Gros = 144 Stück.",
+   "karte": {
+    "titel": "Gros",
+    "text": "Ein Gros = 144 Stück.",
+    "merke": "Ein Gros = 144 Stück."
+   }
+  },
+  {
+   "id": "all-ma-eine-mass-bier",
+   "schwierigkeit": "leicht",
+   "frage": "Wie viel ist eine Maß Bier?",
+   "richtig": "1 Liter",
+   "falsch": [
+    "1,852 Kilometer",
+    "50 Kilogramm",
+    "2,54 Zentimeter"
+   ],
+   "begruendung": "Eine Maß Bier = 1 Liter.",
+   "karte": {
+    "titel": "Maß Bier",
+    "text": "Eine Maß Bier = 1 Liter.",
+    "merke": "Eine Maß Bier = 1 Liter."
+   },
+   "ddf": true
+  },
+  {
+   "id": "all-ma-ein-pfund",
+   "schwierigkeit": "leicht",
+   "frage": "Wie viel ist ein Pfund?",
+   "richtig": "500 Gramm",
+   "falsch": [
+    "eine Seemeile pro Stunde",
+    "etwa 0,74 Kilowatt",
+    "etwa 1,6 Kilometer"
+   ],
+   "begruendung": "Ein Pfund = 500 Gramm.",
+   "karte": {
+    "titel": "Pfund",
+    "text": "Ein Pfund = 500 Gramm.",
+    "merke": "Ein Pfund = 500 Gramm."
+   },
+   "ddf": true
+  },
+  {
+   "id": "all-ma-ein-zentner",
+   "schwierigkeit": "mittel",
+   "frage": "Wie viel ist ein Zentner?",
+   "richtig": "50 Kilogramm",
+   "falsch": [
+    "10.000 Quadratmeter",
+    "500 Gramm",
+    "etwa 1,6 Kilometer"
+   ],
+   "begruendung": "Ein Zentner = 50 Kilogramm.",
+   "karte": {
+    "titel": "Zentner",
+    "text": "Ein Zentner = 50 Kilogramm.",
+    "merke": "Ein Zentner = 50 Kilogramm."
+   }
+  },
+  {
+   "id": "all-ma-ein-doppelzentner",
+   "schwierigkeit": "mittel",
+   "frage": "Wie viel ist ein Doppelzentner?",
+   "richtig": "100 Kilogramm",
+   "falsch": [
+    "etwa 1,6 Kilometer",
+    "eine Seemeile pro Stunde",
+    "0,2 Gramm"
+   ],
+   "begruendung": "Ein Doppelzentner = 100 Kilogramm.",
+   "karte": {
+    "titel": "Doppelzentner",
+    "text": "Ein Doppelzentner = 100 Kilogramm.",
+    "merke": "Ein Doppelzentner = 100 Kilogramm."
+   }
+  },
+  {
+   "id": "all-ma-ein-zoll",
+   "schwierigkeit": "mittel",
+   "frage": "Wie viel ist ein Zoll?",
+   "richtig": "2,54 Zentimeter",
+   "falsch": [
+    "1 Liter",
+    "etwa 3,8 Liter",
+    "etwa 1,6 Kilometer"
+   ],
+   "begruendung": "Ein Zoll = 2,54 Zentimeter.",
+   "karte": {
+    "titel": "Zoll",
+    "text": "Ein Zoll = 2,54 Zentimeter.",
+    "merke": "Ein Zoll = 2,54 Zentimeter."
+   }
+  },
+  {
+   "id": "all-ma-eine-meile",
+   "schwierigkeit": "mittel",
+   "frage": "Wie viel ist eine Meile?",
+   "richtig": "etwa 1,6 Kilometer",
+   "falsch": [
+    "2,54 Zentimeter",
+    "etwa 0,74 Kilowatt",
+    "144 Stück"
+   ],
+   "begruendung": "Eine Meile = etwa 1,6 Kilometer.",
+   "karte": {
+    "titel": "Meile",
+    "text": "Eine Meile = etwa 1,6 Kilometer.",
+    "merke": "Eine Meile = etwa 1,6 Kilometer."
+   }
+  },
+  {
+   "id": "all-ma-eine-seemeile",
+   "schwierigkeit": "schwer",
+   "frage": "Wie viel ist eine Seemeile?",
+   "richtig": "1,852 Kilometer",
+   "falsch": [
+    "100 Kilogramm",
+    "30,48 Zentimeter",
+    "10.000 Quadratmeter"
+   ],
+   "begruendung": "Eine Seemeile = 1,852 Kilometer.",
+   "karte": {
+    "titel": "Seemeile",
+    "text": "Eine Seemeile = 1,852 Kilometer.",
+    "merke": "Eine Seemeile = 1,852 Kilometer."
+   }
+  },
+  {
+   "id": "all-ma-ein-fuss",
+   "schwierigkeit": "schwer",
+   "frage": "Wie viel ist ein Fuß?",
+   "richtig": "30,48 Zentimeter",
+   "falsch": [
+    "etwa 0,74 Kilowatt",
+    "0,2 Gramm",
+    "2,54 Zentimeter"
+   ],
+   "begruendung": "Ein Fuß = 30,48 Zentimeter.",
+   "karte": {
+    "titel": "Fuß",
+    "text": "Ein Fuß = 30,48 Zentimeter.",
+    "merke": "Ein Fuß = 30,48 Zentimeter."
+   }
+  },
+  {
+   "id": "all-ma-ein-karat-bei-edelsteinen",
+   "schwierigkeit": "schwer",
+   "frage": "Wie viel ist ein Karat bei Edelsteinen?",
+   "richtig": "0,2 Gramm",
+   "falsch": [
+    "2,54 Zentimeter",
+    "1 Liter",
+    "etwa 3,8 Liter"
+   ],
+   "begruendung": "Ein Karat bei Edelsteinen = 0,2 Gramm.",
+   "karte": {
+    "titel": "Karat bei Edelsteinen",
+    "text": "Ein Karat bei Edelsteinen = 0,2 Gramm.",
+    "merke": "Ein Karat bei Edelsteinen = 0,2 Gramm."
+   }
+  },
+  {
+   "id": "all-ma-eine-pferdestaerke-ps",
+   "schwierigkeit": "schwer",
+   "frage": "Wie viel ist eine Pferdestärke (PS)?",
+   "richtig": "etwa 0,74 Kilowatt",
+   "falsch": [
+    "eine Seemeile pro Stunde",
+    "0,2 Gramm",
+    "60 Stück"
+   ],
+   "begruendung": "Eine Pferdestärke (PS) = etwa 0,74 Kilowatt.",
+   "karte": {
+    "titel": "Pferdestärke (PS)",
+    "text": "Eine Pferdestärke (PS) = etwa 0,74 Kilowatt.",
+    "merke": "Eine Pferdestärke (PS) = etwa 0,74 Kilowatt."
+   }
+  },
+  {
+   "id": "all-ma-ein-knoten",
+   "schwierigkeit": "schwer",
+   "frage": "Wie viel ist ein Knoten?",
+   "richtig": "eine Seemeile pro Stunde",
+   "falsch": [
+    "144 Stück",
+    "etwa 1,6 Kilometer",
+    "12 Stück"
+   ],
+   "begruendung": "Ein Knoten = eine Seemeile pro Stunde.",
+   "karte": {
+    "titel": "Knoten",
+    "text": "Ein Knoten = eine Seemeile pro Stunde.",
+    "merke": "Ein Knoten = eine Seemeile pro Stunde."
+   }
+  },
+  {
+   "id": "all-ma-ein-ar",
+   "schwierigkeit": "mittel",
+   "frage": "Wie viel ist ein Ar?",
+   "richtig": "100 Quadratmeter",
+   "falsch": [
+    "etwa 3,8 Liter",
+    "etwa 0,74 Kilowatt",
+    "etwa 159 Liter"
+   ],
+   "begruendung": "Ein Ar = 100 Quadratmeter.",
+   "karte": {
+    "titel": "Ar",
+    "text": "Ein Ar = 100 Quadratmeter.",
+    "merke": "Ein Ar = 100 Quadratmeter."
+   }
+  },
+  {
+   "id": "all-ma-ein-barrel-oel",
+   "schwierigkeit": "schwer",
+   "frage": "Wie viel ist ein Barrel Öl?",
+   "richtig": "etwa 159 Liter",
+   "falsch": [
+    "2,54 Zentimeter",
+    "144 Stück",
+    "etwa 3,8 Liter"
+   ],
+   "begruendung": "Ein Barrel Öl = etwa 159 Liter.",
+   "karte": {
+    "titel": "Barrel Öl",
+    "text": "Ein Barrel Öl = etwa 159 Liter.",
+    "merke": "Ein Barrel Öl = etwa 159 Liter."
+   }
+  },
+  {
+   "id": "all-ma-eine-us-gallone",
+   "schwierigkeit": "schwer",
+   "frage": "Wie viel ist eine US-Gallone?",
+   "richtig": "etwa 3,8 Liter",
+   "falsch": [
+    "etwa 159 Liter",
+    "etwa 1,6 Kilometer",
+    "100 Kilogramm"
+   ],
+   "begruendung": "Eine US-Gallone = etwa 3,8 Liter.",
+   "karte": {
+    "titel": "US-Gallone",
+    "text": "Eine US-Gallone = etwa 3,8 Liter.",
+    "merke": "Eine US-Gallone = etwa 3,8 Liter."
+   }
+  },
+  {
+   "id": "all-ma-ein-hektar",
+   "schwierigkeit": "mittel",
+   "frage": "Wie viel ist ein Hektar?",
+   "richtig": "10.000 Quadratmeter",
+   "falsch": [
+    "500 Gramm",
+    "etwa 159 Liter",
+    "100 Kilogramm"
+   ],
+   "begruendung": "Ein Hektar = 10.000 Quadratmeter.",
+   "karte": {
+    "titel": "Hektar",
+    "text": "Ein Hektar = 10.000 Quadratmeter.",
+    "merke": "Ein Hektar = 10.000 Quadratmeter."
+   }
+  },
+  {
+   "id": "all-mo-januar",
+   "schwierigkeit": "leicht",
+   "frage": "Wie viele Tage hat der Januar?",
+   "richtig": "31",
+   "falsch": [
+    "30",
+    "28, im Schaltjahr 29",
+    "29"
+   ],
+   "begruendung": "Januar: 31 Tage.",
+   "karte": {
+    "titel": "Monate",
+    "text": "Knöchel-Regel: Zähl die Monate über deine Fingerknöchel und die Lücken dazwischen. Knöchel-Monate haben 31 Tage. Juli und August liegen beide auf einem Knöchel.",
+    "merke": "Januar: 31 Tage."
+   }
+  },
+  {
+   "id": "all-mo-februar",
+   "schwierigkeit": "leicht",
+   "frage": "Wie viele Tage hat der Februar?",
+   "richtig": "28, im Schaltjahr 29",
+   "falsch": [
+    "30",
+    "31",
+    "29"
+   ],
+   "begruendung": "Februar: 28, im Schaltjahr 29 Tage.",
+   "karte": {
+    "titel": "Monate",
+    "text": "Knöchel-Regel: Zähl die Monate über deine Fingerknöchel und die Lücken dazwischen. Knöchel-Monate haben 31 Tage. Juli und August liegen beide auf einem Knöchel.",
+    "merke": "Februar: 28, im Schaltjahr 29 Tage."
+   }
+  },
+  {
+   "id": "all-mo-maerz",
+   "schwierigkeit": "leicht",
+   "frage": "Wie viele Tage hat der März?",
+   "richtig": "31",
+   "falsch": [
+    "28, im Schaltjahr 29",
+    "30",
+    "29"
+   ],
+   "begruendung": "März: 31 Tage.",
+   "karte": {
+    "titel": "Monate",
+    "text": "Knöchel-Regel: Zähl die Monate über deine Fingerknöchel und die Lücken dazwischen. Knöchel-Monate haben 31 Tage. Juli und August liegen beide auf einem Knöchel.",
+    "merke": "März: 31 Tage."
+   }
+  },
+  {
+   "id": "all-mo-april",
+   "schwierigkeit": "leicht",
+   "frage": "Wie viele Tage hat der April?",
+   "richtig": "30",
+   "falsch": [
+    "31",
+    "28, im Schaltjahr 29",
+    "29"
+   ],
+   "begruendung": "April: 30 Tage.",
+   "karte": {
+    "titel": "Monate",
+    "text": "Knöchel-Regel: Zähl die Monate über deine Fingerknöchel und die Lücken dazwischen. Knöchel-Monate haben 31 Tage. Juli und August liegen beide auf einem Knöchel.",
+    "merke": "April: 30 Tage."
+   }
+  },
+  {
+   "id": "all-mo-mai",
+   "schwierigkeit": "leicht",
+   "frage": "Wie viele Tage hat der Mai?",
+   "richtig": "31",
+   "falsch": [
+    "28, im Schaltjahr 29",
+    "30",
+    "29"
+   ],
+   "begruendung": "Mai: 31 Tage.",
+   "karte": {
+    "titel": "Monate",
+    "text": "Knöchel-Regel: Zähl die Monate über deine Fingerknöchel und die Lücken dazwischen. Knöchel-Monate haben 31 Tage. Juli und August liegen beide auf einem Knöchel.",
+    "merke": "Mai: 31 Tage."
+   }
+  },
+  {
+   "id": "all-mo-juni",
+   "schwierigkeit": "leicht",
+   "frage": "Wie viele Tage hat der Juni?",
+   "richtig": "30",
+   "falsch": [
+    "31",
+    "29",
+    "28, im Schaltjahr 29"
+   ],
+   "begruendung": "Juni: 30 Tage.",
+   "karte": {
+    "titel": "Monate",
+    "text": "Knöchel-Regel: Zähl die Monate über deine Fingerknöchel und die Lücken dazwischen. Knöchel-Monate haben 31 Tage. Juli und August liegen beide auf einem Knöchel.",
+    "merke": "Juni: 30 Tage."
+   }
+  },
+  {
+   "id": "all-mo-juli",
+   "schwierigkeit": "leicht",
+   "frage": "Wie viele Tage hat der Juli?",
+   "richtig": "31",
+   "falsch": [
+    "28, im Schaltjahr 29",
+    "29",
+    "30"
+   ],
+   "begruendung": "Juli: 31 Tage.",
+   "karte": {
+    "titel": "Monate",
+    "text": "Knöchel-Regel: Zähl die Monate über deine Fingerknöchel und die Lücken dazwischen. Knöchel-Monate haben 31 Tage. Juli und August liegen beide auf einem Knöchel.",
+    "merke": "Juli: 31 Tage."
+   }
+  },
+  {
+   "id": "all-mo-august",
+   "schwierigkeit": "mittel",
+   "frage": "Wie viele Tage hat der August?",
+   "richtig": "31",
+   "falsch": [
+    "30",
+    "29",
+    "28, im Schaltjahr 29"
+   ],
+   "begruendung": "August: 31 Tage.",
+   "karte": {
+    "titel": "Monate",
+    "text": "Knöchel-Regel: Zähl die Monate über deine Fingerknöchel und die Lücken dazwischen. Knöchel-Monate haben 31 Tage. Juli und August liegen beide auf einem Knöchel.",
+    "merke": "August: 31 Tage."
+   }
+  },
+  {
+   "id": "all-mo-september",
+   "schwierigkeit": "leicht",
+   "frage": "Wie viele Tage hat der September?",
+   "richtig": "30",
+   "falsch": [
+    "31",
+    "28, im Schaltjahr 29",
+    "29"
+   ],
+   "begruendung": "September: 30 Tage.",
+   "karte": {
+    "titel": "Monate",
+    "text": "Knöchel-Regel: Zähl die Monate über deine Fingerknöchel und die Lücken dazwischen. Knöchel-Monate haben 31 Tage. Juli und August liegen beide auf einem Knöchel.",
+    "merke": "September: 30 Tage."
+   }
+  },
+  {
+   "id": "all-mo-oktober",
+   "schwierigkeit": "leicht",
+   "frage": "Wie viele Tage hat der Oktober?",
+   "richtig": "31",
+   "falsch": [
+    "30",
+    "29",
+    "28, im Schaltjahr 29"
+   ],
+   "begruendung": "Oktober: 31 Tage.",
+   "karte": {
+    "titel": "Monate",
+    "text": "Knöchel-Regel: Zähl die Monate über deine Fingerknöchel und die Lücken dazwischen. Knöchel-Monate haben 31 Tage. Juli und August liegen beide auf einem Knöchel.",
+    "merke": "Oktober: 31 Tage."
+   }
+  },
+  {
+   "id": "all-mo-november",
+   "schwierigkeit": "leicht",
+   "frage": "Wie viele Tage hat der November?",
+   "richtig": "30",
+   "falsch": [
+    "28, im Schaltjahr 29",
+    "31",
+    "29"
+   ],
+   "begruendung": "November: 30 Tage.",
+   "karte": {
+    "titel": "Monate",
+    "text": "Knöchel-Regel: Zähl die Monate über deine Fingerknöchel und die Lücken dazwischen. Knöchel-Monate haben 31 Tage. Juli und August liegen beide auf einem Knöchel.",
+    "merke": "November: 30 Tage."
+   }
+  },
+  {
+   "id": "all-mo-dezember",
+   "schwierigkeit": "leicht",
+   "frage": "Wie viele Tage hat der Dezember?",
+   "richtig": "31",
+   "falsch": [
+    "30",
+    "28, im Schaltjahr 29",
+    "29"
+   ],
+   "begruendung": "Dezember: 31 Tage.",
+   "karte": {
+    "titel": "Monate",
+    "text": "Knöchel-Regel: Zähl die Monate über deine Fingerknöchel und die Lücken dazwischen. Knöchel-Monate haben 31 Tage. Juli und August liegen beide auf einem Knöchel.",
+    "merke": "Dezember: 31 Tage."
+   }
+  },
+  {
+   "id": "all-st-10-januar",
+   "schwierigkeit": "mittel",
+   "frage": "Welches Sternzeichen hat laut Horoskop, wer am 10. Januar Geburtstag hat?",
+   "richtig": "Steinbock",
+   "falsch": [
+    "Schütze",
+    "Zwillinge",
+    "Widder"
+   ],
+   "begruendung": "10. Januar: Steinbock.",
+   "karte": {
+    "titel": "Sternzeichen",
+    "text": "Sternzeichen stammen aus der Astrologie. Wissenschaftlich gibt es keinen Beleg, dass sie den Charakter beeinflussen.",
+    "merke": "10. Januar: Steinbock."
+   }
+  },
+  {
+   "id": "all-st-5-februar",
+   "schwierigkeit": "mittel",
+   "frage": "Welches Sternzeichen hat laut Horoskop, wer am 5. Februar Geburtstag hat?",
+   "richtig": "Wassermann",
+   "falsch": [
+    "Waage",
+    "Skorpion",
+    "Löwe"
+   ],
+   "begruendung": "5. Februar: Wassermann.",
+   "karte": {
+    "titel": "Sternzeichen",
+    "text": "Sternzeichen stammen aus der Astrologie. Wissenschaftlich gibt es keinen Beleg, dass sie den Charakter beeinflussen.",
+    "merke": "5. Februar: Wassermann."
+   }
+  },
+  {
+   "id": "all-st-10-maerz",
+   "schwierigkeit": "mittel",
+   "frage": "Welches Sternzeichen hat laut Horoskop, wer am 10. März Geburtstag hat?",
+   "richtig": "Fische",
+   "falsch": [
+    "Stier",
+    "Steinbock",
+    "Wassermann"
+   ],
+   "begruendung": "10. März: Fische.",
+   "karte": {
+    "titel": "Sternzeichen",
+    "text": "Sternzeichen stammen aus der Astrologie. Wissenschaftlich gibt es keinen Beleg, dass sie den Charakter beeinflussen.",
+    "merke": "10. März: Fische."
+   }
+  },
+  {
+   "id": "all-st-10-april",
+   "schwierigkeit": "mittel",
+   "frage": "Welches Sternzeichen hat laut Horoskop, wer am 10. April Geburtstag hat?",
+   "richtig": "Widder",
+   "falsch": [
+    "Jungfrau",
+    "Fische",
+    "Stier"
+   ],
+   "begruendung": "10. April: Widder.",
+   "karte": {
+    "titel": "Sternzeichen",
+    "text": "Sternzeichen stammen aus der Astrologie. Wissenschaftlich gibt es keinen Beleg, dass sie den Charakter beeinflussen.",
+    "merke": "10. April: Widder."
+   }
+  },
+  {
+   "id": "all-st-10-mai",
+   "schwierigkeit": "mittel",
+   "frage": "Welches Sternzeichen hat laut Horoskop, wer am 10. Mai Geburtstag hat?",
+   "richtig": "Stier",
+   "falsch": [
+    "Wassermann",
+    "Widder",
+    "Fische"
+   ],
+   "begruendung": "10. Mai: Stier.",
+   "karte": {
+    "titel": "Sternzeichen",
+    "text": "Sternzeichen stammen aus der Astrologie. Wissenschaftlich gibt es keinen Beleg, dass sie den Charakter beeinflussen.",
+    "merke": "10. Mai: Stier."
+   }
+  },
+  {
+   "id": "all-st-10-juni",
+   "schwierigkeit": "mittel",
+   "frage": "Welches Sternzeichen hat laut Horoskop, wer am 10. Juni Geburtstag hat?",
+   "richtig": "Zwillinge",
+   "falsch": [
+    "Löwe",
+    "Schütze",
+    "Krebs"
+   ],
+   "begruendung": "10. Juni: Zwillinge.",
+   "karte": {
+    "titel": "Sternzeichen",
+    "text": "Sternzeichen stammen aus der Astrologie. Wissenschaftlich gibt es keinen Beleg, dass sie den Charakter beeinflussen.",
+    "merke": "10. Juni: Zwillinge."
+   }
+  },
+  {
+   "id": "all-st-10-juli",
+   "schwierigkeit": "mittel",
+   "frage": "Welches Sternzeichen hat laut Horoskop, wer am 10. Juli Geburtstag hat?",
+   "richtig": "Krebs",
+   "falsch": [
+    "Jungfrau",
+    "Waage",
+    "Widder"
+   ],
+   "begruendung": "10. Juli: Krebs.",
+   "karte": {
+    "titel": "Sternzeichen",
+    "text": "Sternzeichen stammen aus der Astrologie. Wissenschaftlich gibt es keinen Beleg, dass sie den Charakter beeinflussen.",
+    "merke": "10. Juli: Krebs."
+   }
+  },
+  {
+   "id": "all-st-10-august",
+   "schwierigkeit": "mittel",
+   "frage": "Welches Sternzeichen hat laut Horoskop, wer am 10. August Geburtstag hat?",
+   "richtig": "Löwe",
+   "falsch": [
+    "Steinbock",
+    "Skorpion",
+    "Wassermann"
+   ],
+   "begruendung": "10. August: Löwe.",
+   "karte": {
+    "titel": "Sternzeichen",
+    "text": "Sternzeichen stammen aus der Astrologie. Wissenschaftlich gibt es keinen Beleg, dass sie den Charakter beeinflussen.",
+    "merke": "10. August: Löwe."
+   }
+  },
+  {
+   "id": "all-st-10-september",
+   "schwierigkeit": "mittel",
+   "frage": "Welches Sternzeichen hat laut Horoskop, wer am 10. September Geburtstag hat?",
+   "richtig": "Jungfrau",
+   "falsch": [
+    "Schütze",
+    "Steinbock",
+    "Fische"
+   ],
+   "begruendung": "10. September: Jungfrau.",
+   "karte": {
+    "titel": "Sternzeichen",
+    "text": "Sternzeichen stammen aus der Astrologie. Wissenschaftlich gibt es keinen Beleg, dass sie den Charakter beeinflussen.",
+    "merke": "10. September: Jungfrau."
+   }
+  },
+  {
+   "id": "all-st-10-oktober",
+   "schwierigkeit": "mittel",
+   "frage": "Welches Sternzeichen hat laut Horoskop, wer am 10. Oktober Geburtstag hat?",
+   "richtig": "Waage",
+   "falsch": [
+    "Fische",
+    "Krebs",
+    "Jungfrau"
+   ],
+   "begruendung": "10. Oktober: Waage.",
+   "karte": {
+    "titel": "Sternzeichen",
+    "text": "Sternzeichen stammen aus der Astrologie. Wissenschaftlich gibt es keinen Beleg, dass sie den Charakter beeinflussen.",
+    "merke": "10. Oktober: Waage."
+   }
+  },
+  {
+   "id": "all-st-10-november",
+   "schwierigkeit": "mittel",
+   "frage": "Welches Sternzeichen hat laut Horoskop, wer am 10. November Geburtstag hat?",
+   "richtig": "Skorpion",
+   "falsch": [
+    "Fische",
+    "Steinbock",
+    "Wassermann"
+   ],
+   "begruendung": "10. November: Skorpion.",
+   "karte": {
+    "titel": "Sternzeichen",
+    "text": "Sternzeichen stammen aus der Astrologie. Wissenschaftlich gibt es keinen Beleg, dass sie den Charakter beeinflussen.",
+    "merke": "10. November: Skorpion."
+   }
+  },
+  {
+   "id": "all-st-10-dezember",
+   "schwierigkeit": "mittel",
+   "frage": "Welches Sternzeichen hat laut Horoskop, wer am 10. Dezember Geburtstag hat?",
+   "richtig": "Schütze",
+   "falsch": [
+    "Jungfrau",
+    "Waage",
+    "Steinbock"
+   ],
+   "begruendung": "10. Dezember: Schütze.",
+   "karte": {
+    "titel": "Sternzeichen",
+    "text": "Sternzeichen stammen aus der Astrologie. Wissenschaftlich gibt es keinen Beleg, dass sie den Charakter beeinflussen.",
+    "merke": "10. Dezember: Schütze."
+   }
+  },
+  {
+   "id": "all-ab-usw",
+   "schwierigkeit": "leicht",
+   "frage": "Wofür steht die Abkürzung „usw.“?",
+   "richtig": "Und so weiter",
+   "falsch": [
+    "Zuzüglich",
+    "Circa (ungefähr)",
+    "Wohngemeinschaft"
+   ],
+   "begruendung": "usw. = und so weiter.",
+   "karte": {
+    "titel": "usw.",
+    "text": "usw. = und so weiter.",
+    "merke": "usw. = und so weiter."
+   }
+  },
+  {
+   "id": "all-ab-bzw",
+   "schwierigkeit": "leicht",
+   "frage": "Wofür steht die Abkürzung „bzw.“?",
+   "richtig": "Beziehungsweise",
+   "falsch": [
+    "Hauptbahnhof",
+    "Personenkraftwagen",
+    "Zuzüglich"
+   ],
+   "begruendung": "bzw. = beziehungsweise.",
+   "karte": {
+    "titel": "bzw.",
+    "text": "bzw. = beziehungsweise.",
+    "merke": "bzw. = beziehungsweise."
+   }
+  },
+  {
+   "id": "all-ab-ca",
+   "schwierigkeit": "leicht",
+   "frage": "Wofür steht die Abkürzung „ca.“?",
+   "richtig": "Circa (ungefähr)",
+   "falsch": [
+    "Personenkraftwagen",
+    "Mehrwertsteuer",
+    "Intercity-Express"
+   ],
+   "begruendung": "ca. = circa (ungefähr).",
+   "karte": {
+    "titel": "ca.",
+    "text": "ca. = circa (ungefähr).",
+    "merke": "ca. = circa (ungefähr)."
+   }
+  },
+  {
+   "id": "all-ab-evtl",
+   "schwierigkeit": "leicht",
+   "frage": "Wofür steht die Abkürzung „evtl.“?",
+   "richtig": "Eventuell",
+   "falsch": [
+    "Mehrwertsteuer",
+    "Kraftfahrzeug",
+    "Und so weiter"
+   ],
+   "begruendung": "evtl. = eventuell.",
+   "karte": {
+    "titel": "evtl.",
+    "text": "evtl. = eventuell.",
+    "merke": "evtl. = eventuell."
+   }
+  },
+  {
+   "id": "all-ab-ggf",
+   "schwierigkeit": "leicht",
+   "frage": "Wofür steht die Abkürzung „ggf.“?",
+   "richtig": "Gegebenenfalls",
+   "falsch": [
+    "Öffentlicher Personennahverkehr",
+    "Und so weiter",
+    "Hauptbahnhof"
+   ],
+   "begruendung": "ggf. = gegebenenfalls.",
+   "karte": {
+    "titel": "ggf.",
+    "text": "ggf. = gegebenenfalls.",
+    "merke": "ggf. = gegebenenfalls."
+   }
+  },
+  {
+   "id": "all-ab-inkl",
+   "schwierigkeit": "leicht",
+   "frage": "Wofür steht die Abkürzung „inkl.“?",
+   "richtig": "Inklusive",
+   "falsch": [
+    "Eventuell",
+    "Öffentlicher Personennahverkehr",
+    "Personenkraftwagen"
+   ],
+   "begruendung": "inkl. = inklusive.",
+   "karte": {
+    "titel": "inkl.",
+    "text": "inkl. = inklusive.",
+    "merke": "inkl. = inklusive."
+   }
+  },
+  {
+   "id": "all-ab-zzgl",
+   "schwierigkeit": "mittel",
+   "frage": "Wofür steht die Abkürzung „zzgl.“?",
+   "richtig": "Zuzüglich",
+   "falsch": [
+    "Öffentlicher Personennahverkehr",
+    "Oder Ähnliches",
+    "Eventuell"
+   ],
+   "begruendung": "zzgl. = zuzüglich.",
+   "karte": {
+    "titel": "zzgl.",
+    "text": "zzgl. = zuzüglich.",
+    "merke": "zzgl. = zuzüglich."
+   }
+  },
+  {
+   "id": "all-ab-mwst",
+   "schwierigkeit": "leicht",
+   "frage": "Wofür steht die Abkürzung „MwSt.“?",
+   "richtig": "Mehrwertsteuer",
+   "falsch": [
+    "Circa (ungefähr)",
+    "Auszubildende oder Auszubildender",
+    "Beziehungsweise"
+   ],
+   "begruendung": "MwSt. = Mehrwertsteuer.",
+   "karte": {
+    "titel": "MwSt.",
+    "text": "MwSt. = Mehrwertsteuer.",
+    "merke": "MwSt. = Mehrwertsteuer."
+   }
+  },
+  {
+   "id": "all-ab-z-hd",
+   "schwierigkeit": "mittel",
+   "frage": "Wofür steht die Abkürzung „z. Hd.“?",
+   "richtig": "Zu Händen",
+   "falsch": [
+    "Inklusive",
+    "Beziehungsweise",
+    "Im Auftrag"
+   ],
+   "begruendung": "z. Hd. = zu Händen.",
+   "karte": {
+    "titel": "z. Hd.",
+    "text": "z. Hd. = zu Händen.",
+    "merke": "z. Hd. = zu Händen."
+   }
+  },
+  {
+   "id": "all-ab-i-a",
+   "schwierigkeit": "mittel",
+   "frage": "Wofür steht die Abkürzung „i. A.“?",
+   "richtig": "Im Auftrag",
+   "falsch": [
+    "Intercity-Express",
+    "Personenkraftwagen",
+    "Hauptbahnhof"
+   ],
+   "begruendung": "i. A. = im Auftrag.",
+   "karte": {
+    "titel": "i. A.",
+    "text": "i. A. = im Auftrag.",
+    "merke": "i. A. = im Auftrag."
+   }
+  },
+  {
+   "id": "all-ab-plz",
+   "schwierigkeit": "leicht",
+   "frage": "Wofür steht die Abkürzung „PLZ“?",
+   "richtig": "Postleitzahl",
+   "falsch": [
+    "Intercity-Express",
+    "Circa (ungefähr)",
+    "Wohngemeinschaft"
+   ],
+   "begruendung": "PLZ = Postleitzahl.",
+   "karte": {
+    "titel": "PLZ",
+    "text": "PLZ = Postleitzahl.",
+    "merke": "PLZ = Postleitzahl."
+   }
+  },
+  {
+   "id": "all-ab-kfz",
+   "schwierigkeit": "leicht",
+   "frage": "Wofür steht die Abkürzung „Kfz“?",
+   "richtig": "Kraftfahrzeug",
+   "falsch": [
+    "Intercity-Express",
+    "Unter Umständen",
+    "Eventuell"
+   ],
+   "begruendung": "Kfz = Kraftfahrzeug.",
+   "karte": {
+    "titel": "Kfz",
+    "text": "Kfz = Kraftfahrzeug.",
+    "merke": "Kfz = Kraftfahrzeug."
+   }
+  },
+  {
+   "id": "all-ab-oepnv",
+   "schwierigkeit": "mittel",
+   "frage": "Wofür steht die Abkürzung „ÖPNV“?",
+   "richtig": "Öffentlicher Personennahverkehr",
+   "falsch": [
+    "Und so weiter",
+    "Wohngemeinschaft",
+    "Zu Händen"
+   ],
+   "begruendung": "ÖPNV = öffentlicher Personennahverkehr.",
+   "karte": {
+    "titel": "ÖPNV",
+    "text": "ÖPNV = öffentlicher Personennahverkehr.",
+    "merke": "ÖPNV = öffentlicher Personennahverkehr."
+   }
+  },
+  {
+   "id": "all-ab-wg",
+   "schwierigkeit": "leicht",
+   "frage": "Wofür steht die Abkürzung „WG“?",
+   "richtig": "Wohngemeinschaft",
+   "falsch": [
+    "Unter Umständen",
+    "Im Auftrag",
+    "Mehrwertsteuer"
+   ],
+   "begruendung": "WG = Wohngemeinschaft.",
+   "karte": {
+    "titel": "WG",
+    "text": "WG = Wohngemeinschaft.",
+    "merke": "WG = Wohngemeinschaft."
+   }
+  },
+  {
+   "id": "all-ab-azubi",
+   "schwierigkeit": "leicht",
+   "frage": "Wofür steht die Abkürzung „Azubi“?",
+   "richtig": "Auszubildende oder Auszubildender",
+   "falsch": [
+    "Beziehungsweise",
+    "Zuzüglich",
+    "Öffentlicher Personennahverkehr"
+   ],
+   "begruendung": "Azubi = Auszubildende oder Auszubildender.",
+   "karte": {
+    "titel": "Azubi",
+    "text": "Azubi = Auszubildende oder Auszubildender.",
+    "merke": "Azubi = Auszubildende oder Auszubildender."
+   }
+  },
+  {
+   "id": "all-ab-hbf",
+   "schwierigkeit": "leicht",
+   "frage": "Wofür steht die Abkürzung „Hbf“?",
+   "richtig": "Hauptbahnhof",
+   "falsch": [
+    "Zu Händen",
+    "Und so weiter",
+    "Gegebenenfalls"
+   ],
+   "begruendung": "Hbf = Hauptbahnhof.",
+   "karte": {
+    "titel": "Hbf",
+    "text": "Hbf = Hauptbahnhof.",
+    "merke": "Hbf = Hauptbahnhof."
+   }
+  },
+  {
+   "id": "all-ab-ice",
+   "schwierigkeit": "leicht",
+   "frage": "Wofür steht die Abkürzung „ICE“?",
+   "richtig": "Intercity-Express",
+   "falsch": [
+    "Und so weiter",
+    "Personenkraftwagen",
+    "Postleitzahl"
+   ],
+   "begruendung": "ICE = Intercity-Express.",
+   "karte": {
+    "titel": "ICE",
+    "text": "ICE = Intercity-Express.",
+    "merke": "ICE = Intercity-Express."
+   }
+  },
+  {
+   "id": "all-ab-u-u",
+   "schwierigkeit": "mittel",
+   "frage": "Wofür steht die Abkürzung „u. U.“?",
+   "richtig": "Unter Umständen",
+   "falsch": [
+    "Inklusive",
+    "Postleitzahl",
+    "Hauptbahnhof"
+   ],
+   "begruendung": "u. U. = unter Umständen.",
+   "karte": {
+    "titel": "u. U.",
+    "text": "u. U. = unter Umständen.",
+    "merke": "u. U. = unter Umständen."
+   }
+  },
+  {
+   "id": "all-ab-o-ae",
+   "schwierigkeit": "mittel",
+   "frage": "Wofür steht die Abkürzung „o. Ä.“?",
+   "richtig": "Oder Ähnliches",
+   "falsch": [
+    "Hauptbahnhof",
+    "Beziehungsweise",
+    "Im Auftrag"
+   ],
+   "begruendung": "o. Ä. = oder Ähnliches.",
+   "karte": {
+    "titel": "o. Ä.",
+    "text": "o. Ä. = oder Ähnliches.",
+    "merke": "o. Ä. = oder Ähnliches."
+   }
+  },
+  {
+   "id": "all-ab-pkw",
+   "schwierigkeit": "leicht",
+   "frage": "Wofür steht die Abkürzung „Pkw“?",
+   "richtig": "Personenkraftwagen",
+   "falsch": [
+    "Hauptbahnhof",
+    "Zu Händen",
+    "Beziehungsweise"
+   ],
+   "begruendung": "Pkw = Personenkraftwagen.",
+   "karte": {
+    "titel": "Pkw",
+    "text": "Pkw = Personenkraftwagen.",
+    "merke": "Pkw = Personenkraftwagen."
+   }
+  }
+ ]
+}

@@ -1,0 +1,147 @@
+{
+  "klasse": "umwelt",
+  "fragen": [
+    {
+      "id": "umw-001", "schwierigkeit": "leicht",
+      "frage": "Welches Gas trägt am stärksten zum menschengemachten Klimawandel bei?",
+      "richtig": "Kohlendioxid (CO₂)", "falsch": ["Sauerstoff", "Stickstoff", "Helium"], "alias": ["CO2", "Kohlendioxid"],
+      "begruendung": "Kohlendioxid aus Kohle, Öl und Gas ist der wichtigste Treiber. Methan und Lachgas tragen ebenfalls bei.",
+      "karte": { "titel": "CO₂", "text": "Der CO₂-Gehalt der Luft ist seit Beginn der Industrialisierung um rund die Hälfte gestiegen.", "merke": "Hauptursache Klimawandel: CO₂ aus fossilen Brennstoffen." }
+    },
+    {
+      "id": "umw-002", "schwierigkeit": "mittel",
+      "frage": "Welches Ziel setzt das Pariser Klimaabkommen?",
+      "richtig": "Erwärmung deutlich unter 2 °C, möglichst 1,5 °C", "falsch": ["Erwärmung unter 4 °C", "Keine Erwärmung über 0,5 °C", "Halbierung der Weltbevölkerung"],
+      "begruendung": "Die Staaten wollen die Erwärmung gegenüber vorindustrieller Zeit deutlich unter 2 °C halten und 1,5 °C anstreben.",
+      "karte": { "titel": "Paris 2015", "text": "Jedes Land legt selbst fest, wie stark es seine Emissionen senkt, und muss die Ziele regelmäßig verschärfen.", "merke": "Paris: unter 2 °C, Ziel 1,5 °C." }
+    },
+    {
+      "id": "umw-003", "schwierigkeit": "mittel",
+      "frage": "Welches Gas entsteht vor allem im Magen von Kühen und heizt das Klima auf?",
+      "richtig": "Methan", "falsch": ["Ozon", "Wasserstoff", "Argon"],
+      "begruendung": "Bei der Verdauung von Gras entsteht Methan, das Kühe vor allem ausrülpsen.",
+      "karte": { "titel": "Methan", "text": "Methan wirkt über 20 Jahre gerechnet rund 80-mal stärker als CO₂, bleibt aber kürzer in der Luft.", "merke": "Kühe: Methan, ein starkes Treibhausgas." }
+    },
+    {
+      "id": "umw-004", "schwierigkeit": "leicht", "ddf": true,
+      "frage": "Welcher Ozean ist mit einem großen Müllstrudel aus Plastik besonders bekannt?",
+      "richtig": "Pazifik", "falsch": ["Atlantik", "Indischer Ozean", "Arktischer Ozean"],
+      "begruendung": "Der „Great Pacific Garbage Patch“ zwischen Hawaii und Kalifornien ist der bekannteste Müllstrudel.",
+      "karte": { "titel": "Müllstrudel", "text": "Strömungen sammeln dort Plastik aus aller Welt. Müllstrudel gibt es aber in allen großen Ozeanen.", "merke": "Bekanntester Müllstrudel: Nordpazifik." }
+    },
+    {
+      "id": "umw-005", "schwierigkeit": "mittel",
+      "frage": "Wie viel Prozent der Erdoberfläche sind ungefähr mit Wasser bedeckt?",
+      "richtig": "Etwa 71 %", "falsch": ["Etwa 50 %", "Etwa 85 %", "Etwa 30 %"], "alias": ["71", "70"],
+      "begruendung": "Rund 71 Prozent der Erde sind Meer. Nur etwa 2,5 Prozent des Wassers ist Süßwasser.",
+      "karte": { "titel": "Blauer Planet", "text": "Der größte Teil des Süßwassers ist in Gletschern und Eisschilden gebunden.", "merke": "71 % Wasser, nur 2,5 % davon Süßwasser." }
+    },
+    {
+      "id": "umw-006", "schwierigkeit": "leicht",
+      "frage": "Wie viel Pfand bekommst du in Deutschland für eine Einweg-Plastikflasche?",
+      "richtig": "25 Cent", "falsch": ["8 Cent", "15 Cent", "50 Cent"], "alias": ["0,25", "25"],
+      "begruendung": "Einwegflaschen und Dosen kosten 25 Cent Pfand. Glas-Mehrwegflaschen meist 8 oder 15 Cent.",
+      "karte": { "titel": "Pfand", "text": "Am Pfandlogo mit Pfeilen und Dose erkennst du Einwegpfand. Mehrwegflaschen werden viele Male neu befüllt.", "merke": "Einweg: 25 Cent. Mehrweg: 8 oder 15 Cent." },
+      "stand": "2026-11"
+    },
+    {
+      "id": "umw-007", "schwierigkeit": "mittel",
+      "frage": "Woher kommt in Deutschland inzwischen der größte Teil des Stroms?",
+      "richtig": "Aus erneuerbaren Energien", "falsch": ["Aus Kohle", "Aus Atomkraft", "Aus Erdöl"],
+      "begruendung": "Seit einigen Jahren stammt mehr als die Hälfte des Stroms aus Wind, Sonne, Biomasse und Wasser.",
+      "karte": { "titel": "Strommix", "text": "Windkraft ist die wichtigste einzelne Quelle. Die letzten Atomkraftwerke gingen 2023 vom Netz.", "merke": "Strom in Deutschland: über die Hälfte erneuerbar, vorn die Windkraft." },
+      "stand": "2026-11"
+    },
+    {
+      "id": "umw-008", "schwierigkeit": "mittel",
+      "frage": "Was misst der „Erdüberlastungstag“?",
+      "richtig": "Ab wann die Menschheit mehr Ressourcen verbraucht hat, als die Erde im Jahr erneuern kann", "falsch": ["Den heißesten Tag des Jahres", "Den Tag mit dem meisten Müll", "Den Tag mit den meisten Flügen"],
+      "begruendung": "Ab diesem Datum lebt die Menschheit für den Rest des Jahres „auf Pump“. Er liegt meist Ende Juli oder Anfang August.",
+      "karte": { "titel": "Earth Overshoot Day", "text": "Für Deutschland allein läge der Tag schon im Frühjahr, weil der Verbrauch pro Kopf hoch ist.", "merke": "Erdüberlastungstag: ab dann übernutzen wir die Erde." }
+    },
+    {
+      "id": "umw-009", "schwierigkeit": "leicht", "ddf": true,
+      "frage": "Welche Farbe hat in Deutschland meist die Tonne für Altpapier?",
+      "richtig": "Blau", "falsch": ["Gelb", "Braun", "Schwarz"],
+      "begruendung": "Papier kommt in die blaue Tonne, Verpackungen in die gelbe, Bioabfall in die braune.",
+      "karte": { "titel": "Tonnenfarben", "text": "Die Restmülltonne ist meist schwarz oder grau. Die Farben können je nach Gemeinde abweichen.", "merke": "Blau Papier, Gelb Verpackung, Braun Bio, Schwarz/Grau Rest." }
+    },
+    {
+      "id": "umw-010", "schwierigkeit": "mittel",
+      "frage": "Welche Schicht in der Atmosphäre schützt uns vor UV-Strahlung?",
+      "richtig": "Die Ozonschicht", "falsch": ["Die Wolkendecke", "Die Ionosphäre", "Die Troposphäre"], "alias": ["Ozonschicht"],
+      "begruendung": "Ozon in der Stratosphäre filtert einen großen Teil der UV-Strahlung der Sonne heraus.",
+      "karte": { "titel": "Ozonschicht", "text": "FCKW aus Spraydosen und Kühlschränken zerstörten das Ozon. Seit dem Verbot erholt sich die Schicht langsam.", "merke": "Ozonschicht: UV-Schutz, erholt sich seit dem FCKW-Verbot." }
+    },
+    {
+      "id": "umw-011", "schwierigkeit": "mittel",
+      "frage": "Welcher Wald wird oft „Lunge der Erde“ genannt?",
+      "richtig": "Der Amazonas-Regenwald", "falsch": ["Der Schwarzwald", "Die Taiga", "Der Kongo-Regenwald"], "alias": ["Amazonas", "Amazonas-Regenwald"],
+      "begruendung": "Der Amazonas ist der größte Regenwald der Erde und speichert riesige Mengen Kohlenstoff.",
+      "karte": { "titel": "Amazonas", "text": "Der meiste Sauerstoff der Erde stammt eigentlich von Algen im Meer. Der Amazonas ist vor allem als Kohlenstoffspeicher wichtig.", "merke": "„Lunge der Erde“: Amazonas, wichtig als CO₂-Speicher." }
+    },
+    {
+      "id": "umw-012", "schwierigkeit": "schwer",
+      "frage": "Wie lange braucht eine Plastikflasche im Meer ungefähr, bis sie zerfallen ist?",
+      "richtig": "Mehrere Hundert Jahre", "falsch": ["Etwa ein Jahr", "Etwa zehn Jahre", "Wenige Wochen"],
+      "begruendung": "Fachleute schätzen bis zu 450 Jahre. Sie zerfällt dabei in immer kleinere Teile, das Mikroplastik.",
+      "karte": { "titel": "Plastik im Meer", "text": "Plastik verschwindet nicht, es zerbröselt. Mikroplastik findet man inzwischen sogar im Tiefseeschlamm.", "merke": "Plastikflasche im Meer: Hunderte Jahre." }
+    },
+    {
+      "id": "umw-013", "schwierigkeit": "mittel",
+      "frage": "Was ist eine Wärmepumpe?",
+      "richtig": "Eine Heizung, die Wärme aus Luft, Erde oder Wasser nutzt", "falsch": ["Ein Kühlschrank für Häuser", "Ein Ofen für Holzpellets", "Eine Solaranlage auf dem Dach"],
+      "begruendung": "Eine Wärmepumpe hebt Umweltwärme mit Strom auf ein höheres Temperaturniveau. Ein Kühlschrank funktioniert nach demselben Prinzip, nur umgekehrt.",
+      "karte": { "titel": "Wärmepumpe", "text": "Aus einer Kilowattstunde Strom macht eine gute Wärmepumpe drei bis vier Kilowattstunden Wärme.", "merke": "Wärmepumpe: Umweltwärme + Strom = Heizwärme." }
+    },
+    {
+      "id": "umw-014", "schwierigkeit": "leicht", "ddf": true,
+      "frage": "Welches Tier ist das Logo des WWF?",
+      "richtig": "Großer Panda", "falsch": ["Eisbär", "Tiger", "Elefant"], "alias": ["Panda"],
+      "begruendung": "Der WWF wählte 1961 den Pandabären Chi-Chi aus dem Londoner Zoo als Vorbild für sein Logo.",
+      "karte": { "titel": "WWF", "text": "Ein schwarz-weißes Logo war auch billiger zu drucken.", "merke": "WWF-Logo: Panda." }
+    },
+    {
+      "id": "umw-015", "schwierigkeit": "mittel",
+      "frage": "Was passiert, wenn Permafrostboden auftaut?",
+      "richtig": "Er setzt Treibhausgase wie Methan und CO₂ frei", "falsch": ["Er bindet mehr CO₂", "Er wird zu Wüste", "Nichts, er friert sofort wieder"],
+      "begruendung": "Im gefrorenen Boden stecken Pflanzenreste. Tauen sie, zersetzen Mikroben sie und Gase entweichen.",
+      "karte": { "titel": "Permafrost", "text": "Ein Viertel der Landfläche der Nordhalbkugel liegt auf Permafrost, etwa in Sibirien und Kanada.", "merke": "Tauender Permafrost heizt das Klima weiter an." }
+    },
+    {
+      "id": "umw-016", "schwierigkeit": "mittel",
+      "frage": "Wie heißt der Weltklimarat der Vereinten Nationen abgekürzt?",
+      "richtig": "IPCC", "falsch": ["UNICEF", "WHO", "IWF"],
+      "begruendung": "IPCC steht für Intergovernmental Panel on Climate Change. Er fasst die Klimaforschung zusammen.",
+      "karte": { "titel": "IPCC", "text": "Der IPCC erhielt 2007 zusammen mit Al Gore den Friedensnobelpreis.", "merke": "Weltklimarat: IPCC." }
+    },
+    {
+      "id": "umw-017", "schwierigkeit": "leicht",
+      "frage": "Wohin gehört ein leerer Joghurtbecher?",
+      "richtig": "In die Gelbe Tonne oder den Gelben Sack", "falsch": ["In die Biotonne", "In die Papiertonne", "In den Altglascontainer"],
+      "begruendung": "Verpackungen aus Kunststoff, Metall und Verbundstoffen kommen in die Gelbe Tonne. Ausspülen ist nicht nötig, löffelrein reicht.",
+      "karte": { "titel": "Gelbe Tonne", "text": "Den Aludeckel solltest du ganz abziehen, damit die Sortieranlage beide Materialien trennen kann.", "merke": "Joghurtbecher: Gelbe Tonne, Deckel abziehen." }
+    },
+    {
+      "id": "umw-018", "schwierigkeit": "schwer",
+      "frage": "Welches Land erzeugt den größten Anteil seines Stroms aus Wasserkraft und Erdwärme und fast keinen aus fossilen Quellen?",
+      "richtig": "Island", "falsch": ["Polen", "Saudi-Arabien", "Australien"],
+      "begruendung": "Island deckt seinen Strom fast vollständig mit Wasserkraft und Geothermie.",
+      "karte": { "titel": "Island", "text": "Auch die meisten Häuser in Island werden mit heißem Wasser aus der Erde geheizt.", "merke": "Island: Strom fast komplett aus Wasser und Erdwärme." }
+    },
+    {
+      "id": "umw-019", "schwierigkeit": "mittel",
+      "frage": "Was bedeutet das Siegel „Blauer Engel“?",
+      "richtig": "Ein Produkt ist besonders umweltschonend", "falsch": ["Ein Produkt ist vegan", "Ein Produkt kommt aus Bayern", "Ein Produkt ist für Kinder geeignet"],
+      "begruendung": "Der Blaue Engel ist das Umweltzeichen der Bundesregierung, seit 1978.",
+      "karte": { "titel": "Blauer Engel", "text": "Es ist eines der ältesten Umweltzeichen der Welt. Du findest es etwa auf Recyclingpapier.", "merke": "Blauer Engel: staatliches Umweltzeichen, seit 1978." }
+    },
+    {
+      "id": "umw-020", "schwierigkeit": "mittel",
+      "frage": "Welches Verkehrsmittel verursacht pro Person und Kilometer in der Regel am wenigsten CO₂?",
+      "richtig": "Fahrrad", "falsch": ["Flugzeug", "Auto mit einer Person", "Kreuzfahrtschiff"],
+      "begruendung": "Das Fahrrad stößt im Betrieb kein CO₂ aus. Unter den motorisierten Verkehrsmitteln schneiden Bahn und Bus meist am besten ab.",
+      "karte": { "titel": "Verkehr und Klima", "text": "Der Verkehr ist in Deutschland einer der Bereiche, in denen die Emissionen am langsamsten sinken.", "merke": "Am klimafreundlichsten: Fuß, Rad, dann Bahn und Bus." }
+    }
+  ]
+}
