@@ -63,7 +63,7 @@ const von = (l) => {
   if (d.startsWith('den ')) return 'der ' + artikel[l.code][0].replace(/^die /, '');
   return d;
 };
-const satz = (t) => t.replace(/..$/, '.');
+const satz = (t) => t.replace(/\.\.$/, '.');
 const inL = (l) => dat(l).replace(/^dem /, 'im ').replace(/^(?!im )/, 'in ');
 
 const steckbrief = (l) => {
