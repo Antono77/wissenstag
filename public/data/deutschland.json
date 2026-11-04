@@ -1,0 +1,146 @@
+{
+  "klasse": "deutschland",
+  "fragen": [
+    {
+      "id": "deu-001", "schwierigkeit": "leicht", "ddf": true,
+      "frage": "Welche Farben hat die deutsche Flagge von oben nach unten?",
+      "richtig": "Schwarz, Rot, Gold", "falsch": ["Rot, Schwarz, Gold", "Schwarz, Gold, Rot", "Schwarz, Weiß, Rot"],
+      "begruendung": "Die Bundesflagge zeigt Schwarz, Rot und Gold in waagerechten Streifen. Schwarz-Weiß-Rot war die Flagge des Kaiserreichs.",
+      "karte": { "titel": "Schwarz-Rot-Gold", "text": "Die Farben gehen auf die Uniformen des Lützowschen Freikorps gegen Napoleon zurück. Beim Hambacher Fest 1832 wurden sie zum Symbol für Einheit und Freiheit.", "merke": "Bundesflagge: Schwarz-Rot-Gold." }
+    },
+    {
+      "id": "deu-002", "schwierigkeit": "leicht",
+      "frage": "Welche Stadt hat die meisten Einwohner in Deutschland?",
+      "richtig": "Berlin", "falsch": ["Hamburg", "München", "Köln"],
+      "begruendung": "Berlin hat rund 3,7 Millionen Einwohner, Hamburg folgt mit rund 1,9 Millionen.",
+      "karte": { "titel": "Größte Städte", "text": "Die vier Millionenstädte sind Berlin, Hamburg, München und Köln.", "merke": "Millionenstädte: Berlin, Hamburg, München, Köln." },
+      "stand": "2026-11"
+    },
+    {
+      "id": "deu-003", "schwierigkeit": "mittel", "ddf": true,
+      "frage": "Wie heißt die Landeshauptstadt von Thüringen?",
+      "richtig": "Erfurt", "falsch": ["Weimar", "Jena", "Gera"],
+      "begruendung": "Erfurt ist Landeshauptstadt und mit rund 215.000 Einwohnern größte Stadt Thüringens.",
+      "karte": { "titel": "Erfurt", "text": "Die Krämerbrücke in Erfurt ist die längste durchgehend mit Häusern bebaute Brücke Europas.", "merke": "Thüringen: Erfurt." }
+    },
+    {
+      "id": "deu-004", "schwierigkeit": "mittel", "ddf": true,
+      "frage": "Was ist die Hauptstadt von Nordrhein-Westfalen?",
+      "richtig": "Düsseldorf", "falsch": ["Köln", "Dortmund", "Bonn"],
+      "begruendung": "Düsseldorf ist Landeshauptstadt, obwohl Köln größer ist.",
+      "karte": { "titel": "NRW", "text": "NRW ist das bevölkerungsreichste Bundesland mit fast 18 Millionen Menschen.", "merke": "NRW: Düsseldorf, größte Stadt Köln." }
+    },
+    {
+      "id": "deu-005", "schwierigkeit": "leicht",
+      "frage": "Welches Bundesland ist flächenmäßig das größte?",
+      "richtig": "Bayern", "falsch": ["Niedersachsen", "Baden-Württemberg", "Nordrhein-Westfalen"],
+      "begruendung": "Bayern ist mit rund 70.500 km² das größte Bundesland, fast ein Fünftel Deutschlands.",
+      "karte": { "titel": "Bundesländer nach Fläche", "text": "Niedersachsen ist das zweitgrößte. Das kleinste Land ist Bremen.", "merke": "Größtes Land: Bayern. Kleinstes: Bremen." }
+    },
+    {
+      "id": "deu-006", "schwierigkeit": "mittel",
+      "frage": "Welcher Fluss ist der längste, der durch Deutschland fließt?",
+      "richtig": "Donau", "falsch": ["Rhein", "Elbe", "Main"],
+      "begruendung": "Die Donau ist insgesamt rund 2.850 km lang. Innerhalb Deutschlands hat aber der Rhein die längste Strecke.",
+      "karte": { "titel": "Donau und Rhein", "text": "Der Rhein fließt rund 865 km durch Deutschland, die Donau rund 690 km.", "merke": "Längster Fluss gesamt: Donau. Längste Strecke in Deutschland: Rhein." }
+    },
+    {
+      "id": "deu-007", "schwierigkeit": "mittel",
+      "frage": "Welche ist die größte deutsche Insel?",
+      "richtig": "Rügen", "falsch": ["Sylt", "Usedom", "Fehmarn"],
+      "begruendung": "Rügen in der Ostsee hat rund 926 km². Auf Platz zwei folgt Usedom, dessen Ostteil zu Polen gehört.",
+      "karte": { "titel": "Rügen", "text": "Bekannt sind die Kreidefelsen im Nationalpark Jasmund, die Caspar David Friedrich malte.", "merke": "Größte deutsche Insel: Rügen." }
+    },
+    {
+      "id": "deu-008", "schwierigkeit": "mittel",
+      "frage": "Wie heißt der größte See, der vollständig in Deutschland liegt?",
+      "richtig": "Müritz", "falsch": ["Bodensee", "Chiemsee", "Starnberger See"],
+      "begruendung": "Die Müritz in Mecklenburg-Vorpommern ist rund 117 km² groß. Der Bodensee ist größer, gehört aber auch zu Österreich und der Schweiz.",
+      "karte": { "titel": "Seen", "text": "Der Chiemsee heißt auch „Bayerisches Meer“. Er ist der größte See Bayerns.", "merke": "Größter rein deutscher See: Müritz." }
+    },
+    {
+      "id": "deu-009", "schwierigkeit": "leicht", "ddf": true,
+      "frage": "Wie heißt Österreichs Matura in Deutschland?",
+      "richtig": "Abitur", "falsch": ["Diplom", "Mittlere Reife", "Bachelor"], "alias": ["Abi"],
+      "begruendung": "Matura (Österreich, Schweiz) und Abitur (Deutschland) bezeichnen den Schulabschluss, der zum Studium berechtigt.",
+      "karte": { "titel": "Abitur", "text": "Die Mittlere Reife ist der Realschulabschluss nach der 10. Klasse.", "merke": "Abitur = Matura." }
+    },
+    {
+      "id": "deu-010", "schwierigkeit": "mittel",
+      "frage": "Wann ist in Deutschland Muttertag?",
+      "richtig": "Am zweiten Sonntag im Mai", "falsch": ["Am 1. Mai", "Am ersten Sonntag im Juni", "Am 8. März"],
+      "begruendung": "Der Muttertag ist immer am zweiten Sonntag im Mai.",
+      "karte": { "titel": "Muttertag", "text": "Am 8. März ist der Internationale Frauentag. Einen Vatertag feiern viele an Christi Himmelfahrt.", "merke": "Muttertag: zweiter Sonntag im Mai." }
+    },
+    {
+      "id": "deu-011", "schwierigkeit": "schwer",
+      "frage": "Welches Bundesland hat keine Grenze zu einem anderen Staat und keine Küste?",
+      "richtig": "Thüringen", "falsch": ["Bayern", "Saarland", "Sachsen"],
+      "begruendung": "Thüringen liegt in der Mitte Deutschlands und grenzt nur an andere Bundesländer. Auch Hessen und Sachsen-Anhalt haben keine Außengrenze.",
+      "karte": { "titel": "Binnenländer", "text": "Bayern grenzt an Österreich und Tschechien, das Saarland an Frankreich und Luxemburg, Sachsen an Polen und Tschechien.", "merke": "Ohne Auslandsgrenze: etwa Thüringen, Hessen, Sachsen-Anhalt." }
+    },
+    {
+      "id": "deu-012", "schwierigkeit": "mittel",
+      "frage": "An wie viele Staaten grenzt Deutschland?",
+      "richtig": "9", "falsch": ["7", "8", "10"], "alias": ["neun"],
+      "begruendung": "Dänemark, Polen, Tschechien, Österreich, Schweiz, Frankreich, Luxemburg, Belgien und Niederlande.",
+      "karte": { "titel": "Nachbarländer", "text": "Kein anderes Land der EU hat so viele Nachbarstaaten.", "merke": "Deutschland: neun Nachbarstaaten." }
+    },
+    {
+      "id": "deu-013", "schwierigkeit": "leicht",
+      "frage": "Wie heißt die höchste Erhebung Deutschlands?",
+      "richtig": "Zugspitze", "falsch": ["Watzmann", "Feldberg", "Brocken"],
+      "begruendung": "Die Zugspitze an der Grenze zu Österreich ist 2.962 m hoch.",
+      "karte": { "titel": "Zugspitze", "text": "Auf den Gipfel führen eine Zahnradbahn und Seilbahnen. Der Watzmann ist mit 2.713 m der dritthöchste Berg Deutschlands.", "merke": "Zugspitze: 2.962 m." }
+    },
+    {
+      "id": "deu-014", "schwierigkeit": "mittel",
+      "frage": "Was feiert man in Köln, Düsseldorf und Mainz mit Umzügen am Rosenmontag?",
+      "richtig": "Karneval", "falsch": ["Oktoberfest", "Erntedank", "Walpurgisnacht"], "alias": ["Fastnacht", "Fasching"],
+      "begruendung": "Am Rosenmontag ziehen in den Karnevalshochburgen große Umzüge durch die Städte.",
+      "karte": { "titel": "Karneval", "text": "Die „fünfte Jahreszeit“ beginnt am 11.11. um 11:11 Uhr. Am Aschermittwoch ist alles vorbei.", "merke": "Karneval: Start 11.11., Höhepunkt Rosenmontag." }
+    },
+    {
+      "id": "deu-015", "schwierigkeit": "leicht", "ddf": true,
+      "frage": "In welcher Stadt findet das Oktoberfest statt?",
+      "richtig": "München", "falsch": ["Nürnberg", "Stuttgart", "Augsburg"],
+      "begruendung": "Das Oktoberfest findet auf der Theresienwiese in München statt und beginnt im September.",
+      "karte": { "titel": "Oktoberfest", "text": "Es geht auf die Hochzeit von Kronprinz Ludwig und Therese im Jahr 1810 zurück.", "merke": "Oktoberfest: München, seit 1810." }
+    },
+    {
+      "id": "deu-016", "schwierigkeit": "mittel", "ddf": true,
+      "frage": "Wann feiert man die Petersilienhochzeit?",
+      "richtig": "Nach 12,5 Jahren Ehe", "falsch": ["Nach 5 Jahren", "Nach 1 Jahr", "Nach 20 Jahren"], "alias": ["12,5 Jahre", "12 1/2 Jahre"],
+      "begruendung": "Die Petersilienhochzeit liegt genau in der Mitte bis zur Silberhochzeit nach 25 Jahren.",
+      "karte": { "titel": "Hochzeitstage", "text": "Nach 25 Jahren feiert man Silberhochzeit, nach 50 Goldene Hochzeit, nach 60 Diamantene.", "merke": "Petersilie 12,5, Silber 25, Gold 50." }
+    },
+    {
+      "id": "deu-017", "schwierigkeit": "mittel",
+      "frage": "Welches Tier ist das Wappentier der Bundesrepublik Deutschland?",
+      "richtig": "Adler", "falsch": ["Löwe", "Bär", "Hirsch"], "alias": ["Bundesadler"],
+      "begruendung": "Der Bundesadler ist das Wappentier. Im Bundestag hängt eine große Version, die „fette Henne“ genannt wird.",
+      "karte": { "titel": "Bundesadler", "text": "Den Bären hat Berlin im Wappen, den Löwen etwa Bayern und Hessen.", "merke": "Wappentier Deutschlands: Adler." }
+    },
+    {
+      "id": "deu-018", "schwierigkeit": "schwer",
+      "frage": "Welche Stadt war von 1949 bis 1990 Regierungssitz der Bundesrepublik?",
+      "richtig": "Bonn", "falsch": ["Frankfurt am Main", "Köln", "Berlin"],
+      "begruendung": "Bonn war „vorläufige Hauptstadt“. 1991 beschloss der Bundestag den Umzug nach Berlin.",
+      "karte": { "titel": "Bonn", "text": "Einige Ministerien haben bis heute ihren ersten Dienstsitz in Bonn.", "merke": "Regierungssitz bis 1990er: Bonn." }
+    },
+    {
+      "id": "deu-019", "schwierigkeit": "mittel",
+      "frage": "Welche Hansestadt hat das Kennzeichen HRO?",
+      "richtig": "Rostock", "falsch": ["Hamburg", "Bremen", "Lübeck"],
+      "begruendung": "HRO steht für Hansestadt Rostock. Hamburg hat HH, Bremen HB und Lübeck HL.",
+      "karte": { "titel": "Hansestädte", "text": "Viele Städte an Nord- und Ostsee tragen bis heute den Titel Hansestadt.", "merke": "HRO = Hansestadt Rostock." }
+    },
+    {
+      "id": "deu-020", "schwierigkeit": "mittel",
+      "frage": "Wie heißt der längste Kanal Deutschlands für Schiffe?",
+      "richtig": "Mittellandkanal", "falsch": ["Nord-Ostsee-Kanal", "Main-Donau-Kanal", "Dortmund-Ems-Kanal"],
+      "begruendung": "Der Mittellandkanal ist rund 325 km lang. Der Nord-Ostsee-Kanal ist die meistbefahrene künstliche Wasserstraße der Welt.",
+      "karte": { "titel": "Kanäle", "text": "Der Main-Donau-Kanal verbindet Nordsee und Schwarzes Meer.", "merke": "Längster Kanal: Mittellandkanal. Meistbefahren: Nord-Ostsee-Kanal." }
+    }
+  ]
+}

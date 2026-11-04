@@ -56,6 +56,7 @@ export default {
         ['Call of Duty', 'Activision', 2], ['Battlefield', 'Electronic Arts', 2], ['The Witcher 3', 'CD Projekt', 2], ['League of Legends', 'Riot Games', 2],
         ['Counter-Strike', 'Valve', 2], ['World of Warcraft', 'Blizzard', 2], ['Candy Crush', 'King', 3], ['Among Us', 'Innersloth', 3], ['Assassin’s Creed', 'Ubisoft', 2],
         ['Clash Royale', 'Supercell', 2], ['Genshin Impact', 'HoYoverse', 3], ['Elden Ring', 'FromSoftware', 3], ['Animal Crossing', 'Nintendo', 1], ['The Sims', 'Electronic Arts', 2],
+        ['Rocket League', 'Psyonix', 3], ['Mario Kart', 'Nintendo', 1], ['Overwatch', 'Blizzard', 2], ['Roblox', 'Roblox Corporation', 2],
       ],
       fragen: [{
         frage: (r) => `Welche Firma steht hinter dem Spiel „${r.spiel}“?`,

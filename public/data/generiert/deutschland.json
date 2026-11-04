@@ -1,0 +1,1748 @@
+{
+ "klasse": "deutschland",
+ "erzeugt": "scripts/generate-fakten.mjs",
+ "fragen": [
+  {
+   "id": "deu-lh-baden-wuerttemberg-1",
+   "schwierigkeit": "leicht",
+   "frage": "Wie heißt die Landeshauptstadt von Baden-Württemberg?",
+   "richtig": "Stuttgart",
+   "falsch": [
+    "Hannover",
+    "Magdeburg",
+    "Mainz"
+   ],
+   "begruendung": "Baden-Württemberg: Landeshauptstadt Stuttgart.",
+   "karte": {
+    "titel": "Baden-Württemberg",
+    "text": "Baden-Württemberg: Landeshauptstadt Stuttgart.",
+    "merke": "Baden-Württemberg: Landeshauptstadt Stuttgart."
+   },
+   "ddf": true
+  },
+  {
+   "id": "deu-lh-bayern-1",
+   "schwierigkeit": "leicht",
+   "frage": "Wie heißt die Landeshauptstadt von Bayern?",
+   "richtig": "München",
+   "falsch": [
+    "Magdeburg",
+    "Kiel",
+    "Saarbrücken"
+   ],
+   "begruendung": "Bayern: Landeshauptstadt München.",
+   "karte": {
+    "titel": "Bayern",
+    "text": "Bayern: Landeshauptstadt München.",
+    "merke": "Bayern: Landeshauptstadt München."
+   },
+   "ddf": true
+  },
+  {
+   "id": "deu-lh-brandenburg-1",
+   "schwierigkeit": "leicht",
+   "frage": "Wie heißt die Landeshauptstadt von Brandenburg?",
+   "richtig": "Potsdam",
+   "falsch": [
+    "München",
+    "Wiesbaden",
+    "Magdeburg"
+   ],
+   "begruendung": "Brandenburg: Landeshauptstadt Potsdam.",
+   "karte": {
+    "titel": "Brandenburg",
+    "text": "Brandenburg: Landeshauptstadt Potsdam.",
+    "merke": "Brandenburg: Landeshauptstadt Potsdam."
+   },
+   "ddf": true
+  },
+  {
+   "id": "deu-lh-hessen-1",
+   "schwierigkeit": "mittel",
+   "frage": "Wie heißt die Landeshauptstadt von Hessen?",
+   "richtig": "Wiesbaden",
+   "falsch": [
+    "München",
+    "Magdeburg",
+    "Dresden"
+   ],
+   "begruendung": "Hessen: Landeshauptstadt Wiesbaden.",
+   "karte": {
+    "titel": "Hessen",
+    "text": "Die größte Stadt Hessens ist Frankfurt am Main, Landeshauptstadt ist Wiesbaden.",
+    "merke": "Hessen: Landeshauptstadt Wiesbaden."
+   }
+  },
+  {
+   "id": "deu-lh-mecklenburg-vorpommern-1",
+   "schwierigkeit": "mittel",
+   "frage": "Wie heißt die Landeshauptstadt von Mecklenburg-Vorpommern?",
+   "richtig": "Schwerin",
+   "falsch": [
+    "Dresden",
+    "Stuttgart",
+    "Erfurt"
+   ],
+   "begruendung": "Mecklenburg-Vorpommern: Landeshauptstadt Schwerin.",
+   "karte": {
+    "titel": "Mecklenburg-Vorpommern",
+    "text": "Rostock ist größer, Landeshauptstadt ist Schwerin mit seinem Schloss.",
+    "merke": "Mecklenburg-Vorpommern: Landeshauptstadt Schwerin."
+   }
+  },
+  {
+   "id": "deu-lh-niedersachsen-1",
+   "schwierigkeit": "leicht",
+   "frage": "Wie heißt die Landeshauptstadt von Niedersachsen?",
+   "richtig": "Hannover",
+   "falsch": [
+    "Stuttgart",
+    "Wiesbaden",
+    "Schwerin"
+   ],
+   "begruendung": "Niedersachsen: Landeshauptstadt Hannover.",
+   "karte": {
+    "titel": "Niedersachsen",
+    "text": "Niedersachsen: Landeshauptstadt Hannover.",
+    "merke": "Niedersachsen: Landeshauptstadt Hannover."
+   },
+   "ddf": true
+  },
+  {
+   "id": "deu-lh-nordrhein-westfalen-1",
+   "schwierigkeit": "leicht",
+   "frage": "Wie heißt die Landeshauptstadt von Nordrhein-Westfalen?",
+   "richtig": "Düsseldorf",
+   "falsch": [
+    "München",
+    "Stuttgart",
+    "Schwerin"
+   ],
+   "begruendung": "Nordrhein-Westfalen: Landeshauptstadt Düsseldorf.",
+   "karte": {
+    "titel": "Nordrhein-Westfalen",
+    "text": "Die größte Stadt in NRW ist Köln, regiert wird aus Düsseldorf.",
+    "merke": "Nordrhein-Westfalen: Landeshauptstadt Düsseldorf."
+   },
+   "ddf": true
+  },
+  {
+   "id": "deu-lh-rheinland-pfalz-1",
+   "schwierigkeit": "mittel",
+   "frage": "Wie heißt die Landeshauptstadt von Rheinland-Pfalz?",
+   "richtig": "Mainz",
+   "falsch": [
+    "Düsseldorf",
+    "München",
+    "Dresden"
+   ],
+   "begruendung": "Rheinland-Pfalz: Landeshauptstadt Mainz.",
+   "karte": {
+    "titel": "Rheinland-Pfalz",
+    "text": "Rheinland-Pfalz: Landeshauptstadt Mainz.",
+    "merke": "Rheinland-Pfalz: Landeshauptstadt Mainz."
+   }
+  },
+  {
+   "id": "deu-lh-saarland-1",
+   "schwierigkeit": "leicht",
+   "frage": "Wie heißt die Landeshauptstadt des Saarlandes?",
+   "richtig": "Saarbrücken",
+   "falsch": [
+    "Dresden",
+    "Potsdam",
+    "Wiesbaden"
+   ],
+   "begruendung": "Saarland: Landeshauptstadt Saarbrücken.",
+   "karte": {
+    "titel": "Saarland",
+    "text": "Saarland: Landeshauptstadt Saarbrücken.",
+    "merke": "Saarland: Landeshauptstadt Saarbrücken."
+   },
+   "ddf": true
+  },
+  {
+   "id": "deu-lh-sachsen-1",
+   "schwierigkeit": "leicht",
+   "frage": "Wie heißt die Landeshauptstadt von Sachsen?",
+   "richtig": "Dresden",
+   "falsch": [
+    "Mainz",
+    "München",
+    "Magdeburg"
+   ],
+   "begruendung": "Sachsen: Landeshauptstadt Dresden.",
+   "karte": {
+    "titel": "Sachsen",
+    "text": "Sachsen: Landeshauptstadt Dresden.",
+    "merke": "Sachsen: Landeshauptstadt Dresden."
+   },
+   "ddf": true
+  },
+  {
+   "id": "deu-lh-sachsen-anhalt-1",
+   "schwierigkeit": "mittel",
+   "frage": "Wie heißt die Landeshauptstadt von Sachsen-Anhalt?",
+   "richtig": "Magdeburg",
+   "falsch": [
+    "Mainz",
+    "Schwerin",
+    "Hannover"
+   ],
+   "begruendung": "Sachsen-Anhalt: Landeshauptstadt Magdeburg.",
+   "karte": {
+    "titel": "Sachsen-Anhalt",
+    "text": "Sachsen-Anhalt: Landeshauptstadt Magdeburg.",
+    "merke": "Sachsen-Anhalt: Landeshauptstadt Magdeburg."
+   }
+  },
+  {
+   "id": "deu-lh-schleswig-holstein-1",
+   "schwierigkeit": "leicht",
+   "frage": "Wie heißt die Landeshauptstadt von Schleswig-Holstein?",
+   "richtig": "Kiel",
+   "falsch": [
+    "Stuttgart",
+    "Dresden",
+    "München"
+   ],
+   "begruendung": "Schleswig-Holstein: Landeshauptstadt Kiel.",
+   "karte": {
+    "titel": "Schleswig-Holstein",
+    "text": "Schleswig-Holstein: Landeshauptstadt Kiel.",
+    "merke": "Schleswig-Holstein: Landeshauptstadt Kiel."
+   },
+   "ddf": true
+  },
+  {
+   "id": "deu-lh-thueringen-1",
+   "schwierigkeit": "mittel",
+   "frage": "Wie heißt die Landeshauptstadt von Thüringen?",
+   "richtig": "Erfurt",
+   "falsch": [
+    "München",
+    "Wiesbaden",
+    "Stuttgart"
+   ],
+   "begruendung": "Thüringen: Landeshauptstadt Erfurt.",
+   "karte": {
+    "titel": "Thüringen",
+    "text": "Thüringen: Landeshauptstadt Erfurt.",
+    "merke": "Thüringen: Landeshauptstadt Erfurt."
+   }
+  },
+  {
+   "id": "deu-lh-baden-wuerttemberg-2",
+   "schwierigkeit": "leicht",
+   "frage": "Stuttgart ist die Landeshauptstadt von …",
+   "richtig": "Baden-Württemberg",
+   "falsch": [
+    "Hessen",
+    "Nordrhein-Westfalen",
+    "Brandenburg"
+   ],
+   "begruendung": "Stuttgart ist Landeshauptstadt von Baden-Württemberg.",
+   "karte": {
+    "titel": "Stuttgart",
+    "text": "Stuttgart ist Landeshauptstadt von Baden-Württemberg.",
+    "merke": "Stuttgart ist Landeshauptstadt von Baden-Württemberg."
+   }
+  },
+  {
+   "id": "deu-lh-bayern-2",
+   "schwierigkeit": "leicht",
+   "frage": "München ist die Landeshauptstadt von …",
+   "richtig": "Bayern",
+   "falsch": [
+    "Thüringen",
+    "Brandenburg",
+    "Niedersachsen"
+   ],
+   "begruendung": "München ist Landeshauptstadt von Bayern.",
+   "karte": {
+    "titel": "München",
+    "text": "München ist Landeshauptstadt von Bayern.",
+    "merke": "München ist Landeshauptstadt von Bayern."
+   }
+  },
+  {
+   "id": "deu-lh-brandenburg-2",
+   "schwierigkeit": "leicht",
+   "frage": "Potsdam ist die Landeshauptstadt von …",
+   "richtig": "Brandenburg",
+   "falsch": [
+    "Sachsen",
+    "Nordrhein-Westfalen",
+    "Niedersachsen"
+   ],
+   "begruendung": "Potsdam ist Landeshauptstadt von Brandenburg.",
+   "karte": {
+    "titel": "Potsdam",
+    "text": "Potsdam ist Landeshauptstadt von Brandenburg.",
+    "merke": "Potsdam ist Landeshauptstadt von Brandenburg."
+   }
+  },
+  {
+   "id": "deu-lh-hessen-2",
+   "schwierigkeit": "mittel",
+   "frage": "Wiesbaden ist die Landeshauptstadt von …",
+   "richtig": "Hessen",
+   "falsch": [
+    "Niedersachsen",
+    "Schleswig-Holstein",
+    "Saarland"
+   ],
+   "begruendung": "Wiesbaden ist Landeshauptstadt von Hessen.",
+   "karte": {
+    "titel": "Wiesbaden",
+    "text": "Wiesbaden ist Landeshauptstadt von Hessen.",
+    "merke": "Wiesbaden ist Landeshauptstadt von Hessen."
+   }
+  },
+  {
+   "id": "deu-lh-mecklenburg-vorpommern-2",
+   "schwierigkeit": "mittel",
+   "frage": "Schwerin ist die Landeshauptstadt von …",
+   "richtig": "Mecklenburg-Vorpommern",
+   "falsch": [
+    "Hessen",
+    "Schleswig-Holstein",
+    "Brandenburg"
+   ],
+   "begruendung": "Schwerin ist Landeshauptstadt von Mecklenburg-Vorpommern.",
+   "karte": {
+    "titel": "Schwerin",
+    "text": "Schwerin ist Landeshauptstadt von Mecklenburg-Vorpommern.",
+    "merke": "Schwerin ist Landeshauptstadt von Mecklenburg-Vorpommern."
+   }
+  },
+  {
+   "id": "deu-lh-niedersachsen-2",
+   "schwierigkeit": "leicht",
+   "frage": "Hannover ist die Landeshauptstadt von …",
+   "richtig": "Niedersachsen",
+   "falsch": [
+    "Brandenburg",
+    "Hessen",
+    "Rheinland-Pfalz"
+   ],
+   "begruendung": "Hannover ist Landeshauptstadt von Niedersachsen.",
+   "karte": {
+    "titel": "Hannover",
+    "text": "Hannover ist Landeshauptstadt von Niedersachsen.",
+    "merke": "Hannover ist Landeshauptstadt von Niedersachsen."
+   }
+  },
+  {
+   "id": "deu-lh-nordrhein-westfalen-2",
+   "schwierigkeit": "leicht",
+   "frage": "Düsseldorf ist die Landeshauptstadt von …",
+   "richtig": "Nordrhein-Westfalen",
+   "falsch": [
+    "Mecklenburg-Vorpommern",
+    "Hessen",
+    "Baden-Württemberg"
+   ],
+   "begruendung": "Düsseldorf ist Landeshauptstadt von Nordrhein-Westfalen.",
+   "karte": {
+    "titel": "Düsseldorf",
+    "text": "Düsseldorf ist Landeshauptstadt von Nordrhein-Westfalen.",
+    "merke": "Düsseldorf ist Landeshauptstadt von Nordrhein-Westfalen."
+   }
+  },
+  {
+   "id": "deu-lh-rheinland-pfalz-2",
+   "schwierigkeit": "mittel",
+   "frage": "Mainz ist die Landeshauptstadt von …",
+   "richtig": "Rheinland-Pfalz",
+   "falsch": [
+    "Saarland",
+    "Schleswig-Holstein",
+    "Bayern"
+   ],
+   "begruendung": "Mainz ist Landeshauptstadt von Rheinland-Pfalz.",
+   "karte": {
+    "titel": "Mainz",
+    "text": "Mainz ist Landeshauptstadt von Rheinland-Pfalz.",
+    "merke": "Mainz ist Landeshauptstadt von Rheinland-Pfalz."
+   }
+  },
+  {
+   "id": "deu-lh-saarland-2",
+   "schwierigkeit": "leicht",
+   "frage": "Saarbrücken ist die Landeshauptstadt von …",
+   "richtig": "Saarland",
+   "falsch": [
+    "Mecklenburg-Vorpommern",
+    "Niedersachsen",
+    "Rheinland-Pfalz"
+   ],
+   "begruendung": "Saarbrücken ist Landeshauptstadt von dem Saarland.",
+   "karte": {
+    "titel": "Saarbrücken",
+    "text": "Saarbrücken ist Landeshauptstadt von dem Saarland.",
+    "merke": "Saarbrücken ist Landeshauptstadt von dem Saarland."
+   }
+  },
+  {
+   "id": "deu-lh-sachsen-2",
+   "schwierigkeit": "leicht",
+   "frage": "Dresden ist die Landeshauptstadt von …",
+   "richtig": "Sachsen",
+   "falsch": [
+    "Sachsen-Anhalt",
+    "Niedersachsen",
+    "Brandenburg"
+   ],
+   "begruendung": "Dresden ist Landeshauptstadt von Sachsen.",
+   "karte": {
+    "titel": "Dresden",
+    "text": "Dresden ist Landeshauptstadt von Sachsen.",
+    "merke": "Dresden ist Landeshauptstadt von Sachsen."
+   }
+  },
+  {
+   "id": "deu-lh-sachsen-anhalt-2",
+   "schwierigkeit": "mittel",
+   "frage": "Magdeburg ist die Landeshauptstadt von …",
+   "richtig": "Sachsen-Anhalt",
+   "falsch": [
+    "Saarland",
+    "Schleswig-Holstein",
+    "Nordrhein-Westfalen"
+   ],
+   "begruendung": "Magdeburg ist Landeshauptstadt von Sachsen-Anhalt.",
+   "karte": {
+    "titel": "Magdeburg",
+    "text": "Magdeburg ist Landeshauptstadt von Sachsen-Anhalt.",
+    "merke": "Magdeburg ist Landeshauptstadt von Sachsen-Anhalt."
+   }
+  },
+  {
+   "id": "deu-lh-schleswig-holstein-2",
+   "schwierigkeit": "leicht",
+   "frage": "Kiel ist die Landeshauptstadt von …",
+   "richtig": "Schleswig-Holstein",
+   "falsch": [
+    "Sachsen-Anhalt",
+    "Baden-Württemberg",
+    "Sachsen"
+   ],
+   "begruendung": "Kiel ist Landeshauptstadt von Schleswig-Holstein.",
+   "karte": {
+    "titel": "Kiel",
+    "text": "Kiel ist Landeshauptstadt von Schleswig-Holstein.",
+    "merke": "Kiel ist Landeshauptstadt von Schleswig-Holstein."
+   }
+  },
+  {
+   "id": "deu-lh-thueringen-2",
+   "schwierigkeit": "mittel",
+   "frage": "Erfurt ist die Landeshauptstadt von …",
+   "richtig": "Thüringen",
+   "falsch": [
+    "Nordrhein-Westfalen",
+    "Saarland",
+    "Sachsen"
+   ],
+   "begruendung": "Erfurt ist Landeshauptstadt von Thüringen.",
+   "karte": {
+    "titel": "Erfurt",
+    "text": "Erfurt ist Landeshauptstadt von Thüringen.",
+    "merke": "Erfurt ist Landeshauptstadt von Thüringen."
+   }
+  },
+  {
+   "id": "deu-st-koeln",
+   "schwierigkeit": "leicht",
+   "frage": "In welchem Bundesland liegt Köln?",
+   "richtig": "Nordrhein-Westfalen",
+   "falsch": [
+    "Rheinland-Pfalz",
+    "Thüringen",
+    "Sachsen-Anhalt"
+   ],
+   "begruendung": "Köln liegt in Nordrhein-Westfalen.",
+   "karte": {
+    "titel": "Köln",
+    "text": "Köln liegt in Nordrhein-Westfalen.",
+    "merke": "Köln liegt in Nordrhein-Westfalen."
+   }
+  },
+  {
+   "id": "deu-st-frankfurt-am-main",
+   "schwierigkeit": "leicht",
+   "frage": "In welchem Bundesland liegt Frankfurt am Main?",
+   "richtig": "Hessen",
+   "falsch": [
+    "Thüringen",
+    "Sachsen",
+    "Rheinland-Pfalz"
+   ],
+   "begruendung": "Frankfurt am Main liegt in Hessen.",
+   "karte": {
+    "titel": "Frankfurt am Main",
+    "text": "Frankfurt am Main liegt in Hessen.",
+    "merke": "Frankfurt am Main liegt in Hessen."
+   }
+  },
+  {
+   "id": "deu-st-leipzig",
+   "schwierigkeit": "leicht",
+   "frage": "In welchem Bundesland liegt Leipzig?",
+   "richtig": "Sachsen",
+   "falsch": [
+    "Niedersachsen",
+    "Sachsen-Anhalt",
+    "Baden-Württemberg"
+   ],
+   "begruendung": "Leipzig liegt in Sachsen.",
+   "karte": {
+    "titel": "Leipzig",
+    "text": "Leipzig liegt in Sachsen.",
+    "merke": "Leipzig liegt in Sachsen."
+   }
+  },
+  {
+   "id": "deu-st-nuernberg",
+   "schwierigkeit": "leicht",
+   "frage": "In welchem Bundesland liegt Nürnberg?",
+   "richtig": "Bayern",
+   "falsch": [
+    "Schleswig-Holstein",
+    "Rheinland-Pfalz",
+    "Brandenburg"
+   ],
+   "begruendung": "Nürnberg liegt in Bayern.",
+   "karte": {
+    "titel": "Nürnberg",
+    "text": "Nürnberg liegt in Bayern.",
+    "merke": "Nürnberg liegt in Bayern."
+   }
+  },
+  {
+   "id": "deu-st-rostock",
+   "schwierigkeit": "leicht",
+   "frage": "In welchem Bundesland liegt Rostock?",
+   "richtig": "Mecklenburg-Vorpommern",
+   "falsch": [
+    "Niedersachsen",
+    "Bayern",
+    "Hessen"
+   ],
+   "begruendung": "Rostock liegt in Mecklenburg-Vorpommern.",
+   "karte": {
+    "titel": "Rostock",
+    "text": "Rostock liegt in Mecklenburg-Vorpommern.",
+    "merke": "Rostock liegt in Mecklenburg-Vorpommern."
+   }
+  },
+  {
+   "id": "deu-st-freiburg-im-breisgau",
+   "schwierigkeit": "leicht",
+   "frage": "In welchem Bundesland liegt Freiburg im Breisgau?",
+   "richtig": "Baden-Württemberg",
+   "falsch": [
+    "Brandenburg",
+    "Sachsen-Anhalt",
+    "Schleswig-Holstein"
+   ],
+   "begruendung": "Freiburg im Breisgau liegt in Baden-Württemberg.",
+   "karte": {
+    "titel": "Freiburg im Breisgau",
+    "text": "Freiburg im Breisgau liegt in Baden-Württemberg.",
+    "merke": "Freiburg im Breisgau liegt in Baden-Württemberg."
+   }
+  },
+  {
+   "id": "deu-st-heidelberg",
+   "schwierigkeit": "leicht",
+   "frage": "In welchem Bundesland liegt Heidelberg?",
+   "richtig": "Baden-Württemberg",
+   "falsch": [
+    "Sachsen-Anhalt",
+    "Sachsen",
+    "Bayern"
+   ],
+   "begruendung": "Heidelberg liegt in Baden-Württemberg.",
+   "karte": {
+    "titel": "Heidelberg",
+    "text": "Heidelberg liegt in Baden-Württemberg.",
+    "merke": "Heidelberg liegt in Baden-Württemberg."
+   }
+  },
+  {
+   "id": "deu-st-trier",
+   "schwierigkeit": "mittel",
+   "frage": "In welchem Bundesland liegt Trier?",
+   "richtig": "Rheinland-Pfalz",
+   "falsch": [
+    "Bayern",
+    "Nordrhein-Westfalen",
+    "Schleswig-Holstein"
+   ],
+   "begruendung": "Trier liegt in Rheinland-Pfalz.",
+   "karte": {
+    "titel": "Trier",
+    "text": "Trier liegt in Rheinland-Pfalz.",
+    "merke": "Trier liegt in Rheinland-Pfalz."
+   }
+  },
+  {
+   "id": "deu-st-jena",
+   "schwierigkeit": "mittel",
+   "frage": "In welchem Bundesland liegt Jena?",
+   "richtig": "Thüringen",
+   "falsch": [
+    "Mecklenburg-Vorpommern",
+    "Nordrhein-Westfalen",
+    "Niedersachsen"
+   ],
+   "begruendung": "Jena liegt in Thüringen.",
+   "karte": {
+    "titel": "Jena",
+    "text": "Jena liegt in Thüringen.",
+    "merke": "Jena liegt in Thüringen."
+   }
+  },
+  {
+   "id": "deu-st-luebeck",
+   "schwierigkeit": "leicht",
+   "frage": "In welchem Bundesland liegt Lübeck?",
+   "richtig": "Schleswig-Holstein",
+   "falsch": [
+    "Thüringen",
+    "Mecklenburg-Vorpommern",
+    "Nordrhein-Westfalen"
+   ],
+   "begruendung": "Lübeck liegt in Schleswig-Holstein.",
+   "karte": {
+    "titel": "Lübeck",
+    "text": "Lübeck liegt in Schleswig-Holstein.",
+    "merke": "Lübeck liegt in Schleswig-Holstein."
+   }
+  },
+  {
+   "id": "deu-st-goettingen",
+   "schwierigkeit": "mittel",
+   "frage": "In welchem Bundesland liegt Göttingen?",
+   "richtig": "Niedersachsen",
+   "falsch": [
+    "Schleswig-Holstein",
+    "Brandenburg",
+    "Hessen"
+   ],
+   "begruendung": "Göttingen liegt in Niedersachsen.",
+   "karte": {
+    "titel": "Göttingen",
+    "text": "Göttingen liegt in Niedersachsen.",
+    "merke": "Göttingen liegt in Niedersachsen."
+   }
+  },
+  {
+   "id": "deu-st-kassel",
+   "schwierigkeit": "mittel",
+   "frage": "In welchem Bundesland liegt Kassel?",
+   "richtig": "Hessen",
+   "falsch": [
+    "Niedersachsen",
+    "Sachsen-Anhalt",
+    "Bayern"
+   ],
+   "begruendung": "Kassel liegt in Hessen.",
+   "karte": {
+    "titel": "Kassel",
+    "text": "Kassel liegt in Hessen.",
+    "merke": "Kassel liegt in Hessen."
+   }
+  },
+  {
+   "id": "deu-st-cottbus",
+   "schwierigkeit": "mittel",
+   "frage": "In welchem Bundesland liegt Cottbus?",
+   "richtig": "Brandenburg",
+   "falsch": [
+    "Schleswig-Holstein",
+    "Niedersachsen",
+    "Bayern"
+   ],
+   "begruendung": "Cottbus liegt in Brandenburg.",
+   "karte": {
+    "titel": "Cottbus",
+    "text": "Cottbus liegt in Brandenburg.",
+    "merke": "Cottbus liegt in Brandenburg."
+   }
+  },
+  {
+   "id": "deu-st-halle-saale",
+   "schwierigkeit": "mittel",
+   "frage": "In welchem Bundesland liegt Halle (Saale)?",
+   "richtig": "Sachsen-Anhalt",
+   "falsch": [
+    "Hessen",
+    "Brandenburg",
+    "Sachsen"
+   ],
+   "begruendung": "Halle (Saale) liegt in Sachsen-Anhalt.",
+   "karte": {
+    "titel": "Halle (Saale)",
+    "text": "Halle (Saale) liegt in Sachsen-Anhalt.",
+    "merke": "Halle (Saale) liegt in Sachsen-Anhalt."
+   }
+  },
+  {
+   "id": "deu-st-augsburg",
+   "schwierigkeit": "leicht",
+   "frage": "In welchem Bundesland liegt Augsburg?",
+   "richtig": "Bayern",
+   "falsch": [
+    "Brandenburg",
+    "Schleswig-Holstein",
+    "Baden-Württemberg"
+   ],
+   "begruendung": "Augsburg liegt in Bayern.",
+   "karte": {
+    "titel": "Augsburg",
+    "text": "Augsburg liegt in Bayern.",
+    "merke": "Augsburg liegt in Bayern."
+   }
+  },
+  {
+   "id": "deu-st-wolfsburg",
+   "schwierigkeit": "leicht",
+   "frage": "In welchem Bundesland liegt Wolfsburg?",
+   "richtig": "Niedersachsen",
+   "falsch": [
+    "Mecklenburg-Vorpommern",
+    "Hessen",
+    "Nordrhein-Westfalen"
+   ],
+   "begruendung": "Wolfsburg liegt in Niedersachsen.",
+   "karte": {
+    "titel": "Wolfsburg",
+    "text": "Wolfsburg liegt in Niedersachsen.",
+    "merke": "Wolfsburg liegt in Niedersachsen."
+   }
+  },
+  {
+   "id": "deu-st-bochum",
+   "schwierigkeit": "leicht",
+   "frage": "In welchem Bundesland liegt Bochum?",
+   "richtig": "Nordrhein-Westfalen",
+   "falsch": [
+    "Niedersachsen",
+    "Mecklenburg-Vorpommern",
+    "Sachsen-Anhalt"
+   ],
+   "begruendung": "Bochum liegt in Nordrhein-Westfalen.",
+   "karte": {
+    "titel": "Bochum",
+    "text": "Bochum liegt in Nordrhein-Westfalen.",
+    "merke": "Bochum liegt in Nordrhein-Westfalen."
+   }
+  },
+  {
+   "id": "deu-st-flensburg",
+   "schwierigkeit": "leicht",
+   "frage": "In welchem Bundesland liegt Flensburg?",
+   "richtig": "Schleswig-Holstein",
+   "falsch": [
+    "Hessen",
+    "Mecklenburg-Vorpommern",
+    "Sachsen"
+   ],
+   "begruendung": "Flensburg liegt in Schleswig-Holstein.",
+   "karte": {
+    "titel": "Flensburg",
+    "text": "Flensburg liegt in Schleswig-Holstein.",
+    "merke": "Flensburg liegt in Schleswig-Holstein."
+   }
+  },
+  {
+   "id": "deu-st-regensburg",
+   "schwierigkeit": "leicht",
+   "frage": "In welchem Bundesland liegt Regensburg?",
+   "richtig": "Bayern",
+   "falsch": [
+    "Thüringen",
+    "Sachsen",
+    "Schleswig-Holstein"
+   ],
+   "begruendung": "Regensburg liegt in Bayern.",
+   "karte": {
+    "titel": "Regensburg",
+    "text": "Regensburg liegt in Bayern.",
+    "merke": "Regensburg liegt in Bayern."
+   }
+  },
+  {
+   "id": "deu-st-chemnitz",
+   "schwierigkeit": "mittel",
+   "frage": "In welchem Bundesland liegt Chemnitz?",
+   "richtig": "Sachsen",
+   "falsch": [
+    "Rheinland-Pfalz",
+    "Schleswig-Holstein",
+    "Brandenburg"
+   ],
+   "begruendung": "Chemnitz liegt in Sachsen.",
+   "karte": {
+    "titel": "Chemnitz",
+    "text": "Chemnitz liegt in Sachsen.",
+    "merke": "Chemnitz liegt in Sachsen."
+   }
+  },
+  {
+   "id": "deu-st-weimar",
+   "schwierigkeit": "mittel",
+   "frage": "In welchem Bundesland liegt Weimar?",
+   "richtig": "Thüringen",
+   "falsch": [
+    "Rheinland-Pfalz",
+    "Sachsen",
+    "Brandenburg"
+   ],
+   "begruendung": "Weimar liegt in Thüringen.",
+   "karte": {
+    "titel": "Weimar",
+    "text": "Weimar liegt in Thüringen.",
+    "merke": "Weimar liegt in Thüringen."
+   }
+  },
+  {
+   "id": "deu-st-koblenz",
+   "schwierigkeit": "mittel",
+   "frage": "In welchem Bundesland liegt Koblenz?",
+   "richtig": "Rheinland-Pfalz",
+   "falsch": [
+    "Niedersachsen",
+    "Baden-Württemberg",
+    "Nordrhein-Westfalen"
+   ],
+   "begruendung": "Koblenz liegt in Rheinland-Pfalz.",
+   "karte": {
+    "titel": "Koblenz",
+    "text": "Koblenz liegt in Rheinland-Pfalz.",
+    "merke": "Koblenz liegt in Rheinland-Pfalz."
+   }
+  },
+  {
+   "id": "deu-st-ulm",
+   "schwierigkeit": "mittel",
+   "frage": "In welchem Bundesland liegt Ulm?",
+   "richtig": "Baden-Württemberg",
+   "falsch": [
+    "Bayern",
+    "Sachsen-Anhalt",
+    "Sachsen"
+   ],
+   "begruendung": "Ulm liegt in Baden-Württemberg.",
+   "karte": {
+    "titel": "Ulm",
+    "text": "Ulm liegt in Baden-Württemberg.",
+    "merke": "Ulm liegt in Baden-Württemberg."
+   }
+  },
+  {
+   "id": "deu-st-oldenburg",
+   "schwierigkeit": "mittel",
+   "frage": "In welchem Bundesland liegt Oldenburg?",
+   "richtig": "Niedersachsen",
+   "falsch": [
+    "Sachsen",
+    "Schleswig-Holstein",
+    "Thüringen"
+   ],
+   "begruendung": "Oldenburg liegt in Niedersachsen.",
+   "karte": {
+    "titel": "Oldenburg",
+    "text": "Oldenburg liegt in Niedersachsen.",
+    "merke": "Oldenburg liegt in Niedersachsen."
+   }
+  },
+  {
+   "id": "deu-st-stralsund",
+   "schwierigkeit": "mittel",
+   "frage": "In welchem Bundesland liegt Stralsund?",
+   "richtig": "Mecklenburg-Vorpommern",
+   "falsch": [
+    "Rheinland-Pfalz",
+    "Sachsen",
+    "Sachsen-Anhalt"
+   ],
+   "begruendung": "Stralsund liegt in Mecklenburg-Vorpommern.",
+   "karte": {
+    "titel": "Stralsund",
+    "text": "Stralsund liegt in Mecklenburg-Vorpommern.",
+    "merke": "Stralsund liegt in Mecklenburg-Vorpommern."
+   }
+  },
+  {
+   "id": "deu-st-bielefeld",
+   "schwierigkeit": "mittel",
+   "frage": "In welchem Bundesland liegt Bielefeld?",
+   "richtig": "Nordrhein-Westfalen",
+   "falsch": [
+    "Hessen",
+    "Sachsen",
+    "Schleswig-Holstein"
+   ],
+   "begruendung": "Bielefeld liegt in Nordrhein-Westfalen.",
+   "karte": {
+    "titel": "Bielefeld",
+    "text": "Im Internet hält sich der Witz, Bielefeld gebe es gar nicht. Die Stadt hat über 330.000 Einwohner.",
+    "merke": "Bielefeld liegt in Nordrhein-Westfalen."
+   }
+  },
+  {
+   "id": "deu-st-wuerzburg",
+   "schwierigkeit": "mittel",
+   "frage": "In welchem Bundesland liegt Würzburg?",
+   "richtig": "Bayern",
+   "falsch": [
+    "Schleswig-Holstein",
+    "Baden-Württemberg",
+    "Hessen"
+   ],
+   "begruendung": "Würzburg liegt in Bayern.",
+   "karte": {
+    "titel": "Würzburg",
+    "text": "Würzburg liegt in Bayern.",
+    "merke": "Würzburg liegt in Bayern."
+   }
+  },
+  {
+   "id": "deu-st-wittenberg",
+   "schwierigkeit": "schwer",
+   "frage": "In welchem Bundesland liegt Wittenberg?",
+   "richtig": "Sachsen-Anhalt",
+   "falsch": [
+    "Brandenburg",
+    "Hessen",
+    "Mecklenburg-Vorpommern"
+   ],
+   "begruendung": "Wittenberg liegt in Sachsen-Anhalt.",
+   "karte": {
+    "titel": "Wittenberg",
+    "text": "Wittenberg liegt in Sachsen-Anhalt.",
+    "merke": "Wittenberg liegt in Sachsen-Anhalt."
+   }
+  },
+  {
+   "id": "deu-st-frankfurt-oder",
+   "schwierigkeit": "schwer",
+   "frage": "In welchem Bundesland liegt Frankfurt (Oder)?",
+   "richtig": "Brandenburg",
+   "falsch": [
+    "Niedersachsen",
+    "Rheinland-Pfalz",
+    "Sachsen"
+   ],
+   "begruendung": "Frankfurt (Oder) liegt in Brandenburg.",
+   "karte": {
+    "titel": "Frankfurt (Oder)",
+    "text": "Frankfurt an der Oder liegt an der Grenze zu Polen, nicht zu verwechseln mit Frankfurt am Main in Hessen.",
+    "merke": "Frankfurt (Oder) liegt in Brandenburg."
+   }
+  },
+  {
+   "id": "deu-st-darmstadt",
+   "schwierigkeit": "mittel",
+   "frage": "In welchem Bundesland liegt Darmstadt?",
+   "richtig": "Hessen",
+   "falsch": [
+    "Nordrhein-Westfalen",
+    "Niedersachsen",
+    "Thüringen"
+   ],
+   "begruendung": "Darmstadt liegt in Hessen.",
+   "karte": {
+    "titel": "Darmstadt",
+    "text": "Darmstadt liegt in Hessen.",
+    "merke": "Darmstadt liegt in Hessen."
+   }
+  },
+  {
+   "id": "deu-ft-der-tag-der-deutschen-einheit",
+   "schwierigkeit": "leicht",
+   "frage": "An welchem Datum ist der Tag der Deutschen Einheit?",
+   "richtig": "3. Oktober",
+   "falsch": [
+    "31. Dezember",
+    "31. Oktober",
+    "24. Juni"
+   ],
+   "begruendung": "Tag der Deutschen Einheit: 3. Oktober.",
+   "karte": {
+    "titel": "Tag der Deutschen Einheit",
+    "text": "Tag der Deutschen Einheit: 3. Oktober.",
+    "merke": "Tag der Deutschen Einheit: 3. Oktober."
+   },
+   "ddf": true,
+   "stand": "2026-11"
+  },
+  {
+   "id": "deu-ft-neujahr",
+   "schwierigkeit": "leicht",
+   "frage": "An welchem Datum ist Neujahr?",
+   "richtig": "1. Januar",
+   "falsch": [
+    "15. August",
+    "14. Februar",
+    "6. Januar"
+   ],
+   "begruendung": "Neujahr: 1. Januar.",
+   "karte": {
+    "titel": "Neujahr",
+    "text": "Neujahr: 1. Januar.",
+    "merke": "Neujahr: 1. Januar."
+   },
+   "ddf": true,
+   "stand": "2026-11"
+  },
+  {
+   "id": "deu-ft-der-tag-der-arbeit",
+   "schwierigkeit": "leicht",
+   "frage": "An welchem Datum ist der Tag der Arbeit?",
+   "richtig": "1. Mai",
+   "falsch": [
+    "6. Dezember",
+    "31. Dezember",
+    "1. November"
+   ],
+   "begruendung": "Tag der Arbeit: 1. Mai.",
+   "karte": {
+    "titel": "Tag der Arbeit",
+    "text": "Tag der Arbeit: 1. Mai.",
+    "merke": "Tag der Arbeit: 1. Mai."
+   },
+   "ddf": true,
+   "stand": "2026-11"
+  },
+  {
+   "id": "deu-ft-heiligabend",
+   "schwierigkeit": "leicht",
+   "frage": "An welchem Datum ist Heiligabend?",
+   "richtig": "24. Dezember",
+   "falsch": [
+    "14. Februar",
+    "3. Oktober",
+    "31. Oktober"
+   ],
+   "begruendung": "Heiligabend: 24. Dezember.",
+   "karte": {
+    "titel": "Heiligabend",
+    "text": "Heiligabend ist kein gesetzlicher Feiertag. Die Weihnachtsfeiertage sind der 25. und 26. Dezember.",
+    "merke": "Heiligabend: 24. Dezember."
+   },
+   "ddf": true,
+   "stand": "2026-11"
+  },
+  {
+   "id": "deu-ft-der-reformationstag",
+   "schwierigkeit": "mittel",
+   "frage": "An welchem Datum ist der Reformationstag?",
+   "richtig": "31. Oktober",
+   "falsch": [
+    "6. Dezember",
+    "31. Dezember",
+    "24. Juni"
+   ],
+   "begruendung": "Reformationstag: 31. Oktober.",
+   "karte": {
+    "titel": "Reformationstag",
+    "text": "Der Reformationstag ist in den östlichen und einigen nördlichen Bundesländern gesetzlicher Feiertag.",
+    "merke": "Reformationstag: 31. Oktober."
+   },
+   "stand": "2026-11"
+  },
+  {
+   "id": "deu-ft-allerheiligen",
+   "schwierigkeit": "mittel",
+   "frage": "An welchem Datum ist Allerheiligen?",
+   "richtig": "1. November",
+   "falsch": [
+    "24. Dezember",
+    "14. Februar",
+    "15. August"
+   ],
+   "begruendung": "Allerheiligen: 1. November.",
+   "karte": {
+    "titel": "Allerheiligen",
+    "text": "Allerheiligen: 1. November.",
+    "merke": "Allerheiligen: 1. November."
+   },
+   "stand": "2026-11"
+  },
+  {
+   "id": "deu-ft-der-dreikoenigstag",
+   "schwierigkeit": "mittel",
+   "frage": "An welchem Datum ist der Dreikönigstag?",
+   "richtig": "6. Januar",
+   "falsch": [
+    "11. November",
+    "1. Mai",
+    "1. Januar"
+   ],
+   "begruendung": "Dreikönigstag: 6. Januar.",
+   "karte": {
+    "titel": "Dreikönigstag",
+    "text": "Dreikönigstag: 6. Januar.",
+    "merke": "Dreikönigstag: 6. Januar."
+   },
+   "stand": "2026-11"
+  },
+  {
+   "id": "deu-ft-silvester",
+   "schwierigkeit": "leicht",
+   "frage": "An welchem Datum ist Silvester?",
+   "richtig": "31. Dezember",
+   "falsch": [
+    "3. Oktober",
+    "14. Februar",
+    "24. Juni"
+   ],
+   "begruendung": "Silvester: 31. Dezember.",
+   "karte": {
+    "titel": "Silvester",
+    "text": "Silvester: 31. Dezember.",
+    "merke": "Silvester: 31. Dezember."
+   },
+   "ddf": true,
+   "stand": "2026-11"
+  },
+  {
+   "id": "deu-ft-der-nikolaustag",
+   "schwierigkeit": "leicht",
+   "frage": "An welchem Datum ist der Nikolaustag?",
+   "richtig": "6. Dezember",
+   "falsch": [
+    "6. Januar",
+    "8. März",
+    "3. Oktober"
+   ],
+   "begruendung": "Nikolaustag: 6. Dezember.",
+   "karte": {
+    "titel": "Nikolaustag",
+    "text": "Nikolaustag: 6. Dezember.",
+    "merke": "Nikolaustag: 6. Dezember."
+   },
+   "ddf": true,
+   "stand": "2026-11"
+  },
+  {
+   "id": "deu-ft-der-martinstag",
+   "schwierigkeit": "mittel",
+   "frage": "An welchem Datum ist der Martinstag?",
+   "richtig": "11. November",
+   "falsch": [
+    "31. Dezember",
+    "15. August",
+    "3. Oktober"
+   ],
+   "begruendung": "Martinstag: 11. November.",
+   "karte": {
+    "titel": "Martinstag",
+    "text": "Martinstag: 11. November.",
+    "merke": "Martinstag: 11. November."
+   },
+   "stand": "2026-11"
+  },
+  {
+   "id": "deu-ft-der-valentinstag",
+   "schwierigkeit": "leicht",
+   "frage": "An welchem Datum ist der Valentinstag?",
+   "richtig": "14. Februar",
+   "falsch": [
+    "6. Dezember",
+    "6. Januar",
+    "24. Juni"
+   ],
+   "begruendung": "Valentinstag: 14. Februar.",
+   "karte": {
+    "titel": "Valentinstag",
+    "text": "Valentinstag: 14. Februar.",
+    "merke": "Valentinstag: 14. Februar."
+   },
+   "ddf": true,
+   "stand": "2026-11"
+  },
+  {
+   "id": "deu-ft-mariae-himmelfahrt",
+   "schwierigkeit": "schwer",
+   "frage": "An welchem Datum ist Mariä Himmelfahrt?",
+   "richtig": "15. August",
+   "falsch": [
+    "3. Oktober",
+    "1. November",
+    "6. Dezember"
+   ],
+   "begruendung": "Mariä Himmelfahrt: 15. August.",
+   "karte": {
+    "titel": "Mariä Himmelfahrt",
+    "text": "Mariä Himmelfahrt: 15. August.",
+    "merke": "Mariä Himmelfahrt: 15. August."
+   },
+   "stand": "2026-11"
+  },
+  {
+   "id": "deu-ft-der-internationale-frauentag",
+   "schwierigkeit": "mittel",
+   "frage": "An welchem Datum ist der Internationale Frauentag?",
+   "richtig": "8. März",
+   "falsch": [
+    "14. Februar",
+    "1. November",
+    "24. Dezember"
+   ],
+   "begruendung": "Internationale Frauentag: 8. März.",
+   "karte": {
+    "titel": "Internationale Frauentag",
+    "text": "In Berlin und Mecklenburg-Vorpommern ist der Frauentag ein gesetzlicher Feiertag.",
+    "merke": "Internationale Frauentag: 8. März."
+   },
+   "stand": "2026-11"
+  },
+  {
+   "id": "deu-ft-der-johannistag",
+   "schwierigkeit": "schwer",
+   "frage": "An welchem Datum ist der Johannistag?",
+   "richtig": "24. Juni",
+   "falsch": [
+    "1. Mai",
+    "1. November",
+    "15. August"
+   ],
+   "begruendung": "Johannistag: 24. Juni.",
+   "karte": {
+    "titel": "Johannistag",
+    "text": "Johannistag: 24. Juni.",
+    "merke": "Johannistag: 24. Juni."
+   },
+   "stand": "2026-11"
+  },
+  {
+   "id": "deu-kz-b",
+   "schwierigkeit": "leicht",
+   "frage": "Zu welcher Stadt gehört das Autokennzeichen B?",
+   "richtig": "Berlin",
+   "falsch": [
+    "Bremen",
+    "Magdeburg",
+    "München"
+   ],
+   "begruendung": "B = Berlin.",
+   "karte": {
+    "titel": "Kennzeichen B",
+    "text": "B = Berlin.",
+    "merke": "B = Berlin."
+   },
+   "ddf": true
+  },
+  {
+   "id": "deu-kz-m",
+   "schwierigkeit": "leicht",
+   "frage": "Zu welcher Stadt gehört das Autokennzeichen M?",
+   "richtig": "München",
+   "falsch": [
+    "Köln",
+    "Schwerin",
+    "Dresden"
+   ],
+   "begruendung": "M = München.",
+   "karte": {
+    "titel": "Kennzeichen M",
+    "text": "M = München.",
+    "merke": "M = München."
+   },
+   "ddf": true
+  },
+  {
+   "id": "deu-kz-hh",
+   "schwierigkeit": "leicht",
+   "frage": "Zu welcher Stadt gehört das Autokennzeichen HH?",
+   "richtig": "Hamburg",
+   "falsch": [
+    "Dresden",
+    "Bonn",
+    "Essen"
+   ],
+   "begruendung": "HH = Hamburg.",
+   "karte": {
+    "titel": "Kennzeichen HH",
+    "text": "Das H am Anfang steht für Hansestadt.",
+    "merke": "HH = Hamburg."
+   },
+   "ddf": true
+  },
+  {
+   "id": "deu-kz-k",
+   "schwierigkeit": "leicht",
+   "frage": "Zu welcher Stadt gehört das Autokennzeichen K?",
+   "richtig": "Köln",
+   "falsch": [
+    "Schwerin",
+    "Düsseldorf",
+    "Dresden"
+   ],
+   "begruendung": "K = Köln.",
+   "karte": {
+    "titel": "Kennzeichen K",
+    "text": "K = Köln.",
+    "merke": "K = Köln."
+   },
+   "ddf": true
+  },
+  {
+   "id": "deu-kz-f",
+   "schwierigkeit": "leicht",
+   "frage": "Zu welcher Stadt gehört das Autokennzeichen F?",
+   "richtig": "Frankfurt am Main",
+   "falsch": [
+    "Heidelberg",
+    "München",
+    "Köln"
+   ],
+   "begruendung": "F = Frankfurt am Main.",
+   "karte": {
+    "titel": "Kennzeichen F",
+    "text": "F = Frankfurt am Main.",
+    "merke": "F = Frankfurt am Main."
+   },
+   "ddf": true
+  },
+  {
+   "id": "deu-kz-s",
+   "schwierigkeit": "leicht",
+   "frage": "Zu welcher Stadt gehört das Autokennzeichen S?",
+   "richtig": "Stuttgart",
+   "falsch": [
+    "Kiel",
+    "Bonn",
+    "Frankfurt am Main"
+   ],
+   "begruendung": "S = Stuttgart.",
+   "karte": {
+    "titel": "Kennzeichen S",
+    "text": "S = Stuttgart.",
+    "merke": "S = Stuttgart."
+   },
+   "ddf": true
+  },
+  {
+   "id": "deu-kz-d",
+   "schwierigkeit": "leicht",
+   "frage": "Zu welcher Stadt gehört das Autokennzeichen D?",
+   "richtig": "Düsseldorf",
+   "falsch": [
+    "Hamburg",
+    "Frankfurt am Main",
+    "Wiesbaden"
+   ],
+   "begruendung": "D = Düsseldorf.",
+   "karte": {
+    "titel": "Kennzeichen D",
+    "text": "D = Düsseldorf.",
+    "merke": "D = Düsseldorf."
+   },
+   "ddf": true
+  },
+  {
+   "id": "deu-kz-hb",
+   "schwierigkeit": "leicht",
+   "frage": "Zu welcher Stadt gehört das Autokennzeichen HB?",
+   "richtig": "Bremen",
+   "falsch": [
+    "Hamburg",
+    "Nürnberg",
+    "Wiesbaden"
+   ],
+   "begruendung": "HB = Bremen.",
+   "karte": {
+    "titel": "Kennzeichen HB",
+    "text": "Das H am Anfang steht für Hansestadt.",
+    "merke": "HB = Bremen."
+   },
+   "ddf": true
+  },
+  {
+   "id": "deu-kz-l",
+   "schwierigkeit": "leicht",
+   "frage": "Zu welcher Stadt gehört das Autokennzeichen L?",
+   "richtig": "Leipzig",
+   "falsch": [
+    "Karlsruhe",
+    "Kiel",
+    "Stuttgart"
+   ],
+   "begruendung": "L = Leipzig.",
+   "karte": {
+    "titel": "Kennzeichen L",
+    "text": "L = Leipzig.",
+    "merke": "L = Leipzig."
+   },
+   "ddf": true
+  },
+  {
+   "id": "deu-kz-dd",
+   "schwierigkeit": "leicht",
+   "frage": "Zu welcher Stadt gehört das Autokennzeichen DD?",
+   "richtig": "Dresden",
+   "falsch": [
+    "München",
+    "Wiesbaden",
+    "Berlin"
+   ],
+   "begruendung": "DD = Dresden.",
+   "karte": {
+    "titel": "Kennzeichen DD",
+    "text": "DD = Dresden.",
+    "merke": "DD = Dresden."
+   },
+   "ddf": true
+  },
+  {
+   "id": "deu-kz-h",
+   "schwierigkeit": "leicht",
+   "frage": "Zu welcher Stadt gehört das Autokennzeichen H?",
+   "richtig": "Hannover",
+   "falsch": [
+    "Berlin",
+    "Freiburg im Breisgau",
+    "Nürnberg"
+   ],
+   "begruendung": "H = Hannover.",
+   "karte": {
+    "titel": "Kennzeichen H",
+    "text": "H = Hannover.",
+    "merke": "H = Hannover."
+   },
+   "ddf": true
+  },
+  {
+   "id": "deu-kz-n",
+   "schwierigkeit": "leicht",
+   "frage": "Zu welcher Stadt gehört das Autokennzeichen N?",
+   "richtig": "Nürnberg",
+   "falsch": [
+    "Erfurt",
+    "Kiel",
+    "Essen"
+   ],
+   "begruendung": "N = Nürnberg.",
+   "karte": {
+    "titel": "Kennzeichen N",
+    "text": "N = Nürnberg.",
+    "merke": "N = Nürnberg."
+   },
+   "ddf": true
+  },
+  {
+   "id": "deu-kz-e",
+   "schwierigkeit": "mittel",
+   "frage": "Zu welcher Stadt gehört das Autokennzeichen E?",
+   "richtig": "Essen",
+   "falsch": [
+    "Leipzig",
+    "Kiel",
+    "Bremen"
+   ],
+   "begruendung": "E = Essen.",
+   "karte": {
+    "titel": "Kennzeichen E",
+    "text": "E = Essen.",
+    "merke": "E = Essen."
+   }
+  },
+  {
+   "id": "deu-kz-do",
+   "schwierigkeit": "leicht",
+   "frage": "Zu welcher Stadt gehört das Autokennzeichen DO?",
+   "richtig": "Dortmund",
+   "falsch": [
+    "Frankfurt am Main",
+    "Hamburg",
+    "Magdeburg"
+   ],
+   "begruendung": "DO = Dortmund.",
+   "karte": {
+    "titel": "Kennzeichen DO",
+    "text": "DO = Dortmund.",
+    "merke": "DO = Dortmund."
+   },
+   "ddf": true
+  },
+  {
+   "id": "deu-kz-ki",
+   "schwierigkeit": "mittel",
+   "frage": "Zu welcher Stadt gehört das Autokennzeichen KI?",
+   "richtig": "Kiel",
+   "falsch": [
+    "Göttingen",
+    "Hamburg",
+    "Lübeck"
+   ],
+   "begruendung": "KI = Kiel.",
+   "karte": {
+    "titel": "Kennzeichen KI",
+    "text": "KI = Kiel.",
+    "merke": "KI = Kiel."
+   }
+  },
+  {
+   "id": "deu-kz-hro",
+   "schwierigkeit": "mittel",
+   "frage": "Zu welcher Stadt gehört das Autokennzeichen HRO?",
+   "richtig": "Rostock",
+   "falsch": [
+    "Schwerin",
+    "Düsseldorf",
+    "Erfurt"
+   ],
+   "begruendung": "HRO = Rostock.",
+   "karte": {
+    "titel": "Kennzeichen HRO",
+    "text": "Das H am Anfang steht für Hansestadt.",
+    "merke": "HRO = Rostock."
+   }
+  },
+  {
+   "id": "deu-kz-mz",
+   "schwierigkeit": "mittel",
+   "frage": "Zu welcher Stadt gehört das Autokennzeichen MZ?",
+   "richtig": "Mainz",
+   "falsch": [
+    "Karlsruhe",
+    "Kiel",
+    "Düsseldorf"
+   ],
+   "begruendung": "MZ = Mainz.",
+   "karte": {
+    "titel": "Kennzeichen MZ",
+    "text": "MZ = Mainz.",
+    "merke": "MZ = Mainz."
+   }
+  },
+  {
+   "id": "deu-kz-wi",
+   "schwierigkeit": "mittel",
+   "frage": "Zu welcher Stadt gehört das Autokennzeichen WI?",
+   "richtig": "Wiesbaden",
+   "falsch": [
+    "Leipzig",
+    "Rostock",
+    "Frankfurt am Main"
+   ],
+   "begruendung": "WI = Wiesbaden.",
+   "karte": {
+    "titel": "Kennzeichen WI",
+    "text": "WI = Wiesbaden.",
+    "merke": "WI = Wiesbaden."
+   }
+  },
+  {
+   "id": "deu-kz-sb",
+   "schwierigkeit": "mittel",
+   "frage": "Zu welcher Stadt gehört das Autokennzeichen SB?",
+   "richtig": "Saarbrücken",
+   "falsch": [
+    "Bonn",
+    "Düsseldorf",
+    "Augsburg"
+   ],
+   "begruendung": "SB = Saarbrücken.",
+   "karte": {
+    "titel": "Kennzeichen SB",
+    "text": "SB = Saarbrücken.",
+    "merke": "SB = Saarbrücken."
+   }
+  },
+  {
+   "id": "deu-kz-ef",
+   "schwierigkeit": "mittel",
+   "frage": "Zu welcher Stadt gehört das Autokennzeichen EF?",
+   "richtig": "Erfurt",
+   "falsch": [
+    "Mainz",
+    "Freiburg im Breisgau",
+    "Nürnberg"
+   ],
+   "begruendung": "EF = Erfurt.",
+   "karte": {
+    "titel": "Kennzeichen EF",
+    "text": "EF = Erfurt.",
+    "merke": "EF = Erfurt."
+   }
+  },
+  {
+   "id": "deu-kz-md",
+   "schwierigkeit": "mittel",
+   "frage": "Zu welcher Stadt gehört das Autokennzeichen MD?",
+   "richtig": "Magdeburg",
+   "falsch": [
+    "Hamburg",
+    "Essen",
+    "Stuttgart"
+   ],
+   "begruendung": "MD = Magdeburg.",
+   "karte": {
+    "titel": "Kennzeichen MD",
+    "text": "MD = Magdeburg.",
+    "merke": "MD = Magdeburg."
+   }
+  },
+  {
+   "id": "deu-kz-p",
+   "schwierigkeit": "mittel",
+   "frage": "Zu welcher Stadt gehört das Autokennzeichen P?",
+   "richtig": "Potsdam",
+   "falsch": [
+    "Bremen",
+    "Bonn",
+    "Wiesbaden"
+   ],
+   "begruendung": "P = Potsdam.",
+   "karte": {
+    "titel": "Kennzeichen P",
+    "text": "P = Potsdam.",
+    "merke": "P = Potsdam."
+   }
+  },
+  {
+   "id": "deu-kz-sn",
+   "schwierigkeit": "mittel",
+   "frage": "Zu welcher Stadt gehört das Autokennzeichen SN?",
+   "richtig": "Schwerin",
+   "falsch": [
+    "Stuttgart",
+    "Dresden",
+    "Karlsruhe"
+   ],
+   "begruendung": "SN = Schwerin.",
+   "karte": {
+    "titel": "Kennzeichen SN",
+    "text": "SN = Schwerin.",
+    "merke": "SN = Schwerin."
+   }
+  },
+  {
+   "id": "deu-kz-hd",
+   "schwierigkeit": "mittel",
+   "frage": "Zu welcher Stadt gehört das Autokennzeichen HD?",
+   "richtig": "Heidelberg",
+   "falsch": [
+    "München",
+    "Karlsruhe",
+    "Stuttgart"
+   ],
+   "begruendung": "HD = Heidelberg.",
+   "karte": {
+    "titel": "Kennzeichen HD",
+    "text": "HD = Heidelberg.",
+    "merke": "HD = Heidelberg."
+   }
+  },
+  {
+   "id": "deu-kz-bn",
+   "schwierigkeit": "mittel",
+   "frage": "Zu welcher Stadt gehört das Autokennzeichen BN?",
+   "richtig": "Bonn",
+   "falsch": [
+    "Rostock",
+    "Mainz",
+    "Nürnberg"
+   ],
+   "begruendung": "BN = Bonn.",
+   "karte": {
+    "titel": "Kennzeichen BN",
+    "text": "BN = Bonn.",
+    "merke": "BN = Bonn."
+   }
+  },
+  {
+   "id": "deu-kz-ka",
+   "schwierigkeit": "mittel",
+   "frage": "Zu welcher Stadt gehört das Autokennzeichen KA?",
+   "richtig": "Karlsruhe",
+   "falsch": [
+    "Göttingen",
+    "Stuttgart",
+    "Hannover"
+   ],
+   "begruendung": "KA = Karlsruhe.",
+   "karte": {
+    "titel": "Kennzeichen KA",
+    "text": "KA = Karlsruhe.",
+    "merke": "KA = Karlsruhe."
+   }
+  },
+  {
+   "id": "deu-kz-a",
+   "schwierigkeit": "mittel",
+   "frage": "Zu welcher Stadt gehört das Autokennzeichen A?",
+   "richtig": "Augsburg",
+   "falsch": [
+    "Frankfurt am Main",
+    "Leipzig",
+    "Rostock"
+   ],
+   "begruendung": "A = Augsburg.",
+   "karte": {
+    "titel": "Kennzeichen A",
+    "text": "A = Augsburg.",
+    "merke": "A = Augsburg."
+   }
+  },
+  {
+   "id": "deu-kz-hl",
+   "schwierigkeit": "mittel",
+   "frage": "Zu welcher Stadt gehört das Autokennzeichen HL?",
+   "richtig": "Lübeck",
+   "falsch": [
+    "Stuttgart",
+    "Magdeburg",
+    "Düsseldorf"
+   ],
+   "begruendung": "HL = Lübeck.",
+   "karte": {
+    "titel": "Kennzeichen HL",
+    "text": "Das H am Anfang steht für Hansestadt.",
+    "merke": "HL = Lübeck."
+   }
+  },
+  {
+   "id": "deu-kz-fr",
+   "schwierigkeit": "mittel",
+   "frage": "Zu welcher Stadt gehört das Autokennzeichen FR?",
+   "richtig": "Freiburg im Breisgau",
+   "falsch": [
+    "Schwerin",
+    "Köln",
+    "Leipzig"
+   ],
+   "begruendung": "FR = Freiburg im Breisgau.",
+   "karte": {
+    "titel": "Kennzeichen FR",
+    "text": "FR = Freiburg im Breisgau.",
+    "merke": "FR = Freiburg im Breisgau."
+   }
+  },
+  {
+   "id": "deu-kz-goe",
+   "schwierigkeit": "schwer",
+   "frage": "Zu welcher Stadt gehört das Autokennzeichen GÖ?",
+   "richtig": "Göttingen",
+   "falsch": [
+    "Augsburg",
+    "Potsdam",
+    "Dresden"
+   ],
+   "begruendung": "GÖ = Göttingen.",
+   "karte": {
+    "titel": "Kennzeichen GÖ",
+    "text": "GÖ = Göttingen.",
+    "merke": "GÖ = Göttingen."
+   }
+  }
+ ]
+}
