@@ -1,0 +1,1631 @@
+{
+ "klasse": "logik",
+ "erzeugt": "scripts/generate-fakten.mjs",
+ "fragen": [
+  {
+   "id": "log-mal-7-8",
+   "schwierigkeit": "leicht",
+   "frage": "Wie viel ist 7 × 8?",
+   "richtig": "56",
+   "falsch": [
+    "64",
+    "49",
+    "66"
+   ],
+   "begruendung": "7 × 8 = 56.",
+   "karte": {
+    "titel": "Kopfrechnen",
+    "text": "Das gehört zum kleinen Einmaleins: 7 × 8 = 56.",
+    "merke": "7 × 8 = 56."
+   },
+   "ddf": true
+  },
+  {
+   "id": "log-mal-6-9",
+   "schwierigkeit": "leicht",
+   "frage": "Wie viel ist 6 × 9?",
+   "richtig": "54",
+   "falsch": [
+    "63",
+    "48",
+    "64"
+   ],
+   "begruendung": "6 × 9 = 54.",
+   "karte": {
+    "titel": "Kopfrechnen",
+    "text": "Das gehört zum kleinen Einmaleins: 6 × 9 = 54.",
+    "merke": "6 × 9 = 54."
+   },
+   "ddf": true
+  },
+  {
+   "id": "log-mal-12-12",
+   "schwierigkeit": "mittel",
+   "frage": "Wie viel ist 12 × 12?",
+   "richtig": "144",
+   "falsch": [
+    "156",
+    "132",
+    "154"
+   ],
+   "begruendung": "12 × 12 = 144.",
+   "karte": {
+    "titel": "Kopfrechnen",
+    "text": "Tipp: Zerlege die Aufgabe. 12 × 12 = 12 × 10 + 12 × 2.",
+    "merke": "12 × 12 = 144."
+   },
+   "ddf": true
+  },
+  {
+   "id": "log-mal-13-7",
+   "schwierigkeit": "leicht",
+   "frage": "Wie viel ist 13 × 7?",
+   "richtig": "91",
+   "falsch": [
+    "98",
+    "78",
+    "101"
+   ],
+   "begruendung": "13 × 7 = 91.",
+   "karte": {
+    "titel": "Kopfrechnen",
+    "text": "Tipp: Zerlege die Aufgabe. 13 × 7 = 10 × 7 + 3 × 7.",
+    "merke": "13 × 7 = 91."
+   },
+   "ddf": true
+  },
+  {
+   "id": "log-mal-15-6",
+   "schwierigkeit": "leicht",
+   "frage": "Wie viel ist 15 × 6?",
+   "richtig": "90",
+   "falsch": [
+    "96",
+    "75",
+    "100"
+   ],
+   "begruendung": "15 × 6 = 90.",
+   "karte": {
+    "titel": "Kopfrechnen",
+    "text": "Tipp: Zerlege die Aufgabe. 15 × 6 = 10 × 6 + 5 × 6.",
+    "merke": "15 × 6 = 90."
+   },
+   "ddf": true
+  },
+  {
+   "id": "log-mal-17-4",
+   "schwierigkeit": "leicht",
+   "frage": "Wie viel ist 17 × 4?",
+   "richtig": "68",
+   "falsch": [
+    "72",
+    "51",
+    "78"
+   ],
+   "begruendung": "17 × 4 = 68.",
+   "karte": {
+    "titel": "Kopfrechnen",
+    "text": "Tipp: Zerlege die Aufgabe. 17 × 4 = 10 × 4 + 7 × 4.",
+    "merke": "17 × 4 = 68."
+   },
+   "ddf": true
+  },
+  {
+   "id": "log-mal-9-9",
+   "schwierigkeit": "leicht",
+   "frage": "Wie viel ist 9 × 9?",
+   "richtig": "81",
+   "falsch": [
+    "90",
+    "72",
+    "91"
+   ],
+   "begruendung": "9 × 9 = 81.",
+   "karte": {
+    "titel": "Kopfrechnen",
+    "text": "Das gehört zum kleinen Einmaleins: 9 × 9 = 81.",
+    "merke": "9 × 9 = 81."
+   },
+   "ddf": true
+  },
+  {
+   "id": "log-mal-8-12",
+   "schwierigkeit": "leicht",
+   "frage": "Wie viel ist 8 × 12?",
+   "richtig": "96",
+   "falsch": [
+    "108",
+    "88",
+    "106"
+   ],
+   "begruendung": "8 × 12 = 96.",
+   "karte": {
+    "titel": "Kopfrechnen",
+    "text": "Tipp: Zerlege die Aufgabe. 8 × 12 = 8 × 10 + 8 × 2.",
+    "merke": "8 × 12 = 96."
+   },
+   "ddf": true
+  },
+  {
+   "id": "log-mal-14-6",
+   "schwierigkeit": "leicht",
+   "frage": "Wie viel ist 14 × 6?",
+   "richtig": "84",
+   "falsch": [
+    "90",
+    "70",
+    "94"
+   ],
+   "begruendung": "14 × 6 = 84.",
+   "karte": {
+    "titel": "Kopfrechnen",
+    "text": "Tipp: Zerlege die Aufgabe. 14 × 6 = 10 × 6 + 4 × 6.",
+    "merke": "14 × 6 = 84."
+   },
+   "ddf": true
+  },
+  {
+   "id": "log-mal-16-5",
+   "schwierigkeit": "leicht",
+   "frage": "Wie viel ist 16 × 5?",
+   "richtig": "80",
+   "falsch": [
+    "85",
+    "64",
+    "90"
+   ],
+   "begruendung": "16 × 5 = 80.",
+   "karte": {
+    "titel": "Kopfrechnen",
+    "text": "Tipp: Zerlege die Aufgabe. 16 × 5 = 10 × 5 + 6 × 5.",
+    "merke": "16 × 5 = 80."
+   },
+   "ddf": true
+  },
+  {
+   "id": "log-mal-11-13",
+   "schwierigkeit": "mittel",
+   "frage": "Wie viel ist 11 × 13?",
+   "richtig": "143",
+   "falsch": [
+    "156",
+    "132",
+    "153"
+   ],
+   "begruendung": "11 × 13 = 143.",
+   "karte": {
+    "titel": "Kopfrechnen",
+    "text": "Tipp: Zerlege die Aufgabe. 11 × 13 = 11 × 10 + 11 × 3.",
+    "merke": "11 × 13 = 143."
+   },
+   "ddf": true
+  },
+  {
+   "id": "log-mal-19-3",
+   "schwierigkeit": "leicht",
+   "frage": "Wie viel ist 19 × 3?",
+   "richtig": "57",
+   "falsch": [
+    "60",
+    "38",
+    "67"
+   ],
+   "begruendung": "19 × 3 = 57.",
+   "karte": {
+    "titel": "Kopfrechnen",
+    "text": "Tipp: Zerlege die Aufgabe. 19 × 3 = 10 × 3 + 9 × 3.",
+    "merke": "19 × 3 = 57."
+   },
+   "ddf": true
+  },
+  {
+   "id": "log-mal-25-4",
+   "schwierigkeit": "leicht",
+   "frage": "Wie viel ist 25 × 4?",
+   "richtig": "100",
+   "falsch": [
+    "104",
+    "75",
+    "110"
+   ],
+   "begruendung": "25 × 4 = 100.",
+   "karte": {
+    "titel": "Kopfrechnen",
+    "text": "Tipp: Zerlege die Aufgabe. 25 × 4 = 10 × 4 + 15 × 4.",
+    "merke": "25 × 4 = 100."
+   },
+   "ddf": true
+  },
+  {
+   "id": "log-mal-18-5",
+   "schwierigkeit": "leicht",
+   "frage": "Wie viel ist 18 × 5?",
+   "richtig": "90",
+   "falsch": [
+    "95",
+    "72",
+    "100"
+   ],
+   "begruendung": "18 × 5 = 90.",
+   "karte": {
+    "titel": "Kopfrechnen",
+    "text": "Tipp: Zerlege die Aufgabe. 18 × 5 = 10 × 5 + 8 × 5.",
+    "merke": "18 × 5 = 90."
+   },
+   "ddf": true
+  },
+  {
+   "id": "log-mal-7-7",
+   "schwierigkeit": "leicht",
+   "frage": "Wie viel ist 7 × 7?",
+   "richtig": "49",
+   "falsch": [
+    "56",
+    "42",
+    "59"
+   ],
+   "begruendung": "7 × 7 = 49.",
+   "karte": {
+    "titel": "Kopfrechnen",
+    "text": "Das gehört zum kleinen Einmaleins: 7 × 7 = 49.",
+    "merke": "7 × 7 = 49."
+   },
+   "ddf": true
+  },
+  {
+   "id": "log-pro-10-von-250",
+   "schwierigkeit": "leicht",
+   "frage": "Wie viel sind 10 % von 250?",
+   "richtig": "25",
+   "falsch": [
+    "250",
+    "225",
+    "50"
+   ],
+   "begruendung": "10 % von 250 = 25.",
+   "karte": {
+    "titel": "Prozentrechnung",
+    "text": "Rechne 250 ÷ 100 × 10. Ein Prozent von 250 ist 2,5.",
+    "merke": "10 % von 250 = 25."
+   }
+  },
+  {
+   "id": "log-pro-25-von-80",
+   "schwierigkeit": "leicht",
+   "frage": "Wie viel sind 25 % von 80?",
+   "richtig": "20",
+   "falsch": [
+    "200",
+    "60",
+    "40"
+   ],
+   "begruendung": "25 % von 80 = 20.",
+   "karte": {
+    "titel": "Prozentrechnung",
+    "text": "Rechne 80 ÷ 100 × 25. Ein Prozent von 80 ist 0,8.",
+    "merke": "25 % von 80 = 20."
+   }
+  },
+  {
+   "id": "log-pro-50-von-64",
+   "schwierigkeit": "leicht",
+   "frage": "Wie viel sind 50 % von 64?",
+   "richtig": "32",
+   "falsch": [
+    "320",
+    "64",
+    "37"
+   ],
+   "begruendung": "50 % von 64 = 32.",
+   "karte": {
+    "titel": "Prozentrechnung",
+    "text": "Rechne 64 ÷ 100 × 50. Ein Prozent von 64 ist 0,64.",
+    "merke": "50 % von 64 = 32."
+   }
+  },
+  {
+   "id": "log-pro-20-von-150",
+   "schwierigkeit": "mittel",
+   "frage": "Wie viel sind 20 % von 150?",
+   "richtig": "30",
+   "falsch": [
+    "300",
+    "120",
+    "60"
+   ],
+   "begruendung": "20 % von 150 = 30.",
+   "karte": {
+    "titel": "Prozentrechnung",
+    "text": "Rechne 150 ÷ 100 × 20. Ein Prozent von 150 ist 1,5.",
+    "merke": "20 % von 150 = 30."
+   }
+  },
+  {
+   "id": "log-pro-5-von-300",
+   "schwierigkeit": "mittel",
+   "frage": "Wie viel sind 5 % von 300?",
+   "richtig": "15",
+   "falsch": [
+    "150",
+    "285",
+    "30"
+   ],
+   "begruendung": "5 % von 300 = 15.",
+   "karte": {
+    "titel": "Prozentrechnung",
+    "text": "Rechne 300 ÷ 100 × 5. Ein Prozent von 300 ist 3.",
+    "merke": "5 % von 300 = 15."
+   }
+  },
+  {
+   "id": "log-pro-75-von-40",
+   "schwierigkeit": "mittel",
+   "frage": "Wie viel sind 75 % von 40?",
+   "richtig": "30",
+   "falsch": [
+    "300",
+    "10",
+    "60"
+   ],
+   "begruendung": "75 % von 40 = 30.",
+   "karte": {
+    "titel": "Prozentrechnung",
+    "text": "Rechne 40 ÷ 100 × 75. Ein Prozent von 40 ist 0,4.",
+    "merke": "75 % von 40 = 30."
+   }
+  },
+  {
+   "id": "log-pro-15-von-200",
+   "schwierigkeit": "mittel",
+   "frage": "Wie viel sind 15 % von 200?",
+   "richtig": "30",
+   "falsch": [
+    "300",
+    "170",
+    "60"
+   ],
+   "begruendung": "15 % von 200 = 30.",
+   "karte": {
+    "titel": "Prozentrechnung",
+    "text": "Rechne 200 ÷ 100 × 15. Ein Prozent von 200 ist 2.",
+    "merke": "15 % von 200 = 30."
+   }
+  },
+  {
+   "id": "log-pro-30-von-90",
+   "schwierigkeit": "mittel",
+   "frage": "Wie viel sind 30 % von 90?",
+   "richtig": "27",
+   "falsch": [
+    "270",
+    "63",
+    "54"
+   ],
+   "begruendung": "30 % von 90 = 27.",
+   "karte": {
+    "titel": "Prozentrechnung",
+    "text": "Rechne 90 ÷ 100 × 30. Ein Prozent von 90 ist 0,9.",
+    "merke": "30 % von 90 = 27."
+   }
+  },
+  {
+   "id": "log-pro-12-von-50",
+   "schwierigkeit": "mittel",
+   "frage": "Wie viel sind 12 % von 50?",
+   "richtig": "6",
+   "falsch": [
+    "60",
+    "44",
+    "12"
+   ],
+   "begruendung": "12 % von 50 = 6.",
+   "karte": {
+    "titel": "Prozentrechnung",
+    "text": "Rechne 50 ÷ 100 × 12. Ein Prozent von 50 ist 0,5.",
+    "merke": "12 % von 50 = 6."
+   }
+  },
+  {
+   "id": "log-pro-40-von-35",
+   "schwierigkeit": "mittel",
+   "frage": "Wie viel sind 40 % von 35?",
+   "richtig": "14",
+   "falsch": [
+    "140",
+    "21",
+    "28"
+   ],
+   "begruendung": "40 % von 35 = 14.",
+   "karte": {
+    "titel": "Prozentrechnung",
+    "text": "Rechne 35 ÷ 100 × 40. Ein Prozent von 35 ist 0,35.",
+    "merke": "40 % von 35 = 14."
+   }
+  },
+  {
+   "id": "log-qua-11",
+   "schwierigkeit": "leicht",
+   "frage": "Wie viel ist 11 × 11?",
+   "richtig": "121",
+   "falsch": [
+    "132",
+    "110",
+    "131"
+   ],
+   "begruendung": "11² = 121.",
+   "karte": {
+    "titel": "Quadratzahlen",
+    "text": "11² heißt 11 mal 11. Die Quadratzahlen bis 20² lohnen sich auswendig.",
+    "merke": "11² = 121."
+   }
+  },
+  {
+   "id": "log-qua-12",
+   "schwierigkeit": "leicht",
+   "frage": "Wie viel ist 12 × 12?",
+   "richtig": "144",
+   "falsch": [
+    "156",
+    "132",
+    "154"
+   ],
+   "begruendung": "12² = 144.",
+   "karte": {
+    "titel": "Quadratzahlen",
+    "text": "12² heißt 12 mal 12. Die Quadratzahlen bis 20² lohnen sich auswendig.",
+    "merke": "12² = 144."
+   }
+  },
+  {
+   "id": "log-qua-13",
+   "schwierigkeit": "mittel",
+   "frage": "Wie viel ist 13 × 13?",
+   "richtig": "169",
+   "falsch": [
+    "182",
+    "156",
+    "179"
+   ],
+   "begruendung": "13² = 169.",
+   "karte": {
+    "titel": "Quadratzahlen",
+    "text": "13² heißt 13 mal 13. Die Quadratzahlen bis 20² lohnen sich auswendig.",
+    "merke": "13² = 169."
+   }
+  },
+  {
+   "id": "log-qua-14",
+   "schwierigkeit": "mittel",
+   "frage": "Wie viel ist 14 × 14?",
+   "richtig": "196",
+   "falsch": [
+    "210",
+    "182",
+    "206"
+   ],
+   "begruendung": "14² = 196.",
+   "karte": {
+    "titel": "Quadratzahlen",
+    "text": "14² heißt 14 mal 14. Die Quadratzahlen bis 20² lohnen sich auswendig.",
+    "merke": "14² = 196."
+   }
+  },
+  {
+   "id": "log-qua-15",
+   "schwierigkeit": "mittel",
+   "frage": "Wie viel ist 15 × 15?",
+   "richtig": "225",
+   "falsch": [
+    "240",
+    "210",
+    "235"
+   ],
+   "begruendung": "15² = 225.",
+   "karte": {
+    "titel": "Quadratzahlen",
+    "text": "15² heißt 15 mal 15. Die Quadratzahlen bis 20² lohnen sich auswendig.",
+    "merke": "15² = 225."
+   }
+  },
+  {
+   "id": "log-qua-16",
+   "schwierigkeit": "mittel",
+   "frage": "Wie viel ist 16 × 16?",
+   "richtig": "256",
+   "falsch": [
+    "272",
+    "240",
+    "266"
+   ],
+   "begruendung": "16² = 256.",
+   "karte": {
+    "titel": "Quadratzahlen",
+    "text": "16² heißt 16 mal 16. Die Quadratzahlen bis 20² lohnen sich auswendig.",
+    "merke": "16² = 256."
+   }
+  },
+  {
+   "id": "log-qua-17",
+   "schwierigkeit": "schwer",
+   "frage": "Wie viel ist 17 × 17?",
+   "richtig": "289",
+   "falsch": [
+    "306",
+    "272",
+    "299"
+   ],
+   "begruendung": "17² = 289.",
+   "karte": {
+    "titel": "Quadratzahlen",
+    "text": "17² heißt 17 mal 17. Die Quadratzahlen bis 20² lohnen sich auswendig.",
+    "merke": "17² = 289."
+   }
+  },
+  {
+   "id": "log-qua-18",
+   "schwierigkeit": "schwer",
+   "frage": "Wie viel ist 18 × 18?",
+   "richtig": "324",
+   "falsch": [
+    "342",
+    "306",
+    "334"
+   ],
+   "begruendung": "18² = 324.",
+   "karte": {
+    "titel": "Quadratzahlen",
+    "text": "18² heißt 18 mal 18. Die Quadratzahlen bis 20² lohnen sich auswendig.",
+    "merke": "18² = 324."
+   }
+  },
+  {
+   "id": "log-qua-19",
+   "schwierigkeit": "schwer",
+   "frage": "Wie viel ist 19 × 19?",
+   "richtig": "361",
+   "falsch": [
+    "380",
+    "342",
+    "371"
+   ],
+   "begruendung": "19² = 361.",
+   "karte": {
+    "titel": "Quadratzahlen",
+    "text": "19² heißt 19 mal 19. Die Quadratzahlen bis 20² lohnen sich auswendig.",
+    "merke": "19² = 361."
+   }
+  },
+  {
+   "id": "log-qua-20",
+   "schwierigkeit": "schwer",
+   "frage": "Wie viel ist 20 × 20?",
+   "richtig": "400",
+   "falsch": [
+    "420",
+    "380",
+    "410"
+   ],
+   "begruendung": "20² = 400.",
+   "karte": {
+    "titel": "Quadratzahlen",
+    "text": "20² heißt 20 mal 20. Die Quadratzahlen bis 20² lohnen sich auswendig.",
+    "merke": "20² = 400."
+   }
+  },
+  {
+   "id": "log-qua-25",
+   "schwierigkeit": "schwer",
+   "frage": "Wie viel ist 25 × 25?",
+   "richtig": "625",
+   "falsch": [
+    "650",
+    "600",
+    "635"
+   ],
+   "begruendung": "25² = 625.",
+   "karte": {
+    "titel": "Quadratzahlen",
+    "text": "25² heißt 25 mal 25. Die Quadratzahlen bis 20² lohnen sich auswendig.",
+    "merke": "25² = 625."
+   }
+  },
+  {
+   "id": "log-pri-primzahl-23",
+   "schwierigkeit": "mittel",
+   "frage": "Welche dieser Zahlen ist eine Primzahl?",
+   "richtig": "23",
+   "falsch": [
+    "21",
+    "25",
+    "27"
+   ],
+   "begruendung": "23 ist eine Primzahl: nur durch 1 und sich selbst teilbar.",
+   "karte": {
+    "titel": "Primzahlen",
+    "text": "Eine Primzahl hat genau zwei Teiler: 1 und sich selbst. Prüfe ungerade Zahlen auf Teilbarkeit durch 3, 7, 11 und 13.",
+    "merke": "23 ist eine Primzahl: nur durch 1 und sich selbst teilbar."
+   }
+  },
+  {
+   "id": "log-pri-primzahl-29",
+   "schwierigkeit": "mittel",
+   "frage": "Welche dieser Zahlen ist eine Primzahl?",
+   "richtig": "29",
+   "falsch": [
+    "27",
+    "25",
+    "33"
+   ],
+   "begruendung": "29 ist eine Primzahl: nur durch 1 und sich selbst teilbar.",
+   "karte": {
+    "titel": "Primzahlen",
+    "text": "Eine Primzahl hat genau zwei Teiler: 1 und sich selbst. Prüfe ungerade Zahlen auf Teilbarkeit durch 3, 7, 11 und 13.",
+    "merke": "29 ist eine Primzahl: nur durch 1 und sich selbst teilbar."
+   }
+  },
+  {
+   "id": "log-pri-primzahl-31",
+   "schwierigkeit": "mittel",
+   "frage": "Welche dieser Zahlen ist eine Primzahl?",
+   "richtig": "31",
+   "falsch": [
+    "33",
+    "27",
+    "35"
+   ],
+   "begruendung": "31 ist eine Primzahl: nur durch 1 und sich selbst teilbar.",
+   "karte": {
+    "titel": "Primzahlen",
+    "text": "Eine Primzahl hat genau zwei Teiler: 1 und sich selbst. Prüfe ungerade Zahlen auf Teilbarkeit durch 3, 7, 11 und 13.",
+    "merke": "31 ist eine Primzahl: nur durch 1 und sich selbst teilbar."
+   }
+  },
+  {
+   "id": "log-pri-primzahl-37",
+   "schwierigkeit": "mittel",
+   "frage": "Welche dieser Zahlen ist eine Primzahl?",
+   "richtig": "37",
+   "falsch": [
+    "35",
+    "39",
+    "33"
+   ],
+   "begruendung": "37 ist eine Primzahl: nur durch 1 und sich selbst teilbar.",
+   "karte": {
+    "titel": "Primzahlen",
+    "text": "Eine Primzahl hat genau zwei Teiler: 1 und sich selbst. Prüfe ungerade Zahlen auf Teilbarkeit durch 3, 7, 11 und 13.",
+    "merke": "37 ist eine Primzahl: nur durch 1 und sich selbst teilbar."
+   }
+  },
+  {
+   "id": "log-pri-primzahl-41",
+   "schwierigkeit": "mittel",
+   "frage": "Welche dieser Zahlen ist eine Primzahl?",
+   "richtig": "41",
+   "falsch": [
+    "39",
+    "45",
+    "35"
+   ],
+   "begruendung": "41 ist eine Primzahl: nur durch 1 und sich selbst teilbar.",
+   "karte": {
+    "titel": "Primzahlen",
+    "text": "Eine Primzahl hat genau zwei Teiler: 1 und sich selbst. Prüfe ungerade Zahlen auf Teilbarkeit durch 3, 7, 11 und 13.",
+    "merke": "41 ist eine Primzahl: nur durch 1 und sich selbst teilbar."
+   }
+  },
+  {
+   "id": "log-pri-primzahl-43",
+   "schwierigkeit": "mittel",
+   "frage": "Welche dieser Zahlen ist eine Primzahl?",
+   "richtig": "43",
+   "falsch": [
+    "45",
+    "39",
+    "49"
+   ],
+   "begruendung": "43 ist eine Primzahl: nur durch 1 und sich selbst teilbar.",
+   "karte": {
+    "titel": "Primzahlen",
+    "text": "Eine Primzahl hat genau zwei Teiler: 1 und sich selbst. Prüfe ungerade Zahlen auf Teilbarkeit durch 3, 7, 11 und 13.",
+    "merke": "43 ist eine Primzahl: nur durch 1 und sich selbst teilbar."
+   }
+  },
+  {
+   "id": "log-pri-primzahl-47",
+   "schwierigkeit": "mittel",
+   "frage": "Welche dieser Zahlen ist eine Primzahl?",
+   "richtig": "47",
+   "falsch": [
+    "45",
+    "49",
+    "51"
+   ],
+   "begruendung": "47 ist eine Primzahl: nur durch 1 und sich selbst teilbar.",
+   "karte": {
+    "titel": "Primzahlen",
+    "text": "Eine Primzahl hat genau zwei Teiler: 1 und sich selbst. Prüfe ungerade Zahlen auf Teilbarkeit durch 3, 7, 11 und 13.",
+    "merke": "47 ist eine Primzahl: nur durch 1 und sich selbst teilbar."
+   }
+  },
+  {
+   "id": "log-pri-primzahl-53",
+   "schwierigkeit": "schwer",
+   "frage": "Welche dieser Zahlen ist eine Primzahl?",
+   "richtig": "53",
+   "falsch": [
+    "51",
+    "55",
+    "49"
+   ],
+   "begruendung": "53 ist eine Primzahl: nur durch 1 und sich selbst teilbar.",
+   "karte": {
+    "titel": "Primzahlen",
+    "text": "Eine Primzahl hat genau zwei Teiler: 1 und sich selbst. Prüfe ungerade Zahlen auf Teilbarkeit durch 3, 7, 11 und 13.",
+    "merke": "53 ist eine Primzahl: nur durch 1 und sich selbst teilbar."
+   }
+  },
+  {
+   "id": "log-pri-primzahl-59",
+   "schwierigkeit": "schwer",
+   "frage": "Welche dieser Zahlen ist eine Primzahl?",
+   "richtig": "59",
+   "falsch": [
+    "57",
+    "55",
+    "63"
+   ],
+   "begruendung": "59 ist eine Primzahl: nur durch 1 und sich selbst teilbar.",
+   "karte": {
+    "titel": "Primzahlen",
+    "text": "Eine Primzahl hat genau zwei Teiler: 1 und sich selbst. Prüfe ungerade Zahlen auf Teilbarkeit durch 3, 7, 11 und 13.",
+    "merke": "59 ist eine Primzahl: nur durch 1 und sich selbst teilbar."
+   }
+  },
+  {
+   "id": "log-pri-primzahl-61",
+   "schwierigkeit": "schwer",
+   "frage": "Welche dieser Zahlen ist eine Primzahl?",
+   "richtig": "61",
+   "falsch": [
+    "63",
+    "57",
+    "65"
+   ],
+   "begruendung": "61 ist eine Primzahl: nur durch 1 und sich selbst teilbar.",
+   "karte": {
+    "titel": "Primzahlen",
+    "text": "Eine Primzahl hat genau zwei Teiler: 1 und sich selbst. Prüfe ungerade Zahlen auf Teilbarkeit durch 3, 7, 11 und 13.",
+    "merke": "61 ist eine Primzahl: nur durch 1 und sich selbst teilbar."
+   }
+  },
+  {
+   "id": "log-pri-primzahl-67",
+   "schwierigkeit": "schwer",
+   "frage": "Welche dieser Zahlen ist eine Primzahl?",
+   "richtig": "67",
+   "falsch": [
+    "65",
+    "69",
+    "63"
+   ],
+   "begruendung": "67 ist eine Primzahl: nur durch 1 und sich selbst teilbar.",
+   "karte": {
+    "titel": "Primzahlen",
+    "text": "Eine Primzahl hat genau zwei Teiler: 1 und sich selbst. Prüfe ungerade Zahlen auf Teilbarkeit durch 3, 7, 11 und 13.",
+    "merke": "67 ist eine Primzahl: nur durch 1 und sich selbst teilbar."
+   }
+  },
+  {
+   "id": "log-pri-primzahl-71",
+   "schwierigkeit": "schwer",
+   "frage": "Welche dieser Zahlen ist eine Primzahl?",
+   "richtig": "71",
+   "falsch": [
+    "69",
+    "75",
+    "65"
+   ],
+   "begruendung": "71 ist eine Primzahl: nur durch 1 und sich selbst teilbar.",
+   "karte": {
+    "titel": "Primzahlen",
+    "text": "Eine Primzahl hat genau zwei Teiler: 1 und sich selbst. Prüfe ungerade Zahlen auf Teilbarkeit durch 3, 7, 11 und 13.",
+    "merke": "71 ist eine Primzahl: nur durch 1 und sich selbst teilbar."
+   }
+  },
+  {
+   "id": "log-pri-primzahl-73",
+   "schwierigkeit": "schwer",
+   "frage": "Welche dieser Zahlen ist eine Primzahl?",
+   "richtig": "73",
+   "falsch": [
+    "75",
+    "69",
+    "77"
+   ],
+   "begruendung": "73 ist eine Primzahl: nur durch 1 und sich selbst teilbar.",
+   "karte": {
+    "titel": "Primzahlen",
+    "text": "Eine Primzahl hat genau zwei Teiler: 1 und sich selbst. Prüfe ungerade Zahlen auf Teilbarkeit durch 3, 7, 11 und 13.",
+    "merke": "73 ist eine Primzahl: nur durch 1 und sich selbst teilbar."
+   }
+  },
+  {
+   "id": "log-pri-primzahl-79",
+   "schwierigkeit": "schwer",
+   "frage": "Welche dieser Zahlen ist eine Primzahl?",
+   "richtig": "79",
+   "falsch": [
+    "77",
+    "81",
+    "75"
+   ],
+   "begruendung": "79 ist eine Primzahl: nur durch 1 und sich selbst teilbar.",
+   "karte": {
+    "titel": "Primzahlen",
+    "text": "Eine Primzahl hat genau zwei Teiler: 1 und sich selbst. Prüfe ungerade Zahlen auf Teilbarkeit durch 3, 7, 11 und 13.",
+    "merke": "79 ist eine Primzahl: nur durch 1 und sich selbst teilbar."
+   }
+  },
+  {
+   "id": "log-pri-primzahl-83",
+   "schwierigkeit": "schwer",
+   "frage": "Welche dieser Zahlen ist eine Primzahl?",
+   "richtig": "83",
+   "falsch": [
+    "81",
+    "85",
+    "87"
+   ],
+   "begruendung": "83 ist eine Primzahl: nur durch 1 und sich selbst teilbar.",
+   "karte": {
+    "titel": "Primzahlen",
+    "text": "Eine Primzahl hat genau zwei Teiler: 1 und sich selbst. Prüfe ungerade Zahlen auf Teilbarkeit durch 3, 7, 11 und 13.",
+    "merke": "83 ist eine Primzahl: nur durch 1 und sich selbst teilbar."
+   }
+  },
+  {
+   "id": "log-pri-primzahl-89",
+   "schwierigkeit": "schwer",
+   "frage": "Welche dieser Zahlen ist eine Primzahl?",
+   "richtig": "89",
+   "falsch": [
+    "87",
+    "91",
+    "85"
+   ],
+   "begruendung": "89 ist eine Primzahl: nur durch 1 und sich selbst teilbar.",
+   "karte": {
+    "titel": "Primzahlen",
+    "text": "Eine Primzahl hat genau zwei Teiler: 1 und sich selbst. Prüfe ungerade Zahlen auf Teilbarkeit durch 3, 7, 11 und 13.",
+    "merke": "89 ist eine Primzahl: nur durch 1 und sich selbst teilbar."
+   }
+  },
+  {
+   "id": "log-pri-primzahl-97",
+   "schwierigkeit": "schwer",
+   "frage": "Welche dieser Zahlen ist eine Primzahl?",
+   "richtig": "97",
+   "falsch": [
+    "95",
+    "99",
+    "93"
+   ],
+   "begruendung": "97 ist eine Primzahl: nur durch 1 und sich selbst teilbar.",
+   "karte": {
+    "titel": "Primzahlen",
+    "text": "Eine Primzahl hat genau zwei Teiler: 1 und sich selbst. Prüfe ungerade Zahlen auf Teilbarkeit durch 3, 7, 11 und 13.",
+    "merke": "97 ist eine Primzahl: nur durch 1 und sich selbst teilbar."
+   }
+  },
+  {
+   "id": "log-fol-2-4-8-16",
+   "schwierigkeit": "leicht",
+   "frage": "Welche Zahl setzt die Folge fort: 2, 4, 8, 16, …",
+   "richtig": "32",
+   "falsch": [
+    "36",
+    "27",
+    "30"
+   ],
+   "begruendung": "Jede Zahl ist doppelt so groß wie die vorige.",
+   "karte": {
+    "titel": "Zahlenfolgen",
+    "text": "2, 4, 8, 16, 32. Jede Zahl ist doppelt so groß wie die vorige.",
+    "merke": "2, 4, 8, 16, 32. Jede Zahl ist doppelt so groß wie die vorige."
+   },
+   "ddf": true
+  },
+  {
+   "id": "log-fol-3-6-9-12",
+   "schwierigkeit": "leicht",
+   "frage": "Welche Zahl setzt die Folge fort: 3, 6, 9, 12, …",
+   "richtig": "15",
+   "falsch": [
+    "14",
+    "16",
+    "19"
+   ],
+   "begruendung": "Es kommt jedes Mal 3 dazu.",
+   "karte": {
+    "titel": "Zahlenfolgen",
+    "text": "3, 6, 9, 12, 15. Es kommt jedes Mal 3 dazu.",
+    "merke": "3, 6, 9, 12, 15. Es kommt jedes Mal 3 dazu."
+   },
+   "ddf": true
+  },
+  {
+   "id": "log-fol-1-1-2-3-5-8",
+   "schwierigkeit": "leicht",
+   "frage": "Welche Zahl setzt die Folge fort: 1, 1, 2, 3, 5, 8, …",
+   "richtig": "13",
+   "falsch": [
+    "9",
+    "8",
+    "11"
+   ],
+   "begruendung": "Jede Zahl ist die Summe der beiden vorigen (Fibonacci-Folge).",
+   "karte": {
+    "titel": "Zahlenfolgen",
+    "text": "1, 1, 2, 3, 5, 8, 13. Jede Zahl ist die Summe der beiden vorigen (Fibonacci-Folge).",
+    "merke": "1, 1, 2, 3, 5, 8, 13. Jede Zahl ist die Summe der beiden vorigen (Fibonacci-Folge)."
+   },
+   "ddf": true
+  },
+  {
+   "id": "log-fol-1-4-9-16-25",
+   "schwierigkeit": "mittel",
+   "frage": "Welche Zahl setzt die Folge fort: 1, 4, 9, 16, 25, …",
+   "richtig": "36",
+   "falsch": [
+    "37",
+    "30",
+    "33"
+   ],
+   "begruendung": "Das sind die Quadratzahlen: 1², 2², 3² und so weiter.",
+   "karte": {
+    "titel": "Zahlenfolgen",
+    "text": "1, 4, 9, 16, 25, 36. Das sind die Quadratzahlen: 1², 2², 3² und so weiter.",
+    "merke": "1, 4, 9, 16, 25, 36. Das sind die Quadratzahlen: 1², 2², 3² und so weiter."
+   }
+  },
+  {
+   "id": "log-fol-100-90-81-73",
+   "schwierigkeit": "mittel",
+   "frage": "Welche Zahl setzt die Folge fort: 100, 90, 81, 73, …",
+   "richtig": "66",
+   "falsch": [
+    "61",
+    "63",
+    "71"
+   ],
+   "begruendung": "Abgezogen werden 10, 9, 8, also als Nächstes 7.",
+   "karte": {
+    "titel": "Zahlenfolgen",
+    "text": "100, 90, 81, 73, 66. Abgezogen werden 10, 9, 8, also als Nächstes 7.",
+    "merke": "100, 90, 81, 73, 66. Abgezogen werden 10, 9, 8, also als Nächstes 7."
+   }
+  },
+  {
+   "id": "log-fol-2-3-5-7-11",
+   "schwierigkeit": "mittel",
+   "frage": "Welche Zahl setzt die Folge fort: 2, 3, 5, 7, 11, …",
+   "richtig": "13",
+   "falsch": [
+    "10",
+    "18",
+    "8"
+   ],
+   "begruendung": "Das sind die Primzahlen.",
+   "karte": {
+    "titel": "Zahlenfolgen",
+    "text": "2, 3, 5, 7, 11, 13. Das sind die Primzahlen.",
+    "merke": "2, 3, 5, 7, 11, 13. Das sind die Primzahlen."
+   }
+  },
+  {
+   "id": "log-fol-1-3-6-10-15",
+   "schwierigkeit": "mittel",
+   "frage": "Welche Zahl setzt die Folge fort: 1, 3, 6, 10, 15, …",
+   "richtig": "21",
+   "falsch": [
+    "18",
+    "19",
+    "15"
+   ],
+   "begruendung": "Es kommen nacheinander 2, 3, 4, 5 und dann 6 dazu.",
+   "karte": {
+    "titel": "Zahlenfolgen",
+    "text": "1, 3, 6, 10, 15, 21. Es kommen nacheinander 2, 3, 4, 5 und dann 6 dazu.",
+    "merke": "1, 3, 6, 10, 15, 21. Es kommen nacheinander 2, 3, 4, 5 und dann 6 dazu."
+   }
+  },
+  {
+   "id": "log-fol-5-10-20-40",
+   "schwierigkeit": "leicht",
+   "frage": "Welche Zahl setzt die Folge fort: 5, 10, 20, 40, …",
+   "richtig": "80",
+   "falsch": [
+    "75",
+    "86",
+    "83"
+   ],
+   "begruendung": "Jede Zahl wird verdoppelt.",
+   "karte": {
+    "titel": "Zahlenfolgen",
+    "text": "5, 10, 20, 40, 80. Jede Zahl wird verdoppelt.",
+    "merke": "5, 10, 20, 40, 80. Jede Zahl wird verdoppelt."
+   },
+   "ddf": true
+  },
+  {
+   "id": "log-fol-81-27-9-3",
+   "schwierigkeit": "mittel",
+   "frage": "Welche Zahl setzt die Folge fort: 81, 27, 9, 3, …",
+   "richtig": "1",
+   "falsch": [
+    "0",
+    "6",
+    "5"
+   ],
+   "begruendung": "Jede Zahl wird durch 3 geteilt.",
+   "karte": {
+    "titel": "Zahlenfolgen",
+    "text": "81, 27, 9, 3, 1. Jede Zahl wird durch 3 geteilt.",
+    "merke": "81, 27, 9, 3, 1. Jede Zahl wird durch 3 geteilt."
+   }
+  },
+  {
+   "id": "log-fol-1-2-6-24-120",
+   "schwierigkeit": "schwer",
+   "frage": "Welche Zahl setzt die Folge fort: 1, 2, 6, 24, 120, …",
+   "richtig": "720",
+   "falsch": [
+    "726",
+    "723",
+    "718"
+   ],
+   "begruendung": "Multipliziert wird mit 2, 3, 4, 5 und dann 6 (Fakultät).",
+   "karte": {
+    "titel": "Zahlenfolgen",
+    "text": "1, 2, 6, 24, 120, 720. Multipliziert wird mit 2, 3, 4, 5 und dann 6 (Fakultät).",
+    "merke": "1, 2, 6, 24, 120, 720. Multipliziert wird mit 2, 3, 4, 5 und dann 6 (Fakultät)."
+   }
+  },
+  {
+   "id": "log-fol-7-14-21-28",
+   "schwierigkeit": "leicht",
+   "frage": "Welche Zahl setzt die Folge fort: 7, 14, 21, 28, …",
+   "richtig": "35",
+   "falsch": [
+    "36",
+    "31",
+    "30"
+   ],
+   "begruendung": "Das ist die Siebenerreihe.",
+   "karte": {
+    "titel": "Zahlenfolgen",
+    "text": "7, 14, 21, 28, 35. Das ist die Siebenerreihe.",
+    "merke": "7, 14, 21, 28, 35. Das ist die Siebenerreihe."
+   },
+   "ddf": true
+  },
+  {
+   "id": "log-fol-1-8-27-64",
+   "schwierigkeit": "schwer",
+   "frage": "Welche Zahl setzt die Folge fort: 1, 8, 27, 64, …",
+   "richtig": "125",
+   "falsch": [
+    "120",
+    "124",
+    "131"
+   ],
+   "begruendung": "Das sind die Kubikzahlen: 1³, 2³, 3³, 4³, 5³.",
+   "karte": {
+    "titel": "Zahlenfolgen",
+    "text": "1, 8, 27, 64, 125. Das sind die Kubikzahlen: 1³, 2³, 3³, 4³, 5³.",
+    "merke": "1, 8, 27, 64, 125. Das sind die Kubikzahlen: 1³, 2³, 3³, 4³, 5³."
+   }
+  },
+  {
+   "id": "log-rom-iv",
+   "schwierigkeit": "leicht",
+   "frage": "Welche Zahl ist die römische Zahl IV?",
+   "richtig": "4",
+   "falsch": [
+    "14",
+    "3",
+    "5"
+   ],
+   "begruendung": "IV = 4.",
+   "karte": {
+    "titel": "Römische Zahlen",
+    "text": "I = 1, V = 5, X = 10, L = 50, C = 100, D = 500, M = 1000. Steht ein kleineres Zeichen vor einem größeren, wird es abgezogen: IV = 4.",
+    "merke": "IV = 4."
+   }
+  },
+  {
+   "id": "log-rom-ix",
+   "schwierigkeit": "leicht",
+   "frage": "Welche Zahl ist die römische Zahl IX?",
+   "richtig": "9",
+   "falsch": [
+    "19",
+    "8",
+    "10"
+   ],
+   "begruendung": "IX = 9.",
+   "karte": {
+    "titel": "Römische Zahlen",
+    "text": "I = 1, V = 5, X = 10, L = 50, C = 100, D = 500, M = 1000. Steht ein kleineres Zeichen vor einem größeren, wird es abgezogen: IV = 4.",
+    "merke": "IX = 9."
+   }
+  },
+  {
+   "id": "log-rom-xiv",
+   "schwierigkeit": "leicht",
+   "frage": "Welche Zahl ist die römische Zahl XIV?",
+   "richtig": "14",
+   "falsch": [
+    "24",
+    "13",
+    "15"
+   ],
+   "begruendung": "XIV = 14.",
+   "karte": {
+    "titel": "Römische Zahlen",
+    "text": "I = 1, V = 5, X = 10, L = 50, C = 100, D = 500, M = 1000. Steht ein kleineres Zeichen vor einem größeren, wird es abgezogen: IV = 4.",
+    "merke": "XIV = 14."
+   }
+  },
+  {
+   "id": "log-rom-xix",
+   "schwierigkeit": "leicht",
+   "frage": "Welche Zahl ist die römische Zahl XIX?",
+   "richtig": "19",
+   "falsch": [
+    "29",
+    "18",
+    "20"
+   ],
+   "begruendung": "XIX = 19.",
+   "karte": {
+    "titel": "Römische Zahlen",
+    "text": "I = 1, V = 5, X = 10, L = 50, C = 100, D = 500, M = 1000. Steht ein kleineres Zeichen vor einem größeren, wird es abgezogen: IV = 4.",
+    "merke": "XIX = 19."
+   }
+  },
+  {
+   "id": "log-rom-xl",
+   "schwierigkeit": "leicht",
+   "frage": "Welche Zahl ist die römische Zahl XL?",
+   "richtig": "40",
+   "falsch": [
+    "50",
+    "39",
+    "41"
+   ],
+   "begruendung": "XL = 40.",
+   "karte": {
+    "titel": "Römische Zahlen",
+    "text": "I = 1, V = 5, X = 10, L = 50, C = 100, D = 500, M = 1000. Steht ein kleineres Zeichen vor einem größeren, wird es abgezogen: IV = 4.",
+    "merke": "XL = 40."
+   }
+  },
+  {
+   "id": "log-rom-xlix",
+   "schwierigkeit": "leicht",
+   "frage": "Welche Zahl ist die römische Zahl XLIX?",
+   "richtig": "49",
+   "falsch": [
+    "59",
+    "48",
+    "50"
+   ],
+   "begruendung": "XLIX = 49.",
+   "karte": {
+    "titel": "Römische Zahlen",
+    "text": "I = 1, V = 5, X = 10, L = 50, C = 100, D = 500, M = 1000. Steht ein kleineres Zeichen vor einem größeren, wird es abgezogen: IV = 4.",
+    "merke": "XLIX = 49."
+   }
+  },
+  {
+   "id": "log-rom-xc",
+   "schwierigkeit": "mittel",
+   "frage": "Welche Zahl ist die römische Zahl XC?",
+   "richtig": "90",
+   "falsch": [
+    "100",
+    "89",
+    "91"
+   ],
+   "begruendung": "XC = 90.",
+   "karte": {
+    "titel": "Römische Zahlen",
+    "text": "I = 1, V = 5, X = 10, L = 50, C = 100, D = 500, M = 1000. Steht ein kleineres Zeichen vor einem größeren, wird es abgezogen: IV = 4.",
+    "merke": "XC = 90."
+   }
+  },
+  {
+   "id": "log-rom-xcix",
+   "schwierigkeit": "mittel",
+   "frage": "Welche Zahl ist die römische Zahl XCIX?",
+   "richtig": "99",
+   "falsch": [
+    "109",
+    "98",
+    "100"
+   ],
+   "begruendung": "XCIX = 99.",
+   "karte": {
+    "titel": "Römische Zahlen",
+    "text": "I = 1, V = 5, X = 10, L = 50, C = 100, D = 500, M = 1000. Steht ein kleineres Zeichen vor einem größeren, wird es abgezogen: IV = 4.",
+    "merke": "XCIX = 99."
+   }
+  },
+  {
+   "id": "log-rom-cdxliv",
+   "schwierigkeit": "mittel",
+   "frage": "Welche Zahl ist die römische Zahl CDXLIV?",
+   "richtig": "444",
+   "falsch": [
+    "454",
+    "443",
+    "445"
+   ],
+   "begruendung": "CDXLIV = 444.",
+   "karte": {
+    "titel": "Römische Zahlen",
+    "text": "I = 1, V = 5, X = 10, L = 50, C = 100, D = 500, M = 1000. Steht ein kleineres Zeichen vor einem größeren, wird es abgezogen: IV = 4.",
+    "merke": "CDXLIV = 444."
+   }
+  },
+  {
+   "id": "log-rom-mcmxc",
+   "schwierigkeit": "schwer",
+   "frage": "Welche Zahl ist die römische Zahl MCMXC?",
+   "richtig": "1990",
+   "falsch": [
+    "2000",
+    "1989",
+    "1991"
+   ],
+   "begruendung": "MCMXC = 1990.",
+   "karte": {
+    "titel": "Römische Zahlen",
+    "text": "I = 1, V = 5, X = 10, L = 50, C = 100, D = 500, M = 1000. Steht ein kleineres Zeichen vor einem größeren, wird es abgezogen: IV = 4.",
+    "merke": "MCMXC = 1990."
+   }
+  },
+  {
+   "id": "log-rom-mmxxvi",
+   "schwierigkeit": "schwer",
+   "frage": "Welche Zahl ist die römische Zahl MMXXVI?",
+   "richtig": "2026",
+   "falsch": [
+    "2036",
+    "2025",
+    "2027"
+   ],
+   "begruendung": "MMXXVI = 2026.",
+   "karte": {
+    "titel": "Römische Zahlen",
+    "text": "I = 1, V = 5, X = 10, L = 50, C = 100, D = 500, M = 1000. Steht ein kleineres Zeichen vor einem größeren, wird es abgezogen: IV = 4.",
+    "merke": "MMXXVI = 2026."
+   }
+  },
+  {
+   "id": "log-rom-mcdxcii",
+   "schwierigkeit": "schwer",
+   "frage": "Welche Zahl ist die römische Zahl MCDXCII?",
+   "richtig": "1492",
+   "falsch": [
+    "1502",
+    "1491",
+    "1493"
+   ],
+   "begruendung": "MCDXCII = 1492.",
+   "karte": {
+    "titel": "Römische Zahlen",
+    "text": "I = 1, V = 5, X = 10, L = 50, C = 100, D = 500, M = 1000. Steht ein kleineres Zeichen vor einem größeren, wird es abgezogen: IV = 4.",
+    "merke": "MCDXCII = 1492."
+   }
+  },
+  {
+   "id": "log-rom-mdccclxxi",
+   "schwierigkeit": "schwer",
+   "frage": "Welche Zahl ist die römische Zahl MDCCCLXXI?",
+   "richtig": "1871",
+   "falsch": [
+    "1881",
+    "1870",
+    "1872"
+   ],
+   "begruendung": "MDCCCLXXI = 1871.",
+   "karte": {
+    "titel": "Römische Zahlen",
+    "text": "I = 1, V = 5, X = 10, L = 50, C = 100, D = 500, M = 1000. Steht ein kleineres Zeichen vor einem größeren, wird es abgezogen: IV = 4.",
+    "merke": "MDCCCLXXI = 1871."
+   }
+  },
+  {
+   "id": "log-rom-mdcxlviii",
+   "schwierigkeit": "schwer",
+   "frage": "Welche Zahl ist die römische Zahl MDCXLVIII?",
+   "richtig": "1648",
+   "falsch": [
+    "1658",
+    "1647",
+    "1649"
+   ],
+   "begruendung": "MDCXLVIII = 1648.",
+   "karte": {
+    "titel": "Römische Zahlen",
+    "text": "I = 1, V = 5, X = 10, L = 50, C = 100, D = 500, M = 1000. Steht ein kleineres Zeichen vor einem größeren, wird es abgezogen: IV = 4.",
+    "merke": "MDCXLVIII = 1648."
+   }
+  },
+  {
+   "id": "log-rom-mmmcmxcix",
+   "schwierigkeit": "schwer",
+   "frage": "Welche Zahl ist die römische Zahl MMMCMXCIX?",
+   "richtig": "3999",
+   "falsch": [
+    "4009",
+    "3998",
+    "4000"
+   ],
+   "begruendung": "MMMCMXCIX = 3999.",
+   "karte": {
+    "titel": "Römische Zahlen",
+    "text": "I = 1, V = 5, X = 10, L = 50, C = 100, D = 500, M = 1000. Steht ein kleineres Zeichen vor einem größeren, wird es abgezogen: IV = 4.",
+    "merke": "MMMCMXCIX = 3999."
+   }
+  },
+  {
+   "id": "log-rom-m",
+   "schwierigkeit": "schwer",
+   "frage": "Welche Zahl ist die römische Zahl M?",
+   "richtig": "1000",
+   "falsch": [
+    "1010",
+    "999",
+    "1001"
+   ],
+   "begruendung": "M = 1000.",
+   "karte": {
+    "titel": "Römische Zahlen",
+    "text": "I = 1, V = 5, X = 10, L = 50, C = 100, D = 500, M = 1000. Steht ein kleineres Zeichen vor einem größeren, wird es abgezogen: IV = 4.",
+    "merke": "M = 1000."
+   }
+  },
+  {
+   "id": "log-rom-d",
+   "schwierigkeit": "mittel",
+   "frage": "Welche Zahl ist die römische Zahl D?",
+   "richtig": "500",
+   "falsch": [
+    "510",
+    "499",
+    "501"
+   ],
+   "begruendung": "D = 500.",
+   "karte": {
+    "titel": "Römische Zahlen",
+    "text": "I = 1, V = 5, X = 10, L = 50, C = 100, D = 500, M = 1000. Steht ein kleineres Zeichen vor einem größeren, wird es abgezogen: IV = 4.",
+    "merke": "D = 500."
+   }
+  },
+  {
+   "id": "log-ein-1-kilometer-in-meter",
+   "schwierigkeit": "leicht",
+   "frage": "Rechne um: 1 Kilometer in Meter.",
+   "richtig": "1.000 m",
+   "falsch": [
+    "10.000 m",
+    "100 m",
+    "100.000 m"
+   ],
+   "begruendung": "1 Kilometer = 1.000 m.",
+   "karte": {
+    "titel": "Einheiten",
+    "text": "1 Kilometer = 1.000 m.",
+    "merke": "1 Kilometer = 1.000 m."
+   },
+   "ddf": true
+  },
+  {
+   "id": "log-ein-1-liter-in-milliliter",
+   "schwierigkeit": "leicht",
+   "frage": "Rechne um: 1 Liter in Milliliter.",
+   "richtig": "1.000 ml",
+   "falsch": [
+    "10.000 ml",
+    "100 ml",
+    "100.000 ml"
+   ],
+   "begruendung": "1 Liter = 1.000 ml.",
+   "karte": {
+    "titel": "Einheiten",
+    "text": "1 Liter = 1.000 ml.",
+    "merke": "1 Liter = 1.000 ml."
+   },
+   "ddf": true
+  },
+  {
+   "id": "log-ein-1-stunde-in-sekunden",
+   "schwierigkeit": "leicht",
+   "frage": "Rechne um: 1 Stunde in Sekunden.",
+   "richtig": "3.600 s",
+   "falsch": [
+    "36.000 s",
+    "360 s",
+    "360.000 s"
+   ],
+   "begruendung": "1 Stunde = 3.600 s.",
+   "karte": {
+    "titel": "Einheiten",
+    "text": "1 Stunde = 3.600 s.",
+    "merke": "1 Stunde = 3.600 s."
+   },
+   "ddf": true
+  },
+  {
+   "id": "log-ein-1-tag-in-minuten",
+   "schwierigkeit": "mittel",
+   "frage": "Rechne um: 1 Tag in Minuten.",
+   "richtig": "1.440 min",
+   "falsch": [
+    "14.400 min",
+    "144 min",
+    "144.000 min"
+   ],
+   "begruendung": "1 Tag = 1.440 min.",
+   "karte": {
+    "titel": "Einheiten",
+    "text": "1 Tag = 1.440 min.",
+    "merke": "1 Tag = 1.440 min."
+   }
+  },
+  {
+   "id": "log-ein-1-quadratmeter-in-quadratzentimeter",
+   "schwierigkeit": "mittel",
+   "frage": "Rechne um: 1 Quadratmeter in Quadratzentimeter.",
+   "richtig": "10.000 cm²",
+   "falsch": [
+    "100.000 cm²",
+    "1.000 cm²",
+    "1.000.000 cm²"
+   ],
+   "begruendung": "1 Quadratmeter = 10.000 cm².",
+   "karte": {
+    "titel": "Einheiten",
+    "text": "1 Quadratmeter = 10.000 cm².",
+    "merke": "1 Quadratmeter = 10.000 cm²."
+   }
+  },
+  {
+   "id": "log-ein-1-tonne-in-kilogramm",
+   "schwierigkeit": "leicht",
+   "frage": "Rechne um: 1 Tonne in Kilogramm.",
+   "richtig": "1.000 kg",
+   "falsch": [
+    "10.000 kg",
+    "100 kg",
+    "100.000 kg"
+   ],
+   "begruendung": "1 Tonne = 1.000 kg.",
+   "karte": {
+    "titel": "Einheiten",
+    "text": "1 Tonne = 1.000 kg.",
+    "merke": "1 Tonne = 1.000 kg."
+   },
+   "ddf": true
+  },
+  {
+   "id": "log-ein-1-hektar-in-quadratmeter",
+   "schwierigkeit": "schwer",
+   "frage": "Rechne um: 1 Hektar in Quadratmeter.",
+   "richtig": "10.000 m²",
+   "falsch": [
+    "100.000 m²",
+    "1.000 m²",
+    "1.000.000 m²"
+   ],
+   "begruendung": "1 Hektar = 10.000 m².",
+   "karte": {
+    "titel": "Einheiten",
+    "text": "1 Hektar = 10.000 m².",
+    "merke": "1 Hektar = 10.000 m²."
+   }
+  },
+  {
+   "id": "log-ein-1-kubikmeter-in-liter",
+   "schwierigkeit": "mittel",
+   "frage": "Rechne um: 1 Kubikmeter in Liter.",
+   "richtig": "1.000 l",
+   "falsch": [
+    "10.000 l",
+    "100 l",
+    "100.000 l"
+   ],
+   "begruendung": "1 Kubikmeter = 1.000 l.",
+   "karte": {
+    "titel": "Einheiten",
+    "text": "1 Kubikmeter = 1.000 l.",
+    "merke": "1 Kubikmeter = 1.000 l."
+   }
+  },
+  {
+   "id": "log-ein-1-woche-in-stunden",
+   "schwierigkeit": "mittel",
+   "frage": "Rechne um: 1 Woche in Stunden.",
+   "richtig": "168 h",
+   "falsch": [
+    "1.680 h",
+    "16,8 h",
+    "16.800 h"
+   ],
+   "begruendung": "1 Woche = 168 h.",
+   "karte": {
+    "titel": "Einheiten",
+    "text": "1 Woche = 168 h.",
+    "merke": "1 Woche = 168 h."
+   }
+  },
+  {
+   "id": "log-ein-2-5-kilogramm-in-gramm",
+   "schwierigkeit": "leicht",
+   "frage": "Rechne um: 2,5 Kilogramm in Gramm.",
+   "richtig": "2.500 g",
+   "falsch": [
+    "25.000 g",
+    "250 g",
+    "250.000 g"
+   ],
+   "begruendung": "2,5 Kilogramm = 2.500 g.",
+   "karte": {
+    "titel": "Einheiten",
+    "text": "2,5 Kilogramm = 2.500 g.",
+    "merke": "2,5 Kilogramm = 2.500 g."
+   },
+   "ddf": true
+  },
+  {
+   "id": "log-ein-1-jahr-kein-schaltjahr-in-tagen",
+   "schwierigkeit": "leicht",
+   "frage": "Rechne um: 1 Jahr (kein Schaltjahr) in Tagen.",
+   "richtig": "365 Tage",
+   "falsch": [
+    "3.650 Tage",
+    "36,5 Tage",
+    "36.500 Tage"
+   ],
+   "begruendung": "1 Jahr (kein Schaltjahr) = 365 Tage.",
+   "karte": {
+    "titel": "Einheiten",
+    "text": "1 Jahr (kein Schaltjahr) = 365 Tage.",
+    "merke": "1 Jahr (kein Schaltjahr) = 365 Tage."
+   },
+   "ddf": true
+  },
+  {
+   "id": "log-ein-90-minuten-in-stunden",
+   "schwierigkeit": "leicht",
+   "frage": "Rechne um: 90 Minuten in Stunden.",
+   "richtig": "1,5 h",
+   "falsch": [
+    "15 h",
+    "0,15 h",
+    "150 h"
+   ],
+   "begruendung": "90 Minuten = 1,5 h.",
+   "karte": {
+    "titel": "Einheiten",
+    "text": "90 Minuten = 1,5 h.",
+    "merke": "90 Minuten = 1,5 h."
+   },
+   "ddf": true
+  }
+ ]
+}

@@ -1,0 +1,405 @@
+{
+  "klasse": "logik",
+  "fragen": [
+    {
+      "id": "log-001",
+      "schwierigkeit": "mittel",
+      "ddf": true,
+      "frage": "Ein Schläger und ein Ball kosten zusammen 1,10 €. Der Schläger kostet 1 € mehr als der Ball. Was kostet der Ball?",
+      "richtig": "5 Cent",
+      "falsch": [
+        "10 Cent",
+        "1 Cent",
+        "15 Cent"
+      ],
+      "alias": [
+        "0,05",
+        "5"
+      ],
+      "begruendung": "Ball 0,05 € plus Schläger 1,05 € ergibt 1,10 €. Bei 10 Cent würde der Schläger 1,10 € kosten, zusammen 1,20 €.",
+      "karte": {
+        "titel": "Schläger und Ball",
+        "text": "Die meisten Menschen sagen spontan 10 Cent. Der Psychologe Daniel Kahneman nutzte die Aufgabe, um schnelles und langsames Denken zu zeigen.",
+        "merke": "Erst nachrechnen: Ball 5 Cent, Schläger 1,05 €."
+      }
+    },
+    {
+      "id": "log-002",
+      "schwierigkeit": "mittel",
+      "frage": "Fünf Maschinen brauchen fünf Minuten für fünf Teile. Wie lange brauchen 100 Maschinen für 100 Teile?",
+      "richtig": "5 Minuten",
+      "falsch": [
+        "100 Minuten",
+        "20 Minuten",
+        "1 Minute"
+      ],
+      "alias": [
+        "5"
+      ],
+      "begruendung": "Jede Maschine braucht fünf Minuten für ein Teil. 100 Maschinen schaffen 100 Teile also ebenfalls in fünf Minuten.",
+      "karte": {
+        "titel": "Maschinen-Rätsel",
+        "text": "Der Trick: Die Zeit pro Maschine bleibt gleich, egal wie viele Maschinen parallel arbeiten.",
+        "merke": "Parallel arbeiten: gleiche Zeit pro Teil."
+      }
+    },
+    {
+      "id": "log-003",
+      "schwierigkeit": "schwer",
+      "frage": "Seerosen auf einem Teich verdoppeln täglich ihre Fläche. Nach 48 Tagen ist der Teich voll. Wann war er halb voll?",
+      "richtig": "Nach 47 Tagen",
+      "falsch": [
+        "Nach 24 Tagen",
+        "Nach 36 Tagen",
+        "Nach 46 Tagen"
+      ],
+      "alias": [
+        "47"
+      ],
+      "begruendung": "Wenn sich die Fläche täglich verdoppelt, war der Teich einen Tag vor dem vollen Teich halb voll.",
+      "karte": {
+        "titel": "Exponentielles Wachstum",
+        "text": "Verdopplung wirkt lange harmlos und wird dann sehr schnell riesig.",
+        "merke": "Verdopplung: einen Tag vorher war es die Hälfte."
+      }
+    },
+    {
+      "id": "log-004",
+      "schwierigkeit": "leicht",
+      "ddf": true,
+      "frage": "Wie viele Monate haben 28 Tage?",
+      "richtig": "Alle 12",
+      "falsch": [
+        "Nur einer",
+        "Zwei",
+        "Keiner"
+      ],
+      "alias": [
+        "12",
+        "alle"
+      ],
+      "begruendung": "Jeder Monat hat mindestens 28 Tage. Nur der Februar hat genau 28 oder 29.",
+      "karte": {
+        "titel": "Fangfrage Monate",
+        "text": "Lies genau: Gefragt ist, welche Monate 28 Tage haben, nicht genau 28.",
+        "merke": "Alle Monate haben (mindestens) 28 Tage."
+      }
+    },
+    {
+      "id": "log-005",
+      "schwierigkeit": "mittel",
+      "ddf": true,
+      "frage": "Was ist der kleinste gemeinsame Nenner von 6 und 8?",
+      "richtig": "24",
+      "falsch": [
+        "2",
+        "48",
+        "14"
+      ],
+      "begruendung": "24 ist die kleinste Zahl, die durch 6 und durch 8 teilbar ist. 2 wäre der größte gemeinsame Teiler.",
+      "karte": {
+        "titel": "kgV und ggT",
+        "text": "Den Hauptnenner brauchst du, um Brüche zu addieren: 1/6 + 1/8 = 4/24 + 3/24 = 7/24.",
+        "merke": "kgV(6, 8) = 24, ggT(6, 8) = 2."
+      }
+    },
+    {
+      "id": "log-006",
+      "schwierigkeit": "mittel",
+      "ddf": true,
+      "frage": "Wie viele Nachkommastellen hat die Zahl Pi?",
+      "richtig": "Unendlich viele",
+      "falsch": [
+        "14",
+        "100",
+        "Genau eine Million"
+      ],
+      "begruendung": "Pi ist eine irrationale Zahl. Ihre Nachkommastellen enden nie und wiederholen sich nicht.",
+      "karte": {
+        "titel": "Pi",
+        "text": "Pi beginnt mit 3,14159. Computer haben inzwischen über 100 Billionen Stellen berechnet.",
+        "merke": "Pi ≈ 3,14159…, unendlich viele Stellen."
+      }
+    },
+    {
+      "id": "log-007",
+      "schwierigkeit": "leicht",
+      "ddf": true,
+      "frage": "Wie viele Seiten hat ein Würfel?",
+      "richtig": "6",
+      "falsch": [
+        "4",
+        "8",
+        "12"
+      ],
+      "alias": [
+        "sechs"
+      ],
+      "begruendung": "Ein Würfel hat 6 Flächen, 12 Kanten und 8 Ecken.",
+      "karte": {
+        "titel": "Würfel",
+        "text": "Die Augenzahlen gegenüberliegender Seiten eines Spielwürfels ergeben zusammen immer 7.",
+        "merke": "Würfel: 6 Flächen, 12 Kanten, 8 Ecken."
+      }
+    },
+    {
+      "id": "log-008",
+      "schwierigkeit": "mittel",
+      "frage": "Wie viele Ecken hat ein Oktagon?",
+      "richtig": "8",
+      "falsch": [
+        "6",
+        "10",
+        "12"
+      ],
+      "alias": [
+        "acht"
+      ],
+      "begruendung": "„Okto“ heißt acht. Ein Oktagon ist ein Achteck, wie ein Stoppschild.",
+      "karte": {
+        "titel": "Vielecke",
+        "text": "Pentagon 5, Hexagon 6, Oktagon 8, Dekagon 10.",
+        "merke": "Oktagon = Achteck = Stoppschild."
+      }
+    },
+    {
+      "id": "log-009",
+      "schwierigkeit": "schwer",
+      "frage": "Eine Schnecke klettert tagsüber 3 m einen 10 m tiefen Brunnen hinauf und rutscht nachts 2 m ab. Nach wie vielen Tagen ist sie oben?",
+      "richtig": "Nach 8 Tagen",
+      "falsch": [
+        "Nach 10 Tagen",
+        "Nach 7 Tagen",
+        "Nach 9 Tagen"
+      ],
+      "alias": [
+        "8"
+      ],
+      "begruendung": "Nach 7 Tagen und Nächten ist sie bei 7 m. Am 8. Tag klettert sie 3 m und erreicht den Rand, bevor sie abrutscht.",
+      "karte": {
+        "titel": "Schnecke im Brunnen",
+        "text": "Wer einfach 10 durch 1 teilt, übersieht den letzten Tag, an dem die Schnecke nicht mehr abrutscht.",
+        "merke": "Am letzten Tag gibt es kein Zurückrutschen."
+      }
+    },
+    {
+      "id": "log-010",
+      "schwierigkeit": "mittel",
+      "frage": "Wenn du in einem Rennen den Zweiten überholst, auf welchem Platz bist du dann?",
+      "richtig": "Auf Platz 2",
+      "falsch": [
+        "Auf Platz 1",
+        "Auf Platz 3",
+        "Das kommt drauf an"
+      ],
+      "alias": [
+        "2",
+        "zweiter"
+      ],
+      "begruendung": "Du nimmst den Platz des Überholten ein, also Platz 2. Der Erste ist immer noch vor dir.",
+      "karte": {
+        "titel": "Überholen",
+        "text": "Ähnlich gemein: Wer den Letzten überholt, kann es gar nicht, denn hinter dem Letzten ist niemand.",
+        "merke": "Den Zweiten überholt = Zweiter."
+      }
+    },
+    {
+      "id": "log-011",
+      "schwierigkeit": "mittel",
+      "frage": "Der Vater von Maria hat fünf Töchter: Lala, Lele, Lili, Lolo und …?",
+      "richtig": "Maria",
+      "falsch": [
+        "Lulu",
+        "Lala",
+        "Lyly"
+      ],
+      "begruendung": "Die fünfte Tochter ist Maria selbst. Sie steht ja schon in der Frage.",
+      "karte": {
+        "titel": "Muster-Falle",
+        "text": "Das Muster der Namen verleitet zu „Lulu“. Gute Rätsel lenken gezielt ab.",
+        "merke": "Erst die Frage lesen, dann dem Muster folgen."
+      }
+    },
+    {
+      "id": "log-012",
+      "schwierigkeit": "leicht",
+      "ddf": true,
+      "frage": "Wie viele Seiten hat ein Kreis?",
+      "richtig": "Keine geraden Seiten",
+      "falsch": [
+        "Vier",
+        "Zwei gerade Seiten",
+        "Acht"
+      ],
+      "begruendung": "Ein Kreis hat keine Ecken und keine geraden Seiten, nur eine geschlossene Linie. Scherzhaft sagt man: zwei Seiten, innen und außen.",
+      "karte": {
+        "titel": "Kreis",
+        "text": "Der Umfang eines Kreises ist Durchmesser mal Pi.",
+        "merke": "Kreis: keine Ecken, Umfang = d · π."
+      },
+      "alias": [
+        "keine",
+        "0"
+      ]
+    },
+    {
+      "id": "log-013",
+      "schwierigkeit": "mittel",
+      "frage": "Wie viele Nullen hat eine Milliarde?",
+      "richtig": "9",
+      "falsch": [
+        "6",
+        "12",
+        "8"
+      ],
+      "alias": [
+        "neun"
+      ],
+      "begruendung": "Eine Milliarde ist 1.000.000.000. Eine Million hat 6 Nullen, eine Billion 12.",
+      "karte": {
+        "titel": "Große Zahlen",
+        "text": "Vorsicht beim Englischen: „billion“ heißt Milliarde, „trillion“ heißt Billion.",
+        "merke": "Million 6, Milliarde 9, Billion 12 Nullen."
+      }
+    },
+    {
+      "id": "log-014",
+      "schwierigkeit": "mittel",
+      "ddf": true,
+      "frage": "Wie viele Nullen hat die Zahl 20 Milliarden?",
+      "richtig": "10",
+      "falsch": [
+        "9",
+        "11",
+        "12"
+      ],
+      "alias": [
+        "zehn"
+      ],
+      "begruendung": "20.000.000.000: Die 2 hat eine Null dahinter, dazu die neun Nullen der Milliarde.",
+      "karte": {
+        "titel": "Nullen zählen",
+        "text": "Schreib die Zahl mit Tausenderpunkten. Dann zählst du schneller.",
+        "merke": "20 Milliarden = 20.000.000.000, zehn Nullen."
+      }
+    },
+    {
+      "id": "log-015",
+      "schwierigkeit": "schwer",
+      "frage": "In einer Schublade liegen 10 schwarze und 10 weiße Socken. Wie viele musst du im Dunkeln mindestens ziehen, um sicher ein gleichfarbiges Paar zu haben?",
+      "richtig": "3",
+      "falsch": [
+        "2",
+        "11",
+        "20"
+      ],
+      "alias": [
+        "drei"
+      ],
+      "begruendung": "Bei zwei Farben passt die dritte Socke sicher zu einer der ersten beiden.",
+      "karte": {
+        "titel": "Schubfachprinzip",
+        "text": "Gibt es mehr Gegenstände als Schubfächer, liegen in einem Fach mindestens zwei.",
+        "merke": "Zwei Farben → drei Socken reichen."
+      }
+    },
+    {
+      "id": "log-016",
+      "schwierigkeit": "leicht",
+      "ddf": true,
+      "frage": "Wie viele volle Wochen hat ein Jahr?",
+      "richtig": "52",
+      "falsch": [
+        "48",
+        "50",
+        "54"
+      ],
+      "alias": [
+        "zweiundfünfzig"
+      ],
+      "begruendung": "365 Tage geteilt durch 7 ergibt 52 Wochen und einen Tag Rest.",
+      "karte": {
+        "titel": "Wochen im Jahr",
+        "text": "Manche Jahre haben 53 Kalenderwochen, weil die erste und letzte Woche ins Nachbarjahr ragen.",
+        "merke": "52 volle Wochen + 1 Tag (Schaltjahr: 2)."
+      }
+    },
+    {
+      "id": "log-017",
+      "schwierigkeit": "mittel",
+      "frage": "Wie viel ist die Hälfte von 2, wenn du danach noch 2 dazuzählst?",
+      "richtig": "3",
+      "falsch": [
+        "2",
+        "4",
+        "1"
+      ],
+      "alias": [
+        "drei"
+      ],
+      "begruendung": "Punkt vor Strich: Die Hälfte von 2 ist 1, plus 2 ergibt 3.",
+      "karte": {
+        "titel": "Reihenfolge",
+        "text": "Gemeint ist hier (2 : 2) + 2. Wer (2 + 2) : 2 rechnet, kommt auf 2.",
+        "merke": "Erst Hälfte, dann plus: 3."
+      }
+    },
+    {
+      "id": "log-018",
+      "schwierigkeit": "schwer",
+      "frage": "Ein Bauer hat 17 Schafe. Alle bis auf 9 sterben. Wie viele Schafe hat er noch?",
+      "richtig": "9",
+      "falsch": [
+        "8",
+        "17",
+        "0"
+      ],
+      "alias": [
+        "neun"
+      ],
+      "begruendung": "„Alle bis auf 9“ heißt: 9 bleiben übrig.",
+      "karte": {
+        "titel": "Sprachfalle",
+        "text": "Das Gehirn will rechnen: 17 − 9 = 8. Gefragt ist aber, wer übrig bleibt.",
+        "merke": "„Alle bis auf 9“ = 9 bleiben."
+      }
+    },
+    {
+      "id": "log-019",
+      "schwierigkeit": "mittel",
+      "frage": "Wie viel ist 0,1 + 0,2?",
+      "richtig": "0,3",
+      "falsch": [
+        "0,12",
+        "0,03",
+        "3"
+      ],
+      "begruendung": "Ein Zehntel plus zwei Zehntel sind drei Zehntel.",
+      "karte": {
+        "titel": "Kommazahlen",
+        "text": "Computer rechnen intern binär. Deshalb zeigen manche Programme 0,30000000000000004 an.",
+        "merke": "0,1 + 0,2 = 0,3 (Computer runden hier manchmal schief)."
+      }
+    },
+    {
+      "id": "log-020",
+      "schwierigkeit": "mittel",
+      "frage": "Ein Ziegelstein wiegt 1 kg plus einen halben Ziegelstein. Wie viel wiegt der Ziegelstein?",
+      "richtig": "2 kg",
+      "falsch": [
+        "1,5 kg",
+        "1 kg",
+        "3 kg"
+      ],
+      "alias": [
+        "2"
+      ],
+      "begruendung": "Wenn ein halber Stein 1 kg wiegt, wiegt der ganze 2 kg. Probe: 1 kg + 1 kg = 2 kg.",
+      "karte": {
+        "titel": "Gleichung",
+        "text": "Als Gleichung: x = 1 + x/2, also x/2 = 1 und x = 2.",
+        "merke": "Ziegelstein-Rätsel: 2 kg."
+      }
+    }
+  ]
+}

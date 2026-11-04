@@ -77,7 +77,9 @@ export function erzeuge(def) {
         // Werte, die für diese Zeile ebenfalls richtig wären, nie als falsche Antwort anbieten
         const verboten = new Set([richtig, ...(v.auchRichtig ? v.auchRichtig(r) : [])].map(String));
         let falsch;
-        if (v.typ === 'jahr') {
+        if (v.falsch) {
+          falsch = [...new Set(v.falsch(r, rand).map(String))].filter((x) => !verboten.has(x)).slice(0, 3);
+        } else if (v.typ === 'jahr') {
           falsch = falscheJahre(v.richtig(r), zeilen.map((x) => v.richtig(x)).filter((x) => x != null), rand)
             .map((x) => fmt(Number(x))).filter((x) => !verboten.has(x));
         } else {
