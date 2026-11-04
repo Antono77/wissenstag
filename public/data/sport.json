@@ -1,0 +1,148 @@
+{
+  "klasse": "sport",
+  "fragen": [
+    {
+      "id": "spo-001", "schwierigkeit": "leicht", "ddf": true,
+      "frage": "Wie viele Ringe hat das olympische Symbol?",
+      "richtig": "5", "falsch": ["4", "6", "7"], "alias": ["fünf"],
+      "begruendung": "Die fünf Ringe stehen für die fünf bewohnten Erdteile, die sich bei den Spielen begegnen.",
+      "karte": { "titel": "Olympische Ringe", "text": "Pierre de Coubertin entwarf das Symbol 1913. Die Farben Blau, Gelb, Schwarz, Grün und Rot sollten zusammen mit dem weißen Hintergrund alle Flaggen der Welt abdecken.", "merke": "Fünf Ringe = fünf Erdteile." }
+    },
+    {
+      "id": "spo-002", "schwierigkeit": "mittel", "ddf": true,
+      "frage": "Wie viele Löcher hat ein Golfplatz für eine normale Runde?",
+      "richtig": "18", "falsch": ["9", "12", "24"], "alias": ["achtzehn"],
+      "begruendung": "Eine reguläre Golfrunde hat 18 Löcher. Kleinere Plätze haben 9 Löcher, die man zweimal spielt.",
+      "karte": { "titel": "Golf", "text": "Die 18 Löcher gehen auf den Old Course in St Andrews in Schottland zurück.", "merke": "Golfrunde: 18 Löcher." }
+    },
+    {
+      "id": "spo-003", "schwierigkeit": "leicht", "ddf": true,
+      "frage": "Wie lange dauert ein normales Fußballspiel ohne Nachspielzeit?",
+      "richtig": "90 Minuten", "falsch": ["60 Minuten", "80 Minuten", "120 Minuten"], "alias": ["90"],
+      "begruendung": "Ein Spiel hat zwei Halbzeiten zu je 45 Minuten.",
+      "karte": { "titel": "Spielzeit", "text": "In K.-o.-Spielen kann eine Verlängerung von zweimal 15 Minuten folgen, danach das Elfmeterschießen.", "merke": "Fußball: 2 × 45 Minuten." }
+    },
+    {
+      "id": "spo-004", "schwierigkeit": "mittel",
+      "frage": "Wie lang ist ein Marathon?",
+      "richtig": "42,195 km", "falsch": ["40 km", "42 km", "50 km"], "alias": ["42,195"],
+      "begruendung": "Die Länge 42,195 km wurde bei den Olympischen Spielen 1908 in London festgelegt.",
+      "karte": { "titel": "Marathon", "text": "Die Strecke sollte am Schloss Windsor starten und vor der Königsloge im Stadion enden. So kamen die krummen 195 Meter zustande.", "merke": "Marathon: 42,195 km." }
+    },
+    {
+      "id": "spo-005", "schwierigkeit": "mittel", "ddf": true,
+      "frage": "Bei welcher Sportart gibt es eine Dreipunktelinie?",
+      "richtig": "Basketball", "falsch": ["Handball", "Volleyball", "Eishockey"],
+      "begruendung": "Würfe von jenseits der Dreipunktelinie zählen im Basketball drei Punkte.",
+      "karte": { "titel": "Basketball", "text": "Der Korb hängt 3,05 m hoch. James Naismith erfand das Spiel 1891 in den USA.", "merke": "Dreipunktelinie: Basketball." }
+    },
+    {
+      "id": "spo-006", "schwierigkeit": "mittel", "ddf": true,
+      "frage": "Welche Farbe hat die Mitte einer Zielscheibe beim olympischen Bogenschießen?",
+      "richtig": "Gelb", "falsch": ["Rot", "Schwarz", "Weiß"],
+      "begruendung": "Die innersten Ringe sind gelb (Gold), dann folgen Rot, Blau, Schwarz und Weiß.",
+      "karte": { "titel": "Bogenschießen", "text": "Bei Olympia schießen die Bogenschützen auf 70 m Entfernung.", "merke": "Zielscheibe: Mitte gelb (Gold)." }
+    },
+    {
+      "id": "spo-007", "schwierigkeit": "leicht",
+      "frage": "Wie viele Spieler stehen beim Fußball pro Mannschaft auf dem Feld?",
+      "richtig": "11", "falsch": ["9", "10", "12"], "alias": ["elf"],
+      "begruendung": "Elf Spieler pro Mannschaft, einer davon ist der Torwart.",
+      "karte": { "titel": "Elf Freunde", "text": "Fällt eine Mannschaft durch Platzverweise unter sieben Spieler, wird das Spiel abgebrochen.", "merke": "Fußball: 11 pro Team, 22 auf dem Platz." }
+    },
+    {
+      "id": "spo-008", "schwierigkeit": "mittel",
+      "frage": "Welches Land wurde bis einschließlich 2022 am häufigsten Fußball-Weltmeister der Männer?",
+      "richtig": "Brasilien", "falsch": ["Deutschland", "Italien", "Argentinien"],
+      "begruendung": "Brasilien gewann fünfmal: 1958, 1962, 1970, 1994 und 2002.",
+      "karte": { "titel": "WM-Titel", "text": "Bis 2022 hatten Deutschland und Italien je vier Titel, Argentinien drei.", "merke": "Rekordweltmeister bis 2022: Brasilien, 5 Titel." },
+      "stand": "2026-11"
+    },
+    {
+      "id": "spo-009", "schwierigkeit": "mittel",
+      "frage": "Auf welchem Untergrund wird das Tennisturnier in Wimbledon gespielt?",
+      "richtig": "Rasen", "falsch": ["Sand", "Hartplatz", "Teppich"], "alias": ["Gras"],
+      "begruendung": "Wimbledon ist das bekannteste Rasenturnier. Die French Open spielt man auf Sand.",
+      "karte": { "titel": "Wimbledon", "text": "In Wimbledon gilt eine strenge Kleiderordnung: Die Spieler müssen fast ganz in Weiß antreten.", "merke": "Wimbledon: Rasen, weiße Kleidung." }
+    },
+    {
+      "id": "spo-010", "schwierigkeit": "leicht",
+      "frage": "Wie heißt die höchste deutsche Fußballliga?",
+      "richtig": "Bundesliga", "falsch": ["Premier League", "Serie A", "La Liga"], "alias": ["1. Bundesliga"],
+      "begruendung": "Die Bundesliga startete 1963 und hat 18 Vereine.",
+      "karte": { "titel": "Bundesliga", "text": "Die Premier League ist die englische, die Serie A die italienische und La Liga die spanische Liga.", "merke": "Bundesliga: seit 1963, 18 Vereine." }
+    },
+    {
+      "id": "spo-011", "schwierigkeit": "mittel",
+      "frage": "Wie hoch hängt ein Basketballkorb?",
+      "richtig": "3,05 m", "falsch": ["2,50 m", "2,80 m", "3,50 m"], "alias": ["3,05"],
+      "begruendung": "Der Korb hängt 3,05 m hoch. Das entspricht genau 10 Fuß.",
+      "karte": { "titel": "Basketballkorb", "text": "Erfinder James Naismith hängte 1891 Pfirsichkörbe an ein Hallengeländer. Das Geländer war zufällig 10 Fuß hoch.", "merke": "Korbhöhe: 3,05 m = 10 Fuß." }
+    },
+    {
+      "id": "spo-012", "schwierigkeit": "schwer",
+      "frage": "Wie viele Disziplinen hat ein Zehnkampf?",
+      "richtig": "10", "falsch": ["7", "5", "12"], "alias": ["zehn"],
+      "begruendung": "Der Name verrät es: zehn Disziplinen an zwei Tagen. Frauen bestreiten meist den Siebenkampf.",
+      "karte": { "titel": "Zehnkampf", "text": "Der Zehnkämpfer gilt als „König der Athleten“. Am Ende steht der 1.500-Meter-Lauf.", "merke": "Zehnkampf: 10, Siebenkampf: 7 Disziplinen." }
+    },
+    {
+      "id": "spo-013", "schwierigkeit": "mittel",
+      "frage": "In welcher Stadt steht das Wembley-Stadion?",
+      "richtig": "London", "falsch": ["Manchester", "Liverpool", "Birmingham"],
+      "begruendung": "Das Wembley-Stadion steht im Norden Londons und ist Englands Nationalstadion.",
+      "karte": { "titel": "Wembley", "text": "1966 fiel dort das berühmte „Wembley-Tor“ im WM-Finale England gegen Deutschland. Ob der Ball hinter der Linie war, ist bis heute umstritten.", "merke": "Wembley: London, „Wembley-Tor“ 1966." }
+    },
+    {
+      "id": "spo-014", "schwierigkeit": "leicht", "ddf": true,
+      "frage": "Mit welchem Gerät wird beim Eishockey gespielt?",
+      "richtig": "Mit einem Puck", "falsch": ["Mit einem Ball", "Mit einem Federball", "Mit einem Diskus"], "alias": ["Puck"],
+      "begruendung": "Der Puck ist eine Hartgummischeibe, rund 7,6 cm breit und 2,5 cm dick.",
+      "karte": { "titel": "Puck", "text": "Vor dem Spiel kühlt man Pucks, damit sie weniger springen.", "merke": "Eishockey: Puck aus Hartgummi." }
+    },
+    {
+      "id": "spo-015", "schwierigkeit": "mittel",
+      "frage": "Welcher Verein ist deutscher Rekordmeister im Fußball?",
+      "richtig": "FC Bayern München", "falsch": ["Borussia Dortmund", "1. FC Nürnberg", "Hamburger SV"], "alias": ["Bayern München", "Bayern"],
+      "begruendung": "Der FC Bayern hat mit Abstand die meisten deutschen Meistertitel, über 30.",
+      "karte": { "titel": "Rekordmeister", "text": "Lange war der 1. FC Nürnberg Rekordmeister. Bayern überholte ihn in den 1980er-Jahren.", "merke": "Rekordmeister: FC Bayern." },
+      "stand": "2026-11"
+    },
+    {
+      "id": "spo-016", "schwierigkeit": "schwer",
+      "frage": "Welcher Läufer hält den Weltrekord über 100 Meter?",
+      "richtig": "Usain Bolt", "falsch": ["Carl Lewis", "Tyson Gay", "Noah Lyles"], "alias": ["Bolt"],
+      "begruendung": "Usain Bolt lief 2009 in Berlin 9,58 Sekunden.",
+      "karte": { "titel": "9,58 Sekunden", "text": "Bolt erreichte dabei kurzzeitig fast 45 km/h. Bei den Frauen hält Florence Griffith-Joyner seit 1988 den Rekord.", "merke": "100-m-Weltrekord: Bolt, 9,58 s, Berlin 2009." },
+      "stand": "2026-11"
+    },
+    {
+      "id": "spo-017", "schwierigkeit": "mittel",
+      "frage": "Wie viele Felder hat ein Schachbrett?",
+      "richtig": "64", "falsch": ["36", "49", "81"], "alias": ["vierundsechzig"],
+      "begruendung": "Ein Schachbrett hat 8 × 8 = 64 Felder.",
+      "karte": { "titel": "Schach", "text": "Jeder Spieler beginnt mit 16 Figuren. Die Dame ist die stärkste Figur.", "merke": "Schachbrett: 64 Felder, 16 Figuren je Spieler." }
+    },
+    {
+      "id": "spo-018", "schwierigkeit": "mittel", "ddf": true,
+      "frage": "In welcher Sportart gibt es die Disziplin Freistil?",
+      "richtig": "Schwimmen", "falsch": ["Hochsprung", "Diskuswurf", "Gewichtheben"],
+      "begruendung": "Im Freistil darf jede Schwimmart gewählt werden. Fast alle schwimmen Kraul, weil es am schnellsten ist.",
+      "karte": { "titel": "Freistil", "text": "Freistil gibt es auch im Ringen und im Skifahren. Hier geht es um das Schwimmen.", "merke": "Freistil-Schwimmen = meist Kraul." }
+    },
+    {
+      "id": "spo-019", "schwierigkeit": "mittel",
+      "frage": "Wie viele Punkte bekommt eine Fußballmannschaft für einen Sieg in der Bundesliga?",
+      "richtig": "3", "falsch": ["1", "2", "4"], "alias": ["drei"],
+      "begruendung": "Seit 1995 gibt es für einen Sieg drei Punkte, für ein Unentschieden einen.",
+      "karte": { "titel": "Drei-Punkte-Regel", "text": "Vorher gab es zwei Punkte für einen Sieg. Die Änderung sollte offensiveres Spiel belohnen.", "merke": "Sieg 3, Unentschieden 1, Niederlage 0." }
+    },
+    {
+      "id": "spo-020", "schwierigkeit": "schwer",
+      "frage": "Welches Land gewann die Fußball-WM 2006, die in Deutschland stattfand?",
+      "richtig": "Italien", "falsch": ["Frankreich", "Deutschland", "Brasilien"],
+      "begruendung": "Italien besiegte im Finale in Berlin Frankreich im Elfmeterschießen. Deutschland wurde Dritter.",
+      "karte": { "titel": "Sommermärchen 2006", "text": "Im Finale flog Zinédine Zidane nach einem Kopfstoß gegen Marco Materazzi vom Platz.", "merke": "WM 2006: Italien, Finale in Berlin." }
+    }
+  ]
+}

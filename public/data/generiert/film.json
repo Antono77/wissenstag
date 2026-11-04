@@ -1,0 +1,1708 @@
+{
+ "klasse": "film",
+ "erzeugt": "scripts/generate-fakten.mjs",
+ "fragen": [
+  {
+   "id": "fil-re-der-weisse-hai-1",
+   "schwierigkeit": "leicht",
+   "frage": "Wer führte Regie bei „Der weiße Hai“?",
+   "richtig": "Steven Spielberg",
+   "falsch": [
+    "Robert Zemeckis",
+    "Greta Gerwig",
+    "Alfred Hitchcock"
+   ],
+   "begruendung": "„Der weiße Hai“: Regie Steven Spielberg.",
+   "karte": {
+    "titel": "Der weiße Hai",
+    "text": "„Der weiße Hai“: Regie Steven Spielberg.",
+    "merke": "„Der weiße Hai“: Regie Steven Spielberg."
+   }
+  },
+  {
+   "id": "fil-re-e-t-der-ausserirdische-1",
+   "schwierigkeit": "leicht",
+   "frage": "Wer führte Regie bei „E.T. – Der Außerirdische“?",
+   "richtig": "Steven Spielberg",
+   "falsch": [
+    "Peter Jackson",
+    "Alfred Hitchcock",
+    "Wolfgang Petersen"
+   ],
+   "begruendung": "„E.T. – Der Außerirdische“: Regie Steven Spielberg.",
+   "karte": {
+    "titel": "E.T. – Der Außerirdische",
+    "text": "„E.T. – Der Außerirdische“: Regie Steven Spielberg.",
+    "merke": "„E.T. – Der Außerirdische“: Regie Steven Spielberg."
+   }
+  },
+  {
+   "id": "fil-re-jurassic-park-1",
+   "schwierigkeit": "leicht",
+   "frage": "Wer führte Regie bei „Jurassic Park“?",
+   "richtig": "Steven Spielberg",
+   "falsch": [
+    "Fritz Lang",
+    "Tom Tykwer",
+    "Wolfgang Petersen"
+   ],
+   "begruendung": "„Jurassic Park“: Regie Steven Spielberg.",
+   "karte": {
+    "titel": "Jurassic Park",
+    "text": "„Jurassic Park“: Regie Steven Spielberg.",
+    "merke": "„Jurassic Park“: Regie Steven Spielberg."
+   }
+  },
+  {
+   "id": "fil-re-schindlers-liste-1",
+   "schwierigkeit": "mittel",
+   "frage": "Wer führte Regie bei „Schindlers Liste“?",
+   "richtig": "Steven Spielberg",
+   "falsch": [
+    "Quentin Tarantino",
+    "Greta Gerwig",
+    "Bong Joon-ho"
+   ],
+   "begruendung": "„Schindlers Liste“: Regie Steven Spielberg.",
+   "karte": {
+    "titel": "Schindlers Liste",
+    "text": "„Schindlers Liste“: Regie Steven Spielberg.",
+    "merke": "„Schindlers Liste“: Regie Steven Spielberg."
+   }
+  },
+  {
+   "id": "fil-re-titanic-1",
+   "schwierigkeit": "leicht",
+   "frage": "Wer führte Regie bei „Titanic“?",
+   "richtig": "James Cameron",
+   "falsch": [
+    "Steven Spielberg",
+    "Edward Berger",
+    "Fritz Lang"
+   ],
+   "begruendung": "„Titanic“: Regie James Cameron.",
+   "karte": {
+    "titel": "Titanic",
+    "text": "„Titanic“: Regie James Cameron.",
+    "merke": "„Titanic“: Regie James Cameron."
+   }
+  },
+  {
+   "id": "fil-re-avatar-1",
+   "schwierigkeit": "leicht",
+   "frage": "Wer führte Regie bei „Avatar“?",
+   "richtig": "James Cameron",
+   "falsch": [
+    "Quentin Tarantino",
+    "Wolfgang Petersen",
+    "Steven Spielberg"
+   ],
+   "begruendung": "„Avatar“: Regie James Cameron.",
+   "karte": {
+    "titel": "Avatar",
+    "text": "„Avatar“: Regie James Cameron.",
+    "merke": "„Avatar“: Regie James Cameron."
+   }
+  },
+  {
+   "id": "fil-re-terminator-1",
+   "schwierigkeit": "mittel",
+   "frage": "Wer führte Regie bei „Terminator“?",
+   "richtig": "James Cameron",
+   "falsch": [
+    "Fritz Lang",
+    "Robert Zemeckis",
+    "Bong Joon-ho"
+   ],
+   "begruendung": "„Terminator“: Regie James Cameron.",
+   "karte": {
+    "titel": "Terminator",
+    "text": "„Terminator“: Regie James Cameron.",
+    "merke": "„Terminator“: Regie James Cameron."
+   }
+  },
+  {
+   "id": "fil-re-pulp-fiction-1",
+   "schwierigkeit": "leicht",
+   "frage": "Wer führte Regie bei „Pulp Fiction“?",
+   "richtig": "Quentin Tarantino",
+   "falsch": [
+    "Fritz Lang",
+    "Steven Spielberg",
+    "Francis Ford Coppola"
+   ],
+   "begruendung": "„Pulp Fiction“: Regie Quentin Tarantino.",
+   "karte": {
+    "titel": "Pulp Fiction",
+    "text": "„Pulp Fiction“: Regie Quentin Tarantino.",
+    "merke": "„Pulp Fiction“: Regie Quentin Tarantino."
+   }
+  },
+  {
+   "id": "fil-re-inglourious-basterds-1",
+   "schwierigkeit": "mittel",
+   "frage": "Wer führte Regie bei „Inglourious Basterds“?",
+   "richtig": "Quentin Tarantino",
+   "falsch": [
+    "George Lucas",
+    "James Cameron",
+    "Robert Zemeckis"
+   ],
+   "begruendung": "„Inglourious Basterds“: Regie Quentin Tarantino.",
+   "karte": {
+    "titel": "Inglourious Basterds",
+    "text": "„Inglourious Basterds“: Regie Quentin Tarantino.",
+    "merke": "„Inglourious Basterds“: Regie Quentin Tarantino."
+   }
+  },
+  {
+   "id": "fil-re-inception-1",
+   "schwierigkeit": "leicht",
+   "frage": "Wer führte Regie bei „Inception“?",
+   "richtig": "Christopher Nolan",
+   "falsch": [
+    "Quentin Tarantino",
+    "Peter Jackson",
+    "Tom Tykwer"
+   ],
+   "begruendung": "„Inception“: Regie Christopher Nolan.",
+   "karte": {
+    "titel": "Inception",
+    "text": "„Inception“: Regie Christopher Nolan.",
+    "merke": "„Inception“: Regie Christopher Nolan."
+   }
+  },
+  {
+   "id": "fil-re-oppenheimer-1",
+   "schwierigkeit": "leicht",
+   "frage": "Wer führte Regie bei „Oppenheimer“?",
+   "richtig": "Christopher Nolan",
+   "falsch": [
+    "Florian Henckel von Donnersmarck",
+    "Quentin Tarantino",
+    "Greta Gerwig"
+   ],
+   "begruendung": "„Oppenheimer“: Regie Christopher Nolan.",
+   "karte": {
+    "titel": "Oppenheimer",
+    "text": "„Oppenheimer“: Regie Christopher Nolan.",
+    "merke": "„Oppenheimer“: Regie Christopher Nolan."
+   }
+  },
+  {
+   "id": "fil-re-interstellar-1",
+   "schwierigkeit": "mittel",
+   "frage": "Wer führte Regie bei „Interstellar“?",
+   "richtig": "Christopher Nolan",
+   "falsch": [
+    "Robert Zemeckis",
+    "Alfred Hitchcock",
+    "Fritz Lang"
+   ],
+   "begruendung": "„Interstellar“: Regie Christopher Nolan.",
+   "karte": {
+    "titel": "Interstellar",
+    "text": "„Interstellar“: Regie Christopher Nolan.",
+    "merke": "„Interstellar“: Regie Christopher Nolan."
+   }
+  },
+  {
+   "id": "fil-re-der-pate-1",
+   "schwierigkeit": "mittel",
+   "frage": "Wer führte Regie bei „Der Pate“?",
+   "richtig": "Francis Ford Coppola",
+   "falsch": [
+    "Alfred Hitchcock",
+    "Quentin Tarantino",
+    "Wolfgang Petersen"
+   ],
+   "begruendung": "„Der Pate“: Regie Francis Ford Coppola.",
+   "karte": {
+    "titel": "Der Pate",
+    "text": "„Der Pate“: Regie Francis Ford Coppola.",
+    "merke": "„Der Pate“: Regie Francis Ford Coppola."
+   }
+  },
+  {
+   "id": "fil-re-psycho-1",
+   "schwierigkeit": "leicht",
+   "frage": "Wer führte Regie bei „Psycho“?",
+   "richtig": "Alfred Hitchcock",
+   "falsch": [
+    "Robert Zemeckis",
+    "Tom Tykwer",
+    "Edward Berger"
+   ],
+   "begruendung": "„Psycho“: Regie Alfred Hitchcock.",
+   "karte": {
+    "titel": "Psycho",
+    "text": "„Psycho“: Regie Alfred Hitchcock.",
+    "merke": "„Psycho“: Regie Alfred Hitchcock."
+   }
+  },
+  {
+   "id": "fil-re-die-voegel-1",
+   "schwierigkeit": "mittel",
+   "frage": "Wer führte Regie bei „Die Vögel“?",
+   "richtig": "Alfred Hitchcock",
+   "falsch": [
+    "Stanley Kubrick",
+    "Edward Berger",
+    "Florian Henckel von Donnersmarck"
+   ],
+   "begruendung": "„Die Vögel“: Regie Alfred Hitchcock.",
+   "karte": {
+    "titel": "Die Vögel",
+    "text": "„Die Vögel“: Regie Alfred Hitchcock.",
+    "merke": "„Die Vögel“: Regie Alfred Hitchcock."
+   }
+  },
+  {
+   "id": "fil-re-star-wars-1977-1",
+   "schwierigkeit": "leicht",
+   "frage": "Wer führte Regie bei „Star Wars (1977)“?",
+   "richtig": "George Lucas",
+   "falsch": [
+    "Greta Gerwig",
+    "Stanley Kubrick",
+    "Tom Tykwer"
+   ],
+   "begruendung": "„Star Wars (1977)“: Regie George Lucas.",
+   "karte": {
+    "titel": "Star Wars (1977)",
+    "text": "„Star Wars (1977)“: Regie George Lucas.",
+    "merke": "„Star Wars (1977)“: Regie George Lucas."
+   }
+  },
+  {
+   "id": "fil-re-der-herr-der-ringe-filmtrilogie-1",
+   "schwierigkeit": "leicht",
+   "frage": "Wer führte Regie bei „Der Herr der Ringe (Filmtrilogie)“?",
+   "richtig": "Peter Jackson",
+   "falsch": [
+    "James Cameron",
+    "Edward Berger",
+    "Bong Joon-ho"
+   ],
+   "begruendung": "„Der Herr der Ringe (Filmtrilogie)“: Regie Peter Jackson.",
+   "karte": {
+    "titel": "Der Herr der Ringe (Filmtrilogie)",
+    "text": "„Der Herr der Ringe (Filmtrilogie)“: Regie Peter Jackson.",
+    "merke": "„Der Herr der Ringe (Filmtrilogie)“: Regie Peter Jackson."
+   }
+  },
+  {
+   "id": "fil-re-chihiros-reise-ins-zauberland-1",
+   "schwierigkeit": "mittel",
+   "frage": "Wer führte Regie bei „Chihiros Reise ins Zauberland“?",
+   "richtig": "Hayao Miyazaki",
+   "falsch": [
+    "Florian Henckel von Donnersmarck",
+    "Greta Gerwig",
+    "Christopher Nolan"
+   ],
+   "begruendung": "„Chihiros Reise ins Zauberland“: Regie Hayao Miyazaki.",
+   "karte": {
+    "titel": "Chihiros Reise ins Zauberland",
+    "text": "„Chihiros Reise ins Zauberland“: Regie Hayao Miyazaki.",
+    "merke": "„Chihiros Reise ins Zauberland“: Regie Hayao Miyazaki."
+   }
+  },
+  {
+   "id": "fil-re-lola-rennt-1",
+   "schwierigkeit": "mittel",
+   "frage": "Wer führte Regie bei „Lola rennt“?",
+   "richtig": "Tom Tykwer",
+   "falsch": [
+    "Robert Zemeckis",
+    "Wolfgang Becker",
+    "Francis Ford Coppola"
+   ],
+   "begruendung": "„Lola rennt“: Regie Tom Tykwer.",
+   "karte": {
+    "titel": "Lola rennt",
+    "text": "„Lola rennt“: Regie Tom Tykwer.",
+    "merke": "„Lola rennt“: Regie Tom Tykwer."
+   }
+  },
+  {
+   "id": "fil-re-das-leben-der-anderen-1",
+   "schwierigkeit": "schwer",
+   "frage": "Wer führte Regie bei „Das Leben der Anderen“?",
+   "richtig": "Florian Henckel von Donnersmarck",
+   "falsch": [
+    "Tom Tykwer",
+    "Steven Spielberg",
+    "Francis Ford Coppola"
+   ],
+   "begruendung": "„Das Leben der Anderen“: Regie Florian Henckel von Donnersmarck.",
+   "karte": {
+    "titel": "Das Leben der Anderen",
+    "text": "„Das Leben der Anderen“: Regie Florian Henckel von Donnersmarck.",
+    "merke": "„Das Leben der Anderen“: Regie Florian Henckel von Donnersmarck."
+   }
+  },
+  {
+   "id": "fil-re-good-bye-lenin-1",
+   "schwierigkeit": "schwer",
+   "frage": "Wer führte Regie bei „Good Bye, Lenin!“?",
+   "richtig": "Wolfgang Becker",
+   "falsch": [
+    "Stanley Kubrick",
+    "Peter Jackson",
+    "Edward Berger"
+   ],
+   "begruendung": "„Good Bye, Lenin!“: Regie Wolfgang Becker.",
+   "karte": {
+    "titel": "Good Bye, Lenin!",
+    "text": "„Good Bye, Lenin!“: Regie Wolfgang Becker.",
+    "merke": "„Good Bye, Lenin!“: Regie Wolfgang Becker."
+   }
+  },
+  {
+   "id": "fil-re-metropolis-1927-1",
+   "schwierigkeit": "schwer",
+   "frage": "Wer führte Regie bei „Metropolis (1927)“?",
+   "richtig": "Fritz Lang",
+   "falsch": [
+    "Edward Berger",
+    "Wolfgang Becker",
+    "Wolfgang Petersen"
+   ],
+   "begruendung": "„Metropolis (1927)“: Regie Fritz Lang.",
+   "karte": {
+    "titel": "Metropolis (1927)",
+    "text": "„Metropolis (1927)“: Regie Fritz Lang.",
+    "merke": "„Metropolis (1927)“: Regie Fritz Lang."
+   }
+  },
+  {
+   "id": "fil-re-2001-odyssee-im-weltraum-1",
+   "schwierigkeit": "mittel",
+   "frage": "Wer führte Regie bei „2001: Odyssee im Weltraum“?",
+   "richtig": "Stanley Kubrick",
+   "falsch": [
+    "Robert Zemeckis",
+    "Wolfgang Becker",
+    "Quentin Tarantino"
+   ],
+   "begruendung": "„2001: Odyssee im Weltraum“: Regie Stanley Kubrick.",
+   "karte": {
+    "titel": "2001: Odyssee im Weltraum",
+    "text": "„2001: Odyssee im Weltraum“: Regie Stanley Kubrick.",
+    "merke": "„2001: Odyssee im Weltraum“: Regie Stanley Kubrick."
+   }
+  },
+  {
+   "id": "fil-re-shining-1",
+   "schwierigkeit": "mittel",
+   "frage": "Wer führte Regie bei „Shining“?",
+   "richtig": "Stanley Kubrick",
+   "falsch": [
+    "Peter Jackson",
+    "Edward Berger",
+    "Fritz Lang"
+   ],
+   "begruendung": "„Shining“: Regie Stanley Kubrick.",
+   "karte": {
+    "titel": "Shining",
+    "text": "„Shining“: Regie Stanley Kubrick.",
+    "merke": "„Shining“: Regie Stanley Kubrick."
+   }
+  },
+  {
+   "id": "fil-re-barbie-1",
+   "schwierigkeit": "leicht",
+   "frage": "Wer führte Regie bei „Barbie“?",
+   "richtig": "Greta Gerwig",
+   "falsch": [
+    "Robert Zemeckis",
+    "Steven Spielberg",
+    "Tom Tykwer"
+   ],
+   "begruendung": "„Barbie“: Regie Greta Gerwig.",
+   "karte": {
+    "titel": "Barbie",
+    "text": "„Barbie“: Regie Greta Gerwig.",
+    "merke": "„Barbie“: Regie Greta Gerwig."
+   }
+  },
+  {
+   "id": "fil-re-forrest-gump-1",
+   "schwierigkeit": "mittel",
+   "frage": "Wer führte Regie bei „Forrest Gump“?",
+   "richtig": "Robert Zemeckis",
+   "falsch": [
+    "Stanley Kubrick",
+    "Alfred Hitchcock",
+    "Fritz Lang"
+   ],
+   "begruendung": "„Forrest Gump“: Regie Robert Zemeckis.",
+   "karte": {
+    "titel": "Forrest Gump",
+    "text": "„Forrest Gump“: Regie Robert Zemeckis.",
+    "merke": "„Forrest Gump“: Regie Robert Zemeckis."
+   }
+  },
+  {
+   "id": "fil-re-zurueck-in-die-zukunft-1",
+   "schwierigkeit": "mittel",
+   "frage": "Wer führte Regie bei „Zurück in die Zukunft“?",
+   "richtig": "Robert Zemeckis",
+   "falsch": [
+    "Quentin Tarantino",
+    "Hayao Miyazaki",
+    "Florian Henckel von Donnersmarck"
+   ],
+   "begruendung": "„Zurück in die Zukunft“: Regie Robert Zemeckis.",
+   "karte": {
+    "titel": "Zurück in die Zukunft",
+    "text": "„Zurück in die Zukunft“: Regie Robert Zemeckis.",
+    "merke": "„Zurück in die Zukunft“: Regie Robert Zemeckis."
+   }
+  },
+  {
+   "id": "fil-re-parasite-1",
+   "schwierigkeit": "mittel",
+   "frage": "Wer führte Regie bei „Parasite“?",
+   "richtig": "Bong Joon-ho",
+   "falsch": [
+    "Steven Spielberg",
+    "Quentin Tarantino",
+    "Christopher Nolan"
+   ],
+   "begruendung": "„Parasite“: Regie Bong Joon-ho.",
+   "karte": {
+    "titel": "Parasite",
+    "text": "„Parasite“: Regie Bong Joon-ho.",
+    "merke": "„Parasite“: Regie Bong Joon-ho."
+   }
+  },
+  {
+   "id": "fil-re-im-westen-nichts-neues-2022-1",
+   "schwierigkeit": "schwer",
+   "frage": "Wer führte Regie bei „Im Westen nichts Neues (2022)“?",
+   "richtig": "Edward Berger",
+   "falsch": [
+    "Peter Jackson",
+    "Quentin Tarantino",
+    "Wolfgang Becker"
+   ],
+   "begruendung": "„Im Westen nichts Neues (2022)“: Regie Edward Berger.",
+   "karte": {
+    "titel": "Im Westen nichts Neues (2022)",
+    "text": "„Im Westen nichts Neues (2022)“: Regie Edward Berger.",
+    "merke": "„Im Westen nichts Neues (2022)“: Regie Edward Berger."
+   }
+  },
+  {
+   "id": "fil-re-das-boot-1",
+   "schwierigkeit": "mittel",
+   "frage": "Wer führte Regie bei „Das Boot“?",
+   "richtig": "Wolfgang Petersen",
+   "falsch": [
+    "Christopher Nolan",
+    "Peter Jackson",
+    "Bong Joon-ho"
+   ],
+   "begruendung": "„Das Boot“: Regie Wolfgang Petersen.",
+   "karte": {
+    "titel": "Das Boot",
+    "text": "„Das Boot“: Regie Wolfgang Petersen.",
+    "merke": "„Das Boot“: Regie Wolfgang Petersen."
+   }
+  },
+  {
+   "id": "fil-re-der-weisse-hai-2",
+   "schwierigkeit": "leicht",
+   "frage": "Bei welchem dieser Filme führte Steven Spielberg Regie?",
+   "richtig": "Der weiße Hai",
+   "falsch": [
+    "Inception",
+    "Terminator",
+    "Barbie"
+   ],
+   "begruendung": "Steven Spielberg drehte „Der weiße Hai“.",
+   "karte": {
+    "titel": "Steven Spielberg",
+    "text": "Steven Spielberg drehte „Der weiße Hai“.",
+    "merke": "Steven Spielberg drehte „Der weiße Hai“."
+   }
+  },
+  {
+   "id": "fil-re-e-t-der-ausserirdische-2",
+   "schwierigkeit": "leicht",
+   "frage": "Bei welchem dieser Filme führte Steven Spielberg Regie?",
+   "richtig": "E.T. – Der Außerirdische",
+   "falsch": [
+    "Das Boot",
+    "Inception",
+    "Die Vögel"
+   ],
+   "begruendung": "Steven Spielberg drehte „E.T. – Der Außerirdische“.",
+   "karte": {
+    "titel": "Steven Spielberg",
+    "text": "Steven Spielberg drehte „E.T. – Der Außerirdische“.",
+    "merke": "Steven Spielberg drehte „E.T. – Der Außerirdische“."
+   }
+  },
+  {
+   "id": "fil-re-jurassic-park-2",
+   "schwierigkeit": "leicht",
+   "frage": "Bei welchem dieser Filme führte Steven Spielberg Regie?",
+   "richtig": "Jurassic Park",
+   "falsch": [
+    "Metropolis (1927)",
+    "Pulp Fiction",
+    "Titanic"
+   ],
+   "begruendung": "Steven Spielberg drehte „Jurassic Park“.",
+   "karte": {
+    "titel": "Steven Spielberg",
+    "text": "Steven Spielberg drehte „Jurassic Park“.",
+    "merke": "Steven Spielberg drehte „Jurassic Park“."
+   }
+  },
+  {
+   "id": "fil-re-schindlers-liste-2",
+   "schwierigkeit": "mittel",
+   "frage": "Bei welchem dieser Filme führte Steven Spielberg Regie?",
+   "richtig": "Schindlers Liste",
+   "falsch": [
+    "Chihiros Reise ins Zauberland",
+    "Im Westen nichts Neues (2022)",
+    "Das Leben der Anderen"
+   ],
+   "begruendung": "Steven Spielberg drehte „Schindlers Liste“.",
+   "karte": {
+    "titel": "Steven Spielberg",
+    "text": "Steven Spielberg drehte „Schindlers Liste“.",
+    "merke": "Steven Spielberg drehte „Schindlers Liste“."
+   }
+  },
+  {
+   "id": "fil-re-titanic-2",
+   "schwierigkeit": "leicht",
+   "frage": "Bei welchem dieser Filme führte James Cameron Regie?",
+   "richtig": "Titanic",
+   "falsch": [
+    "Psycho",
+    "Der weiße Hai",
+    "Lola rennt"
+   ],
+   "begruendung": "James Cameron drehte „Titanic“.",
+   "karte": {
+    "titel": "James Cameron",
+    "text": "James Cameron drehte „Titanic“.",
+    "merke": "James Cameron drehte „Titanic“."
+   }
+  },
+  {
+   "id": "fil-re-avatar-2",
+   "schwierigkeit": "leicht",
+   "frage": "Bei welchem dieser Filme führte James Cameron Regie?",
+   "richtig": "Avatar",
+   "falsch": [
+    "Psycho",
+    "E.T. – Der Außerirdische",
+    "Oppenheimer"
+   ],
+   "begruendung": "James Cameron drehte „Avatar“.",
+   "karte": {
+    "titel": "James Cameron",
+    "text": "James Cameron drehte „Avatar“.",
+    "merke": "James Cameron drehte „Avatar“."
+   }
+  },
+  {
+   "id": "fil-re-terminator-2",
+   "schwierigkeit": "mittel",
+   "frage": "Bei welchem dieser Filme führte James Cameron Regie?",
+   "richtig": "Terminator",
+   "falsch": [
+    "Das Boot",
+    "Inception",
+    "Interstellar"
+   ],
+   "begruendung": "James Cameron drehte „Terminator“.",
+   "karte": {
+    "titel": "James Cameron",
+    "text": "James Cameron drehte „Terminator“.",
+    "merke": "James Cameron drehte „Terminator“."
+   }
+  },
+  {
+   "id": "fil-re-pulp-fiction-2",
+   "schwierigkeit": "leicht",
+   "frage": "Bei welchem dieser Filme führte Quentin Tarantino Regie?",
+   "richtig": "Pulp Fiction",
+   "falsch": [
+    "Der Herr der Ringe (Filmtrilogie)",
+    "Das Boot",
+    "Jurassic Park"
+   ],
+   "begruendung": "Quentin Tarantino drehte „Pulp Fiction“.",
+   "karte": {
+    "titel": "Quentin Tarantino",
+    "text": "Quentin Tarantino drehte „Pulp Fiction“.",
+    "merke": "Quentin Tarantino drehte „Pulp Fiction“."
+   }
+  },
+  {
+   "id": "fil-re-inglourious-basterds-2",
+   "schwierigkeit": "mittel",
+   "frage": "Bei welchem dieser Filme führte Quentin Tarantino Regie?",
+   "richtig": "Inglourious Basterds",
+   "falsch": [
+    "Parasite",
+    "Good Bye, Lenin!",
+    "Terminator"
+   ],
+   "begruendung": "Quentin Tarantino drehte „Inglourious Basterds“.",
+   "karte": {
+    "titel": "Quentin Tarantino",
+    "text": "Quentin Tarantino drehte „Inglourious Basterds“.",
+    "merke": "Quentin Tarantino drehte „Inglourious Basterds“."
+   }
+  },
+  {
+   "id": "fil-re-inception-2",
+   "schwierigkeit": "leicht",
+   "frage": "Bei welchem dieser Filme führte Christopher Nolan Regie?",
+   "richtig": "Inception",
+   "falsch": [
+    "Good Bye, Lenin!",
+    "Parasite",
+    "Terminator"
+   ],
+   "begruendung": "Christopher Nolan drehte „Inception“.",
+   "karte": {
+    "titel": "Christopher Nolan",
+    "text": "Christopher Nolan drehte „Inception“.",
+    "merke": "Christopher Nolan drehte „Inception“."
+   }
+  },
+  {
+   "id": "fil-re-oppenheimer-2",
+   "schwierigkeit": "leicht",
+   "frage": "Bei welchem dieser Filme führte Christopher Nolan Regie?",
+   "richtig": "Oppenheimer",
+   "falsch": [
+    "Zurück in die Zukunft",
+    "Das Boot",
+    "Der Herr der Ringe (Filmtrilogie)"
+   ],
+   "begruendung": "Christopher Nolan drehte „Oppenheimer“.",
+   "karte": {
+    "titel": "Christopher Nolan",
+    "text": "Christopher Nolan drehte „Oppenheimer“.",
+    "merke": "Christopher Nolan drehte „Oppenheimer“."
+   }
+  },
+  {
+   "id": "fil-re-interstellar-2",
+   "schwierigkeit": "mittel",
+   "frage": "Bei welchem dieser Filme führte Christopher Nolan Regie?",
+   "richtig": "Interstellar",
+   "falsch": [
+    "Zurück in die Zukunft",
+    "Titanic",
+    "Barbie"
+   ],
+   "begruendung": "Christopher Nolan drehte „Interstellar“.",
+   "karte": {
+    "titel": "Christopher Nolan",
+    "text": "Christopher Nolan drehte „Interstellar“.",
+    "merke": "Christopher Nolan drehte „Interstellar“."
+   }
+  },
+  {
+   "id": "fil-re-der-pate-2",
+   "schwierigkeit": "mittel",
+   "frage": "Bei welchem dieser Filme führte Francis Ford Coppola Regie?",
+   "richtig": "Der Pate",
+   "falsch": [
+    "Im Westen nichts Neues (2022)",
+    "Star Wars (1977)",
+    "Terminator"
+   ],
+   "begruendung": "Francis Ford Coppola drehte „Der Pate“.",
+   "karte": {
+    "titel": "Francis Ford Coppola",
+    "text": "Francis Ford Coppola drehte „Der Pate“.",
+    "merke": "Francis Ford Coppola drehte „Der Pate“."
+   }
+  },
+  {
+   "id": "fil-re-psycho-2",
+   "schwierigkeit": "leicht",
+   "frage": "Bei welchem dieser Filme führte Alfred Hitchcock Regie?",
+   "richtig": "Psycho",
+   "falsch": [
+    "Lola rennt",
+    "Forrest Gump",
+    "Pulp Fiction"
+   ],
+   "begruendung": "Alfred Hitchcock drehte „Psycho“.",
+   "karte": {
+    "titel": "Alfred Hitchcock",
+    "text": "Alfred Hitchcock drehte „Psycho“.",
+    "merke": "Alfred Hitchcock drehte „Psycho“."
+   }
+  },
+  {
+   "id": "fil-re-die-voegel-2",
+   "schwierigkeit": "mittel",
+   "frage": "Bei welchem dieser Filme führte Alfred Hitchcock Regie?",
+   "richtig": "Die Vögel",
+   "falsch": [
+    "Avatar",
+    "Terminator",
+    "2001: Odyssee im Weltraum"
+   ],
+   "begruendung": "Alfred Hitchcock drehte „Die Vögel“.",
+   "karte": {
+    "titel": "Alfred Hitchcock",
+    "text": "Alfred Hitchcock drehte „Die Vögel“.",
+    "merke": "Alfred Hitchcock drehte „Die Vögel“."
+   }
+  },
+  {
+   "id": "fil-re-star-wars-1977-2",
+   "schwierigkeit": "leicht",
+   "frage": "Bei welchem dieser Filme führte George Lucas Regie?",
+   "richtig": "Star Wars (1977)",
+   "falsch": [
+    "Forrest Gump",
+    "Avatar",
+    "Lola rennt"
+   ],
+   "begruendung": "George Lucas drehte „Star Wars (1977)“.",
+   "karte": {
+    "titel": "George Lucas",
+    "text": "George Lucas drehte „Star Wars (1977)“.",
+    "merke": "George Lucas drehte „Star Wars (1977)“."
+   }
+  },
+  {
+   "id": "fil-re-der-herr-der-ringe-filmtrilogie-2",
+   "schwierigkeit": "leicht",
+   "frage": "Bei welchem dieser Filme führte Peter Jackson Regie?",
+   "richtig": "Der Herr der Ringe (Filmtrilogie)",
+   "falsch": [
+    "Chihiros Reise ins Zauberland",
+    "Metropolis (1927)",
+    "Die Vögel"
+   ],
+   "begruendung": "Peter Jackson drehte „Der Herr der Ringe (Filmtrilogie)“.",
+   "karte": {
+    "titel": "Peter Jackson",
+    "text": "Peter Jackson drehte „Der Herr der Ringe (Filmtrilogie)“.",
+    "merke": "Peter Jackson drehte „Der Herr der Ringe (Filmtrilogie)“."
+   }
+  },
+  {
+   "id": "fil-re-chihiros-reise-ins-zauberland-2",
+   "schwierigkeit": "mittel",
+   "frage": "Bei welchem dieser Filme führte Hayao Miyazaki Regie?",
+   "richtig": "Chihiros Reise ins Zauberland",
+   "falsch": [
+    "Titanic",
+    "Pulp Fiction",
+    "Interstellar"
+   ],
+   "begruendung": "Hayao Miyazaki drehte „Chihiros Reise ins Zauberland“.",
+   "karte": {
+    "titel": "Hayao Miyazaki",
+    "text": "Hayao Miyazaki drehte „Chihiros Reise ins Zauberland“.",
+    "merke": "Hayao Miyazaki drehte „Chihiros Reise ins Zauberland“."
+   }
+  },
+  {
+   "id": "fil-re-lola-rennt-2",
+   "schwierigkeit": "mittel",
+   "frage": "Bei welchem dieser Filme führte Tom Tykwer Regie?",
+   "richtig": "Lola rennt",
+   "falsch": [
+    "Good Bye, Lenin!",
+    "Inglourious Basterds",
+    "Die Vögel"
+   ],
+   "begruendung": "Tom Tykwer drehte „Lola rennt“.",
+   "karte": {
+    "titel": "Tom Tykwer",
+    "text": "Tom Tykwer drehte „Lola rennt“.",
+    "merke": "Tom Tykwer drehte „Lola rennt“."
+   }
+  },
+  {
+   "id": "fil-re-das-leben-der-anderen-2",
+   "schwierigkeit": "schwer",
+   "frage": "Bei welchem dieser Filme führte Florian Henckel von Donnersmarck Regie?",
+   "richtig": "Das Leben der Anderen",
+   "falsch": [
+    "Im Westen nichts Neues (2022)",
+    "Pulp Fiction",
+    "Lola rennt"
+   ],
+   "begruendung": "Florian Henckel von Donnersmarck drehte „Das Leben der Anderen“.",
+   "karte": {
+    "titel": "Florian Henckel von Donnersmarck",
+    "text": "Florian Henckel von Donnersmarck drehte „Das Leben der Anderen“.",
+    "merke": "Florian Henckel von Donnersmarck drehte „Das Leben der Anderen“."
+   }
+  },
+  {
+   "id": "fil-re-good-bye-lenin-2",
+   "schwierigkeit": "schwer",
+   "frage": "Bei welchem dieser Filme führte Wolfgang Becker Regie?",
+   "richtig": "Good Bye, Lenin!",
+   "falsch": [
+    "Avatar",
+    "Terminator",
+    "Psycho"
+   ],
+   "begruendung": "Wolfgang Becker drehte „Good Bye, Lenin!“.",
+   "karte": {
+    "titel": "Wolfgang Becker",
+    "text": "Wolfgang Becker drehte „Good Bye, Lenin!“.",
+    "merke": "Wolfgang Becker drehte „Good Bye, Lenin!“."
+   }
+  },
+  {
+   "id": "fil-re-metropolis-1927-2",
+   "schwierigkeit": "schwer",
+   "frage": "Bei welchem dieser Filme führte Fritz Lang Regie?",
+   "richtig": "Metropolis (1927)",
+   "falsch": [
+    "Der Herr der Ringe (Filmtrilogie)",
+    "Avatar",
+    "Terminator"
+   ],
+   "begruendung": "Fritz Lang drehte „Metropolis (1927)“.",
+   "karte": {
+    "titel": "Fritz Lang",
+    "text": "Fritz Lang drehte „Metropolis (1927)“.",
+    "merke": "Fritz Lang drehte „Metropolis (1927)“."
+   }
+  },
+  {
+   "id": "fil-re-2001-odyssee-im-weltraum-2",
+   "schwierigkeit": "mittel",
+   "frage": "Bei welchem dieser Filme führte Stanley Kubrick Regie?",
+   "richtig": "2001: Odyssee im Weltraum",
+   "falsch": [
+    "Das Leben der Anderen",
+    "Das Boot",
+    "Die Vögel"
+   ],
+   "begruendung": "Stanley Kubrick drehte „2001: Odyssee im Weltraum“.",
+   "karte": {
+    "titel": "Stanley Kubrick",
+    "text": "Stanley Kubrick drehte „2001: Odyssee im Weltraum“.",
+    "merke": "Stanley Kubrick drehte „2001: Odyssee im Weltraum“."
+   }
+  },
+  {
+   "id": "fil-re-shining-2",
+   "schwierigkeit": "mittel",
+   "frage": "Bei welchem dieser Filme führte Stanley Kubrick Regie?",
+   "richtig": "Shining",
+   "falsch": [
+    "Pulp Fiction",
+    "E.T. – Der Außerirdische",
+    "Das Boot"
+   ],
+   "begruendung": "Stanley Kubrick drehte „Shining“.",
+   "karte": {
+    "titel": "Stanley Kubrick",
+    "text": "Stanley Kubrick drehte „Shining“.",
+    "merke": "Stanley Kubrick drehte „Shining“."
+   }
+  },
+  {
+   "id": "fil-re-barbie-2",
+   "schwierigkeit": "leicht",
+   "frage": "Bei welchem dieser Filme führte Greta Gerwig Regie?",
+   "richtig": "Barbie",
+   "falsch": [
+    "Interstellar",
+    "Parasite",
+    "Das Leben der Anderen"
+   ],
+   "begruendung": "Greta Gerwig drehte „Barbie“.",
+   "karte": {
+    "titel": "Greta Gerwig",
+    "text": "Greta Gerwig drehte „Barbie“.",
+    "merke": "Greta Gerwig drehte „Barbie“."
+   }
+  },
+  {
+   "id": "fil-re-forrest-gump-2",
+   "schwierigkeit": "mittel",
+   "frage": "Bei welchem dieser Filme führte Robert Zemeckis Regie?",
+   "richtig": "Forrest Gump",
+   "falsch": [
+    "Interstellar",
+    "Psycho",
+    "Star Wars (1977)"
+   ],
+   "begruendung": "Robert Zemeckis drehte „Forrest Gump“.",
+   "karte": {
+    "titel": "Robert Zemeckis",
+    "text": "Robert Zemeckis drehte „Forrest Gump“.",
+    "merke": "Robert Zemeckis drehte „Forrest Gump“."
+   }
+  },
+  {
+   "id": "fil-re-zurueck-in-die-zukunft-2",
+   "schwierigkeit": "mittel",
+   "frage": "Bei welchem dieser Filme führte Robert Zemeckis Regie?",
+   "richtig": "Zurück in die Zukunft",
+   "falsch": [
+    "Jurassic Park",
+    "Der weiße Hai",
+    "Psycho"
+   ],
+   "begruendung": "Robert Zemeckis drehte „Zurück in die Zukunft“.",
+   "karte": {
+    "titel": "Robert Zemeckis",
+    "text": "Robert Zemeckis drehte „Zurück in die Zukunft“.",
+    "merke": "Robert Zemeckis drehte „Zurück in die Zukunft“."
+   }
+  },
+  {
+   "id": "fil-re-parasite-2",
+   "schwierigkeit": "mittel",
+   "frage": "Bei welchem dieser Filme führte Bong Joon-ho Regie?",
+   "richtig": "Parasite",
+   "falsch": [
+    "Chihiros Reise ins Zauberland",
+    "Barbie",
+    "Inception"
+   ],
+   "begruendung": "Bong Joon-ho drehte „Parasite“.",
+   "karte": {
+    "titel": "Bong Joon-ho",
+    "text": "Bong Joon-ho drehte „Parasite“.",
+    "merke": "Bong Joon-ho drehte „Parasite“."
+   }
+  },
+  {
+   "id": "fil-re-im-westen-nichts-neues-2022-2",
+   "schwierigkeit": "schwer",
+   "frage": "Bei welchem dieser Filme führte Edward Berger Regie?",
+   "richtig": "Im Westen nichts Neues (2022)",
+   "falsch": [
+    "Metropolis (1927)",
+    "E.T. – Der Außerirdische",
+    "Das Boot"
+   ],
+   "begruendung": "Edward Berger drehte „Im Westen nichts Neues (2022)“.",
+   "karte": {
+    "titel": "Edward Berger",
+    "text": "Edward Berger drehte „Im Westen nichts Neues (2022)“.",
+    "merke": "Edward Berger drehte „Im Westen nichts Neues (2022)“."
+   }
+  },
+  {
+   "id": "fil-re-das-boot-2",
+   "schwierigkeit": "mittel",
+   "frage": "Bei welchem dieser Filme führte Wolfgang Petersen Regie?",
+   "richtig": "Das Boot",
+   "falsch": [
+    "Schindlers Liste",
+    "Titanic",
+    "Barbie"
+   ],
+   "begruendung": "Wolfgang Petersen drehte „Das Boot“.",
+   "karte": {
+    "titel": "Wolfgang Petersen",
+    "text": "Wolfgang Petersen drehte „Das Boot“.",
+    "merke": "Wolfgang Petersen drehte „Das Boot“."
+   }
+  },
+  {
+   "id": "fil-fi-darth-vader",
+   "schwierigkeit": "leicht",
+   "frage": "Aus welchem Film oder welcher Serie stammt die Figur Darth Vader?",
+   "richtig": "Star Wars",
+   "falsch": [
+    "Der König der Löwen",
+    "Pokémon",
+    "Meister Eder und sein Pumuckl"
+   ],
+   "begruendung": "Darth Vader: „Star Wars“.",
+   "karte": {
+    "titel": "Darth Vader",
+    "text": "Darth Vader: „Star Wars“.",
+    "merke": "Darth Vader: „Star Wars“."
+   },
+   "ddf": true
+  },
+  {
+   "id": "fil-fi-gandalf",
+   "schwierigkeit": "leicht",
+   "frage": "Aus welchem Film oder welcher Serie stammt die Figur Gandalf?",
+   "richtig": "Der Herr der Ringe",
+   "falsch": [
+    "The Office",
+    "Tatort Münster",
+    "Breaking Bad"
+   ],
+   "begruendung": "Gandalf: „Der Herr der Ringe“.",
+   "karte": {
+    "titel": "Gandalf",
+    "text": "Gandalf: „Der Herr der Ringe“.",
+    "merke": "Gandalf: „Der Herr der Ringe“."
+   },
+   "ddf": true
+  },
+  {
+   "id": "fil-fi-jack-sparrow",
+   "schwierigkeit": "leicht",
+   "frage": "Aus welchem Film oder welcher Serie stammt die Figur Jack Sparrow?",
+   "richtig": "Fluch der Karibik",
+   "falsch": [
+    "Dragon Ball",
+    "The Office",
+    "Zurück in die Zukunft"
+   ],
+   "begruendung": "Jack Sparrow: „Fluch der Karibik“.",
+   "karte": {
+    "titel": "Jack Sparrow",
+    "text": "Jack Sparrow: „Fluch der Karibik“.",
+    "merke": "Jack Sparrow: „Fluch der Karibik“."
+   },
+   "ddf": true
+  },
+  {
+   "id": "fil-fi-hannibal-lecter",
+   "schwierigkeit": "mittel",
+   "frage": "Aus welchem Film oder welcher Serie stammt die Figur Hannibal Lecter?",
+   "richtig": "Das Schweigen der Lämmer",
+   "falsch": [
+    "Zurück in die Zukunft",
+    "Star Wars",
+    "Squid Game"
+   ],
+   "begruendung": "Hannibal Lecter: „Das Schweigen der Lämmer“.",
+   "karte": {
+    "titel": "Hannibal Lecter",
+    "text": "Hannibal Lecter: „Das Schweigen der Lämmer“.",
+    "merke": "Hannibal Lecter: „Das Schweigen der Lämmer“."
+   }
+  },
+  {
+   "id": "fil-fi-walter-white",
+   "schwierigkeit": "leicht",
+   "frage": "Aus welchem Film oder welcher Serie stammt die Figur Walter White?",
+   "richtig": "Breaking Bad",
+   "falsch": [
+    "Tatort Münster",
+    "Peaky Blinders",
+    "Das Schweigen der Lämmer"
+   ],
+   "begruendung": "Walter White: „Breaking Bad“.",
+   "karte": {
+    "titel": "Walter White",
+    "text": "Walter White: „Breaking Bad“.",
+    "merke": "Walter White: „Breaking Bad“."
+   },
+   "ddf": true
+  },
+  {
+   "id": "fil-fi-eleven",
+   "schwierigkeit": "leicht",
+   "frage": "Aus welchem Film oder welcher Serie stammt die Figur Eleven?",
+   "richtig": "Stranger Things",
+   "falsch": [
+    "Zurück in die Zukunft",
+    "Peaky Blinders",
+    "Der Herr der Ringe"
+   ],
+   "begruendung": "Eleven: „Stranger Things“.",
+   "karte": {
+    "titel": "Eleven",
+    "text": "Eleven: „Stranger Things“.",
+    "merke": "Eleven: „Stranger Things“."
+   },
+   "ddf": true
+  },
+  {
+   "id": "fil-fi-daenerys-targaryen",
+   "schwierigkeit": "leicht",
+   "frage": "Aus welchem Film oder welcher Serie stammt die Figur Daenerys Targaryen?",
+   "richtig": "Game of Thrones",
+   "falsch": [
+    "Shrek",
+    "Die Sopranos",
+    "Lilo & Stitch"
+   ],
+   "begruendung": "Daenerys Targaryen: „Game of Thrones“.",
+   "karte": {
+    "titel": "Daenerys Targaryen",
+    "text": "Daenerys Targaryen: „Game of Thrones“.",
+    "merke": "Daenerys Targaryen: „Game of Thrones“."
+   },
+   "ddf": true
+  },
+  {
+   "id": "fil-fi-sheldon-cooper",
+   "schwierigkeit": "leicht",
+   "frage": "Aus welchem Film oder welcher Serie stammt die Figur Sheldon Cooper?",
+   "richtig": "The Big Bang Theory",
+   "falsch": [
+    "Squid Game",
+    "Dragon Ball",
+    "Peaky Blinders"
+   ],
+   "begruendung": "Sheldon Cooper: „The Big Bang Theory“.",
+   "karte": {
+    "titel": "Sheldon Cooper",
+    "text": "Sheldon Cooper: „The Big Bang Theory“.",
+    "merke": "Sheldon Cooper: „The Big Bang Theory“."
+   },
+   "ddf": true
+  },
+  {
+   "id": "fil-fi-homer-simpson",
+   "schwierigkeit": "leicht",
+   "frage": "Aus welchem Film oder welcher Serie stammt die Figur Homer Simpson?",
+   "richtig": "Die Simpsons",
+   "falsch": [
+    "Findet Nemo",
+    "Meister Eder und sein Pumuckl",
+    "Forrest Gump"
+   ],
+   "begruendung": "Homer Simpson: „Die Simpsons“.",
+   "karte": {
+    "titel": "Homer Simpson",
+    "text": "Homer Simpson: „Die Simpsons“.",
+    "merke": "Homer Simpson: „Die Simpsons“."
+   },
+   "ddf": true
+  },
+  {
+   "id": "fil-fi-michael-scott",
+   "schwierigkeit": "mittel",
+   "frage": "Aus welchem Film oder welcher Serie stammt die Figur Michael Scott?",
+   "richtig": "The Office",
+   "falsch": [
+    "Haus des Geldes",
+    "Meister Eder und sein Pumuckl",
+    "Das Schweigen der Lämmer"
+   ],
+   "begruendung": "Michael Scott: „The Office“.",
+   "karte": {
+    "titel": "Michael Scott",
+    "text": "Michael Scott: „The Office“.",
+    "merke": "Michael Scott: „The Office“."
+   }
+  },
+  {
+   "id": "fil-fi-tony-soprano",
+   "schwierigkeit": "schwer",
+   "frage": "Aus welchem Film oder welcher Serie stammt die Figur Tony Soprano?",
+   "richtig": "Die Sopranos",
+   "falsch": [
+    "Die Eiskönigin",
+    "Shrek",
+    "Game of Thrones"
+   ],
+   "begruendung": "Tony Soprano: „Die Sopranos“.",
+   "karte": {
+    "titel": "Tony Soprano",
+    "text": "Tony Soprano: „Die Sopranos“.",
+    "merke": "Tony Soprano: „Die Sopranos“."
+   }
+  },
+  {
+   "id": "fil-fi-ross-geller",
+   "schwierigkeit": "leicht",
+   "frage": "Aus welchem Film oder welcher Serie stammt die Figur Ross Geller?",
+   "richtig": "Friends",
+   "falsch": [
+    "Breaking Bad",
+    "Fluch der Karibik",
+    "Toy Story"
+   ],
+   "begruendung": "Ross Geller: „Friends“.",
+   "karte": {
+    "titel": "Ross Geller",
+    "text": "Ross Geller: „Friends“.",
+    "merke": "Ross Geller: „Friends“."
+   },
+   "ddf": true
+  },
+  {
+   "id": "fil-fi-wednesday-addams",
+   "schwierigkeit": "leicht",
+   "frage": "Aus welchem Film oder welcher Serie stammt die Figur Wednesday Addams?",
+   "richtig": "Wednesday",
+   "falsch": [
+    "Squid Game",
+    "Meister Eder und sein Pumuckl",
+    "Die Simpsons"
+   ],
+   "begruendung": "Wednesday Addams: „Wednesday“.",
+   "karte": {
+    "titel": "Wednesday Addams",
+    "text": "Wednesday Addams: „Wednesday“.",
+    "merke": "Wednesday Addams: „Wednesday“."
+   },
+   "ddf": true
+  },
+  {
+   "id": "fil-fi-professor",
+   "schwierigkeit": "mittel",
+   "frage": "Aus welchem Film oder welcher Serie stammt die Figur Professor?",
+   "richtig": "Haus des Geldes",
+   "falsch": [
+    "Das Schweigen der Lämmer",
+    "The Big Bang Theory",
+    "Toy Story"
+   ],
+   "begruendung": "Professor: „Haus des Geldes“.",
+   "karte": {
+    "titel": "Professor",
+    "text": "Professor: „Haus des Geldes“.",
+    "merke": "Professor: „Haus des Geldes“."
+   }
+  },
+  {
+   "id": "fil-fi-seong-gi-hun",
+   "schwierigkeit": "mittel",
+   "frage": "Aus welchem Film oder welcher Serie stammt die Figur Seong Gi-hun?",
+   "richtig": "Squid Game",
+   "falsch": [
+    "Das Schweigen der Lämmer",
+    "Toy Story",
+    "Forrest Gump"
+   ],
+   "begruendung": "Seong Gi-hun: „Squid Game“.",
+   "karte": {
+    "titel": "Seong Gi-hun",
+    "text": "Seong Gi-hun: „Squid Game“.",
+    "merke": "Seong Gi-hun: „Squid Game“."
+   }
+  },
+  {
+   "id": "fil-fi-marty-mcfly",
+   "schwierigkeit": "leicht",
+   "frage": "Aus welchem Film oder welcher Serie stammt die Figur Marty McFly?",
+   "richtig": "Zurück in die Zukunft",
+   "falsch": [
+    "Meister Eder und sein Pumuckl",
+    "Findet Nemo",
+    "Das Schweigen der Lämmer"
+   ],
+   "begruendung": "Marty McFly: „Zurück in die Zukunft“.",
+   "karte": {
+    "titel": "Marty McFly",
+    "text": "Marty McFly: „Zurück in die Zukunft“.",
+    "merke": "Marty McFly: „Zurück in die Zukunft“."
+   },
+   "ddf": true
+  },
+  {
+   "id": "fil-fi-forrest-gump",
+   "schwierigkeit": "leicht",
+   "frage": "Aus welchem Film oder welcher Serie stammt die Figur Forrest Gump?",
+   "richtig": "Forrest Gump",
+   "falsch": [
+    "Das Schweigen der Lämmer",
+    "Zurück in die Zukunft",
+    "Breaking Bad"
+   ],
+   "begruendung": "Forrest Gump: „Forrest Gump“.",
+   "karte": {
+    "titel": "Forrest Gump",
+    "text": "Forrest Gump: „Forrest Gump“.",
+    "merke": "Forrest Gump: „Forrest Gump“."
+   },
+   "ddf": true
+  },
+  {
+   "id": "fil-fi-rick-grimes",
+   "schwierigkeit": "mittel",
+   "frage": "Aus welchem Film oder welcher Serie stammt die Figur Rick Grimes?",
+   "richtig": "The Walking Dead",
+   "falsch": [
+    "Lilo & Stitch",
+    "Fluch der Karibik",
+    "Findet Nemo"
+   ],
+   "begruendung": "Rick Grimes: „The Walking Dead“.",
+   "karte": {
+    "titel": "Rick Grimes",
+    "text": "Rick Grimes: „The Walking Dead“.",
+    "merke": "Rick Grimes: „The Walking Dead“."
+   }
+  },
+  {
+   "id": "fil-fi-thomas-shelby",
+   "schwierigkeit": "mittel",
+   "frage": "Aus welchem Film oder welcher Serie stammt die Figur Thomas Shelby?",
+   "richtig": "Peaky Blinders",
+   "falsch": [
+    "Die Eiskönigin",
+    "Haus des Geldes",
+    "Dragon Ball"
+   ],
+   "begruendung": "Thomas Shelby: „Peaky Blinders“.",
+   "karte": {
+    "titel": "Thomas Shelby",
+    "text": "Thomas Shelby: „Peaky Blinders“.",
+    "merke": "Thomas Shelby: „Peaky Blinders“."
+   }
+  },
+  {
+   "id": "fil-fi-kommissar-thiel-und-professor-boerne",
+   "schwierigkeit": "mittel",
+   "frage": "Aus welchem Film oder welcher Serie stammt das Duo Kommissar Thiel und Professor Boerne?",
+   "richtig": "Tatort Münster",
+   "falsch": [
+    "Findet Nemo",
+    "Der Herr der Ringe",
+    "The Walking Dead"
+   ],
+   "begruendung": "Kommissar Thiel und Professor Boerne: „Tatort Münster“.",
+   "karte": {
+    "titel": "Kommissar Thiel und Professor Boerne",
+    "text": "Kommissar Thiel und Professor Boerne: „Tatort Münster“.",
+    "merke": "Kommissar Thiel und Professor Boerne: „Tatort Münster“."
+   }
+  },
+  {
+   "id": "fil-fi-pumuckl",
+   "schwierigkeit": "leicht",
+   "frage": "Aus welchem Film oder welcher Serie stammt die Figur Pumuckl?",
+   "richtig": "Meister Eder und sein Pumuckl",
+   "falsch": [
+    "Haus des Geldes",
+    "Tatort Münster",
+    "The Big Bang Theory"
+   ],
+   "begruendung": "Pumuckl: „Meister Eder und sein Pumuckl“.",
+   "karte": {
+    "titel": "Pumuckl",
+    "text": "Pumuckl: „Meister Eder und sein Pumuckl“.",
+    "merke": "Pumuckl: „Meister Eder und sein Pumuckl“."
+   },
+   "ddf": true
+  },
+  {
+   "id": "fil-fi-shrek",
+   "schwierigkeit": "leicht",
+   "frage": "Aus welchem Film oder welcher Serie stammt die Figur Shrek?",
+   "richtig": "Shrek",
+   "falsch": [
+    "Der Herr der Ringe",
+    "Squid Game",
+    "Peaky Blinders"
+   ],
+   "begruendung": "Shrek: „Shrek“.",
+   "karte": {
+    "titel": "Shrek",
+    "text": "Shrek: „Shrek“.",
+    "merke": "Shrek: „Shrek“."
+   },
+   "ddf": true
+  },
+  {
+   "id": "fil-fi-woody",
+   "schwierigkeit": "leicht",
+   "frage": "Aus welchem Film oder welcher Serie stammt die Figur Woody?",
+   "richtig": "Toy Story",
+   "falsch": [
+    "Star Wars",
+    "Haus des Geldes",
+    "Fluch der Karibik"
+   ],
+   "begruendung": "Woody: „Toy Story“.",
+   "karte": {
+    "titel": "Woody",
+    "text": "Woody: „Toy Story“.",
+    "merke": "Woody: „Toy Story“."
+   },
+   "ddf": true
+  },
+  {
+   "id": "fil-fi-nemo",
+   "schwierigkeit": "leicht",
+   "frage": "Aus welchem Film oder welcher Serie stammt die Figur Nemo?",
+   "richtig": "Findet Nemo",
+   "falsch": [
+    "Friends",
+    "Haus des Geldes",
+    "Breaking Bad"
+   ],
+   "begruendung": "Nemo: „Findet Nemo“.",
+   "karte": {
+    "titel": "Nemo",
+    "text": "Nemo: „Findet Nemo“.",
+    "merke": "Nemo: „Findet Nemo“."
+   },
+   "ddf": true
+  },
+  {
+   "id": "fil-fi-simba",
+   "schwierigkeit": "leicht",
+   "frage": "Aus welchem Film oder welcher Serie stammt die Figur Simba?",
+   "richtig": "Der König der Löwen",
+   "falsch": [
+    "Forrest Gump",
+    "Friends",
+    "Stranger Things"
+   ],
+   "begruendung": "Simba: „Der König der Löwen“.",
+   "karte": {
+    "titel": "Simba",
+    "text": "Simba: „Der König der Löwen“.",
+    "merke": "Simba: „Der König der Löwen“."
+   },
+   "ddf": true
+  },
+  {
+   "id": "fil-fi-elsa",
+   "schwierigkeit": "leicht",
+   "frage": "Aus welchem Film oder welcher Serie stammt die Figur Elsa?",
+   "richtig": "Die Eiskönigin",
+   "falsch": [
+    "Meister Eder und sein Pumuckl",
+    "Peaky Blinders",
+    "Friends"
+   ],
+   "begruendung": "Elsa: „Die Eiskönigin“.",
+   "karte": {
+    "titel": "Elsa",
+    "text": "Elsa: „Die Eiskönigin“.",
+    "merke": "Elsa: „Die Eiskönigin“."
+   },
+   "ddf": true
+  },
+  {
+   "id": "fil-fi-stitch-experiment-626",
+   "schwierigkeit": "mittel",
+   "frage": "Aus welchem Film oder welcher Serie stammt die Figur Stitch (Experiment 626)?",
+   "richtig": "Lilo & Stitch",
+   "falsch": [
+    "Meister Eder und sein Pumuckl",
+    "The Walking Dead",
+    "Der Herr der Ringe"
+   ],
+   "begruendung": "Stitch (Experiment 626): „Lilo & Stitch“.",
+   "karte": {
+    "titel": "Stitch (Experiment 626)",
+    "text": "Stitch (Experiment 626): „Lilo & Stitch“.",
+    "merke": "Stitch (Experiment 626): „Lilo & Stitch“."
+   }
+  },
+  {
+   "id": "fil-fi-ash-ketchum",
+   "schwierigkeit": "leicht",
+   "frage": "Aus welchem Film oder welcher Serie stammt die Figur Ash Ketchum?",
+   "richtig": "Pokémon",
+   "falsch": [
+    "Fluch der Karibik",
+    "Toy Story",
+    "Stranger Things"
+   ],
+   "begruendung": "Ash Ketchum: „Pokémon“.",
+   "karte": {
+    "titel": "Ash Ketchum",
+    "text": "Ash Ketchum: „Pokémon“.",
+    "merke": "Ash Ketchum: „Pokémon“."
+   },
+   "ddf": true
+  },
+  {
+   "id": "fil-fi-son-goku",
+   "schwierigkeit": "mittel",
+   "frage": "Aus welchem Film oder welcher Serie stammt die Figur Son Goku?",
+   "richtig": "Dragon Ball",
+   "falsch": [
+    "Shrek",
+    "Der Herr der Ringe",
+    "Findet Nemo"
+   ],
+   "begruendung": "Son Goku: „Dragon Ball“.",
+   "karte": {
+    "titel": "Son Goku",
+    "text": "Son Goku: „Dragon Ball“.",
+    "merke": "Son Goku: „Dragon Ball“."
+   }
+  },
+  {
+   "id": "fil-j-titanic-im-kino",
+   "schwierigkeit": "mittel",
+   "frage": "In welchem Jahr kam James Camerons „Titanic“ ins Kino?",
+   "richtig": "1997",
+   "falsch": [
+    "1970",
+    "1977",
+    "2014"
+   ],
+   "begruendung": "Titanic im Kino: 1997.",
+   "karte": {
+    "titel": "Titanic im Kino",
+    "text": "Der Film gewann elf Oscars.",
+    "merke": "Titanic im Kino: 1997."
+   }
+  },
+  {
+   "id": "fil-j-erster-star-wars-film",
+   "schwierigkeit": "mittel",
+   "frage": "In welchem Jahr kam der erste „Star Wars“-Film ins Kino?",
+   "richtig": "1977",
+   "falsch": [
+    "1997",
+    "2001",
+    "1937"
+   ],
+   "begruendung": "Erster Star-Wars-Film: 1977.",
+   "karte": {
+    "titel": "Erster Star-Wars-Film",
+    "text": "Der Film heißt heute „Episode IV – Eine neue Hoffnung“.",
+    "merke": "Erster Star-Wars-Film: 1977."
+   }
+  },
+  {
+   "id": "fil-j-erster-harry-potter-film",
+   "schwierigkeit": "mittel",
+   "frage": "In welchem Jahr kam der erste „Harry Potter“-Film ins Kino?",
+   "richtig": "2001",
+   "falsch": [
+    "1970",
+    "1997",
+    "2019"
+   ],
+   "begruendung": "Erster Harry-Potter-Film: 2001.",
+   "karte": {
+    "titel": "Erster Harry-Potter-Film",
+    "text": "Daniel Radcliffe war beim Dreh elf Jahre alt.",
+    "merke": "Erster Harry-Potter-Film: 2001."
+   }
+  },
+  {
+   "id": "fil-j-erste-folge-der-simpsons-als-serie",
+   "schwierigkeit": "schwer",
+   "frage": "In welchem Jahr lief die erste reguläre Folge der „Simpsons“?",
+   "richtig": "1989",
+   "falsch": [
+    "1970",
+    "1977",
+    "2014"
+   ],
+   "begruendung": "Erste Folge der Simpsons als Serie: 1989.",
+   "karte": {
+    "titel": "Erste Folge der Simpsons als Serie",
+    "text": "Die Simpsons sind die am längsten laufende Zeichentrickserie der USA.",
+    "merke": "Erste Folge der Simpsons als Serie: 1989."
+   }
+  },
+  {
+   "id": "fil-j-erste-folge-tatort",
+   "schwierigkeit": "schwer",
+   "frage": "In welchem Jahr lief der erste „Tatort“ im Fernsehen?",
+   "richtig": "1970",
+   "falsch": [
+    "1997",
+    "1989",
+    "2001"
+   ],
+   "begruendung": "Erste Folge „Tatort“: 1970.",
+   "karte": {
+    "titel": "Erste Folge „Tatort“",
+    "text": "Die erste Folge hieß „Taxi nach Leipzig“.",
+    "merke": "Erste Folge „Tatort“: 1970."
+   }
+  },
+  {
+   "id": "fil-j-erste-oscar-verleihung",
+   "schwierigkeit": "schwer",
+   "frage": "In welchem Jahr fand die erste Oscar-Verleihung statt?",
+   "richtig": "1929",
+   "falsch": [
+    "1937",
+    "1926",
+    "1927"
+   ],
+   "begruendung": "Erste Oscar-Verleihung: 1929.",
+   "karte": {
+    "titel": "Erste Oscar-Verleihung",
+    "text": "Die erste Verleihung dauerte nur rund 15 Minuten.",
+    "merke": "Erste Oscar-Verleihung: 1929."
+   }
+  },
+  {
+   "id": "fil-j-netflix-startet-in-deutschland",
+   "schwierigkeit": "mittel",
+   "frage": "In welchem Jahr startete Netflix in Deutschland?",
+   "richtig": "2014",
+   "falsch": [
+    "1997",
+    "1977",
+    "1995"
+   ],
+   "begruendung": "Netflix startet in Deutschland: 2014.",
+   "karte": {
+    "titel": "Netflix startet in Deutschland",
+    "text": "Netflix verschickte in den USA anfangs DVDs per Post.",
+    "merke": "Netflix startet in Deutschland: 2014."
+   }
+  },
+  {
+   "id": "fil-j-erster-langfilm-von-disney",
+   "schwierigkeit": "schwer",
+   "frage": "In welchem Jahr kam Disneys „Schneewittchen und die sieben Zwerge“ heraus?",
+   "richtig": "1937",
+   "falsch": [
+    "1977",
+    "1929",
+    "1970"
+   ],
+   "begruendung": "Erster Langfilm von Disney: 1937.",
+   "karte": {
+    "titel": "Erster Langfilm von Disney",
+    "text": "Es war der erste abendfüllende Zeichentrickfilm aus Hollywood.",
+    "merke": "Erster Langfilm von Disney: 1937."
+   }
+  },
+  {
+   "id": "fil-j-erster-pixar-film",
+   "schwierigkeit": "mittel",
+   "frage": "In welchem Jahr kam „Toy Story“ als erster komplett computeranimierter Kinofilm heraus?",
+   "richtig": "1995",
+   "falsch": [
+    "2019",
+    "1970",
+    "1997"
+   ],
+   "begruendung": "Erster Pixar-Film: 1995.",
+   "karte": {
+    "titel": "Erster Pixar-Film",
+    "text": "Pixar arbeitete vier Jahre an dem Film.",
+    "merke": "Erster Pixar-Film: 1995."
+   }
+  },
+  {
+   "id": "fil-j-avengers-endgame",
+   "schwierigkeit": "mittel",
+   "frage": "In welchem Jahr kam „Avengers: Endgame“ ins Kino?",
+   "richtig": "2019",
+   "falsch": [
+    "1997",
+    "1995",
+    "2014"
+   ],
+   "begruendung": "Avengers: Endgame: 2019.",
+   "karte": {
+    "titel": "Avengers: Endgame",
+    "text": "Der Film war kurzzeitig der erfolgreichste Film aller Zeiten.",
+    "merke": "Avengers: Endgame: 2019."
+   }
+  }
+ ]
+}

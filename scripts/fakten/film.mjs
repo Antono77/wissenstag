@@ -1,0 +1,77 @@
+// Faktentabellen Film & Serien
+export default {
+  klasse: 'film',
+  tabellen: [
+    {
+      prefix: 'fil-re',
+      spalten: ['film', 'regie', 's'],
+      zeilen: [
+        ['Der weiße Hai', 'Steven Spielberg', 1], ['E.T. – Der Außerirdische', 'Steven Spielberg', 1], ['Jurassic Park', 'Steven Spielberg', 1],
+        ['Schindlers Liste', 'Steven Spielberg', 2], ['Titanic', 'James Cameron', 1], ['Avatar', 'James Cameron', 1], ['Terminator', 'James Cameron', 2],
+        ['Pulp Fiction', 'Quentin Tarantino', 1], ['Inglourious Basterds', 'Quentin Tarantino', 2], ['Inception', 'Christopher Nolan', 1],
+        ['Oppenheimer', 'Christopher Nolan', 1], ['Interstellar', 'Christopher Nolan', 2], ['Der Pate', 'Francis Ford Coppola', 2],
+        ['Psycho', 'Alfred Hitchcock', 1], ['Die Vögel', 'Alfred Hitchcock', 2], ['Star Wars (1977)', 'George Lucas', 1],
+        ['Der Herr der Ringe (Filmtrilogie)', 'Peter Jackson', 1], ['Chihiros Reise ins Zauberland', 'Hayao Miyazaki', 2],
+        ['Lola rennt', 'Tom Tykwer', 2], ['Das Leben der Anderen', 'Florian Henckel von Donnersmarck', 3], ['Good Bye, Lenin!', 'Wolfgang Becker', 3],
+        ['Metropolis (1927)', 'Fritz Lang', 3], ['2001: Odyssee im Weltraum', 'Stanley Kubrick', 2], ['Shining', 'Stanley Kubrick', 2],
+        ['Barbie', 'Greta Gerwig', 1], ['Forrest Gump', 'Robert Zemeckis', 2], ['Zurück in die Zukunft', 'Robert Zemeckis', 2],
+        ['Parasite', 'Bong Joon-ho', 2], ['Im Westen nichts Neues (2022)', 'Edward Berger', 3], ['Das Boot', 'Wolfgang Petersen', 2],
+      ],
+      fragen: [{
+        frage: (r) => `Wer führte Regie bei „${r.film}“?`,
+        richtig: (r) => r.regie,
+        titel: (r) => r.film,
+        merke: (r) => `„${r.film}“: Regie ${r.regie}.`,
+      }, {
+        frage: (r) => `Bei welchem dieser Filme führte ${r.regie} Regie?`,
+        richtig: (r) => r.film,
+        gleicheGruppe: (x, r) => x.regie !== r.regie,
+        titel: (r) => r.regie,
+        merke: (r) => `${r.regie} drehte „${r.film}“.`,
+      }],
+    },
+    {
+      prefix: 'fil-fi',
+      spalten: ['figur', 'werk', 's'],
+      zeilen: [
+        ['Darth Vader', 'Star Wars', 1], ['Gandalf', 'Der Herr der Ringe', 1], ['Jack Sparrow', 'Fluch der Karibik', 1], ['Hannibal Lecter', 'Das Schweigen der Lämmer', 2],
+        ['Walter White', 'Breaking Bad', 1], ['Eleven', 'Stranger Things', 1], ['Daenerys Targaryen', 'Game of Thrones', 1], ['Sheldon Cooper', 'The Big Bang Theory', 1],
+        ['Homer Simpson', 'Die Simpsons', 1], ['Michael Scott', 'The Office', 2], ['Tony Soprano', 'Die Sopranos', 3], ['Ross Geller', 'Friends', 1],
+        ['Wednesday Addams', 'Wednesday', 1], ['Professor', 'Haus des Geldes', 2], ['Seong Gi-hun', 'Squid Game', 2], ['Marty McFly', 'Zurück in die Zukunft', 1],
+        ['Forrest Gump', 'Forrest Gump', 1], ['Rick Grimes', 'The Walking Dead', 2], ['Thomas Shelby', 'Peaky Blinders', 2], 
+        ['Kommissar Thiel und Professor Boerne', 'Tatort Münster', 2], ['Pumuckl', 'Meister Eder und sein Pumuckl', 1], ['Shrek', 'Shrek', 1], ['Woody', 'Toy Story', 1],
+        ['Nemo', 'Findet Nemo', 1], ['Simba', 'Der König der Löwen', 1], ['Elsa', 'Die Eiskönigin', 1], ['Stitch (Experiment 626)', 'Lilo & Stitch', 2],
+        ['Ash Ketchum', 'Pokémon', 1], ['Son Goku', 'Dragon Ball', 2],
+      ],
+      fragen: [{
+        frage: (r) => `Aus welchem Film oder welcher Serie stammt ${r.figur.includes(' und ') ? 'das Duo' : 'die Figur'} ${r.figur}?`,
+        richtig: (r) => r.werk,
+        titel: (r) => r.figur,
+        merke: (r) => `${r.figur}: „${r.werk}“.`,
+        ddf: (r) => r.s === 1,
+      }],
+    },
+    {
+      prefix: 'fil-j',
+      spalten: ['titel', 'jahr', 'satz', 's', 'info'],
+      zeilen: [
+        ['Titanic im Kino', 1997, 'kam James Camerons „Titanic“ ins Kino', 2, 'Der Film gewann elf Oscars.'],
+        ['Erster Star-Wars-Film', 1977, 'kam der erste „Star Wars“-Film ins Kino', 2, 'Der Film heißt heute „Episode IV – Eine neue Hoffnung“.'],
+        ['Erster Harry-Potter-Film', 2001, 'kam der erste „Harry Potter“-Film ins Kino', 2, 'Daniel Radcliffe war beim Dreh elf Jahre alt.'],
+        ['Erste Folge der Simpsons als Serie', 1989, 'lief die erste reguläre Folge der „Simpsons“', 3, 'Die Simpsons sind die am längsten laufende Zeichentrickserie der USA.'],
+        ['Erste Folge „Tatort“', 1970, 'lief der erste „Tatort“ im Fernsehen', 3, 'Die erste Folge hieß „Taxi nach Leipzig“.'],
+        ['Erste Oscar-Verleihung', 1929, 'fand die erste Oscar-Verleihung statt', 3, 'Die erste Verleihung dauerte nur rund 15 Minuten.'],
+        ['Netflix startet in Deutschland', 2014, 'startete Netflix in Deutschland', 2, 'Netflix verschickte in den USA anfangs DVDs per Post.'],
+        ['Erster Langfilm von Disney', 1937, 'kam Disneys „Schneewittchen und die sieben Zwerge“ heraus', 3, 'Es war der erste abendfüllende Zeichentrickfilm aus Hollywood.'],
+        ['Erster Pixar-Film', 1995, 'kam „Toy Story“ als erster komplett computeranimierter Kinofilm heraus', 2, 'Pixar arbeitete vier Jahre an dem Film.'],
+        ['Avengers: Endgame', 2019, 'kam „Avengers: Endgame“ ins Kino', 2, 'Der Film war kurzzeitig der erfolgreichste Film aller Zeiten.'],
+      ],
+      fragen: [{
+        typ: 'jahr',
+        frage: (r) => `In welchem Jahr ${r.satz}?`,
+        richtig: (r) => r.jahr,
+        merke: (r) => `${r.titel}: ${r.jahr}.`,
+      }],
+    },
+  ],
+};
