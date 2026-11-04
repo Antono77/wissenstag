@@ -1,0 +1,389 @@
+{
+  "klasse": "sprache",
+  "fragen": [
+    {
+      "id": "spr-001",
+      "schwierigkeit": "mittel",
+      "ddf": true,
+      "frage": "Welcher Mund tut sprichwörtlich Wahrheit kund?",
+      "richtig": "Kindermund",
+      "falsch": [
+        "Volksmund",
+        "Muttermund",
+        "Lügenmund"
+      ],
+      "begruendung": "Das Sprichwort lautet „Kindermund tut Wahrheit kund“. Kinder sagen ungefiltert, was sie denken.",
+      "karte": {
+        "titel": "Kindermund",
+        "text": "Der „Volksmund“ bezeichnet dagegen, wie Leute etwas umgangssprachlich nennen.",
+        "merke": "Kindermund tut Wahrheit kund."
+      }
+    },
+    {
+      "id": "spr-002",
+      "schwierigkeit": "leicht",
+      "ddf": true,
+      "frage": "Welches Wort schreibt man immer falsch?",
+      "richtig": "Falsch",
+      "falsch": [
+        "Rhythmus",
+        "Standard",
+        "Reparatur"
+      ],
+      "begruendung": "Das Wort „falsch“ schreibt man immer „falsch“. Ein klassischer Scherz unter den Fangfragen.",
+      "karte": {
+        "titel": "Fangfrage",
+        "text": "„Rhythmus“ und „Standard“ gelten als Wörter, die viele falsch schreiben. Die Frage zielt aber auf das Wort selbst.",
+        "merke": "Immer „falsch“ geschrieben: das Wort falsch."
+      }
+    },
+    {
+      "id": "spr-003",
+      "schwierigkeit": "leicht",
+      "ddf": true,
+      "frage": "Wie viele Buchstaben hat das Wort „fünf“?",
+      "richtig": "4",
+      "falsch": [
+        "5",
+        "3",
+        "6"
+      ],
+      "alias": [
+        "vier"
+      ],
+      "begruendung": "F, ü, n, f: vier Buchstaben. Die Zahl im Wort lenkt ab.",
+      "karte": {
+        "titel": "Buchstaben zählen",
+        "text": "Das Wort „vier“ hat übrigens genau vier Buchstaben, es beschreibt sich selbst.",
+        "merke": "„fünf“ hat vier Buchstaben."
+      }
+    },
+    {
+      "id": "spr-004",
+      "schwierigkeit": "mittel",
+      "ddf": true,
+      "frage": "Wie viele Silben hat das Wort „Universität“?",
+      "richtig": "5",
+      "falsch": [
+        "4",
+        "6",
+        "3"
+      ],
+      "alias": [
+        "fünf"
+      ],
+      "begruendung": "U-ni-ver-si-tät: fünf Silben.",
+      "karte": {
+        "titel": "Silben",
+        "text": "Klatsch beim Sprechen mit: Jedes Klatschen ist eine Silbe.",
+        "merke": "U-ni-ver-si-tät = 5 Silben."
+      }
+    },
+    {
+      "id": "spr-005",
+      "schwierigkeit": "mittel",
+      "ddf": true,
+      "frage": "Mit welchem Fragewort fragt man nach dem Genitiv?",
+      "richtig": "Wessen?",
+      "falsch": [
+        "Wem?",
+        "Wen?",
+        "Wer?"
+      ],
+      "alias": [
+        "wessen"
+      ],
+      "begruendung": "Nominativ: Wer? Genitiv: Wessen? Dativ: Wem? Akkusativ: Wen?",
+      "karte": {
+        "titel": "Vier Fälle",
+        "text": "Wessen Buch ist das? Das Buch des Lehrers. Der Genitiv zeigt Besitz an.",
+        "merke": "Wer, wessen, wem, wen."
+      }
+    },
+    {
+      "id": "spr-006",
+      "schwierigkeit": "mittel",
+      "frage": "Zu welcher Wortart gehören „schnell“, „rot“ und „groß“?",
+      "richtig": "Adjektive",
+      "falsch": [
+        "Verben",
+        "Adverbien",
+        "Nomen"
+      ],
+      "alias": [
+        "Adjektiv",
+        "Eigenschaftswörter"
+      ],
+      "begruendung": "Adjektive beschreiben Eigenschaften und lassen sich steigern: schnell, schneller, am schnellsten.",
+      "karte": {
+        "titel": "Wortarten",
+        "text": "Nomen sind Namenwörter, Verben Tunwörter, Adjektive Wiewörter.",
+        "merke": "Adjektiv = Wiewort, steigerbar."
+      }
+    },
+    {
+      "id": "spr-007",
+      "schwierigkeit": "leicht",
+      "frage": "Was ist das Gegenteil von „optimistisch“?",
+      "richtig": "pessimistisch",
+      "falsch": [
+        "realistisch",
+        "egoistisch",
+        "romantisch"
+      ],
+      "alias": [
+        "Pessimistisch"
+      ],
+      "begruendung": "Optimisten erwarten Gutes, Pessimisten Schlechtes.",
+      "karte": {
+        "titel": "Optimist und Pessimist",
+        "text": "„Optimus“ heißt auf Latein der Beste, „pessimus“ der Schlechteste.",
+        "merke": "Optimistisch ↔ pessimistisch."
+      }
+    },
+    {
+      "id": "spr-008",
+      "schwierigkeit": "mittel",
+      "frage": "Was bedeutet „Ich verstehe nur Bahnhof“?",
+      "richtig": "Ich verstehe gar nichts",
+      "falsch": [
+        "Ich will verreisen",
+        "Ich habe es eilig",
+        "Ich verstehe alles"
+      ],
+      "begruendung": "Die Wendung stammt vermutlich von Soldaten im Ersten Weltkrieg, die nur noch an den Bahnhof und die Heimfahrt dachten.",
+      "karte": {
+        "titel": "Nur Bahnhof",
+        "text": "Wer „nur Bahnhof“ versteht, kann einem Gespräch nicht folgen.",
+        "merke": "Nur Bahnhof verstehen = nichts verstehen."
+      }
+    },
+    {
+      "id": "spr-009",
+      "schwierigkeit": "leicht",
+      "ddf": true,
+      "frage": "Wie heißt „Katze“ auf Englisch?",
+      "richtig": "cat",
+      "falsch": [
+        "dog",
+        "mouse",
+        "kit"
+      ],
+      "alias": [
+        "Cat"
+      ],
+      "begruendung": "Katze heißt auf Englisch „cat“, auf Französisch „chat“, auf Spanisch „gato“.",
+      "karte": {
+        "titel": "Katze in vielen Sprachen",
+        "text": "Das Kätzchen heißt auf Englisch „kitten“.",
+        "merke": "Katze: cat, chat, gato."
+      }
+    },
+    {
+      "id": "spr-010",
+      "schwierigkeit": "mittel",
+      "frage": "Welche Sprache hat weltweit die meisten Muttersprachler?",
+      "richtig": "Chinesisch (Mandarin)",
+      "falsch": [
+        "Englisch",
+        "Spanisch",
+        "Hindi"
+      ],
+      "alias": [
+        "Mandarin",
+        "Chinesisch"
+      ],
+      "begruendung": "Rund 900 Millionen Menschen sprechen Mandarin als Muttersprache. Englisch hat dafür die meisten Sprecher insgesamt.",
+      "karte": {
+        "titel": "Weltsprachen",
+        "text": "Spanisch folgt bei den Muttersprachlern auf Platz zwei. Deutsch hat rund 75 bis 100 Millionen Muttersprachler.",
+        "merke": "Meiste Muttersprachler: Mandarin. Meiste Sprecher insgesamt: Englisch."
+      },
+      "stand": "2026-11"
+    },
+    {
+      "id": "spr-011",
+      "schwierigkeit": "mittel",
+      "frage": "Wie viele Buchstaben hat das deutsche Alphabet ohne Umlaute und ß?",
+      "richtig": "26",
+      "falsch": [
+        "24",
+        "28",
+        "30"
+      ],
+      "alias": [
+        "sechsundzwanzig"
+      ],
+      "begruendung": "Das Grundalphabet hat 26 Buchstaben. Mit ä, ö, ü und ß sind es 30.",
+      "karte": {
+        "titel": "Alphabet",
+        "text": "Seit 2017 gibt es offiziell auch ein großes ß (ẞ).",
+        "merke": "26 Buchstaben, mit Umlauten und ß: 30."
+      }
+    },
+    {
+      "id": "spr-012",
+      "schwierigkeit": "schwer",
+      "frage": "Was ist ein Palindrom?",
+      "richtig": "Ein Wort, das vorwärts und rückwärts gleich lautet",
+      "falsch": [
+        "Ein Wort mit vielen Bedeutungen",
+        "Ein Wort ohne Vokale",
+        "Ein Fremdwort aus dem Griechischen"
+      ],
+      "begruendung": "„Anna“, „Otto“ und „Reliefpfeiler“ ergeben rückwärts gelesen dasselbe Wort.",
+      "karte": {
+        "titel": "Palindrome",
+        "text": "Auch ganze Sätze können Palindrome sein, etwa: „Die Liebe ist Sieger, rege ist sie bei Leid.“",
+        "merke": "Palindrom: vorwärts = rückwärts, etwa „Rentner“."
+      }
+    },
+    {
+      "id": "spr-013",
+      "schwierigkeit": "mittel",
+      "frage": "Was bedeutet die Abkürzung „z. B.“?",
+      "richtig": "zum Beispiel",
+      "falsch": [
+        "zur Bestätigung",
+        "zuzüglich Betrag",
+        "zu Besuch"
+      ],
+      "alias": [
+        "Zum Beispiel"
+      ],
+      "begruendung": "„z. B.“ steht für „zum Beispiel“. Zwischen z. und B. gehört ein schmales Leerzeichen.",
+      "karte": {
+        "titel": "Abkürzungen",
+        "text": "Weitere Beispiele: „u. a.“ unter anderem, „usw.“ und so weiter, „d. h.“ das heißt.",
+        "merke": "z. B. = zum Beispiel, d. h. = das heißt."
+      }
+    },
+    {
+      "id": "spr-014",
+      "schwierigkeit": "leicht",
+      "frage": "Welcher Artikel gehört zu „Butter“ im Hochdeutschen?",
+      "richtig": "die",
+      "falsch": [
+        "der",
+        "das",
+        "den"
+      ],
+      "alias": [
+        "Die"
+      ],
+      "begruendung": "Im Hochdeutschen heißt es „die Butter“. Im Süden hört man manchmal auch „der Butter“.",
+      "karte": {
+        "titel": "Artikel",
+        "text": "Bei „Nutella“ streiten sich die Leute ebenfalls. Der Hersteller hat dazu keine Vorgabe gemacht.",
+        "merke": "Die Butter."
+      }
+    },
+    {
+      "id": "spr-015",
+      "schwierigkeit": "schwer",
+      "ddf": true,
+      "frage": "Welcher auch im Deutschen gebräuchliche Anglizismus heißt wörtlich „Leibwächter“?",
+      "richtig": "Bodyguard",
+      "falsch": [
+        "Bodybuilder",
+        "Security",
+        "Babysitter"
+      ],
+      "begruendung": "Body heißt Körper oder Leib, guard heißt Wächter.",
+      "karte": {
+        "titel": "Anglizismen",
+        "text": "Anglizismen sind Wörter aus dem Englischen. Das deutsche „Handy“ ist ein Scheinanglizismus: In England sagt man „mobile phone“.",
+        "merke": "Bodyguard = Leibwächter."
+      }
+    },
+    {
+      "id": "spr-016",
+      "schwierigkeit": "mittel",
+      "frage": "Wie heißt „Danke“ auf Spanisch?",
+      "richtig": "Gracias",
+      "falsch": [
+        "Merci",
+        "Grazie",
+        "Obrigado"
+      ],
+      "begruendung": "„Gracias“ ist Spanisch, „Merci“ Französisch, „Grazie“ Italienisch und „Obrigado“ Portugiesisch.",
+      "karte": {
+        "titel": "Danke in Europa",
+        "text": "Auf Niederländisch sagst du „Dank je“, auf Polnisch „Dziękuję“.",
+        "merke": "Gracias (es), merci (fr), grazie (it), obrigado (pt)."
+      }
+    },
+    {
+      "id": "spr-017",
+      "schwierigkeit": "mittel",
+      "frage": "Was ist ein Kompositum?",
+      "richtig": "Ein zusammengesetztes Wort",
+      "falsch": [
+        "Ein Musikstück",
+        "Ein Gedicht",
+        "Ein Komma-Fehler"
+      ],
+      "begruendung": "Deutsch liebt zusammengesetzte Wörter wie „Haustür“ oder „Donaudampfschifffahrt“.",
+      "karte": {
+        "titel": "Komposita",
+        "text": "Das letzte Wort bestimmt den Artikel: das Haus + die Tür = die Haustür.",
+        "merke": "Kompositum = zusammengesetztes Wort, letzter Teil bestimmt den Artikel."
+      }
+    },
+    {
+      "id": "spr-018",
+      "schwierigkeit": "leicht",
+      "ddf": true,
+      "frage": "Wie heißt „Knie“ auf Englisch?",
+      "richtig": "knee",
+      "falsch": [
+        "nee",
+        "kne",
+        "knie"
+      ],
+      "alias": [
+        "Knee"
+      ],
+      "begruendung": "Knie heißt auf Englisch „knee“. Das k am Anfang ist stumm.",
+      "karte": {
+        "titel": "Stummes K",
+        "text": "Auch bei „knife“, „know“ und „knight“ spricht man das k nicht.",
+        "merke": "Knie = knee, k stumm."
+      }
+    },
+    {
+      "id": "spr-019",
+      "schwierigkeit": "mittel",
+      "frage": "Was bedeutet „etwas ist im Eimer“?",
+      "richtig": "Es ist kaputt",
+      "falsch": [
+        "Es ist sicher verwahrt",
+        "Es ist voll",
+        "Es ist geheim"
+      ],
+      "begruendung": "Was im Eimer ist, ist kaputt oder verloren, wie Abfall im Mülleimer.",
+      "karte": {
+        "titel": "Im Eimer",
+        "text": "Ähnlich: „Das ist hinüber“ oder „Das ist futsch“.",
+        "merke": "Im Eimer = kaputt."
+      }
+    },
+    {
+      "id": "spr-020",
+      "schwierigkeit": "mittel",
+      "frage": "Woher kommt das Wort „Kindergarten“, das auch im Englischen benutzt wird?",
+      "richtig": "Aus dem Deutschen",
+      "falsch": [
+        "Aus dem Niederländischen",
+        "Aus dem Englischen",
+        "Aus dem Dänischen"
+      ],
+      "begruendung": "Friedrich Fröbel gründete 1840 in Bad Blankenburg den ersten „Kindergarten“. Das Wort wanderte in viele Sprachen.",
+      "karte": {
+        "titel": "Deutsche Wörter weltweit",
+        "text": "Auch „Angst“, „Zeitgeist“ und „Wanderlust“ nutzt das Englische.",
+        "merke": "Kindergarten: Fröbel, 1840, deutsch."
+      }
+    }
+  ]
+}
