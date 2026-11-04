@@ -1,0 +1,1475 @@
+{
+ "klasse": "musik",
+ "erzeugt": "scripts/generate-fakten.mjs",
+ "fragen": [
+  {
+   "id": "mus-wk-die-zauberfloete",
+   "schwierigkeit": "leicht",
+   "frage": "Wer komponierte „Die Zauberflöte“?",
+   "richtig": "Wolfgang Amadeus Mozart",
+   "falsch": [
+    "Camille Saint-Saëns",
+    "Maurice Ravel",
+    "Richard Wagner"
+   ],
+   "begruendung": "„Die Zauberflöte“: Wolfgang Amadeus Mozart.",
+   "karte": {
+    "titel": "Die Zauberflöte",
+    "text": "„Die Zauberflöte“: Wolfgang Amadeus Mozart.",
+    "merke": "„Die Zauberflöte“: Wolfgang Amadeus Mozart."
+   },
+   "ddf": true
+  },
+  {
+   "id": "mus-wk-eine-kleine-nachtmusik",
+   "schwierigkeit": "leicht",
+   "frage": "Wer komponierte „Eine kleine Nachtmusik“?",
+   "richtig": "Wolfgang Amadeus Mozart",
+   "falsch": [
+    "Gustav Holst",
+    "Joseph Haydn",
+    "Giacomo Puccini"
+   ],
+   "begruendung": "„Eine kleine Nachtmusik“: Wolfgang Amadeus Mozart.",
+   "karte": {
+    "titel": "Eine kleine Nachtmusik",
+    "text": "„Eine kleine Nachtmusik“: Wolfgang Amadeus Mozart.",
+    "merke": "„Eine kleine Nachtmusik“: Wolfgang Amadeus Mozart."
+   },
+   "ddf": true
+  },
+  {
+   "id": "mus-wk-die-hochzeit-des-figaro",
+   "schwierigkeit": "mittel",
+   "frage": "Wer komponierte „Die Hochzeit des Figaro“?",
+   "richtig": "Wolfgang Amadeus Mozart",
+   "falsch": [
+    "Georges Bizet",
+    "Sergei Prokofjew",
+    "Antonio Vivaldi"
+   ],
+   "begruendung": "„Die Hochzeit des Figaro“: Wolfgang Amadeus Mozart.",
+   "karte": {
+    "titel": "Die Hochzeit des Figaro",
+    "text": "„Die Hochzeit des Figaro“: Wolfgang Amadeus Mozart.",
+    "merke": "„Die Hochzeit des Figaro“: Wolfgang Amadeus Mozart."
+   }
+  },
+  {
+   "id": "mus-wk-9-sinfonie-mit-der-ode-an-die-freude",
+   "schwierigkeit": "leicht",
+   "frage": "Wer komponierte „9. Sinfonie mit der „Ode an die Freude““?",
+   "richtig": "Ludwig van Beethoven",
+   "falsch": [
+    "Antonín Dvořák",
+    "Antonio Vivaldi",
+    "Maurice Ravel"
+   ],
+   "begruendung": "„9. Sinfonie mit der „Ode an die Freude““: Ludwig van Beethoven.",
+   "karte": {
+    "titel": "9. Sinfonie mit der „Ode an die Freude“",
+    "text": "Die „Ode an die Freude“ ist die Hymne der Europäischen Union. Beethoven war beim Komponieren fast taub.",
+    "merke": "„9. Sinfonie mit der „Ode an die Freude““: Ludwig van Beethoven."
+   },
+   "ddf": true
+  },
+  {
+   "id": "mus-wk-fuer-elise",
+   "schwierigkeit": "leicht",
+   "frage": "Wer komponierte „Für Elise“?",
+   "richtig": "Ludwig van Beethoven",
+   "falsch": [
+    "Bedřich Smetana",
+    "Gustav Holst",
+    "Modest Mussorgsky"
+   ],
+   "begruendung": "„Für Elise“: Ludwig van Beethoven.",
+   "karte": {
+    "titel": "Für Elise",
+    "text": "„Für Elise“: Ludwig van Beethoven.",
+    "merke": "„Für Elise“: Ludwig van Beethoven."
+   },
+   "ddf": true
+  },
+  {
+   "id": "mus-wk-mondscheinsonate",
+   "schwierigkeit": "mittel",
+   "frage": "Wer komponierte „Mondscheinsonate“?",
+   "richtig": "Ludwig van Beethoven",
+   "falsch": [
+    "Giacomo Puccini",
+    "Engelbert Humperdinck",
+    "Giuseppe Verdi"
+   ],
+   "begruendung": "„Mondscheinsonate“: Ludwig van Beethoven.",
+   "karte": {
+    "titel": "Mondscheinsonate",
+    "text": "„Mondscheinsonate“: Ludwig van Beethoven.",
+    "merke": "„Mondscheinsonate“: Ludwig van Beethoven."
+   }
+  },
+  {
+   "id": "mus-wk-brandenburgische-konzerte",
+   "schwierigkeit": "mittel",
+   "frage": "Wer komponierte „Brandenburgische Konzerte“?",
+   "richtig": "Johann Sebastian Bach",
+   "falsch": [
+    "Modest Mussorgsky",
+    "Engelbert Humperdinck",
+    "Giacomo Puccini"
+   ],
+   "begruendung": "„Brandenburgische Konzerte“: Johann Sebastian Bach.",
+   "karte": {
+    "titel": "Brandenburgische Konzerte",
+    "text": "„Brandenburgische Konzerte“: Johann Sebastian Bach.",
+    "merke": "„Brandenburgische Konzerte“: Johann Sebastian Bach."
+   }
+  },
+  {
+   "id": "mus-wk-weihnachtsoratorium",
+   "schwierigkeit": "mittel",
+   "frage": "Wer komponierte „Weihnachtsoratorium“?",
+   "richtig": "Johann Sebastian Bach",
+   "falsch": [
+    "Engelbert Humperdinck",
+    "Ludwig van Beethoven",
+    "Franz Schubert"
+   ],
+   "begruendung": "„Weihnachtsoratorium“: Johann Sebastian Bach.",
+   "karte": {
+    "titel": "Weihnachtsoratorium",
+    "text": "„Weihnachtsoratorium“: Johann Sebastian Bach.",
+    "merke": "„Weihnachtsoratorium“: Johann Sebastian Bach."
+   }
+  },
+  {
+   "id": "mus-wk-die-vier-jahreszeiten",
+   "schwierigkeit": "leicht",
+   "frage": "Wer komponierte „Die vier Jahreszeiten“?",
+   "richtig": "Antonio Vivaldi",
+   "falsch": [
+    "Camille Saint-Saëns",
+    "Gioachino Rossini",
+    "Giacomo Puccini"
+   ],
+   "begruendung": "„Die vier Jahreszeiten“: Antonio Vivaldi.",
+   "karte": {
+    "titel": "Die vier Jahreszeiten",
+    "text": "„Die vier Jahreszeiten“: Antonio Vivaldi.",
+    "merke": "„Die vier Jahreszeiten“: Antonio Vivaldi."
+   },
+   "ddf": true
+  },
+  {
+   "id": "mus-wk-wassermusik",
+   "schwierigkeit": "mittel",
+   "frage": "Wer komponierte „Wassermusik“?",
+   "richtig": "Georg Friedrich Händel",
+   "falsch": [
+    "Edvard Grieg",
+    "Engelbert Humperdinck",
+    "Georges Bizet"
+   ],
+   "begruendung": "„Wassermusik“: Georg Friedrich Händel.",
+   "karte": {
+    "titel": "Wassermusik",
+    "text": "„Wassermusik“: Georg Friedrich Händel.",
+    "merke": "„Wassermusik“: Georg Friedrich Händel."
+   }
+  },
+  {
+   "id": "mus-wk-der-messias",
+   "schwierigkeit": "mittel",
+   "frage": "Wer komponierte „Der Messias“?",
+   "richtig": "Georg Friedrich Händel",
+   "falsch": [
+    "Franz Schubert",
+    "Peter Tschaikowsky",
+    "Gioachino Rossini"
+   ],
+   "begruendung": "„Der Messias“: Georg Friedrich Händel.",
+   "karte": {
+    "titel": "Der Messias",
+    "text": "„Der Messias“: Georg Friedrich Händel.",
+    "merke": "„Der Messias“: Georg Friedrich Händel."
+   }
+  },
+  {
+   "id": "mus-wk-kaiserquartett",
+   "schwierigkeit": "schwer",
+   "frage": "Wer komponierte „Kaiserquartett“?",
+   "richtig": "Joseph Haydn",
+   "falsch": [
+    "Antonín Dvořák",
+    "Georg Friedrich Händel",
+    "Carl Maria von Weber"
+   ],
+   "begruendung": "„Kaiserquartett“: Joseph Haydn.",
+   "karte": {
+    "titel": "Kaiserquartett",
+    "text": "Die Melodie aus Haydns Kaiserquartett ist heute die Melodie der deutschen Nationalhymne.",
+    "merke": "„Kaiserquartett“: Joseph Haydn."
+   }
+  },
+  {
+   "id": "mus-wk-schwanensee",
+   "schwierigkeit": "leicht",
+   "frage": "Wer komponierte „Schwanensee“?",
+   "richtig": "Peter Tschaikowsky",
+   "falsch": [
+    "Ludwig van Beethoven",
+    "Gustav Holst",
+    "Giuseppe Verdi"
+   ],
+   "begruendung": "„Schwanensee“: Peter Tschaikowsky.",
+   "karte": {
+    "titel": "Schwanensee",
+    "text": "„Schwanensee“: Peter Tschaikowsky.",
+    "merke": "„Schwanensee“: Peter Tschaikowsky."
+   },
+   "ddf": true
+  },
+  {
+   "id": "mus-wk-der-nussknacker",
+   "schwierigkeit": "leicht",
+   "frage": "Wer komponierte „Der Nussknacker“?",
+   "richtig": "Peter Tschaikowsky",
+   "falsch": [
+    "Joseph Haydn",
+    "Sergei Prokofjew",
+    "Camille Saint-Saëns"
+   ],
+   "begruendung": "„Der Nussknacker“: Peter Tschaikowsky.",
+   "karte": {
+    "titel": "Der Nussknacker",
+    "text": "„Der Nussknacker“: Peter Tschaikowsky.",
+    "merke": "„Der Nussknacker“: Peter Tschaikowsky."
+   },
+   "ddf": true
+  },
+  {
+   "id": "mus-wk-der-ring-des-nibelungen",
+   "schwierigkeit": "mittel",
+   "frage": "Wer komponierte „Der Ring des Nibelungen“?",
+   "richtig": "Richard Wagner",
+   "falsch": [
+    "Edvard Grieg",
+    "George Gershwin",
+    "Camille Saint-Saëns"
+   ],
+   "begruendung": "„Der Ring des Nibelungen“: Richard Wagner.",
+   "karte": {
+    "titel": "Der Ring des Nibelungen",
+    "text": "„Der Ring des Nibelungen“: Richard Wagner.",
+    "merke": "„Der Ring des Nibelungen“: Richard Wagner."
+   }
+  },
+  {
+   "id": "mus-wk-tannhaeuser",
+   "schwierigkeit": "schwer",
+   "frage": "Wer komponierte „Tannhäuser“?",
+   "richtig": "Richard Wagner",
+   "falsch": [
+    "Camille Saint-Saëns",
+    "Antonín Dvořák",
+    "Johannes Brahms"
+   ],
+   "begruendung": "„Tannhäuser“: Richard Wagner.",
+   "karte": {
+    "titel": "Tannhäuser",
+    "text": "„Tannhäuser“: Richard Wagner.",
+    "merke": "„Tannhäuser“: Richard Wagner."
+   }
+  },
+  {
+   "id": "mus-wk-aida",
+   "schwierigkeit": "mittel",
+   "frage": "Wer komponierte „Aida“?",
+   "richtig": "Giuseppe Verdi",
+   "falsch": [
+    "Camille Saint-Saëns",
+    "Giacomo Puccini",
+    "Johann Sebastian Bach"
+   ],
+   "begruendung": "„Aida“: Giuseppe Verdi.",
+   "karte": {
+    "titel": "Aida",
+    "text": "„Aida“: Giuseppe Verdi.",
+    "merke": "„Aida“: Giuseppe Verdi."
+   }
+  },
+  {
+   "id": "mus-wk-la-traviata",
+   "schwierigkeit": "mittel",
+   "frage": "Wer komponierte „La traviata“?",
+   "richtig": "Giuseppe Verdi",
+   "falsch": [
+    "Johann Sebastian Bach",
+    "Giacomo Puccini",
+    "Antonio Vivaldi"
+   ],
+   "begruendung": "„La traviata“: Giuseppe Verdi.",
+   "karte": {
+    "titel": "La traviata",
+    "text": "„La traviata“: Giuseppe Verdi.",
+    "merke": "„La traviata“: Giuseppe Verdi."
+   }
+  },
+  {
+   "id": "mus-wk-la-boheme",
+   "schwierigkeit": "mittel",
+   "frage": "Wer komponierte „La Bohème“?",
+   "richtig": "Giacomo Puccini",
+   "falsch": [
+    "Johann Sebastian Bach",
+    "Antonín Dvořák",
+    "Sergei Prokofjew"
+   ],
+   "begruendung": "„La Bohème“: Giacomo Puccini.",
+   "karte": {
+    "titel": "La Bohème",
+    "text": "„La Bohème“: Giacomo Puccini.",
+    "merke": "„La Bohème“: Giacomo Puccini."
+   }
+  },
+  {
+   "id": "mus-wk-tosca",
+   "schwierigkeit": "schwer",
+   "frage": "Wer komponierte „Tosca“?",
+   "richtig": "Giacomo Puccini",
+   "falsch": [
+    "Ludwig van Beethoven",
+    "Engelbert Humperdinck",
+    "Joseph Haydn"
+   ],
+   "begruendung": "„Tosca“: Giacomo Puccini.",
+   "karte": {
+    "titel": "Tosca",
+    "text": "„Tosca“: Giacomo Puccini.",
+    "merke": "„Tosca“: Giacomo Puccini."
+   }
+  },
+  {
+   "id": "mus-wk-carmen",
+   "schwierigkeit": "mittel",
+   "frage": "Wer komponierte „Carmen“?",
+   "richtig": "Georges Bizet",
+   "falsch": [
+    "Gustav Holst",
+    "Antonín Dvořák",
+    "Edvard Grieg"
+   ],
+   "begruendung": "„Carmen“: Georges Bizet.",
+   "karte": {
+    "titel": "Carmen",
+    "text": "„Carmen“: Georges Bizet.",
+    "merke": "„Carmen“: Georges Bizet."
+   }
+  },
+  {
+   "id": "mus-wk-der-barbier-von-sevilla",
+   "schwierigkeit": "mittel",
+   "frage": "Wer komponierte „Der Barbier von Sevilla“?",
+   "richtig": "Gioachino Rossini",
+   "falsch": [
+    "Giacomo Puccini",
+    "Carl Maria von Weber",
+    "Carl Orff"
+   ],
+   "begruendung": "„Der Barbier von Sevilla“: Gioachino Rossini.",
+   "karte": {
+    "titel": "Der Barbier von Sevilla",
+    "text": "„Der Barbier von Sevilla“: Gioachino Rossini.",
+    "merke": "„Der Barbier von Sevilla“: Gioachino Rossini."
+   }
+  },
+  {
+   "id": "mus-wk-an-der-schoenen-blauen-donau",
+   "schwierigkeit": "mittel",
+   "frage": "Wer komponierte „An der schönen blauen Donau“?",
+   "richtig": "Johann Strauss (Sohn)",
+   "falsch": [
+    "Carl Orff",
+    "Antonio Vivaldi",
+    "Engelbert Humperdinck"
+   ],
+   "begruendung": "„An der schönen blauen Donau“: Johann Strauss (Sohn).",
+   "karte": {
+    "titel": "An der schönen blauen Donau",
+    "text": "„An der schönen blauen Donau“: Johann Strauss (Sohn).",
+    "merke": "„An der schönen blauen Donau“: Johann Strauss (Sohn)."
+   }
+  },
+  {
+   "id": "mus-wk-die-fledermaus",
+   "schwierigkeit": "schwer",
+   "frage": "Wer komponierte „Die Fledermaus“?",
+   "richtig": "Johann Strauss (Sohn)",
+   "falsch": [
+    "Edvard Grieg",
+    "Johann Sebastian Bach",
+    "Antonio Vivaldi"
+   ],
+   "begruendung": "„Die Fledermaus“: Johann Strauss (Sohn).",
+   "karte": {
+    "titel": "Die Fledermaus",
+    "text": "„Die Fledermaus“: Johann Strauss (Sohn).",
+    "merke": "„Die Fledermaus“: Johann Strauss (Sohn)."
+   }
+  },
+  {
+   "id": "mus-wk-die-moldau",
+   "schwierigkeit": "mittel",
+   "frage": "Wer komponierte „Die Moldau“?",
+   "richtig": "Bedřich Smetana",
+   "falsch": [
+    "Georges Bizet",
+    "Gioachino Rossini",
+    "Ludwig van Beethoven"
+   ],
+   "begruendung": "„Die Moldau“: Bedřich Smetana.",
+   "karte": {
+    "titel": "Die Moldau",
+    "text": "„Die Moldau“: Bedřich Smetana.",
+    "merke": "„Die Moldau“: Bedřich Smetana."
+   }
+  },
+  {
+   "id": "mus-wk-peer-gynt",
+   "schwierigkeit": "schwer",
+   "frage": "Wer komponierte „Peer Gynt“?",
+   "richtig": "Edvard Grieg",
+   "falsch": [
+    "Sergei Prokofjew",
+    "Wolfgang Amadeus Mozart",
+    "Gioachino Rossini"
+   ],
+   "begruendung": "„Peer Gynt“: Edvard Grieg.",
+   "karte": {
+    "titel": "Peer Gynt",
+    "text": "„Peer Gynt“: Edvard Grieg.",
+    "merke": "„Peer Gynt“: Edvard Grieg."
+   }
+  },
+  {
+   "id": "mus-wk-bolero",
+   "schwierigkeit": "mittel",
+   "frage": "Wer komponierte „Boléro“?",
+   "richtig": "Maurice Ravel",
+   "falsch": [
+    "Sergei Prokofjew",
+    "Edvard Grieg",
+    "Peter Tschaikowsky"
+   ],
+   "begruendung": "„Boléro“: Maurice Ravel.",
+   "karte": {
+    "titel": "Boléro",
+    "text": "„Boléro“: Maurice Ravel.",
+    "merke": "„Boléro“: Maurice Ravel."
+   }
+  },
+  {
+   "id": "mus-wk-carmina-burana",
+   "schwierigkeit": "mittel",
+   "frage": "Wer komponierte „Carmina Burana“?",
+   "richtig": "Carl Orff",
+   "falsch": [
+    "Gustav Holst",
+    "Georges Bizet",
+    "Sergei Prokofjew"
+   ],
+   "begruendung": "„Carmina Burana“: Carl Orff.",
+   "karte": {
+    "titel": "Carmina Burana",
+    "text": "„Carmina Burana“: Carl Orff.",
+    "merke": "„Carmina Burana“: Carl Orff."
+   }
+  },
+  {
+   "id": "mus-wk-haensel-und-gretel-oper",
+   "schwierigkeit": "schwer",
+   "frage": "Wer komponierte „Hänsel und Gretel (Oper)“?",
+   "richtig": "Engelbert Humperdinck",
+   "falsch": [
+    "Georges Bizet",
+    "Johann Sebastian Bach",
+    "Johann Strauss (Sohn)"
+   ],
+   "begruendung": "„Hänsel und Gretel (Oper)“: Engelbert Humperdinck.",
+   "karte": {
+    "titel": "Hänsel und Gretel (Oper)",
+    "text": "„Hänsel und Gretel (Oper)“: Engelbert Humperdinck.",
+    "merke": "„Hänsel und Gretel (Oper)“: Engelbert Humperdinck."
+   }
+  },
+  {
+   "id": "mus-wk-sinfonie-aus-der-neuen-welt",
+   "schwierigkeit": "schwer",
+   "frage": "Wer komponierte „Sinfonie „Aus der Neuen Welt““?",
+   "richtig": "Antonín Dvořák",
+   "falsch": [
+    "Johann Strauss (Sohn)",
+    "Giacomo Puccini",
+    "Peter Tschaikowsky"
+   ],
+   "begruendung": "„Sinfonie „Aus der Neuen Welt““: Antonín Dvořák.",
+   "karte": {
+    "titel": "Sinfonie „Aus der Neuen Welt“",
+    "text": "„Sinfonie „Aus der Neuen Welt““: Antonín Dvořák.",
+    "merke": "„Sinfonie „Aus der Neuen Welt““: Antonín Dvořák."
+   }
+  },
+  {
+   "id": "mus-wk-die-planeten",
+   "schwierigkeit": "schwer",
+   "frage": "Wer komponierte „Die Planeten“?",
+   "richtig": "Gustav Holst",
+   "falsch": [
+    "Peter Tschaikowsky",
+    "George Gershwin",
+    "Wolfgang Amadeus Mozart"
+   ],
+   "begruendung": "„Die Planeten“: Gustav Holst.",
+   "karte": {
+    "titel": "Die Planeten",
+    "text": "„Die Planeten“: Gustav Holst.",
+    "merke": "„Die Planeten“: Gustav Holst."
+   }
+  },
+  {
+   "id": "mus-wk-rhapsody-in-blue",
+   "schwierigkeit": "mittel",
+   "frage": "Wer komponierte „Rhapsody in Blue“?",
+   "richtig": "George Gershwin",
+   "falsch": [
+    "Ludwig van Beethoven",
+    "Engelbert Humperdinck",
+    "Giuseppe Verdi"
+   ],
+   "begruendung": "„Rhapsody in Blue“: George Gershwin.",
+   "karte": {
+    "titel": "Rhapsody in Blue",
+    "text": "„Rhapsody in Blue“: George Gershwin.",
+    "merke": "„Rhapsody in Blue“: George Gershwin."
+   }
+  },
+  {
+   "id": "mus-wk-bilder-einer-ausstellung",
+   "schwierigkeit": "schwer",
+   "frage": "Wer komponierte „Bilder einer Ausstellung“?",
+   "richtig": "Modest Mussorgsky",
+   "falsch": [
+    "Antonio Vivaldi",
+    "Giuseppe Verdi",
+    "Johann Sebastian Bach"
+   ],
+   "begruendung": "„Bilder einer Ausstellung“: Modest Mussorgsky.",
+   "karte": {
+    "titel": "Bilder einer Ausstellung",
+    "text": "„Bilder einer Ausstellung“: Modest Mussorgsky.",
+    "merke": "„Bilder einer Ausstellung“: Modest Mussorgsky."
+   }
+  },
+  {
+   "id": "mus-wk-erlkoenig-lied",
+   "schwierigkeit": "mittel",
+   "frage": "Wer komponierte „Erlkönig (Lied)“?",
+   "richtig": "Franz Schubert",
+   "falsch": [
+    "Carl Orff",
+    "Gioachino Rossini",
+    "Antonín Dvořák"
+   ],
+   "begruendung": "„Erlkönig (Lied)“: Franz Schubert.",
+   "karte": {
+    "titel": "Erlkönig (Lied)",
+    "text": "„Erlkönig (Lied)“: Franz Schubert.",
+    "merke": "„Erlkönig (Lied)“: Franz Schubert."
+   }
+  },
+  {
+   "id": "mus-wk-der-freischuetz",
+   "schwierigkeit": "schwer",
+   "frage": "Wer komponierte „Der Freischütz“?",
+   "richtig": "Carl Maria von Weber",
+   "falsch": [
+    "Maurice Ravel",
+    "Antonio Vivaldi",
+    "Engelbert Humperdinck"
+   ],
+   "begruendung": "„Der Freischütz“: Carl Maria von Weber.",
+   "karte": {
+    "titel": "Der Freischütz",
+    "text": "„Der Freischütz“: Carl Maria von Weber.",
+    "merke": "„Der Freischütz“: Carl Maria von Weber."
+   }
+  },
+  {
+   "id": "mus-wk-karneval-der-tiere",
+   "schwierigkeit": "mittel",
+   "frage": "Wer komponierte „Karneval der Tiere“?",
+   "richtig": "Camille Saint-Saëns",
+   "falsch": [
+    "Carl Maria von Weber",
+    "George Gershwin",
+    "Wolfgang Amadeus Mozart"
+   ],
+   "begruendung": "„Karneval der Tiere“: Camille Saint-Saëns.",
+   "karte": {
+    "titel": "Karneval der Tiere",
+    "text": "„Karneval der Tiere“: Camille Saint-Saëns.",
+    "merke": "„Karneval der Tiere“: Camille Saint-Saëns."
+   }
+  },
+  {
+   "id": "mus-wk-peter-und-der-wolf",
+   "schwierigkeit": "mittel",
+   "frage": "Wer komponierte „Peter und der Wolf“?",
+   "richtig": "Sergei Prokofjew",
+   "falsch": [
+    "Wolfgang Amadeus Mozart",
+    "George Gershwin",
+    "Johann Sebastian Bach"
+   ],
+   "begruendung": "„Peter und der Wolf“: Sergei Prokofjew.",
+   "karte": {
+    "titel": "Peter und der Wolf",
+    "text": "„Peter und der Wolf“: Sergei Prokofjew.",
+    "merke": "„Peter und der Wolf“: Sergei Prokofjew."
+   }
+  },
+  {
+   "id": "mus-wk-guten-abend-gut-nacht-wiegenlied",
+   "schwierigkeit": "mittel",
+   "frage": "Wer komponierte „Guten Abend, gut’ Nacht (Wiegenlied)“?",
+   "richtig": "Johannes Brahms",
+   "falsch": [
+    "Georges Bizet",
+    "Giuseppe Verdi",
+    "Modest Mussorgsky"
+   ],
+   "begruendung": "„Guten Abend, gut’ Nacht (Wiegenlied)“: Johannes Brahms.",
+   "karte": {
+    "titel": "Guten Abend, gut’ Nacht (Wiegenlied)",
+    "text": "„Guten Abend, gut’ Nacht (Wiegenlied)“: Johannes Brahms.",
+    "merke": "„Guten Abend, gut’ Nacht (Wiegenlied)“: Johannes Brahms."
+   }
+  },
+  {
+   "id": "mus-la-abba",
+   "schwierigkeit": "leicht",
+   "frage": "Aus welchem Land stammt die Band ABBA?",
+   "richtig": "Schweden",
+   "falsch": [
+    "Island",
+    "Irland",
+    "USA"
+   ],
+   "begruendung": "ABBA: Schweden.",
+   "karte": {
+    "titel": "ABBA",
+    "text": "ABBA: Schweden.",
+    "merke": "ABBA: Schweden."
+   }
+  },
+  {
+   "id": "mus-la-rammstein",
+   "schwierigkeit": "leicht",
+   "frage": "Aus welchem Land stammt die Band Rammstein?",
+   "richtig": "Deutschland",
+   "falsch": [
+    "Kolumbien",
+    "Frankreich",
+    "Jamaika"
+   ],
+   "begruendung": "Rammstein: Deutschland.",
+   "karte": {
+    "titel": "Rammstein",
+    "text": "Rammstein: Deutschland.",
+    "merke": "Rammstein: Deutschland."
+   }
+  },
+  {
+   "id": "mus-la-the-beatles",
+   "schwierigkeit": "leicht",
+   "frage": "Aus welchem Land stammt die Band The Beatles?",
+   "richtig": "Vereinigtes Königreich",
+   "falsch": [
+    "Norwegen",
+    "Schweden",
+    "Island"
+   ],
+   "begruendung": "The Beatles: Vereinigtes Königreich.",
+   "karte": {
+    "titel": "The Beatles",
+    "text": "The Beatles: Vereinigtes Königreich.",
+    "merke": "The Beatles: Vereinigtes Königreich."
+   }
+  },
+  {
+   "id": "mus-la-u2",
+   "schwierigkeit": "mittel",
+   "frage": "Aus welchem Land stammt die Band U2?",
+   "richtig": "Irland",
+   "falsch": [
+    "Vereinigtes Königreich",
+    "Norwegen",
+    "Australien"
+   ],
+   "begruendung": "U2: Irland.",
+   "karte": {
+    "titel": "U2",
+    "text": "U2: Irland.",
+    "merke": "U2: Irland."
+   }
+  },
+  {
+   "id": "mus-la-ac-dc",
+   "schwierigkeit": "mittel",
+   "frage": "Aus welchem Land stammt die Band AC/DC?",
+   "richtig": "Australien",
+   "falsch": [
+    "Österreich",
+    "Kanada",
+    "Deutschland"
+   ],
+   "begruendung": "AC/DC: Australien.",
+   "karte": {
+    "titel": "AC/DC",
+    "text": "AC/DC: Australien.",
+    "merke": "AC/DC: Australien."
+   }
+  },
+  {
+   "id": "mus-la-queen",
+   "schwierigkeit": "leicht",
+   "frage": "Aus welchem Land stammt die Band Queen?",
+   "richtig": "Vereinigtes Königreich",
+   "falsch": [
+    "Island",
+    "Norwegen",
+    "Italien"
+   ],
+   "begruendung": "Queen: Vereinigtes Königreich.",
+   "karte": {
+    "titel": "Queen",
+    "text": "Queen: Vereinigtes Königreich.",
+    "merke": "Queen: Vereinigtes Königreich."
+   }
+  },
+  {
+   "id": "mus-la-kraftwerk",
+   "schwierigkeit": "mittel",
+   "frage": "Aus welchem Land stammt die Band Kraftwerk?",
+   "richtig": "Deutschland",
+   "falsch": [
+    "Island",
+    "Australien",
+    "Norwegen"
+   ],
+   "begruendung": "Kraftwerk: Deutschland.",
+   "karte": {
+    "titel": "Kraftwerk",
+    "text": "Kraftwerk: Deutschland.",
+    "merke": "Kraftwerk: Deutschland."
+   }
+  },
+  {
+   "id": "mus-la-daft-punk",
+   "schwierigkeit": "mittel",
+   "frage": "Aus welchem Land stammt die Band Daft Punk?",
+   "richtig": "Frankreich",
+   "falsch": [
+    "Norwegen",
+    "Jamaika",
+    "Vereinigtes Königreich"
+   ],
+   "begruendung": "Daft Punk: Frankreich.",
+   "karte": {
+    "titel": "Daft Punk",
+    "text": "Daft Punk: Frankreich.",
+    "merke": "Daft Punk: Frankreich."
+   }
+  },
+  {
+   "id": "mus-la-metallica",
+   "schwierigkeit": "mittel",
+   "frage": "Aus welchem Land stammt die Band Metallica?",
+   "richtig": "USA",
+   "falsch": [
+    "Norwegen",
+    "Jamaika",
+    "Island"
+   ],
+   "begruendung": "Metallica: USA.",
+   "karte": {
+    "titel": "Metallica",
+    "text": "Metallica: USA.",
+    "merke": "Metallica: USA."
+   }
+  },
+  {
+   "id": "mus-la-scorpions",
+   "schwierigkeit": "mittel",
+   "frage": "Aus welchem Land stammt die Band Scorpions?",
+   "richtig": "Deutschland",
+   "falsch": [
+    "Island",
+    "Südkorea",
+    "Australien"
+   ],
+   "begruendung": "Scorpions: Deutschland.",
+   "karte": {
+    "titel": "Scorpions",
+    "text": "Scorpions: Deutschland.",
+    "merke": "Scorpions: Deutschland."
+   }
+  },
+  {
+   "id": "mus-la-bjoerk",
+   "schwierigkeit": "mittel",
+   "frage": "Aus welchem Land stammt Björk?",
+   "richtig": "Island",
+   "falsch": [
+    "Österreich",
+    "Jamaika",
+    "Irland"
+   ],
+   "begruendung": "Björk: Island.",
+   "karte": {
+    "titel": "Björk",
+    "text": "Björk: Island.",
+    "merke": "Björk: Island."
+   }
+  },
+  {
+   "id": "mus-la-shakira",
+   "schwierigkeit": "leicht",
+   "frage": "Aus welchem Land stammt Shakira?",
+   "richtig": "Kolumbien",
+   "falsch": [
+    "Norwegen",
+    "Frankreich",
+    "Italien"
+   ],
+   "begruendung": "Shakira: Kolumbien.",
+   "karte": {
+    "titel": "Shakira",
+    "text": "Shakira: Kolumbien.",
+    "merke": "Shakira: Kolumbien."
+   }
+  },
+  {
+   "id": "mus-la-rihanna",
+   "schwierigkeit": "mittel",
+   "frage": "Aus welchem Land stammt Rihanna?",
+   "richtig": "Barbados",
+   "falsch": [
+    "Norwegen",
+    "Frankreich",
+    "Australien"
+   ],
+   "begruendung": "Rihanna: Barbados.",
+   "karte": {
+    "titel": "Rihanna",
+    "text": "Rihanna: Barbados.",
+    "merke": "Rihanna: Barbados."
+   }
+  },
+  {
+   "id": "mus-la-maneskin",
+   "schwierigkeit": "mittel",
+   "frage": "Aus welchem Land stammt die Band Måneskin?",
+   "richtig": "Italien",
+   "falsch": [
+    "Australien",
+    "Deutschland",
+    "Österreich"
+   ],
+   "begruendung": "Måneskin: Italien.",
+   "karte": {
+    "titel": "Måneskin",
+    "text": "Måneskin: Italien.",
+    "merke": "Måneskin: Italien."
+   }
+  },
+  {
+   "id": "mus-la-bts",
+   "schwierigkeit": "leicht",
+   "frage": "Aus welchem Land stammt die Band BTS?",
+   "richtig": "Südkorea",
+   "falsch": [
+    "Irland",
+    "Vereinigtes Königreich",
+    "Island"
+   ],
+   "begruendung": "BTS: Südkorea.",
+   "karte": {
+    "titel": "BTS",
+    "text": "BTS: Südkorea.",
+    "merke": "BTS: Südkorea."
+   }
+  },
+  {
+   "id": "mus-la-avicii",
+   "schwierigkeit": "mittel",
+   "frage": "Aus welchem Land stammt Avicii?",
+   "richtig": "Schweden",
+   "falsch": [
+    "Irland",
+    "Vereinigtes Königreich",
+    "Island"
+   ],
+   "begruendung": "Avicii: Schweden.",
+   "karte": {
+    "titel": "Avicii",
+    "text": "Avicii: Schweden.",
+    "merke": "Avicii: Schweden."
+   }
+  },
+  {
+   "id": "mus-la-kylie-minogue",
+   "schwierigkeit": "mittel",
+   "frage": "Aus welchem Land stammt Kylie Minogue?",
+   "richtig": "Australien",
+   "falsch": [
+    "Barbados",
+    "USA",
+    "Norwegen"
+   ],
+   "begruendung": "Kylie Minogue: Australien.",
+   "karte": {
+    "titel": "Kylie Minogue",
+    "text": "Kylie Minogue: Australien.",
+    "merke": "Kylie Minogue: Australien."
+   }
+  },
+  {
+   "id": "mus-la-bob-marley",
+   "schwierigkeit": "leicht",
+   "frage": "Aus welchem Land stammt Bob Marley?",
+   "richtig": "Jamaika",
+   "falsch": [
+    "Irland",
+    "Island",
+    "Österreich"
+   ],
+   "begruendung": "Bob Marley: Jamaika.",
+   "karte": {
+    "titel": "Bob Marley",
+    "text": "Bob Marley: Jamaika.",
+    "merke": "Bob Marley: Jamaika."
+   }
+  },
+  {
+   "id": "mus-la-edith-piaf",
+   "schwierigkeit": "mittel",
+   "frage": "Aus welchem Land stammt Édith Piaf?",
+   "richtig": "Frankreich",
+   "falsch": [
+    "USA",
+    "Barbados",
+    "Jamaika"
+   ],
+   "begruendung": "Édith Piaf: Frankreich.",
+   "karte": {
+    "titel": "Édith Piaf",
+    "text": "Édith Piaf: Frankreich.",
+    "merke": "Édith Piaf: Frankreich."
+   }
+  },
+  {
+   "id": "mus-la-falco",
+   "schwierigkeit": "mittel",
+   "frage": "Aus welchem Land stammt Falco?",
+   "richtig": "Österreich",
+   "falsch": [
+    "Norwegen",
+    "Italien",
+    "Deutschland"
+   ],
+   "begruendung": "Falco: Österreich.",
+   "karte": {
+    "titel": "Falco",
+    "text": "Falco: Österreich.",
+    "merke": "Falco: Österreich."
+   }
+  },
+  {
+   "id": "mus-la-celine-dion",
+   "schwierigkeit": "mittel",
+   "frage": "Aus welchem Land stammt Céline Dion?",
+   "richtig": "Kanada",
+   "falsch": [
+    "Vereinigtes Königreich",
+    "Norwegen",
+    "Jamaika"
+   ],
+   "begruendung": "Céline Dion: Kanada.",
+   "karte": {
+    "titel": "Céline Dion",
+    "text": "Céline Dion: Kanada.",
+    "merke": "Céline Dion: Kanada."
+   }
+  },
+  {
+   "id": "mus-la-drake",
+   "schwierigkeit": "mittel",
+   "frage": "Aus welchem Land stammt Drake?",
+   "richtig": "Kanada",
+   "falsch": [
+    "Barbados",
+    "Kolumbien",
+    "Australien"
+   ],
+   "begruendung": "Drake: Kanada.",
+   "karte": {
+    "titel": "Drake",
+    "text": "Drake: Kanada.",
+    "merke": "Drake: Kanada."
+   }
+  },
+  {
+   "id": "mus-la-ed-sheeran",
+   "schwierigkeit": "leicht",
+   "frage": "Aus welchem Land stammt Ed Sheeran?",
+   "richtig": "Vereinigtes Königreich",
+   "falsch": [
+    "Barbados",
+    "Österreich",
+    "Kanada"
+   ],
+   "begruendung": "Ed Sheeran: Vereinigtes Königreich.",
+   "karte": {
+    "titel": "Ed Sheeran",
+    "text": "Ed Sheeran: Vereinigtes Königreich.",
+    "merke": "Ed Sheeran: Vereinigtes Königreich."
+   }
+  },
+  {
+   "id": "mus-la-adele",
+   "schwierigkeit": "leicht",
+   "frage": "Aus welchem Land stammt Adele?",
+   "richtig": "Vereinigtes Königreich",
+   "falsch": [
+    "Australien",
+    "Jamaika",
+    "USA"
+   ],
+   "begruendung": "Adele: Vereinigtes Königreich.",
+   "karte": {
+    "titel": "Adele",
+    "text": "Adele: Vereinigtes Königreich.",
+    "merke": "Adele: Vereinigtes Königreich."
+   }
+  },
+  {
+   "id": "mus-la-taylor-swift",
+   "schwierigkeit": "leicht",
+   "frage": "Aus welchem Land stammt Taylor Swift?",
+   "richtig": "USA",
+   "falsch": [
+    "Barbados",
+    "Schweden",
+    "Frankreich"
+   ],
+   "begruendung": "Taylor Swift: USA.",
+   "karte": {
+    "titel": "Taylor Swift",
+    "text": "Taylor Swift: USA.",
+    "merke": "Taylor Swift: USA."
+   }
+  },
+  {
+   "id": "mus-la-eminem",
+   "schwierigkeit": "leicht",
+   "frage": "Aus welchem Land stammt Eminem?",
+   "richtig": "USA",
+   "falsch": [
+    "Schweden",
+    "Vereinigtes Königreich",
+    "Irland"
+   ],
+   "begruendung": "Eminem: USA.",
+   "karte": {
+    "titel": "Eminem",
+    "text": "Eminem: USA.",
+    "merke": "Eminem: USA."
+   }
+  },
+  {
+   "id": "mus-la-nena",
+   "schwierigkeit": "leicht",
+   "frage": "Aus welchem Land stammt Nena?",
+   "richtig": "Deutschland",
+   "falsch": [
+    "Kanada",
+    "Frankreich",
+    "Australien"
+   ],
+   "begruendung": "Nena: Deutschland.",
+   "karte": {
+    "titel": "Nena",
+    "text": "Nena: Deutschland.",
+    "merke": "Nena: Deutschland."
+   }
+  },
+  {
+   "id": "mus-la-roxette",
+   "schwierigkeit": "mittel",
+   "frage": "Aus welchem Land stammt die Band Roxette?",
+   "richtig": "Schweden",
+   "falsch": [
+    "Australien",
+    "USA",
+    "Italien"
+   ],
+   "begruendung": "Roxette: Schweden.",
+   "karte": {
+    "titel": "Roxette",
+    "text": "Roxette: Schweden.",
+    "merke": "Roxette: Schweden."
+   }
+  },
+  {
+   "id": "mus-la-a-ha",
+   "schwierigkeit": "mittel",
+   "frage": "Aus welchem Land stammt die Band a-ha?",
+   "richtig": "Norwegen",
+   "falsch": [
+    "Australien",
+    "Deutschland",
+    "Island"
+   ],
+   "begruendung": "a-ha: Norwegen.",
+   "karte": {
+    "titel": "a-ha",
+    "text": "a-ha: Norwegen.",
+    "merke": "a-ha: Norwegen."
+   }
+  },
+  {
+   "id": "mus-la-herbert-groenemeyer",
+   "schwierigkeit": "leicht",
+   "frage": "Aus welchem Land stammt Herbert Grönemeyer?",
+   "richtig": "Deutschland",
+   "falsch": [
+    "Kolumbien",
+    "Italien",
+    "Jamaika"
+   ],
+   "begruendung": "Herbert Grönemeyer: Deutschland.",
+   "karte": {
+    "titel": "Herbert Grönemeyer",
+    "text": "Herbert Grönemeyer: Deutschland.",
+    "merke": "Herbert Grönemeyer: Deutschland."
+   }
+  },
+  {
+   "id": "mus-la-nirvana",
+   "schwierigkeit": "mittel",
+   "frage": "Aus welchem Land stammt die Band Nirvana?",
+   "richtig": "USA",
+   "falsch": [
+    "Jamaika",
+    "Österreich",
+    "Island"
+   ],
+   "begruendung": "Nirvana: USA.",
+   "karte": {
+    "titel": "Nirvana",
+    "text": "Nirvana: USA.",
+    "merke": "Nirvana: USA."
+   }
+  },
+  {
+   "id": "mus-la-coldplay",
+   "schwierigkeit": "leicht",
+   "frage": "Aus welchem Land stammt die Band Coldplay?",
+   "richtig": "Vereinigtes Königreich",
+   "falsch": [
+    "USA",
+    "Österreich",
+    "Deutschland"
+   ],
+   "begruendung": "Coldplay: Vereinigtes Königreich.",
+   "karte": {
+    "titel": "Coldplay",
+    "text": "Coldplay: Vereinigtes Königreich.",
+    "merke": "Coldplay: Vereinigtes Königreich."
+   }
+  },
+  {
+   "id": "mus-in-geige",
+   "schwierigkeit": "leicht",
+   "frage": "Zu welcher Instrumentengruppe gehört die Geige?",
+   "richtig": "Streichinstrument",
+   "falsch": [
+    "Blechblasinstrument",
+    "Schlaginstrument",
+    "Holzblasinstrument"
+   ],
+   "begruendung": "Geige: Streichinstrument.",
+   "karte": {
+    "titel": "Geige",
+    "text": "Die Geige heißt auch Violine und ist das höchste Streichinstrument im Orchester.",
+    "merke": "Geige: Streichinstrument."
+   }
+  },
+  {
+   "id": "mus-in-bratsche",
+   "schwierigkeit": "mittel",
+   "frage": "Zu welcher Instrumentengruppe gehört die Bratsche?",
+   "richtig": "Streichinstrument",
+   "falsch": [
+    "Schlaginstrument",
+    "Holzblasinstrument",
+    "Blechblasinstrument"
+   ],
+   "begruendung": "Bratsche: Streichinstrument.",
+   "karte": {
+    "titel": "Bratsche",
+    "text": "Die Bratsche ist etwas größer als die Geige und klingt tiefer.",
+    "merke": "Bratsche: Streichinstrument."
+   }
+  },
+  {
+   "id": "mus-in-cello",
+   "schwierigkeit": "leicht",
+   "frage": "Zu welcher Instrumentengruppe gehört das Cello?",
+   "richtig": "Streichinstrument",
+   "falsch": [
+    "Holzblasinstrument",
+    "Schlaginstrument",
+    "Blechblasinstrument"
+   ],
+   "begruendung": "Cello: Streichinstrument.",
+   "karte": {
+    "titel": "Cello",
+    "text": "Das Cello spielst du im Sitzen, zwischen den Knien.",
+    "merke": "Cello: Streichinstrument."
+   }
+  },
+  {
+   "id": "mus-in-kontrabass",
+   "schwierigkeit": "leicht",
+   "frage": "Zu welcher Instrumentengruppe gehört der Kontrabass?",
+   "richtig": "Streichinstrument",
+   "falsch": [
+    "Blechblasinstrument",
+    "Holzblasinstrument",
+    "Schlaginstrument"
+   ],
+   "begruendung": "Kontrabass: Streichinstrument.",
+   "karte": {
+    "titel": "Kontrabass",
+    "text": "Der Kontrabass ist das tiefste Streichinstrument.",
+    "merke": "Kontrabass: Streichinstrument."
+   }
+  },
+  {
+   "id": "mus-in-trompete",
+   "schwierigkeit": "leicht",
+   "frage": "Zu welcher Instrumentengruppe gehört die Trompete?",
+   "richtig": "Blechblasinstrument",
+   "falsch": [
+    "Holzblasinstrument",
+    "Streichinstrument",
+    "Schlaginstrument"
+   ],
+   "begruendung": "Trompete: Blechblasinstrument.",
+   "karte": {
+    "titel": "Trompete",
+    "text": "Die Trompete hat drei Ventile.",
+    "merke": "Trompete: Blechblasinstrument."
+   }
+  },
+  {
+   "id": "mus-in-posaune",
+   "schwierigkeit": "leicht",
+   "frage": "Zu welcher Instrumentengruppe gehört die Posaune?",
+   "richtig": "Blechblasinstrument",
+   "falsch": [
+    "Streichinstrument",
+    "Holzblasinstrument",
+    "Schlaginstrument"
+   ],
+   "begruendung": "Posaune: Blechblasinstrument.",
+   "karte": {
+    "titel": "Posaune",
+    "text": "Bei der Posaune änderst du die Tonhöhe mit einem Zug.",
+    "merke": "Posaune: Blechblasinstrument."
+   }
+  },
+  {
+   "id": "mus-in-tuba",
+   "schwierigkeit": "leicht",
+   "frage": "Zu welcher Instrumentengruppe gehört die Tuba?",
+   "richtig": "Blechblasinstrument",
+   "falsch": [
+    "Schlaginstrument",
+    "Streichinstrument",
+    "Holzblasinstrument"
+   ],
+   "begruendung": "Tuba: Blechblasinstrument.",
+   "karte": {
+    "titel": "Tuba",
+    "text": "Die Tuba ist das tiefste Blechblasinstrument.",
+    "merke": "Tuba: Blechblasinstrument."
+   }
+  },
+  {
+   "id": "mus-in-waldhorn",
+   "schwierigkeit": "mittel",
+   "frage": "Zu welcher Instrumentengruppe gehört das Waldhorn?",
+   "richtig": "Blechblasinstrument",
+   "falsch": [
+    "Holzblasinstrument",
+    "Schlaginstrument",
+    "Streichinstrument"
+   ],
+   "begruendung": "Waldhorn: Blechblasinstrument.",
+   "karte": {
+    "titel": "Waldhorn",
+    "text": "Das Rohr eines Waldhorns ist ausgerollt fast vier Meter lang.",
+    "merke": "Waldhorn: Blechblasinstrument."
+   }
+  },
+  {
+   "id": "mus-in-querfloete",
+   "schwierigkeit": "schwer",
+   "frage": "Zu welcher Instrumentengruppe gehört die Querflöte?",
+   "richtig": "Holzblasinstrument",
+   "falsch": [
+    "Blechblasinstrument",
+    "Streichinstrument",
+    "Schlaginstrument"
+   ],
+   "begruendung": "Querflöte: Holzblasinstrument.",
+   "karte": {
+    "titel": "Querflöte",
+    "text": "Die Querflöte ist meist aus Metall, zählt aber zu den Holzblasinstrumenten, weil der Ton ohne Lippenschwingung entsteht.",
+    "merke": "Querflöte: Holzblasinstrument."
+   }
+  },
+  {
+   "id": "mus-in-saxophon",
+   "schwierigkeit": "schwer",
+   "frage": "Zu welcher Instrumentengruppe gehört das Saxophon?",
+   "richtig": "Holzblasinstrument",
+   "falsch": [
+    "Streichinstrument",
+    "Blechblasinstrument",
+    "Schlaginstrument"
+   ],
+   "begruendung": "Saxophon: Holzblasinstrument.",
+   "karte": {
+    "titel": "Saxophon",
+    "text": "Das Saxophon ist aus Messing, hat aber ein Holzblatt am Mundstück. Deshalb zählt es zu den Holzbläsern.",
+    "merke": "Saxophon: Holzblasinstrument."
+   }
+  },
+  {
+   "id": "mus-in-klarinette",
+   "schwierigkeit": "leicht",
+   "frage": "Zu welcher Instrumentengruppe gehört die Klarinette?",
+   "richtig": "Holzblasinstrument",
+   "falsch": [
+    "Streichinstrument",
+    "Schlaginstrument",
+    "Blechblasinstrument"
+   ],
+   "begruendung": "Klarinette: Holzblasinstrument.",
+   "karte": {
+    "titel": "Klarinette",
+    "text": "Die Klarinette hat ein einfaches Rohrblatt.",
+    "merke": "Klarinette: Holzblasinstrument."
+   }
+  },
+  {
+   "id": "mus-in-oboe",
+   "schwierigkeit": "mittel",
+   "frage": "Zu welcher Instrumentengruppe gehört die Oboe?",
+   "richtig": "Holzblasinstrument",
+   "falsch": [
+    "Schlaginstrument",
+    "Streichinstrument",
+    "Blechblasinstrument"
+   ],
+   "begruendung": "Oboe: Holzblasinstrument.",
+   "karte": {
+    "titel": "Oboe",
+    "text": "Nach der Oboe stimmt das Orchester vor dem Konzert.",
+    "merke": "Oboe: Holzblasinstrument."
+   }
+  },
+  {
+   "id": "mus-in-fagott",
+   "schwierigkeit": "mittel",
+   "frage": "Zu welcher Instrumentengruppe gehört das Fagott?",
+   "richtig": "Holzblasinstrument",
+   "falsch": [
+    "Streichinstrument",
+    "Blechblasinstrument",
+    "Schlaginstrument"
+   ],
+   "begruendung": "Fagott: Holzblasinstrument.",
+   "karte": {
+    "titel": "Fagott",
+    "text": "Das Fagott ist das tiefste Instrument der normalen Holzbläser.",
+    "merke": "Fagott: Holzblasinstrument."
+   }
+  },
+  {
+   "id": "mus-in-pauke",
+   "schwierigkeit": "leicht",
+   "frage": "Zu welcher Instrumentengruppe gehört die Pauke?",
+   "richtig": "Schlaginstrument",
+   "falsch": [
+    "Streichinstrument",
+    "Blechblasinstrument",
+    "Holzblasinstrument"
+   ],
+   "begruendung": "Pauke: Schlaginstrument.",
+   "karte": {
+    "titel": "Pauke",
+    "text": "Pauken lassen sich auf bestimmte Töne stimmen.",
+    "merke": "Pauke: Schlaginstrument."
+   }
+  },
+  {
+   "id": "mus-in-xylophon",
+   "schwierigkeit": "leicht",
+   "frage": "Zu welcher Instrumentengruppe gehört das Xylophon?",
+   "richtig": "Schlaginstrument",
+   "falsch": [
+    "Holzblasinstrument",
+    "Streichinstrument",
+    "Blechblasinstrument"
+   ],
+   "begruendung": "Xylophon: Schlaginstrument.",
+   "karte": {
+    "titel": "Xylophon",
+    "text": "Xylophon heißt auf Griechisch „Holzklang“.",
+    "merke": "Xylophon: Schlaginstrument."
+   }
+  },
+  {
+   "id": "mus-in-triangel",
+   "schwierigkeit": "leicht",
+   "frage": "Zu welcher Instrumentengruppe gehört die Triangel?",
+   "richtig": "Schlaginstrument",
+   "falsch": [
+    "Streichinstrument",
+    "Holzblasinstrument",
+    "Blechblasinstrument"
+   ],
+   "begruendung": "Triangel: Schlaginstrument.",
+   "karte": {
+    "titel": "Triangel",
+    "text": "Die Triangel ist ein gebogener Stahlstab.",
+    "merke": "Triangel: Schlaginstrument."
+   }
+  }
+ ]
+}

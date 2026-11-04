@@ -1,0 +1,1442 @@
+{
+ "klasse": "kunst",
+ "erzeugt": "scripts/generate-fakten.mjs",
+ "fragen": [
+  {
+   "id": "kun-ge-mona-lisa",
+   "schwierigkeit": "leicht",
+   "frage": "Wer schuf das Werk „Mona Lisa“?",
+   "richtig": "Leonardo da Vinci",
+   "falsch": [
+    "Théodore Géricault",
+    "Hieronymus Bosch",
+    "Rembrandt"
+   ],
+   "begruendung": "„Mona Lisa“: Leonardo da Vinci.",
+   "karte": {
+    "titel": "Mona Lisa",
+    "text": "Die Mona Lisa hängt im Louvre in Paris hinter Panzerglas.",
+    "merke": "„Mona Lisa“: Leonardo da Vinci."
+   },
+   "ddf": true
+  },
+  {
+   "id": "kun-ge-das-abendmahl",
+   "schwierigkeit": "mittel",
+   "frage": "Wer schuf das Werk „Das Abendmahl“?",
+   "richtig": "Leonardo da Vinci",
+   "falsch": [
+    "Diego Velázquez",
+    "Michelangelo",
+    "Salvador Dalí"
+   ],
+   "begruendung": "„Das Abendmahl“: Leonardo da Vinci.",
+   "karte": {
+    "titel": "Das Abendmahl",
+    "text": "Das Wandbild ist in einem Kloster in Mailand zu sehen.",
+    "merke": "„Das Abendmahl“: Leonardo da Vinci."
+   }
+  },
+  {
+   "id": "kun-ge-die-sternennacht",
+   "schwierigkeit": "leicht",
+   "frage": "Wer schuf das Werk „Die Sternennacht“?",
+   "richtig": "Vincent van Gogh",
+   "falsch": [
+    "Théodore Géricault",
+    "Edward Hopper",
+    "Sandro Botticelli"
+   ],
+   "begruendung": "„Die Sternennacht“: Vincent van Gogh.",
+   "karte": {
+    "titel": "Die Sternennacht",
+    "text": "Van Gogh malte das Bild 1889 aus dem Fenster einer Heilanstalt.",
+    "merke": "„Die Sternennacht“: Vincent van Gogh."
+   },
+   "ddf": true
+  },
+  {
+   "id": "kun-ge-sonnenblumen",
+   "schwierigkeit": "leicht",
+   "frage": "Wer schuf das Werk „Sonnenblumen“?",
+   "richtig": "Vincent van Gogh",
+   "falsch": [
+    "Andy Warhol",
+    "Gustav Klimt",
+    "Raffael"
+   ],
+   "begruendung": "„Sonnenblumen“: Vincent van Gogh.",
+   "karte": {
+    "titel": "Sonnenblumen",
+    "text": "Van Gogh malte mehrere Fassungen der Sonnenblumen.",
+    "merke": "„Sonnenblumen“: Vincent van Gogh."
+   },
+   "ddf": true
+  },
+  {
+   "id": "kun-ge-der-schrei",
+   "schwierigkeit": "leicht",
+   "frage": "Wer schuf das Werk „Der Schrei“?",
+   "richtig": "Edvard Munch",
+   "falsch": [
+    "Banksy",
+    "Piet Mondrian",
+    "Andy Warhol"
+   ],
+   "begruendung": "„Der Schrei“: Edvard Munch.",
+   "karte": {
+    "titel": "Der Schrei",
+    "text": "Munch schuf mehrere Versionen. Eine davon wurde 2004 aus einem Museum in Oslo gestohlen und später wiedergefunden.",
+    "merke": "„Der Schrei“: Edvard Munch."
+   },
+   "ddf": true
+  },
+  {
+   "id": "kun-ge-das-maedchen-mit-dem-perlenohrgehaenge",
+   "schwierigkeit": "mittel",
+   "frage": "Wer schuf das Werk „Das Mädchen mit dem Perlenohrgehänge“?",
+   "richtig": "Jan Vermeer",
+   "falsch": [
+    "Hieronymus Bosch",
+    "Pablo Picasso",
+    "Diego Velázquez"
+   ],
+   "begruendung": "„Das Mädchen mit dem Perlenohrgehänge“: Jan Vermeer.",
+   "karte": {
+    "titel": "Das Mädchen mit dem Perlenohrgehänge",
+    "text": "Das Bild hängt im Mauritshuis in Den Haag.",
+    "merke": "„Das Mädchen mit dem Perlenohrgehänge“: Jan Vermeer."
+   }
+  },
+  {
+   "id": "kun-ge-guernica",
+   "schwierigkeit": "leicht",
+   "frage": "Wer schuf das Werk „Guernica“?",
+   "richtig": "Pablo Picasso",
+   "falsch": [
+    "Eugène Delacroix",
+    "Caspar David Friedrich",
+    "Pieter Bruegel der Ältere"
+   ],
+   "begruendung": "„Guernica“: Pablo Picasso.",
+   "karte": {
+    "titel": "Guernica",
+    "text": "Picasso malte das Bild 1937 nach der Bombardierung der baskischen Stadt Guernica.",
+    "merke": "„Guernica“: Pablo Picasso."
+   },
+   "ddf": true
+  },
+  {
+   "id": "kun-ge-die-geburt-der-venus",
+   "schwierigkeit": "mittel",
+   "frage": "Wer schuf das Werk „Die Geburt der Venus“?",
+   "richtig": "Sandro Botticelli",
+   "falsch": [
+    "Albrecht Dürer",
+    "Claude Monet",
+    "Rembrandt"
+   ],
+   "begruendung": "„Die Geburt der Venus“: Sandro Botticelli.",
+   "karte": {
+    "titel": "Die Geburt der Venus",
+    "text": "Das Bild zeigt die Göttin Venus auf einer Muschel. Es hängt in den Uffizien in Florenz.",
+    "merke": "„Die Geburt der Venus“: Sandro Botticelli."
+   }
+  },
+  {
+   "id": "kun-ge-die-nachtwache",
+   "schwierigkeit": "mittel",
+   "frage": "Wer schuf das Werk „Die Nachtwache“?",
+   "richtig": "Rembrandt",
+   "falsch": [
+    "René Magritte",
+    "Leonardo da Vinci",
+    "Eugène Delacroix"
+   ],
+   "begruendung": "„Die Nachtwache“: Rembrandt.",
+   "karte": {
+    "titel": "Die Nachtwache",
+    "text": "Das riesige Gruppenbild hängt im Rijksmuseum in Amsterdam.",
+    "merke": "„Die Nachtwache“: Rembrandt."
+   }
+  },
+  {
+   "id": "kun-ge-der-wanderer-ueber-dem-nebelmeer",
+   "schwierigkeit": "mittel",
+   "frage": "Wer schuf das Werk „Der Wanderer über dem Nebelmeer“?",
+   "richtig": "Caspar David Friedrich",
+   "falsch": [
+    "Carl Spitzweg",
+    "Pablo Picasso",
+    "Sandro Botticelli"
+   ],
+   "begruendung": "„Der Wanderer über dem Nebelmeer“: Caspar David Friedrich.",
+   "karte": {
+    "titel": "Der Wanderer über dem Nebelmeer",
+    "text": "Das Bild gilt als Sinnbild der deutschen Romantik.",
+    "merke": "„Der Wanderer über dem Nebelmeer“: Caspar David Friedrich."
+   }
+  },
+  {
+   "id": "kun-ge-kreidefelsen-auf-ruegen",
+   "schwierigkeit": "mittel",
+   "frage": "Wer schuf das Werk „Kreidefelsen auf Rügen“?",
+   "richtig": "Caspar David Friedrich",
+   "falsch": [
+    "Banksy",
+    "Albrecht Dürer",
+    "Claude Monet"
+   ],
+   "begruendung": "„Kreidefelsen auf Rügen“: Caspar David Friedrich.",
+   "karte": {
+    "titel": "Kreidefelsen auf Rügen",
+    "text": "Friedrich malte die Kreideküste von Rügen um 1818.",
+    "merke": "„Kreidefelsen auf Rügen“: Caspar David Friedrich."
+   }
+  },
+  {
+   "id": "kun-ge-der-kuss",
+   "schwierigkeit": "leicht",
+   "frage": "Wer schuf das Werk „Der Kuss“?",
+   "richtig": "Gustav Klimt",
+   "falsch": [
+    "Vincent van Gogh",
+    "Sandro Botticelli",
+    "Claude Monet"
+   ],
+   "begruendung": "„Der Kuss“: Gustav Klimt.",
+   "karte": {
+    "titel": "Der Kuss",
+    "text": "Klimt verwendete für das Bild echtes Blattgold.",
+    "merke": "„Der Kuss“: Gustav Klimt."
+   },
+   "ddf": true
+  },
+  {
+   "id": "kun-ge-die-bestaendigkeit-der-erinnerung",
+   "schwierigkeit": "mittel",
+   "frage": "Wer schuf das Werk „Die Beständigkeit der Erinnerung“?",
+   "richtig": "Salvador Dalí",
+   "falsch": [
+    "Pablo Picasso",
+    "Edward Hopper",
+    "Andy Warhol"
+   ],
+   "begruendung": "„Die Beständigkeit der Erinnerung“: Salvador Dalí.",
+   "karte": {
+    "titel": "Die Beständigkeit der Erinnerung",
+    "text": "Auf dem Bild zerfließen Taschenuhren.",
+    "merke": "„Die Beständigkeit der Erinnerung“: Salvador Dalí."
+   }
+  },
+  {
+   "id": "kun-ge-seerosen",
+   "schwierigkeit": "mittel",
+   "frage": "Wer schuf das Werk „Seerosen“?",
+   "richtig": "Claude Monet",
+   "falsch": [
+    "Raffael",
+    "Andy Warhol",
+    "Leonardo da Vinci"
+   ],
+   "begruendung": "„Seerosen“: Claude Monet.",
+   "karte": {
+    "titel": "Seerosen",
+    "text": "Monet malte die Seerosen in seinem Garten in Giverny rund 250-mal.",
+    "merke": "„Seerosen“: Claude Monet."
+   }
+  },
+  {
+   "id": "kun-ge-der-arme-poet",
+   "schwierigkeit": "mittel",
+   "frage": "Wer schuf das Werk „Der arme Poet“?",
+   "richtig": "Carl Spitzweg",
+   "falsch": [
+    "Jan Vermeer",
+    "Claude Monet",
+    "Vincent van Gogh"
+   ],
+   "begruendung": "„Der arme Poet“: Carl Spitzweg.",
+   "karte": {
+    "titel": "Der arme Poet",
+    "text": "Der Dichter liegt mit Regenschirm im Bett unter dem undichten Dach.",
+    "merke": "„Der arme Poet“: Carl Spitzweg."
+   }
+  },
+  {
+   "id": "kun-ge-campbell-s-soup-cans",
+   "schwierigkeit": "mittel",
+   "frage": "Wer schuf das Werk „Campbell’s Soup Cans“?",
+   "richtig": "Andy Warhol",
+   "falsch": [
+    "Jan Vermeer",
+    "Diego Velázquez",
+    "Raffael"
+   ],
+   "begruendung": "„Campbell’s Soup Cans“: Andy Warhol.",
+   "karte": {
+    "titel": "Campbell’s Soup Cans",
+    "text": "Warhol machte Suppendosen zu Kunst und wurde zum Star der Pop-Art.",
+    "merke": "„Campbell’s Soup Cans“: Andy Warhol."
+   }
+  },
+  {
+   "id": "kun-ge-die-erschaffung-adams",
+   "schwierigkeit": "leicht",
+   "frage": "Wer schuf das Werk „Die Erschaffung Adams“?",
+   "richtig": "Michelangelo",
+   "falsch": [
+    "Eugène Delacroix",
+    "Pablo Picasso",
+    "Jan Vermeer"
+   ],
+   "begruendung": "„Die Erschaffung Adams“: Michelangelo.",
+   "karte": {
+    "titel": "Die Erschaffung Adams",
+    "text": "Das Fresko ist Teil der Decke der Sixtinischen Kapelle.",
+    "merke": "„Die Erschaffung Adams“: Michelangelo."
+   },
+   "ddf": true
+  },
+  {
+   "id": "kun-ge-das-floss-der-medusa",
+   "schwierigkeit": "schwer",
+   "frage": "Wer schuf das Werk „Das Floß der Medusa“?",
+   "richtig": "Théodore Géricault",
+   "falsch": [
+    "Hieronymus Bosch",
+    "René Magritte",
+    "Vincent van Gogh"
+   ],
+   "begruendung": "„Das Floß der Medusa“: Théodore Géricault.",
+   "karte": {
+    "titel": "Das Floß der Medusa",
+    "text": "Das Bild zeigt Überlebende eines Schiffsunglücks von 1816.",
+    "merke": "„Das Floß der Medusa“: Théodore Géricault."
+   }
+  },
+  {
+   "id": "kun-ge-die-freiheit-fuehrt-das-volk",
+   "schwierigkeit": "schwer",
+   "frage": "Wer schuf das Werk „Die Freiheit führt das Volk“?",
+   "richtig": "Eugène Delacroix",
+   "falsch": [
+    "Edward Hopper",
+    "Salvador Dalí",
+    "René Magritte"
+   ],
+   "begruendung": "„Die Freiheit führt das Volk“: Eugène Delacroix.",
+   "karte": {
+    "titel": "Die Freiheit führt das Volk",
+    "text": "Delacroix malte das Bild nach der Julirevolution von 1830.",
+    "merke": "„Die Freiheit führt das Volk“: Eugène Delacroix."
+   }
+  },
+  {
+   "id": "kun-ge-die-schule-von-athen",
+   "schwierigkeit": "mittel",
+   "frage": "Wer schuf das Werk „Die Schule von Athen“?",
+   "richtig": "Raffael",
+   "falsch": [
+    "Caspar David Friedrich",
+    "Gustav Klimt",
+    "Pieter Bruegel der Ältere"
+   ],
+   "begruendung": "„Die Schule von Athen“: Raffael.",
+   "karte": {
+    "titel": "Die Schule von Athen",
+    "text": "Das Fresko zeigt Philosophen wie Platon und Aristoteles.",
+    "merke": "„Die Schule von Athen“: Raffael."
+   }
+  },
+  {
+   "id": "kun-ge-der-turmbau-zu-babel",
+   "schwierigkeit": "schwer",
+   "frage": "Wer schuf das Werk „Der Turmbau zu Babel“?",
+   "richtig": "Pieter Bruegel der Ältere",
+   "falsch": [
+    "Hieronymus Bosch",
+    "Piet Mondrian",
+    "Claude Monet"
+   ],
+   "begruendung": "„Der Turmbau zu Babel“: Pieter Bruegel der Ältere.",
+   "karte": {
+    "titel": "Der Turmbau zu Babel",
+    "text": "Bruegel malte den Turm nach dem Vorbild des Kolosseums.",
+    "merke": "„Der Turmbau zu Babel“: Pieter Bruegel der Ältere."
+   }
+  },
+  {
+   "id": "kun-ge-das-grosse-rasenstueck",
+   "schwierigkeit": "mittel",
+   "frage": "Wer schuf das Werk „Das große Rasenstück“?",
+   "richtig": "Albrecht Dürer",
+   "falsch": [
+    "Eugène Delacroix",
+    "René Magritte",
+    "Salvador Dalí"
+   ],
+   "begruendung": "„Das große Rasenstück“: Albrecht Dürer.",
+   "karte": {
+    "titel": "Das große Rasenstück",
+    "text": "Dürer malte 1503 Gräser und Kräuter so genau wie ein Naturforscher.",
+    "merke": "„Das große Rasenstück“: Albrecht Dürer."
+   }
+  },
+  {
+   "id": "kun-ge-betende-haende",
+   "schwierigkeit": "leicht",
+   "frage": "Wer schuf das Werk „Betende Hände“?",
+   "richtig": "Albrecht Dürer",
+   "falsch": [
+    "Raffael",
+    "Diego Velázquez",
+    "Piet Mondrian"
+   ],
+   "begruendung": "„Betende Hände“: Albrecht Dürer.",
+   "karte": {
+    "titel": "Betende Hände",
+    "text": "Die Zeichnung ist eine Vorstudie für ein Altarbild.",
+    "merke": "„Betende Hände“: Albrecht Dürer."
+   },
+   "ddf": true
+  },
+  {
+   "id": "kun-ge-der-garten-der-lueste",
+   "schwierigkeit": "schwer",
+   "frage": "Wer schuf das Werk „Der Garten der Lüste“?",
+   "richtig": "Hieronymus Bosch",
+   "falsch": [
+    "Rembrandt",
+    "Piet Mondrian",
+    "Diego Velázquez"
+   ],
+   "begruendung": "„Der Garten der Lüste“: Hieronymus Bosch.",
+   "karte": {
+    "titel": "Der Garten der Lüste",
+    "text": "Das dreiteilige Bild hängt im Prado in Madrid.",
+    "merke": "„Der Garten der Lüste“: Hieronymus Bosch."
+   }
+  },
+  {
+   "id": "kun-ge-nighthawks",
+   "schwierigkeit": "schwer",
+   "frage": "Wer schuf das Werk „Nighthawks“?",
+   "richtig": "Edward Hopper",
+   "falsch": [
+    "Michelangelo",
+    "Jan Vermeer",
+    "Andy Warhol"
+   ],
+   "begruendung": "„Nighthawks“: Edward Hopper.",
+   "karte": {
+    "titel": "Nighthawks",
+    "text": "Das Bild zeigt Gäste in einem nächtlichen Diner in New York.",
+    "merke": "„Nighthawks“: Edward Hopper."
+   }
+  },
+  {
+   "id": "kun-ge-las-meninas",
+   "schwierigkeit": "schwer",
+   "frage": "Wer schuf das Werk „Las Meninas“?",
+   "richtig": "Diego Velázquez",
+   "falsch": [
+    "Jan Vermeer",
+    "Sandro Botticelli",
+    "Albrecht Dürer"
+   ],
+   "begruendung": "„Las Meninas“: Diego Velázquez.",
+   "karte": {
+    "titel": "Las Meninas",
+    "text": "Velázquez malte sich selbst mit ins Bild.",
+    "merke": "„Las Meninas“: Diego Velázquez."
+   }
+  },
+  {
+   "id": "kun-ge-komposition-mit-rot-gelb-und-blau",
+   "schwierigkeit": "mittel",
+   "frage": "Wer schuf das Werk „Komposition mit Rot, Gelb und Blau“?",
+   "richtig": "Piet Mondrian",
+   "falsch": [
+    "Michelangelo",
+    "Gustav Klimt",
+    "Pablo Picasso"
+   ],
+   "begruendung": "„Komposition mit Rot, Gelb und Blau“: Piet Mondrian.",
+   "karte": {
+    "titel": "Komposition mit Rot, Gelb und Blau",
+    "text": "Mondrian malte nur mit Grundfarben, Schwarz, Weiß und geraden Linien.",
+    "merke": "„Komposition mit Rot, Gelb und Blau“: Piet Mondrian."
+   }
+  },
+  {
+   "id": "kun-ge-der-verrat-der-bilder-ceci-n-est-pas-une",
+   "schwierigkeit": "mittel",
+   "frage": "Wer schuf das Werk „Der Verrat der Bilder („Ceci n’est pas une pipe“)“?",
+   "richtig": "René Magritte",
+   "falsch": [
+    "Sandro Botticelli",
+    "Raffael",
+    "Banksy"
+   ],
+   "begruendung": "„Der Verrat der Bilder („Ceci n’est pas une pipe“)“: René Magritte.",
+   "karte": {
+    "titel": "Der Verrat der Bilder („Ceci n’est pas une pipe“)",
+    "text": "Unter der gemalten Pfeife steht: „Dies ist keine Pfeife.“ Es ist ja nur ein Bild davon.",
+    "merke": "„Der Verrat der Bilder („Ceci n’est pas une pipe“)“: René Magritte."
+   }
+  },
+  {
+   "id": "kun-ge-maedchen-mit-ballon",
+   "schwierigkeit": "mittel",
+   "frage": "Wer schuf das Werk „Mädchen mit Ballon“?",
+   "richtig": "Banksy",
+   "falsch": [
+    "Edvard Munch",
+    "Vincent van Gogh",
+    "Raffael"
+   ],
+   "begruendung": "„Mädchen mit Ballon“: Banksy.",
+   "karte": {
+    "titel": "Mädchen mit Ballon",
+    "text": "Eine Fassung zerschredderte sich 2018 direkt nach der Versteigerung selbst.",
+    "merke": "„Mädchen mit Ballon“: Banksy."
+   }
+  },
+  {
+   "id": "kun-ba-der-eiffelturm",
+   "schwierigkeit": "leicht",
+   "frage": "In welcher Stadt steht der Eiffelturm?",
+   "richtig": "Paris",
+   "falsch": [
+    "Kopenhagen",
+    "Peking",
+    "Athen"
+   ],
+   "begruendung": "Der Eiffelturm steht in Paris.",
+   "karte": {
+    "titel": "Eiffelturm",
+    "text": "Der Eiffelturm steht in Paris.",
+    "merke": "Der Eiffelturm steht in Paris."
+   },
+   "ddf": true
+  },
+  {
+   "id": "kun-ba-das-kolosseum",
+   "schwierigkeit": "leicht",
+   "frage": "In welcher Stadt steht das Kolosseum?",
+   "richtig": "Rom",
+   "falsch": [
+    "Rio de Janeiro",
+    "Köln",
+    "Prag"
+   ],
+   "begruendung": "Das Kolosseum steht in Rom.",
+   "karte": {
+    "titel": "Kolosseum",
+    "text": "Das Kolosseum steht in Rom.",
+    "merke": "Das Kolosseum steht in Rom."
+   },
+   "ddf": true
+  },
+  {
+   "id": "kun-ba-der-big-ben",
+   "schwierigkeit": "leicht",
+   "frage": "In welcher Stadt steht der Big Ben?",
+   "richtig": "London",
+   "falsch": [
+    "Rio de Janeiro",
+    "Sydney",
+    "Kopenhagen"
+   ],
+   "begruendung": "Der Big Ben steht in London.",
+   "karte": {
+    "titel": "Big Ben",
+    "text": "Big Ben heißt eigentlich die große Glocke. Der Turm heißt seit 2012 Elizabeth Tower.",
+    "merke": "Der Big Ben steht in London."
+   },
+   "ddf": true
+  },
+  {
+   "id": "kun-ba-die-sagrada-familia",
+   "schwierigkeit": "leicht",
+   "frage": "In welcher Stadt steht die Sagrada Família?",
+   "richtig": "Barcelona",
+   "falsch": [
+    "Berlin",
+    "Rio de Janeiro",
+    "München"
+   ],
+   "begruendung": "Die Sagrada Família steht in Barcelona.",
+   "karte": {
+    "titel": "Sagrada Família",
+    "text": "Die Sagrada Família steht in Barcelona.",
+    "merke": "Die Sagrada Família steht in Barcelona."
+   },
+   "ddf": true
+  },
+  {
+   "id": "kun-ba-das-brandenburger-tor",
+   "schwierigkeit": "leicht",
+   "frage": "In welcher Stadt steht das Brandenburger Tor?",
+   "richtig": "Berlin",
+   "falsch": [
+    "Hamburg",
+    "Brüssel",
+    "Moskau"
+   ],
+   "begruendung": "Das Brandenburger Tor steht in Berlin.",
+   "karte": {
+    "titel": "Brandenburger Tor",
+    "text": "Das Brandenburger Tor steht in Berlin.",
+    "merke": "Das Brandenburger Tor steht in Berlin."
+   },
+   "ddf": true
+  },
+  {
+   "id": "kun-ba-der-koelner-dom",
+   "schwierigkeit": "leicht",
+   "frage": "In welcher Stadt steht der Kölner Dom?",
+   "richtig": "Köln",
+   "falsch": [
+    "Kuala Lumpur",
+    "Wien",
+    "Dubai"
+   ],
+   "begruendung": "Der Kölner Dom steht in Köln.",
+   "karte": {
+    "titel": "Kölner Dom",
+    "text": "Der Kölner Dom steht in Köln.",
+    "merke": "Der Kölner Dom steht in Köln."
+   },
+   "ddf": true
+  },
+  {
+   "id": "kun-ba-das-taj-mahal",
+   "schwierigkeit": "mittel",
+   "frage": "In welcher Stadt steht das Taj Mahal?",
+   "richtig": "Agra",
+   "falsch": [
+    "Kopenhagen",
+    "Rom",
+    "Granada"
+   ],
+   "begruendung": "Das Taj Mahal steht in Agra.",
+   "karte": {
+    "titel": "Taj Mahal",
+    "text": "Das Taj Mahal steht in Agra.",
+    "merke": "Das Taj Mahal steht in Agra."
+   }
+  },
+  {
+   "id": "kun-ba-die-freiheitsstatue",
+   "schwierigkeit": "leicht",
+   "frage": "In welcher Stadt steht die Freiheitsstatue?",
+   "richtig": "New York",
+   "falsch": [
+    "Kopenhagen",
+    "Peking",
+    "Kuala Lumpur"
+   ],
+   "begruendung": "Die Freiheitsstatue steht in New York.",
+   "karte": {
+    "titel": "Freiheitsstatue",
+    "text": "Die Freiheitsstatue steht in New York.",
+    "merke": "Die Freiheitsstatue steht in New York."
+   },
+   "ddf": true
+  },
+  {
+   "id": "kun-ba-das-opernhaus-mit-den-segeldaechern",
+   "schwierigkeit": "leicht",
+   "frage": "In welcher Stadt steht das Opernhaus mit den Segeldächern?",
+   "richtig": "Sydney",
+   "falsch": [
+    "Istanbul",
+    "Dubai",
+    "Wien"
+   ],
+   "begruendung": "Das Opernhaus mit den Segeldächern steht in Sydney.",
+   "karte": {
+    "titel": "Opernhaus mit den Segeldächern",
+    "text": "Das Opernhaus mit den Segeldächern steht in Sydney.",
+    "merke": "Das Opernhaus mit den Segeldächern steht in Sydney."
+   },
+   "ddf": true
+  },
+  {
+   "id": "kun-ba-die-alhambra",
+   "schwierigkeit": "mittel",
+   "frage": "In welcher Stadt steht die Alhambra?",
+   "richtig": "Granada",
+   "falsch": [
+    "München",
+    "Rom",
+    "Sydney"
+   ],
+   "begruendung": "Die Alhambra steht in Granada.",
+   "karte": {
+    "titel": "Alhambra",
+    "text": "Die Alhambra steht in Granada.",
+    "merke": "Die Alhambra steht in Granada."
+   }
+  },
+  {
+   "id": "kun-ba-die-akropolis",
+   "schwierigkeit": "leicht",
+   "frage": "In welcher Stadt steht die Akropolis?",
+   "richtig": "Athen",
+   "falsch": [
+    "Kopenhagen",
+    "Peking",
+    "San Francisco"
+   ],
+   "begruendung": "Die Akropolis steht in Athen.",
+   "karte": {
+    "titel": "Akropolis",
+    "text": "Die Akropolis steht in Athen.",
+    "merke": "Die Akropolis steht in Athen."
+   },
+   "ddf": true
+  },
+  {
+   "id": "kun-ba-der-schiefe-turm",
+   "schwierigkeit": "leicht",
+   "frage": "In welcher Stadt steht der Schiefe Turm?",
+   "richtig": "Pisa",
+   "falsch": [
+    "Kopenhagen",
+    "New York",
+    "Dubai"
+   ],
+   "begruendung": "Der Schiefe Turm steht in Pisa.",
+   "karte": {
+    "titel": "Schiefe Turm",
+    "text": "Der Schiefe Turm steht in Pisa.",
+    "merke": "Der Schiefe Turm steht in Pisa."
+   },
+   "ddf": true
+  },
+  {
+   "id": "kun-ba-die-hagia-sophia",
+   "schwierigkeit": "mittel",
+   "frage": "In welcher Stadt steht die Hagia Sophia?",
+   "richtig": "Istanbul",
+   "falsch": [
+    "Kopenhagen",
+    "Agra",
+    "Dubai"
+   ],
+   "begruendung": "Die Hagia Sophia steht in Istanbul.",
+   "karte": {
+    "titel": "Hagia Sophia",
+    "text": "Die Hagia Sophia steht in Istanbul.",
+    "merke": "Die Hagia Sophia steht in Istanbul."
+   }
+  },
+  {
+   "id": "kun-ba-die-christus-statue-auf-dem-corcovado",
+   "schwierigkeit": "leicht",
+   "frage": "In welcher Stadt steht die Christus-Statue auf dem Corcovado?",
+   "richtig": "Rio de Janeiro",
+   "falsch": [
+    "Brüssel",
+    "Wien",
+    "Lübeck"
+   ],
+   "begruendung": "Die Christus-Statue auf dem Corcovado steht in Rio de Janeiro.",
+   "karte": {
+    "titel": "Christus-Statue auf dem Corcovado",
+    "text": "Die Christus-Statue auf dem Corcovado steht in Rio de Janeiro.",
+    "merke": "Die Christus-Statue auf dem Corcovado steht in Rio de Janeiro."
+   },
+   "ddf": true
+  },
+  {
+   "id": "kun-ba-das-atomium",
+   "schwierigkeit": "mittel",
+   "frage": "In welcher Stadt steht das Atomium?",
+   "richtig": "Brüssel",
+   "falsch": [
+    "San Francisco",
+    "Wien",
+    "Istanbul"
+   ],
+   "begruendung": "Das Atomium steht in Brüssel.",
+   "karte": {
+    "titel": "Atomium",
+    "text": "Das Atomium steht in Brüssel.",
+    "merke": "Das Atomium steht in Brüssel."
+   }
+  },
+  {
+   "id": "kun-ba-der-kreml",
+   "schwierigkeit": "leicht",
+   "frage": "In welcher Stadt steht der Kreml?",
+   "richtig": "Moskau",
+   "falsch": [
+    "München",
+    "Istanbul",
+    "Dubai"
+   ],
+   "begruendung": "Der Kreml steht in Moskau.",
+   "karte": {
+    "titel": "Kreml",
+    "text": "Der Kreml steht in Moskau.",
+    "merke": "Der Kreml steht in Moskau."
+   },
+   "ddf": true
+  },
+  {
+   "id": "kun-ba-die-verbotene-stadt",
+   "schwierigkeit": "mittel",
+   "frage": "In welcher Stadt steht die Verbotene Stadt?",
+   "richtig": "Peking",
+   "falsch": [
+    "New York",
+    "Prag",
+    "Rio de Janeiro"
+   ],
+   "begruendung": "Die Verbotene Stadt steht in Peking.",
+   "karte": {
+    "titel": "Verbotene Stadt",
+    "text": "Die Verbotene Stadt steht in Peking.",
+    "merke": "Die Verbotene Stadt steht in Peking."
+   }
+  },
+  {
+   "id": "kun-ba-die-petronas-towers",
+   "schwierigkeit": "schwer",
+   "frage": "In welcher Stadt steht die Petronas Towers?",
+   "richtig": "Kuala Lumpur",
+   "falsch": [
+    "Agra",
+    "Berlin",
+    "Istanbul"
+   ],
+   "begruendung": "Die Petronas Towers steht in Kuala Lumpur.",
+   "karte": {
+    "titel": "Petronas Towers",
+    "text": "Die Petronas Towers steht in Kuala Lumpur.",
+    "merke": "Die Petronas Towers steht in Kuala Lumpur."
+   }
+  },
+  {
+   "id": "kun-ba-der-zwinger",
+   "schwierigkeit": "mittel",
+   "frage": "In welcher Stadt steht der Zwinger?",
+   "richtig": "Dresden",
+   "falsch": [
+    "London",
+    "Dubai",
+    "Istanbul"
+   ],
+   "begruendung": "Der Zwinger steht in Dresden.",
+   "karte": {
+    "titel": "Zwinger",
+    "text": "Der Zwinger steht in Dresden.",
+    "merke": "Der Zwinger steht in Dresden."
+   }
+  },
+  {
+   "id": "kun-ba-die-elbphilharmonie",
+   "schwierigkeit": "leicht",
+   "frage": "In welcher Stadt steht die Elbphilharmonie?",
+   "richtig": "Hamburg",
+   "falsch": [
+    "Prag",
+    "Kopenhagen",
+    "New York"
+   ],
+   "begruendung": "Die Elbphilharmonie steht in Hamburg.",
+   "karte": {
+    "titel": "Elbphilharmonie",
+    "text": "Die Elbphilharmonie steht in Hamburg.",
+    "merke": "Die Elbphilharmonie steht in Hamburg."
+   },
+   "ddf": true
+  },
+  {
+   "id": "kun-ba-das-holstentor",
+   "schwierigkeit": "mittel",
+   "frage": "In welcher Stadt steht das Holstentor?",
+   "richtig": "Lübeck",
+   "falsch": [
+    "San Francisco",
+    "Köln",
+    "Hamburg"
+   ],
+   "begruendung": "Das Holstentor steht in Lübeck.",
+   "karte": {
+    "titel": "Holstentor",
+    "text": "Das Holstentor steht in Lübeck.",
+    "merke": "Das Holstentor steht in Lübeck."
+   }
+  },
+  {
+   "id": "kun-ba-der-stephansdom",
+   "schwierigkeit": "mittel",
+   "frage": "In welcher Stadt steht der Stephansdom?",
+   "richtig": "Wien",
+   "falsch": [
+    "Berlin",
+    "New York",
+    "Hamburg"
+   ],
+   "begruendung": "Der Stephansdom steht in Wien.",
+   "karte": {
+    "titel": "Stephansdom",
+    "text": "Der Stephansdom steht in Wien.",
+    "merke": "Der Stephansdom steht in Wien."
+   }
+  },
+  {
+   "id": "kun-ba-die-karlsbruecke",
+   "schwierigkeit": "mittel",
+   "frage": "In welcher Stadt steht die Karlsbrücke?",
+   "richtig": "Prag",
+   "falsch": [
+    "Athen",
+    "Kuala Lumpur",
+    "Wien"
+   ],
+   "begruendung": "Die Karlsbrücke steht in Prag.",
+   "karte": {
+    "titel": "Karlsbrücke",
+    "text": "Die Karlsbrücke steht in Prag.",
+    "merke": "Die Karlsbrücke steht in Prag."
+   }
+  },
+  {
+   "id": "kun-ba-das-manneken-pis",
+   "schwierigkeit": "mittel",
+   "frage": "In welcher Stadt steht das Manneken Pis?",
+   "richtig": "Brüssel",
+   "falsch": [
+    "Kopenhagen",
+    "Köln",
+    "Rom"
+   ],
+   "begruendung": "Das Manneken Pis steht in Brüssel.",
+   "karte": {
+    "titel": "Manneken Pis",
+    "text": "Das Manneken Pis steht in Brüssel.",
+    "merke": "Das Manneken Pis steht in Brüssel."
+   }
+  },
+  {
+   "id": "kun-ba-die-kleine-meerjungfrau",
+   "schwierigkeit": "mittel",
+   "frage": "In welcher Stadt steht die Kleine Meerjungfrau?",
+   "richtig": "Kopenhagen",
+   "falsch": [
+    "Sydney",
+    "Kuala Lumpur",
+    "London"
+   ],
+   "begruendung": "Die Kleine Meerjungfrau steht in Kopenhagen.",
+   "karte": {
+    "titel": "Kleine Meerjungfrau",
+    "text": "Die Kleine Meerjungfrau steht in Kopenhagen.",
+    "merke": "Die Kleine Meerjungfrau steht in Kopenhagen."
+   }
+  },
+  {
+   "id": "kun-ba-die-golden-gate-bridge",
+   "schwierigkeit": "leicht",
+   "frage": "In welcher Stadt steht die Golden Gate Bridge?",
+   "richtig": "San Francisco",
+   "falsch": [
+    "Pisa",
+    "Barcelona",
+    "Lübeck"
+   ],
+   "begruendung": "Die Golden Gate Bridge steht in San Francisco.",
+   "karte": {
+    "titel": "Golden Gate Bridge",
+    "text": "Die Golden Gate Bridge steht in San Francisco.",
+    "merke": "Die Golden Gate Bridge steht in San Francisco."
+   },
+   "ddf": true
+  },
+  {
+   "id": "kun-ba-die-tower-bridge",
+   "schwierigkeit": "leicht",
+   "frage": "In welcher Stadt steht die Tower Bridge?",
+   "richtig": "London",
+   "falsch": [
+    "Berlin",
+    "Rom",
+    "Granada"
+   ],
+   "begruendung": "Die Tower Bridge steht in London.",
+   "karte": {
+    "titel": "Tower Bridge",
+    "text": "Die Tower Bridge steht in London.",
+    "merke": "Die Tower Bridge steht in London."
+   },
+   "ddf": true
+  },
+  {
+   "id": "kun-ba-der-burj-khalifa",
+   "schwierigkeit": "leicht",
+   "frage": "In welcher Stadt steht der Burj Khalifa?",
+   "richtig": "Dubai",
+   "falsch": [
+    "Dresden",
+    "Agra",
+    "Köln"
+   ],
+   "begruendung": "Der Burj Khalifa steht in Dubai.",
+   "karte": {
+    "titel": "Burj Khalifa",
+    "text": "Der Burj Khalifa steht in Dubai.",
+    "merke": "Der Burj Khalifa steht in Dubai."
+   },
+   "ddf": true
+  },
+  {
+   "id": "kun-ba-die-semperoper",
+   "schwierigkeit": "mittel",
+   "frage": "In welcher Stadt steht die Semperoper?",
+   "richtig": "Dresden",
+   "falsch": [
+    "Lübeck",
+    "Istanbul",
+    "Kuala Lumpur"
+   ],
+   "begruendung": "Die Semperoper steht in Dresden.",
+   "karte": {
+    "titel": "Semperoper",
+    "text": "Die Semperoper steht in Dresden.",
+    "merke": "Die Semperoper steht in Dresden."
+   }
+  },
+  {
+   "id": "kun-ba-das-hofbraeuhaus",
+   "schwierigkeit": "leicht",
+   "frage": "In welcher Stadt steht das Hofbräuhaus?",
+   "richtig": "München",
+   "falsch": [
+    "Rom",
+    "Rio de Janeiro",
+    "Granada"
+   ],
+   "begruendung": "Das Hofbräuhaus steht in München.",
+   "karte": {
+    "titel": "Hofbräuhaus",
+    "text": "Das Hofbräuhaus steht in München.",
+    "merke": "Das Hofbräuhaus steht in München."
+   },
+   "ddf": true
+  },
+  {
+   "id": "kun-ri-claude-monet",
+   "schwierigkeit": "leicht",
+   "frage": "Welcher Kunstrichtung ordnet man Claude Monet zu?",
+   "richtig": "Impressionismus",
+   "falsch": [
+    "Postimpressionismus",
+    "Romantik",
+    "Pop-Art"
+   ],
+   "begruendung": "Claude Monet: Impressionismus.",
+   "karte": {
+    "titel": "Claude Monet",
+    "text": "Claude Monet: Impressionismus.",
+    "merke": "Claude Monet: Impressionismus."
+   }
+  },
+  {
+   "id": "kun-ri-salvador-dali",
+   "schwierigkeit": "leicht",
+   "frage": "Welcher Kunstrichtung ordnet man Salvador Dalí zu?",
+   "richtig": "Surrealismus",
+   "falsch": [
+    "Expressionismus",
+    "Romantik",
+    "Abstrakter Expressionismus"
+   ],
+   "begruendung": "Salvador Dalí: Surrealismus.",
+   "karte": {
+    "titel": "Salvador Dalí",
+    "text": "Salvador Dalí: Surrealismus.",
+    "merke": "Salvador Dalí: Surrealismus."
+   }
+  },
+  {
+   "id": "kun-ri-andy-warhol",
+   "schwierigkeit": "leicht",
+   "frage": "Welcher Kunstrichtung ordnet man Andy Warhol zu?",
+   "richtig": "Pop-Art",
+   "falsch": [
+    "Renaissance",
+    "Abstrakter Expressionismus",
+    "Barock"
+   ],
+   "begruendung": "Andy Warhol: Pop-Art.",
+   "karte": {
+    "titel": "Andy Warhol",
+    "text": "Andy Warhol: Pop-Art.",
+    "merke": "Andy Warhol: Pop-Art."
+   }
+  },
+  {
+   "id": "kun-ri-michelangelo",
+   "schwierigkeit": "leicht",
+   "frage": "Welcher Kunstrichtung ordnet man Michelangelo zu?",
+   "richtig": "Renaissance",
+   "falsch": [
+    "Kubismus",
+    "Dadaismus",
+    "Postimpressionismus"
+   ],
+   "begruendung": "Michelangelo: Renaissance.",
+   "karte": {
+    "titel": "Michelangelo",
+    "text": "Michelangelo: Renaissance.",
+    "merke": "Michelangelo: Renaissance."
+   }
+  },
+  {
+   "id": "kun-ri-peter-paul-rubens",
+   "schwierigkeit": "mittel",
+   "frage": "Welcher Kunstrichtung ordnet man Peter Paul Rubens zu?",
+   "richtig": "Barock",
+   "falsch": [
+    "Abstrakter Expressionismus",
+    "Postimpressionismus",
+    "Dadaismus"
+   ],
+   "begruendung": "Peter Paul Rubens: Barock.",
+   "karte": {
+    "titel": "Peter Paul Rubens",
+    "text": "Peter Paul Rubens: Barock.",
+    "merke": "Peter Paul Rubens: Barock."
+   }
+  },
+  {
+   "id": "kun-ri-caspar-david-friedrich",
+   "schwierigkeit": "mittel",
+   "frage": "Welcher Kunstrichtung ordnet man Caspar David Friedrich zu?",
+   "richtig": "Romantik",
+   "falsch": [
+    "Jugendstil",
+    "Pop-Art",
+    "Barock"
+   ],
+   "begruendung": "Caspar David Friedrich: Romantik.",
+   "karte": {
+    "titel": "Caspar David Friedrich",
+    "text": "Caspar David Friedrich: Romantik.",
+    "merke": "Caspar David Friedrich: Romantik."
+   }
+  },
+  {
+   "id": "kun-ri-gustav-klimt",
+   "schwierigkeit": "mittel",
+   "frage": "Welcher Kunstrichtung ordnet man Gustav Klimt zu?",
+   "richtig": "Jugendstil",
+   "falsch": [
+    "Renaissance",
+    "Surrealismus",
+    "Abstrakter Expressionismus"
+   ],
+   "begruendung": "Gustav Klimt: Jugendstil.",
+   "karte": {
+    "titel": "Gustav Klimt",
+    "text": "Gustav Klimt: Jugendstil.",
+    "merke": "Gustav Klimt: Jugendstil."
+   }
+  },
+  {
+   "id": "kun-ri-jackson-pollock",
+   "schwierigkeit": "schwer",
+   "frage": "Welcher Kunstrichtung ordnet man Jackson Pollock zu?",
+   "richtig": "Abstrakter Expressionismus",
+   "falsch": [
+    "Impressionismus",
+    "Barock",
+    "Pop-Art"
+   ],
+   "begruendung": "Jackson Pollock: Abstrakter Expressionismus.",
+   "karte": {
+    "titel": "Jackson Pollock",
+    "text": "Jackson Pollock: Abstrakter Expressionismus.",
+    "merke": "Jackson Pollock: Abstrakter Expressionismus."
+   }
+  },
+  {
+   "id": "kun-ri-marcel-duchamp",
+   "schwierigkeit": "schwer",
+   "frage": "Welcher Kunstrichtung ordnet man Marcel Duchamp zu?",
+   "richtig": "Dadaismus",
+   "falsch": [
+    "Barock",
+    "Kubismus",
+    "Surrealismus"
+   ],
+   "begruendung": "Marcel Duchamp: Dadaismus.",
+   "karte": {
+    "titel": "Marcel Duchamp",
+    "text": "Marcel Duchamp: Dadaismus.",
+    "merke": "Marcel Duchamp: Dadaismus."
+   }
+  },
+  {
+   "id": "kun-ri-franz-marc",
+   "schwierigkeit": "mittel",
+   "frage": "Welcher Kunstrichtung ordnet man Franz Marc zu?",
+   "richtig": "Expressionismus",
+   "falsch": [
+    "Jugendstil",
+    "Surrealismus",
+    "Kubismus"
+   ],
+   "begruendung": "Franz Marc: Expressionismus.",
+   "karte": {
+    "titel": "Franz Marc",
+    "text": "Franz Marc: Expressionismus.",
+    "merke": "Franz Marc: Expressionismus."
+   }
+  },
+  {
+   "id": "kun-ri-georges-braque",
+   "schwierigkeit": "schwer",
+   "frage": "Welcher Kunstrichtung ordnet man Georges Braque zu?",
+   "richtig": "Kubismus",
+   "falsch": [
+    "Surrealismus",
+    "Postimpressionismus",
+    "Impressionismus"
+   ],
+   "begruendung": "Georges Braque: Kubismus.",
+   "karte": {
+    "titel": "Georges Braque",
+    "text": "Georges Braque: Kubismus.",
+    "merke": "Georges Braque: Kubismus."
+   }
+  },
+  {
+   "id": "kun-ri-vincent-van-gogh",
+   "schwierigkeit": "mittel",
+   "frage": "Welcher Kunstrichtung ordnet man Vincent van Gogh zu?",
+   "richtig": "Postimpressionismus",
+   "falsch": [
+    "Jugendstil",
+    "Abstrakter Expressionismus",
+    "Surrealismus"
+   ],
+   "begruendung": "Vincent van Gogh: Postimpressionismus.",
+   "karte": {
+    "titel": "Vincent van Gogh",
+    "text": "Vincent van Gogh: Postimpressionismus.",
+    "merke": "Vincent van Gogh: Postimpressionismus."
+   }
+  },
+  {
+   "id": "kun-mu-der-louvre",
+   "schwierigkeit": "leicht",
+   "frage": "In welcher Stadt liegt der Louvre?",
+   "richtig": "Paris",
+   "falsch": [
+    "Berlin",
+    "London",
+    "Florenz"
+   ],
+   "begruendung": "Der Louvre: Paris.",
+   "karte": {
+    "titel": "Louvre",
+    "text": "Der Louvre: Paris.",
+    "merke": "Der Louvre: Paris."
+   }
+  },
+  {
+   "id": "kun-mu-der-prado",
+   "schwierigkeit": "mittel",
+   "frage": "In welcher Stadt liegt der Prado?",
+   "richtig": "Madrid",
+   "falsch": [
+    "Berlin",
+    "Florenz",
+    "New York"
+   ],
+   "begruendung": "Der Prado: Madrid.",
+   "karte": {
+    "titel": "Prado",
+    "text": "Der Prado: Madrid.",
+    "merke": "Der Prado: Madrid."
+   }
+  },
+  {
+   "id": "kun-mu-die-uffizien",
+   "schwierigkeit": "mittel",
+   "frage": "In welcher Stadt liegt die Uffizien?",
+   "richtig": "Florenz",
+   "falsch": [
+    "Berlin",
+    "Wien",
+    "Sankt Petersburg"
+   ],
+   "begruendung": "Die Uffizien: Florenz.",
+   "karte": {
+    "titel": "Uffizien",
+    "text": "Die Uffizien: Florenz.",
+    "merke": "Die Uffizien: Florenz."
+   }
+  },
+  {
+   "id": "kun-mu-das-rijksmuseum",
+   "schwierigkeit": "mittel",
+   "frage": "In welcher Stadt liegt das Rijksmuseum?",
+   "richtig": "Amsterdam",
+   "falsch": [
+    "München",
+    "New York",
+    "Sankt Petersburg"
+   ],
+   "begruendung": "Das Rijksmuseum: Amsterdam.",
+   "karte": {
+    "titel": "Rijksmuseum",
+    "text": "Das Rijksmuseum: Amsterdam.",
+    "merke": "Das Rijksmuseum: Amsterdam."
+   }
+  },
+  {
+   "id": "kun-mu-die-eremitage",
+   "schwierigkeit": "mittel",
+   "frage": "In welcher Stadt liegt die Eremitage?",
+   "richtig": "Sankt Petersburg",
+   "falsch": [
+    "Madrid",
+    "München",
+    "London"
+   ],
+   "begruendung": "Die Eremitage: Sankt Petersburg.",
+   "karte": {
+    "titel": "Eremitage",
+    "text": "Die Eremitage: Sankt Petersburg.",
+    "merke": "Die Eremitage: Sankt Petersburg."
+   }
+  },
+  {
+   "id": "kun-mu-das-british-museum",
+   "schwierigkeit": "leicht",
+   "frage": "In welcher Stadt liegt das British Museum?",
+   "richtig": "London",
+   "falsch": [
+    "Paris",
+    "Sankt Petersburg",
+    "Wien"
+   ],
+   "begruendung": "Das British Museum: London.",
+   "karte": {
+    "titel": "British Museum",
+    "text": "Das British Museum: London.",
+    "merke": "Das British Museum: London."
+   }
+  },
+  {
+   "id": "kun-mu-das-museum-of-modern-art-moma",
+   "schwierigkeit": "mittel",
+   "frage": "In welcher Stadt liegt das Museum of Modern Art (MoMA)?",
+   "richtig": "New York",
+   "falsch": [
+    "London",
+    "Sankt Petersburg",
+    "Amsterdam"
+   ],
+   "begruendung": "Das Museum of Modern Art (MoMA): New York.",
+   "karte": {
+    "titel": "Museum of Modern Art (MoMA)",
+    "text": "Das Museum of Modern Art (MoMA): New York.",
+    "merke": "Das Museum of Modern Art (MoMA): New York."
+   }
+  },
+  {
+   "id": "kun-mu-das-pergamonmuseum",
+   "schwierigkeit": "mittel",
+   "frage": "In welcher Stadt liegt das Pergamonmuseum?",
+   "richtig": "Berlin",
+   "falsch": [
+    "Paris",
+    "New York",
+    "Wien"
+   ],
+   "begruendung": "Das Pergamonmuseum: Berlin.",
+   "karte": {
+    "titel": "Pergamonmuseum",
+    "text": "Das Pergamonmuseum: Berlin.",
+    "merke": "Das Pergamonmuseum: Berlin."
+   }
+  },
+  {
+   "id": "kun-mu-die-alte-pinakothek",
+   "schwierigkeit": "mittel",
+   "frage": "In welcher Stadt liegt die Alte Pinakothek?",
+   "richtig": "München",
+   "falsch": [
+    "Sankt Petersburg",
+    "New York",
+    "Amsterdam"
+   ],
+   "begruendung": "Die Alte Pinakothek: München.",
+   "karte": {
+    "titel": "Alte Pinakothek",
+    "text": "Die Alte Pinakothek: München.",
+    "merke": "Die Alte Pinakothek: München."
+   }
+  },
+  {
+   "id": "kun-mu-das-kunsthistorische-museum",
+   "schwierigkeit": "schwer",
+   "frage": "In welcher Stadt liegt das Kunsthistorische Museum?",
+   "richtig": "Wien",
+   "falsch": [
+    "London",
+    "Amsterdam",
+    "New York"
+   ],
+   "begruendung": "Das Kunsthistorische Museum: Wien.",
+   "karte": {
+    "titel": "Kunsthistorische Museum",
+    "text": "Das Kunsthistorische Museum: Wien.",
+    "merke": "Das Kunsthistorische Museum: Wien."
+   }
+  },
+  {
+   "id": "kun-mu-das-deutsche-museum",
+   "schwierigkeit": "leicht",
+   "frage": "In welcher Stadt liegt das Deutsche Museum?",
+   "richtig": "München",
+   "falsch": [
+    "Madrid",
+    "Sankt Petersburg",
+    "London"
+   ],
+   "begruendung": "Das Deutsche Museum: München.",
+   "karte": {
+    "titel": "Deutsche Museum",
+    "text": "Das Deutsche Museum: München.",
+    "merke": "Das Deutsche Museum: München."
+   }
+  },
+  {
+   "id": "kun-mu-das-van-gogh-museum",
+   "schwierigkeit": "leicht",
+   "frage": "In welcher Stadt liegt das Van Gogh Museum?",
+   "richtig": "Amsterdam",
+   "falsch": [
+    "Berlin",
+    "Wien",
+    "New York"
+   ],
+   "begruendung": "Das Van Gogh Museum: Amsterdam.",
+   "karte": {
+    "titel": "Van Gogh Museum",
+    "text": "Das Van Gogh Museum: Amsterdam.",
+    "merke": "Das Van Gogh Museum: Amsterdam."
+   }
+  }
+ ]
+}

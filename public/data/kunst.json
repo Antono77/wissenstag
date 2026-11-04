@@ -1,0 +1,145 @@
+{
+  "klasse": "kunst",
+  "fragen": [
+    {
+      "id": "kun-001", "schwierigkeit": "leicht", "ddf": true,
+      "frage": "In welchem Museum hängt die Mona Lisa?",
+      "richtig": "Im Louvre", "falsch": ["In den Uffizien", "Im Prado", "Im British Museum"], "alias": ["Louvre"],
+      "begruendung": "Die Mona Lisa hängt im Louvre in Paris. Jedes Jahr sehen sie Millionen Menschen.",
+      "karte": { "titel": "Mona Lisa", "text": "1911 stahl ein italienischer Handwerker das Bild. Erst durch den Diebstahl wurde es weltberühmt. 1913 tauchte es in Florenz wieder auf.", "merke": "Mona Lisa: Leonardo da Vinci, Louvre, Paris." }
+    },
+    {
+      "id": "kun-002", "schwierigkeit": "leicht", "ddf": true,
+      "frage": "Welcher berühmte Maler schnitt sich ein Stück seines Ohres ab?",
+      "richtig": "Vincent van Gogh", "falsch": ["Pablo Picasso", "Claude Monet", "Salvador Dalí"], "alias": ["van Gogh"],
+      "begruendung": "Van Gogh verletzte sich 1888 nach einem Streit mit Paul Gauguin in Arles selbst am Ohr.",
+      "karte": { "titel": "Van Gogh", "text": "Zu Lebzeiten verkaufte van Gogh kaum Bilder. Heute erzielen sie Rekordpreise.", "merke": "Ohr abgeschnitten: Vincent van Gogh, 1888." }
+    },
+    {
+      "id": "kun-003", "schwierigkeit": "mittel",
+      "frage": "Wer bemalte die Decke der Sixtinischen Kapelle?",
+      "richtig": "Michelangelo", "falsch": ["Raffael", "Leonardo da Vinci", "Botticelli"],
+      "begruendung": "Michelangelo arbeitete von 1508 bis 1512 an der Decke, meist auf einem Gerüst stehend.",
+      "karte": { "titel": "Sixtinische Kapelle", "text": "In der Kapelle im Vatikan wählen die Kardinäle den Papst. Michelangelo war eigentlich Bildhauer, er schuf auch den David in Florenz.", "merke": "Sixtinische Kapelle: Michelangelo." }
+    },
+    {
+      "id": "kun-004", "schwierigkeit": "leicht", "ddf": true,
+      "frage": "Welche Farbe entsteht, wenn du Blau und Gelb mischst?",
+      "richtig": "Grün", "falsch": ["Lila", "Orange", "Braun"],
+      "begruendung": "Beim Mischen von Malfarben ergeben Blau und Gelb Grün.",
+      "karte": { "titel": "Farben mischen", "text": "Rot und Gelb ergeben Orange, Rot und Blau ergeben Lila.", "merke": "Blau + Gelb = Grün, Rot + Blau = Lila, Rot + Gelb = Orange." }
+    },
+    {
+      "id": "kun-005", "schwierigkeit": "mittel", "ddf": true,
+      "frage": "Was ist die Komplementärfarbe zu Grün?",
+      "richtig": "Rot", "falsch": ["Blau", "Gelb", "Violett"],
+      "begruendung": "Im klassischen Farbkreis liegt Rot gegenüber von Grün. Nebeneinander verstärken sich die beiden.",
+      "karte": { "titel": "Komplementärfarben", "text": "Weitere Paare sind Blau und Orange sowie Gelb und Violett.", "merke": "Grün ↔ Rot, Blau ↔ Orange, Gelb ↔ Violett." }
+    },
+    {
+      "id": "kun-006", "schwierigkeit": "mittel",
+      "frage": "Welche Kunstschule gründete Walter Gropius 1919 in Weimar?",
+      "richtig": "Das Bauhaus", "falsch": ["Die Brücke", "Der Blaue Reiter", "Die Wiener Werkstätte"], "alias": ["Bauhaus"],
+      "begruendung": "Das Bauhaus verband Kunst, Handwerk und Architektur. Es zog später nach Dessau und Berlin.",
+      "karte": { "titel": "Bauhaus", "text": "Die Nationalsozialisten zwangen das Bauhaus 1933 zur Schließung. Viele Lehrer gingen in die USA.", "merke": "Bauhaus: Gropius, 1919, Weimar → Dessau → Berlin." }
+    },
+    {
+      "id": "kun-007", "schwierigkeit": "mittel",
+      "frage": "Aus welchem Material ist die Statue des David von Michelangelo?",
+      "richtig": "Marmor", "falsch": ["Bronze", "Holz", "Granit"],
+      "begruendung": "Michelangelo meißelte den David aus einem einzigen Block Carrara-Marmor.",
+      "karte": { "titel": "David", "text": "Die Figur ist über 5 m hoch und steht heute in der Galleria dell’Accademia in Florenz.", "merke": "David: Marmor, Michelangelo, Florenz." }
+    },
+    {
+      "id": "kun-008", "schwierigkeit": "leicht",
+      "frage": "Wie heißt ein Bild, das der Maler von sich selbst malt?",
+      "richtig": "Selbstporträt", "falsch": ["Stillleben", "Landschaft", "Karikatur"], "alias": ["Selbstbildnis"],
+      "begruendung": "Ein Selbstporträt zeigt den Künstler selbst. Rembrandt und van Gogh malten Dutzende davon.",
+      "karte": { "titel": "Bildgattungen", "text": "Ein Stillleben zeigt unbewegte Dinge wie Obst oder Blumen. Ein Porträt zeigt einen Menschen.", "merke": "Selbstporträt: der Maler selbst. Stillleben: Dinge." }
+    },
+    {
+      "id": "kun-009", "schwierigkeit": "mittel",
+      "frage": "Wie heißt die Weltkunstausstellung, die alle fünf Jahre in Kassel stattfindet?",
+      "richtig": "documenta", "falsch": ["Biennale", "Art Basel", "Berlinale"], "alias": ["Documenta"],
+      "begruendung": "Die documenta gibt es seit 1955. Sie dauert jeweils 100 Tage.",
+      "karte": { "titel": "documenta", "text": "Die Biennale findet in Venedig statt, die Berlinale ist ein Filmfestival.", "merke": "documenta: Kassel, alle fünf Jahre." }
+    },
+    {
+      "id": "kun-010", "schwierigkeit": "schwer",
+      "frage": "Wie heißt die Technik, bei der Farbe auf frischen Kalkputz gemalt wird?",
+      "richtig": "Fresko", "falsch": ["Aquarell", "Mosaik", "Radierung"], "alias": ["Freskomalerei"],
+      "begruendung": "Fresko kommt vom italienischen „fresco“, frisch. Die Farbe verbindet sich beim Trocknen mit dem Putz.",
+      "karte": { "titel": "Fresko", "text": "Maler mussten schnell arbeiten, bevor der Putz trocknete. Deshalb bemalten sie jeden Tag nur ein Stück.", "merke": "Fresko: Malerei auf feuchtem Putz." }
+    },
+    {
+      "id": "kun-011", "schwierigkeit": "mittel",
+      "frage": "Wer schuf die Skulptur „Der Denker“?",
+      "richtig": "Auguste Rodin", "falsch": ["Michelangelo", "Alberto Giacometti", "Henry Moore"], "alias": ["Rodin"],
+      "begruendung": "Auguste Rodin schuf den Denker ursprünglich als Teil seines Werks „Das Höllentor“.",
+      "karte": { "titel": "Der Denker", "text": "Die Figur sollte den Dichter Dante darstellen. Es gibt über 20 Bronzegüsse in Originalgröße.", "merke": "„Der Denker“: Rodin." }
+    },
+    {
+      "id": "kun-012", "schwierigkeit": "leicht",
+      "frage": "Wo findet der Eurovision Song Contest normalerweise statt?",
+      "richtig": "Im Land, das im Vorjahr gewonnen hat", "falsch": ["Immer in Genf", "Immer in London", "Im Land mit den meisten Zuschauern"],
+      "begruendung": "Das Siegerland richtet den nächsten Wettbewerb aus. Ausnahmen gab es, wenn ein Land das nicht konnte.",
+      "karte": { "titel": "ESC", "text": "Den ersten Song Contest gab es 1956 in Lugano. Deutschland gewann 1982 mit Nicole und 2010 mit Lena.", "merke": "ESC: Siegerland richtet im nächsten Jahr aus." }
+    },
+    {
+      "id": "kun-013", "schwierigkeit": "mittel",
+      "frage": "Wie heißt der wichtigste Filmpreis in Deutschland, der in Berlin bei der Berlinale vergeben wird?",
+      "richtig": "Goldener Bär", "falsch": ["Goldene Palme", "Goldener Löwe", "Oscar"],
+      "begruendung": "Der Goldene Bär ist der Hauptpreis der Berlinale. Die Goldene Palme gibt es in Cannes, den Goldenen Löwen in Venedig.",
+      "karte": { "titel": "Filmfestivals", "text": "Der Bär ist das Wappentier Berlins.", "merke": "Berlin: Bär, Cannes: Palme, Venedig: Löwe." }
+    },
+    {
+      "id": "kun-014", "schwierigkeit": "schwer",
+      "frage": "Was ist ein Triptychon?",
+      "richtig": "Ein dreiteiliges Bild", "falsch": ["Ein Bild aus Muscheln", "Ein Gedicht mit drei Strophen", "Ein dreistöckiges Gebäude"],
+      "begruendung": "Ein Triptychon besteht aus drei Tafeln, oft als Flügelaltar mit klappbaren Seitenteilen.",
+      "karte": { "titel": "Triptychon", "text": "Das griechische Wort heißt „dreifach gefaltet“. Ein zweiteiliges Werk heißt Diptychon.", "merke": "Triptychon = dreiteiliges Bild." }
+    },
+    {
+      "id": "kun-015", "schwierigkeit": "mittel",
+      "frage": "Welche Organisation führt die Liste des Welterbes?",
+      "richtig": "UNESCO", "falsch": ["UNICEF", "WHO", "NATO"],
+      "begruendung": "Die UNESCO ist die Organisation der Vereinten Nationen für Bildung, Wissenschaft und Kultur.",
+      "karte": { "titel": "Welterbe", "text": "Zum Welterbe in Deutschland gehören etwa der Kölner Dom und das Wattenmeer. Dresden verlor den Titel 2009 wegen einer Brücke.", "merke": "Welterbe: UNESCO." }
+    },
+    {
+      "id": "kun-016", "schwierigkeit": "leicht", "ddf": true,
+      "frage": "Wie heißt die Person, die ein Orchester leitet?",
+      "richtig": "Dirigent", "falsch": ["Komponist", "Intendant", "Solist"],
+      "begruendung": "Der Dirigent gibt mit dem Taktstock Tempo und Einsätze vor.",
+      "karte": { "titel": "Dirigent", "text": "Der Komponist schreibt die Musik, der Intendant leitet ein ganzes Theater oder Opernhaus.", "merke": "Dirigent leitet, Komponist schreibt." }
+    },
+    {
+      "id": "kun-017", "schwierigkeit": "mittel",
+      "frage": "Aus welchem Land stammt die Kunstform Origami?",
+      "richtig": "Japan", "falsch": ["China", "Korea", "Indien"],
+      "begruendung": "Origami ist die japanische Kunst des Papierfaltens: „ori“ heißt falten, „kami“ Papier.",
+      "karte": { "titel": "Origami", "text": "Ein bekanntes Motiv ist der Kranich. Einer Legende nach wird dir ein Wunsch erfüllt, wenn du 1.000 Kraniche faltest.", "merke": "Origami: japanisches Papierfalten." }
+    },
+    {
+      "id": "kun-018", "schwierigkeit": "schwer",
+      "frage": "Welcher Künstler verhüllte 1995 den Berliner Reichstag?",
+      "richtig": "Christo und Jeanne-Claude", "falsch": ["Joseph Beuys", "Gerhard Richter", "Banksy"], "alias": ["Christo"],
+      "begruendung": "Das Künstlerpaar verhüllte den Reichstag zwei Wochen lang mit silbernem Stoff. Rund fünf Millionen Menschen kamen.",
+      "karte": { "titel": "Verhüllter Reichstag", "text": "Christo und Jeanne-Claude hatten über 20 Jahre für das Projekt gekämpft. 2021 wurde posthum der Arc de Triomphe in Paris verhüllt.", "merke": "Reichstag 1995: Christo und Jeanne-Claude." }
+    },
+    {
+      "id": "kun-019", "schwierigkeit": "mittel",
+      "frage": "Welcher deutsche Künstler wurde mit Filz und Fett als Material bekannt?",
+      "richtig": "Joseph Beuys", "falsch": ["Gerhard Richter", "Max Ernst", "Otto Dix"], "alias": ["Beuys"],
+      "begruendung": "Joseph Beuys nutzte Filz und Fett in vielen Werken. Bekannt ist seine „Fettecke“.",
+      "karte": { "titel": "Joseph Beuys", "text": "Beuys prägte den Satz „Jeder Mensch ist ein Künstler“. Eine Putzkraft entfernte 1986 versehentlich eine seiner Fettecken.", "merke": "Beuys: Filz, Fett, „Jeder Mensch ist ein Künstler“." }
+    },
+    {
+      "id": "kun-020", "schwierigkeit": "leicht",
+      "frage": "Wie viele Linien hat ein Notensystem?",
+      "richtig": "5", "falsch": ["4", "6", "7"], "alias": ["fünf"],
+      "begruendung": "Noten stehen auf und zwischen fünf Linien.",
+      "karte": { "titel": "Notensystem", "text": "Zu hohe oder tiefe Töne bekommen kurze Hilfslinien. Am Anfang steht ein Notenschlüssel.", "merke": "Notensystem: fünf Linien." }
+    }
+  ]
+}

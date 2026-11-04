@@ -1,0 +1,145 @@
+{
+  "klasse": "musik",
+  "fragen": [
+    {
+      "id": "mus-001", "schwierigkeit": "leicht", "ddf": true,
+      "frage": "Wie viele Saiten hat eine normale Geige?",
+      "richtig": "4", "falsch": ["3", "5", "6"], "alias": ["vier"],
+      "begruendung": "Eine Geige hat vier Saiten, gestimmt auf G, D, A und E.",
+      "karte": { "titel": "Geige", "text": "Eine Gitarre hat meist sechs Saiten, ein E-Bass vier. Die Geige heißt auch Violine.", "merke": "Geige: 4 Saiten. Gitarre: 6." }
+    },
+    {
+      "id": "mus-002", "schwierigkeit": "leicht",
+      "frage": "Wie viele Tasten hat ein normales Klavier?",
+      "richtig": "88", "falsch": ["64", "76", "100"],
+      "begruendung": "Ein Standardklavier hat 88 Tasten: 52 weiße und 36 schwarze.",
+      "karte": { "titel": "Klavier", "text": "Das Klavier zählt als Tasteninstrument. Ein Hammer schlägt beim Drücken einer Taste auf die Saite.", "merke": "Klavier: 88 Tasten, 52 weiß, 36 schwarz." }
+    },
+    {
+      "id": "mus-003", "schwierigkeit": "mittel", "ddf": true,
+      "frage": "Welcher Komponist war fast taub, als er seine 9. Sinfonie schrieb?",
+      "richtig": "Ludwig van Beethoven", "falsch": ["Wolfgang Amadeus Mozart", "Johann Sebastian Bach", "Franz Schubert"], "alias": ["Beethoven"],
+      "begruendung": "Beethoven verlor ab etwa 1798 nach und nach sein Gehör. Bei der Uraufführung der 9. Sinfonie 1824 hörte er den Applaus nicht.",
+      "karte": { "titel": "Beethoven", "text": "Beethoven wurde 1770 in Bonn geboren und starb 1827 in Wien.", "merke": "Beethoven: fast taub, 9. Sinfonie 1824." }
+    },
+    {
+      "id": "mus-004", "schwierigkeit": "mittel",
+      "frage": "In welcher Stadt wurde Wolfgang Amadeus Mozart geboren?",
+      "richtig": "Salzburg", "falsch": ["Wien", "Prag", "München"],
+      "begruendung": "Mozart kam 1756 in Salzburg zur Welt und starb 1791 in Wien.",
+      "karte": { "titel": "Mozart", "text": "Schon als Kind trat Mozart an europäischen Fürstenhöfen auf. Sein Geburtshaus in der Getreidegasse ist heute ein Museum.", "merke": "Mozart: geboren 1756 in Salzburg." }
+    },
+    {
+      "id": "mus-005", "schwierigkeit": "leicht", "ddf": true,
+      "frage": "Wie heißt die Hymne der Europäischen Union?",
+      "richtig": "Ode an die Freude", "falsch": ["Die Marseillaise", "Ein feste Burg ist unser Gott", "Kleine Nachtmusik"],
+      "begruendung": "Die EU-Hymne ist die Melodie der „Ode an die Freude“ aus Beethovens 9. Sinfonie, ohne Text.",
+      "karte": { "titel": "Europahymne", "text": "Den Text der Ode schrieb Friedrich Schiller. Für die Hymne nutzt die EU nur die Melodie.", "merke": "EU-Hymne: Beethovens „Ode an die Freude“." }
+    },
+    {
+      "id": "mus-006", "schwierigkeit": "mittel",
+      "frage": "Welche Strophe des „Lieds der Deutschen“ ist die deutsche Nationalhymne?",
+      "richtig": "Die dritte", "falsch": ["Die erste", "Die zweite", "Alle drei"], "alias": ["3", "dritte"],
+      "begruendung": "Seit 1991 ist nur die dritte Strophe („Einigkeit und Recht und Freiheit“) die Nationalhymne.",
+      "karte": { "titel": "Nationalhymne", "text": "Den Text schrieb August Heinrich Hoffmann von Fallersleben 1841 auf Helgoland. Die Melodie stammt von Joseph Haydn.", "merke": "Nationalhymne: 3. Strophe, Text Hoffmann von Fallersleben, Melodie Haydn." }
+    },
+    {
+      "id": "mus-007", "schwierigkeit": "leicht", "ddf": true,
+      "frage": "Wer wurde „King of Pop“ genannt?",
+      "richtig": "Michael Jackson", "falsch": ["Elvis Presley", "Prince", "Justin Timberlake"],
+      "begruendung": "Michael Jackson trug den Beinamen „King of Pop“. Elvis Presley hieß „King of Rock ’n’ Roll“.",
+      "karte": { "titel": "Thriller", "text": "Jacksons Album „Thriller“ von 1982 gilt als meistverkauftes Album aller Zeiten.", "merke": "King of Pop: Michael Jackson. King of Rock ’n’ Roll: Elvis." }
+    },
+    {
+      "id": "mus-008", "schwierigkeit": "mittel", "ddf": true,
+      "frage": "In welcher Boyband sang Robbie Williams?",
+      "richtig": "Take That", "falsch": ["Backstreet Boys", "Westlife", "*NSYNC"],
+      "begruendung": "Robbie Williams sang bis 1995 bei Take That und startete danach eine erfolgreiche Solokarriere.",
+      "karte": { "titel": "Take That", "text": "Take That gründeten sich 1990 in Manchester. Die Backstreet Boys stammen aus den USA.", "merke": "Robbie Williams: Take That." }
+    },
+    {
+      "id": "mus-009", "schwierigkeit": "mittel",
+      "frage": "Wie heißt das Tempo-Wort für „langsam“ in der Musik?",
+      "richtig": "Adagio", "falsch": ["Allegro", "Presto", "Forte"],
+      "begruendung": "Adagio heißt langsam. Allegro heißt schnell, Presto sehr schnell, Forte bedeutet laut.",
+      "karte": { "titel": "Musikbegriffe", "text": "Die meisten Musikbegriffe sind italienisch. Piano heißt leise, daher auch der Name des Instruments Pianoforte.", "merke": "Adagio langsam, Allegro schnell, Forte laut, Piano leise." }
+    },
+    {
+      "id": "mus-010", "schwierigkeit": "leicht",
+      "frage": "Wie viele Musiker spielen in einem Quartett?",
+      "richtig": "4", "falsch": ["2", "3", "5"], "alias": ["vier"],
+      "begruendung": "Quartett kommt vom lateinischen „quattuor“, vier.",
+      "karte": { "titel": "Besetzungen", "text": "Duo 2, Trio 3, Quartett 4, Quintett 5, Sextett 6.", "merke": "Quartett = vier Musiker." }
+    },
+    {
+      "id": "mus-011", "schwierigkeit": "mittel",
+      "frage": "Mit welchem Lied gewann Lena 2010 den Eurovision Song Contest?",
+      "richtig": "Satellite", "falsch": ["Ein bisschen Frieden", "Taken by a Stranger", "Waterloo"],
+      "begruendung": "Lena Meyer-Landrut siegte 2010 in Oslo mit „Satellite“. 1982 hatte Nicole mit „Ein bisschen Frieden“ gewonnen.",
+      "karte": { "titel": "Deutsche ESC-Siege", "text": "„Waterloo“ war 1974 das Siegerlied von ABBA.", "merke": "Deutsche ESC-Siege: 1982 Nicole, 2010 Lena." }
+    },
+    {
+      "id": "mus-012", "schwierigkeit": "schwer",
+      "frage": "Wie viele Halbtöne hat eine Oktave?",
+      "richtig": "12", "falsch": ["7", "8", "10"], "alias": ["zwölf"],
+      "begruendung": "Eine Oktave hat zwölf Halbtonschritte. Auf dem Klavier sind das sieben weiße und fünf schwarze Tasten.",
+      "karte": { "titel": "Oktave", "text": "Der obere Ton einer Oktave schwingt doppelt so schnell wie der untere.", "merke": "Oktave: 12 Halbtöne, doppelte Frequenz." }
+    },
+    {
+      "id": "mus-013", "schwierigkeit": "mittel",
+      "frage": "Auf welcher Frequenz liegt der Kammerton a’, nach dem Orchester stimmen?",
+      "richtig": "440 Hertz", "falsch": ["220 Hertz", "432 Hertz", "1.000 Hertz"], "alias": ["440", "440 Hz"],
+      "begruendung": "Der Kammerton a’ liegt international bei 440 Hertz. Viele Orchester stimmen etwas höher, etwa auf 442 Hertz.",
+      "karte": { "titel": "Kammerton", "text": "Eine Stimmgabel gibt den Kammerton vor.", "merke": "Kammerton a’: 440 Hz." }
+    },
+    {
+      "id": "mus-014", "schwierigkeit": "leicht", "ddf": true,
+      "frage": "Aus welchem Land kommt der Musikstil Reggae?",
+      "richtig": "Jamaika", "falsch": ["Kuba", "Brasilien", "Trinidad und Tobago"],
+      "begruendung": "Reggae entstand Ende der 1960er-Jahre in Jamaika. Bob Marley machte ihn weltberühmt.",
+      "karte": { "titel": "Reggae", "text": "Seit 2018 gehört Reggae zum Immateriellen Kulturerbe der UNESCO.", "merke": "Reggae: Jamaika, Bob Marley." }
+    },
+    {
+      "id": "mus-015", "schwierigkeit": "mittel",
+      "frage": "Welcher Musiker heißt mit bürgerlichem Namen Marshall Mathers?",
+      "richtig": "Eminem", "falsch": ["Snoop Dogg", "50 Cent", "Dr. Dre"],
+      "begruendung": "Eminem leitet sich von seinen Initialen M und M ab.",
+      "karte": { "titel": "Eminem", "text": "Sein Film „8 Mile“ von 2002 erzählt locker seine Jugend in Detroit nach. „Lose Yourself“ gewann den Oscar.", "merke": "Eminem = Marshall Mathers (M&M)." }
+    },
+    {
+      "id": "mus-016", "schwierigkeit": "schwer",
+      "frage": "Was ist der „Club 27“?",
+      "richtig": "Musiker, die mit 27 Jahren starben", "falsch": ["Die 27 erfolgreichsten Bands", "Ein Club in Berlin", "Musiker mit 27 Nummer-eins-Hits"],
+      "begruendung": "Zum „Club 27“ zählen etwa Jimi Hendrix, Janis Joplin, Jim Morrison, Kurt Cobain und Amy Winehouse.",
+      "karte": { "titel": "Club 27", "text": "Statistiker fanden keinen Beleg, dass Musiker mit 27 häufiger sterben als in anderen Jahren. Die Häufung ist vor allem eine gute Geschichte.", "merke": "Club 27: früh gestorbene Musiker, etwa Cobain und Winehouse." }
+    },
+    {
+      "id": "mus-017", "schwierigkeit": "leicht",
+      "frage": "Welches Instrument spielt ein Schlagzeuger?",
+      "richtig": "Schlagzeug", "falsch": ["Bass", "Keyboard", "Saxophon"], "alias": ["Drums"],
+      "begruendung": "Ein Schlagzeuger spielt das Schlagzeug, auch Drums genannt.",
+      "karte": { "titel": "Schlagzeug", "text": "Ein Schlagzeug besteht aus Trommeln wie Bass-Drum und Snare sowie Becken wie der Hi-Hat.", "merke": "Schlagzeug = Trommeln + Becken." }
+    },
+    {
+      "id": "mus-018", "schwierigkeit": "mittel",
+      "frage": "Welche Band veröffentlichte das Album „Abbey Road“?",
+      "richtig": "The Beatles", "falsch": ["The Rolling Stones", "Pink Floyd", "Queen"], "alias": ["Beatles"],
+      "begruendung": "„Abbey Road“ erschien 1969. Das Cover zeigt die vier Beatles auf einem Zebrastreifen in London.",
+      "karte": { "titel": "Abbey Road", "text": "Der Zebrastreifen vor dem Tonstudio ist heute ein Touristenziel und steht unter Denkmalschutz.", "merke": "„Abbey Road“: Beatles, 1969." }
+    },
+    {
+      "id": "mus-019", "schwierigkeit": "mittel",
+      "frage": "Welches Instrument spielte Jimi Hendrix?",
+      "richtig": "E-Gitarre", "falsch": ["Schlagzeug", "Klavier", "Saxophon"], "alias": ["Gitarre"],
+      "begruendung": "Jimi Hendrix gilt als einer der einflussreichsten E-Gitarristen. Er spielte als Linkshänder eine umgedrehte Rechtshänder-Gitarre.",
+      "karte": { "titel": "Jimi Hendrix", "text": "Beim Woodstock-Festival 1969 spielte Hendrix die US-Hymne auf der E-Gitarre.", "merke": "Jimi Hendrix: E-Gitarre." }
+    },
+    {
+      "id": "mus-020", "schwierigkeit": "leicht",
+      "frage": "Wie heißt die Notenschrift-Pause, die einen ganzen Takt lang dauert (im 4/4-Takt)?",
+      "richtig": "Ganze Pause", "falsch": ["Halbe Pause", "Viertelpause", "Achtelpause"],
+      "begruendung": "Eine ganze Pause dauert im 4/4-Takt vier Schläge, also einen Takt.",
+      "karte": { "titel": "Notenwerte", "text": "Eine ganze Note dauert so lang wie zwei halbe oder vier Viertel.", "merke": "Ganze = 4 Viertel." }
+    }
+  ]
+}

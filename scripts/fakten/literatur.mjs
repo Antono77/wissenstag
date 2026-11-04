@@ -1,0 +1,67 @@
+// Faktentabellen Literatur
+export default {
+  klasse: 'literatur',
+  tabellen: [
+    {
+      prefix: 'lit-wa',
+      spalten: ['werk', 'autor', 's'],
+      zeilen: [
+        ['Faust', 'Johann Wolfgang von Goethe', 1], ['Die Leiden des jungen Werthers', 'Johann Wolfgang von Goethe', 1],
+        ['Wilhelm Tell', 'Friedrich Schiller', 1], ['Die Räuber', 'Friedrich Schiller', 2], ['Kabale und Liebe', 'Friedrich Schiller', 2],
+        ['Nathan der Weise', 'Gotthold Ephraim Lessing', 2], ['Emilia Galotti', 'Gotthold Ephraim Lessing', 3],
+        ['Die Verwandlung', 'Franz Kafka', 1], ['Der Process', 'Franz Kafka', 2], ['Buddenbrooks', 'Thomas Mann', 2], ['Der Zauberberg', 'Thomas Mann', 2],
+        ['Die Blechtrommel', 'Günter Grass', 2], ['Im Westen nichts Neues', 'Erich Maria Remarque', 1], ['Der Steppenwolf', 'Hermann Hesse', 2],
+        ['Siddhartha', 'Hermann Hesse', 2], ['Effi Briest', 'Theodor Fontane', 2], ['Der Schimmelreiter', 'Theodor Storm', 2], ['Woyzeck', 'Georg Büchner', 2],
+        ['Die Physiker', 'Friedrich Dürrenmatt', 2], ['Der Besuch der alten Dame', 'Friedrich Dürrenmatt', 2], ['Homo faber', 'Max Frisch', 2],
+        ['Die Dreigroschenoper', 'Bertolt Brecht', 2], ['Mutter Courage und ihre Kinder', 'Bertolt Brecht', 2], ['Das Parfum', 'Patrick Süskind', 1],
+        ['Der Vorleser', 'Bernhard Schlink', 2], ['Momo', 'Michael Ende', 1], ['Die unendliche Geschichte', 'Michael Ende', 1],
+        ['Emil und die Detektive', 'Erich Kästner', 1], ['Das doppelte Lottchen', 'Erich Kästner', 1], ['Tschick', 'Wolfgang Herrndorf', 2],
+        ['Romeo und Julia', 'William Shakespeare', 1], ['Hamlet', 'William Shakespeare', 1], ['Don Quijote', 'Miguel de Cervantes', 2],
+        ['Krieg und Frieden', 'Leo Tolstoi', 2], ['Anna Karenina', 'Leo Tolstoi', 2], ['Schuld und Sühne', 'Fjodor Dostojewski', 2],
+        ['1984', 'George Orwell', 1], ['Farm der Tiere', 'George Orwell', 2], ['Der kleine Prinz', 'Antoine de Saint-Exupéry', 1],
+        ['Harry Potter', 'J. K. Rowling', 1], ['Der Herr der Ringe', 'J. R. R. Tolkien', 1], ['Der Hobbit', 'J. R. R. Tolkien', 1],
+        ['Moby Dick', 'Herman Melville', 2], ['Die Abenteuer des Tom Sawyer', 'Mark Twain', 2], ['Der alte Mann und das Meer', 'Ernest Hemingway', 2],
+        ['Stolz und Vorurteil', 'Jane Austen', 2], ['Pippi Langstrumpf', 'Astrid Lindgren', 1], ['Die Göttliche Komödie', 'Dante Alighieri', 2],
+        ['Odyssee', 'Homer', 1], ['Der Name der Rose', 'Umberto Eco', 2], ['Hundert Jahre Einsamkeit', 'Gabriel García Márquez', 3],
+        ['Max und Moritz', 'Wilhelm Busch', 1], ['Der Struwwelpeter', 'Heinrich Hoffmann', 2], ['Die Schatzinsel', 'Robert Louis Stevenson', 2],
+        ['Frankenstein', 'Mary Shelley', 2], ['Dracula', 'Bram Stoker', 2], ['Alice im Wunderland', 'Lewis Carroll', 2], ['Oliver Twist', 'Charles Dickens', 2],
+        ['Die drei Musketiere', 'Alexandre Dumas', 2], ['Les Misérables', 'Victor Hugo', 2], ['Sofies Welt', 'Jostein Gaarder', 3],
+        ['Winnetou', 'Karl May', 1], ['Heidi', 'Johanna Spyri', 2], ['Die Tribute von Panem', 'Suzanne Collins', 2], ['Der Medicus', 'Noah Gordon', 3],
+        ['Die Säulen der Erde', 'Ken Follett', 2], ['Sakrileg (The Da Vinci Code)', 'Dan Brown', 2], ['Gregs Tagebuch', 'Jeff Kinney', 1],
+      ],
+      fragen: [
+        {
+          frage: (r) => `Wer schrieb „${r.werk}“?`,
+          richtig: (r) => r.autor,
+          titel: (r) => r.werk,
+          merke: (r) => `„${r.werk}“: ${r.autor}.`,
+          ddf: (r) => r.s === 1,
+        },
+        {
+          frage: (r) => `Welches dieser Werke stammt von ${r.autor}?`,
+          richtig: (r) => r.werk,
+          gleicheGruppe: (x, r) => x.autor !== r.autor,
+          titel: (r) => r.autor,
+          merke: (r) => `${r.autor} schrieb „${r.werk}“.`,
+        },
+      ],
+    },
+    {
+      prefix: 'lit-fi',
+      spalten: ['figur', 'werk', 's'],
+      zeilen: [
+        ['Mephisto', 'Faust', 1], ['Gregor Samsa', 'Die Verwandlung', 2], ['Jean-Baptiste Grenouille', 'Das Parfum', 2], ['Oskar Matzerath', 'Die Blechtrommel', 3],
+        ['Hauke Haien', 'Der Schimmelreiter', 3], ['Frodo Beutlin', 'Der Herr der Ringe', 1], ['Bilbo Beutlin', 'Der Hobbit', 1], ['Bastian Balthasar Bux', 'Die unendliche Geschichte', 2],
+        ['Katniss Everdeen', 'Die Tribute von Panem', 1], ['Kapitän Ahab', 'Moby Dick', 2], ['Elizabeth Bennet', 'Stolz und Vorurteil', 3], ['Sancho Panza', 'Don Quijote', 2],
+        ['Maik Klingenberg', 'Tschick', 3], ['Old Shatterhand', 'Winnetou', 1], ['Raskolnikow', 'Schuld und Sühne', 3], ['Winston Smith', '1984', 3],
+        ['Lotte', 'Die Leiden des jungen Werthers', 2], ['Hermione Granger', 'Harry Potter', 1], ['Long John Silver', 'Die Schatzinsel', 2], ['Claire Zachanassian', 'Der Besuch der alten Dame', 3],
+      ],
+      fragen: [{
+        frage: (r) => `In welchem Werk kommt die Figur ${r.figur} vor?`,
+        richtig: (r) => r.werk,
+        titel: (r) => r.figur,
+        merke: (r) => `${r.figur}: „${r.werk}“.`,
+      }],
+    },
+  ],
+};
