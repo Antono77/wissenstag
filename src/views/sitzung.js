@@ -1,4 +1,4 @@
-import { h, toast, bewegungReduziert } from '../lib/dom.js';
+import { h, ersetzen, toast, bewegungReduziert } from '../lib/dom.js';
 import { speicher, verbucheAntwort, verbucheEinheit } from '../app.js';
 import { ladeKlassen, ladeKlasse, ladeAlle } from '../lib/daten.js';
 import { stelleZusammen } from '../lib/lernlogik.js';
@@ -29,7 +29,7 @@ export async function render(main, { parameter }) {
   const benutzt = new Set(warteschlange.map((x) => x.frage.id));
 
   if (!warteschlange.length) {
-    seite.replaceChildren(h('section', { class: 'karte stapel' },
+    ersetzen(seite, h('section', { class: 'karte stapel' },
       h('h1', {}, modus === 'schwaechen' ? 'Keine Schwächen' : 'Alles erledigt'),
       h('p', {}, modus === 'schwaechen' ? 'Du hast gerade keine falsch beantworteten Fragen offen. Stark!' : 'Für diese Auswahl gibt es gerade keine Fragen.'),
       h('a', { class: 'knopf', href: '#/lernen' }, 'Zu den Klassen')));
@@ -58,7 +58,7 @@ export async function render(main, { parameter }) {
     h('div', { class: 'zwischen' }, h('div', { class: 'stapel', style: { gap: '2px' } }, h('span', { class: 'label' }, titel), zaehler), h('div', { class: 'reihe' }, uhr, beendenKnopf)),
     linie, zielHinweis);
   const buehne = h('div', { class: 'stapel' });
-  seite.replaceChildren(kopf, buehne);
+  ersetzen(seite, kopf, buehne);
 
   const anzahlGezaehlt = () => protokoll.filter((p) => !p.nochmal).length;
   let zielFragen = zielWert;
@@ -78,7 +78,7 @@ export async function render(main, { parameter }) {
     linie.firstChild.style.width = `${Math.min(100, Math.round(anteil * 100))}%`;
     if (!zielGemeldet && zielErreicht()) {
       zielGemeldet = true;
-      zielHinweis.replaceChildren(h('div', { class: 'hinweis warn zwischen' },
+      ersetzen(zielHinweis, h('div', { class: 'hinweis warn zwischen' },
         h('span', {}, h('strong', {}, 'Ziel erreicht. '), 'Du kannst abschließen oder weitermachen.'),
         h('button', { class: 'knopf gelb', type: 'button', onclick: () => beenden() }, 'Abschließen')));
     }
@@ -104,7 +104,7 @@ export async function render(main, { parameter }) {
 
   function naechste() {
     aktuell?.zerstoeren();
-    buehne.replaceChildren();
+    ersetzen(buehne);
     nachfuellen();
     kopfAktualisieren();
     if (art === 'fragen' && anzahlGezaehlt() >= zielFragen && !warteschlange.some((x) => x.art === 'nochmal')) {
@@ -134,7 +134,7 @@ export async function render(main, { parameter }) {
 
     const frageZeigen = () => {
       aktuell?.zerstoeren();
-      buehne.replaceChildren();
+      ersetzen(buehne);
       aktuell = zeigeFrage(buehne, q, {
         kopf: kopfzeile,
         onAntwort: (richtig) => {
@@ -199,7 +199,7 @@ function zeigeErgebnis(seite, { protokoll, xp, sekunden, xpVorher, titel, parame
   for (const p of protokoll) if (p.richtig && !gesehen.has(p.frage.id) && mitnehmen.length < 8) { gesehen.add(p.frage.id); mitnehmen.push(p.frage); }
 
   const lob = quote >= 90 ? 'Hervorragend.' : quote >= 70 ? 'Starke Runde.' : quote >= 50 ? 'Solide.' : 'Dranbleiben lohnt sich.';
-  seite.replaceChildren(
+  ersetzen(seite, 
     h('section', { class: 'karte stapel ansicht-rein', 'aria-labelledby': 'ergebnis-titel' },
       h('span', { class: 'label' }, `${titel} · Einheit abgeschlossen`),
       h('h1', { id: 'ergebnis-titel' }, lob),
@@ -207,12 +207,12 @@ function zeigeErgebnis(seite, { protokoll, xp, sekunden, xpVorher, titel, parame
         h('div', { class: 'kennzahl', style: { flex: '1' } }, h('span', { class: 'ergebnis-zahl' }, `${richtig}/${gesamt}`), h('span', { class: 'label' }, 'Punkte')),
         h('div', { class: 'kennzahl', style: { flex: '1' } }, h('span', { class: 'ergebnis-zahl' }, `${quote} %`), h('span', { class: 'label' }, 'richtig')),
       ),
-      h('p', {}, `+${xp} XP (je ${XP_RICHTIG} pro richtiger Antwort, dazu 20 für die Einheit) · ${mmss(sekunden)} Minuten · ${tageInFolge} ${tageInFolge === 1 ? 'Tag' : 'Tage'} in Folge`),
+      h('p', {}, `+${xp} XP (je ${XP_RICHTIG} pro richtiger Antwort, dazu 20 für die Einheit) · Lernzeit ${mmss(sekunden)} · ${tageInFolge} ${tageInFolge === 1 ? 'Tag' : 'Tage'} in Folge`),
       nachher.stufe > vorher.stufe ? h('div', { class: 'merke' }, h('span', { class: 'label' }, 'Neues Level'), `Du bist jetzt ${nachher.name}!`) : null,
     ),
     mitnehmen.length ? h('section', { class: 'stapel' },
       h('h2', {}, 'Das nimmst du mit'),
-      h('ul', { class: 'mitnehmen' }, ...mitnehmen.map((q) => h('li', {}, h('strong', {}, `${q.karte?.titel ?? ''}: `), q.karte?.merke ?? q.begruendung)))) : null,
+      h('ul', { class: 'mitnehmen' }, ...mitnehmen.map((q) => h('li', {}, q.karte?.merke ?? q.begruendung)))) : null,
     h('div', { class: 'reihe' },
       h('button', {
         class: 'knopf gelb', type: 'button', style: { flex: '1' },

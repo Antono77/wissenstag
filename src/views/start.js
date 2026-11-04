@@ -1,4 +1,4 @@
-import { h, toast } from '../lib/dom.js';
+import { h, ersetzen, toast } from '../lib/dom.js';
 import { speicher } from '../app.js';
 import { levelInfo, serie, wochenleiste } from '../lib/punkte.js';
 import { heute, wochentagKurz } from '../lib/zeit.js';
@@ -37,7 +37,7 @@ export function render(main) {
   const zielBereich = h('div', { class: 'stapel' });
   const zielChip = h('span', { class: 'chip petrol' });
   function zielZeichnen() {
-    zielBereich.replaceChildren();
+    ersetzen(zielBereich);
     zielChip.textContent = zielText(ziel);
     const arten = h('div', { class: 'segmente', role: 'group', 'aria-label': 'Art des Ziels' },
       ...[['zeit', 'Zeit'], ['fragen', 'Fragen'], ['frei', 'Ohne Limit']].map(([art, text]) =>

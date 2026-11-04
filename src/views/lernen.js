@@ -1,4 +1,4 @@
-import { h } from '../lib/dom.js';
+import { h, ersetzen } from '../lib/dom.js';
 import { speicher } from '../app.js';
 import { ladeKlassen, ladeKlasse, ladeAlle } from '../lib/daten.js';
 import { klassenStatistik, istFaellig, istSchwaeche } from '../lib/lernlogik.js';
@@ -33,7 +33,7 @@ async function uebersicht(seite, klassen) {
     location.hash = `#/sitzung?${p}`;
   };
 
-  seite.replaceChildren(
+  ersetzen(seite, 
     h('section', { class: 'stapel' },
       h('span', { class: 'label' }, `${klassen.length} Klassen · ${alle.length.toLocaleString('de-DE')} Fragen`),
       h('h1', {}, 'Lernen'),
@@ -74,7 +74,7 @@ async function detail(seite, k) {
     location.hash = `#/sitzung?${p}`;
   };
 
-  seite.replaceChildren(
+  ersetzen(seite, 
     h('a', { class: 'knopf leise', href: '#/lernen', style: { justifySelf: 'start' } }, '← Alle Klassen'),
     h('section', { class: 'stapel' },
       h('div', { class: 'reihe' },

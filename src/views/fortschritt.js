@@ -1,4 +1,4 @@
-import { h, toast } from '../lib/dom.js';
+import { h, ersetzen, toast } from '../lib/dom.js';
 import { speicher } from '../app.js';
 import { ladeKlassen, ladeAlle } from '../lib/daten.js';
 import { klassenStatistik } from '../lib/lernlogik.js';
@@ -39,7 +39,7 @@ function zeichnen(seite, klassen, alle) {
 
   const dateiInput = h('input', { type: 'file', accept: 'application/json,.json', class: 'visuell-versteckt', id: 'import-datei', onchange: importieren });
 
-  seite.replaceChildren(
+  ersetzen(seite, 
     h('section', { class: 'stapel' }, h('span', { class: 'label' }, `Seit ${new Date(z.erstellt).toLocaleDateString('de-DE')}`), h('h1', {}, 'Fortschritt')),
 
     h('section', { class: 'karte stapel' },

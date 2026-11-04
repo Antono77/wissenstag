@@ -129,8 +129,8 @@ export function zeigeFrage(ziel, q, opts = {}) {
     const fb = h('div', { class: `feedback ${richtig ? 'ok' : 'nein'}` },
       h('p', { class: 'feedback-titel' }, titel),
       text != null && !richtig ? h('p', {}, `Deine Antwort: „${text}“`) : null,
-      h('p', {}, h('strong', {}, `Richtig ist ${richtigText}. `), q.begruendung),
-      q.karte?.merke ? h('div', { class: 'merke' }, h('span', { class: 'label' }, 'Merke'), q.karte.merke) : null,
+      h('p', {}, h('strong', {}, `Richtig: ${richtigText}. `), q.begruendung),
+      q.karte?.merke && q.karte.merke !== q.begruendung ? h('div', { class: 'merke' }, h('span', { class: 'label' }, 'Merke'), q.karte.merke) : null,
       q.stand ? h('p', { class: 'label' }, `Stand: ${standLesbar(q.stand)}`) : null,
     );
     feedbackBereich.append(fb);

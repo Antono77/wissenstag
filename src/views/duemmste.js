@@ -1,6 +1,6 @@
 // Spielmodus „Der Dümmste fliegt“: schnelle Fragen, Leben, optional Zeitlimit,
 // allein oder mit 2 bis 8 Leuten an einem Gerät.
-import { h, toast } from '../lib/dom.js';
+import { h, ersetzen, toast } from '../lib/dom.js';
 import { speicher, verbucheSpielzeit } from '../app.js';
 import { ladeKlassen, ladeAlle } from '../lib/daten.js';
 import { zeigeFrage } from '../lib/frage-ui.js';
@@ -23,7 +23,7 @@ function einrichten(seite, setzeAufraeumen) {
 
   const formular = h('div', { class: 'stapel' });
   function zeichnen() {
-    formular.replaceChildren(
+    ersetzen(formular, 
       h('fieldset', { class: 'karte stapel', style: { border: '1px solid var(--linie)' } },
         h('legend', { class: 'label', style: { padding: '0 6px' } }, 'Mitspieler'),
         h('div', { class: 'segmente', role: 'group', 'aria-label': 'Spielerzahl' },
@@ -62,13 +62,13 @@ function einrichten(seite, setzeAufraeumen) {
     const spielerNamen = mehrspieler ? namen.map((n, i) => n.trim() || `Spieler ${i + 1}`) : ['Du'];
     if (mehrspieler && new Set(spielerNamen).size !== spielerNamen.length) { toast('Bitte gib allen Spielern unterschiedliche Namen.'); return; }
     speicher.aendern((z) => { z.einstellungen.ddf = { ...ein, namen: mehrspieler ? namen : z.einstellungen.ddf.namen }; });
-    seite.replaceChildren(h('div', { class: 'lade', role: 'status' }, h('div', { class: 'lade-punkt' })));
+    ersetzen(seite, h('div', { class: 'lade', role: 'status' }, h('div', { class: 'lade-punkt' })));
     const klassen = await ladeKlassen();
     const alle = await ladeAlle(klassen);
     spielen(seite, alle, spielerNamen, ein, setzeAufraeumen);
   }
 
-  seite.replaceChildren(
+  ersetzen(seite, 
     h('section', { class: 'stapel' },
       h('span', { class: 'label' }, 'Spielmodus'),
       h('h1', {}, 'Der Dümmste fliegt'),
@@ -131,7 +131,7 @@ function spielen(seite, alle, spielerNamen, ein, setzeAufraeumen) {
 
   function uebergabe(s, weiter) {
     const knopf = h('button', { class: 'knopf gelb gross', type: 'button', onclick: () => fertig() }, `Ich bin ${s.name}, los!`);
-    seite.replaceChildren(h('section', { class: 'karte uebergabe ansicht-rein' },
+    ersetzen(seite, h('section', { class: 'karte uebergabe ansicht-rein' },
       h('span', { class: 'label' }, 'Gerät weitergeben an'),
       h('p', { class: 'name' }, s.name),
       herzen(s),
@@ -148,7 +148,7 @@ function spielen(seite, alle, spielerNamen, ein, setzeAufraeumen) {
   function frage(s) {
     const q = pool.length ? pool.shift() : null;
     if (!q) return ende();
-    seite.replaceChildren();
+    ersetzen(seite);
     aktuell = zeigeFrage(seite, q, {
       kopf: anzeigeKopf(s),
       freitext: ein.freitext,
@@ -188,7 +188,7 @@ function spielen(seite, alle, spielerNamen, ein, setzeAufraeumen) {
     const sieger = rangfolge[0];
     const alleFehler = spieler.flatMap((s) => s.fehler.map((f) => ({ ...f, name: s.name })));
 
-    seite.replaceChildren(
+    ersetzen(seite, 
       h('section', { class: 'karte stapel ansicht-rein' },
         h('span', { class: 'label' }, 'Spiel vorbei'),
         solo

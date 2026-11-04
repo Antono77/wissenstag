@@ -22,6 +22,11 @@ function anhaengen(el, kinder) {
   }
 }
 
+// Wie replaceChildren, aber null/false werden ignoriert (statt als Text „null“ zu erscheinen)
+export function ersetzen(el, ...kinder) {
+  el.replaceChildren(...kinder.flat(Infinity).filter((k) => k != null && k !== false));
+}
+
 export function leeren(el) {
   while (el.firstChild) el.firstChild.remove();
 }

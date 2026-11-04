@@ -103,7 +103,7 @@ export function erzeuge(def) {
           frage: v.frage(r),
           richtig,
           falsch,
-          begruendung: v.begruendung ? v.begruendung(r) : merke,
+          begruendung: v.begruendung ? v.begruendung(r) : ((v.text ? v.text(r) : null) || r.info || merke),
           karte: {
             titel: v.titel ? v.titel(r) : String(r[t.spalten[0]]),
             text: (v.text ? v.text(r) : null) || r.info || merke,

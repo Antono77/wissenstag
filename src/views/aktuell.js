@@ -1,6 +1,6 @@
 // Reiter „Aktuell“: Meldungen aus news.json (von der GitHub Action erzeugt)
 // plus Live-Abruf der tagesschau-API direkt im Browser, falls erreichbar.
-import { h, datumLesbar } from '../lib/dom.js';
+import { h, ersetzen, datumLesbar } from '../lib/dom.js';
 import { speicher } from '../app.js';
 import { datenUrl } from '../lib/daten.js';
 import { QUELLEN, ausTagesschau, zusammenfuehren, newsQuiz } from '../lib/nachrichten.js';
@@ -65,7 +65,7 @@ export async function render(main) {
   const themen = ['Alle', ...new Set(meldungen.map((m) => m.thema))];
 
   function zeichneFilter() {
-    filterLeiste.replaceChildren(...themen.map((t) => h('button', {
+    ersetzen(filterLeiste, ...themen.map((t) => h('button', {
       class: 'segment', type: 'button', 'aria-pressed': String(t === thema),
       onclick: () => { thema = t; sichtbar = 30; zeichneFilter(); zeichneListe(); },
     }, t)));
@@ -94,14 +94,14 @@ export async function render(main) {
       teile.push(h('button', { class: 'knopf zweit', type: 'button', onclick: () => { sichtbar += 30; zeichneListe(); } }, `Mehr anzeigen (${gefiltert.length - sichtbar} weitere)`));
     }
     if (!gefiltert.length) teile.push(h('p', { class: 'gedaempft' }, 'Keine Meldungen zu diesem Thema.'));
-    liste.replaceChildren(...teile);
+    ersetzen(liste, ...teile);
   }
 
   // --- News-Quiz ---
   const quizBereich = h('section', { class: 'karte stapel', 'aria-labelledby': 'quiz-titel' });
   function quizStartansicht() {
     const fragen = newsQuiz(meldungen, 6);
-    quizBereich.replaceChildren(
+    ersetzen(quizBereich, 
       h('h2', { id: 'quiz-titel' }, 'Quiz zur Woche'),
       h('p', { class: 'gedaempft' }, `Passt die Überschrift zur Meldung? Sechs Fragen aus den Nachrichten der letzten Tage. Dein bester Lauf: ${speicher.get().newsQuiz.beste} von 6.`),
       h('button', { class: 'knopf gelb', type: 'button', disabled: fragen.length < 3, onclick: () => quizSpielen(fragen) }, fragen.length < 3 ? 'Zu wenige Meldungen für ein Quiz' : 'Quiz starten'));
@@ -111,7 +111,7 @@ export async function render(main) {
     let richtig = 0;
     const naechste = () => {
       quizAktiv?.zerstoeren();
-      quizBereich.replaceChildren();
+      ersetzen(quizBereich);
       if (i >= fragen.length) {
         speicher.aendern((z) => { z.newsQuiz.beste = Math.max(z.newsQuiz.beste ?? 0, richtig); });
         quizBereich.append(h('h2', {}, `${richtig} von ${fragen.length} richtig`),
@@ -135,7 +135,7 @@ export async function render(main) {
     ? `tagesschau live, ZDFheute und Deutschlandfunk${datei?.stand ? ` (Stand ${datumLesbar(datei.stand, true)})` : ''}`
     : datei?.quellen?.filter((q) => q.ok).map((q) => q.name).join(', ') || 'keine';
 
-  seite.replaceChildren(
+  ersetzen(seite, 
     h('section', { class: 'stapel' },
       h('span', { class: 'label' }, 'Nachrichten'),
       h('h1', {}, 'Aktuell'),
