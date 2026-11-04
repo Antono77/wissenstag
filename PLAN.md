@@ -70,3 +70,10 @@ Ergänzt (2): **Umwelt & Klima** (Alltagsthema mit vielen Nachrichtenbezügen), 
 - „Gelernt“ = Fach 3 oder höher. „Meister“ einer Klasse ab 90 % gelernt.
 - XP: 10 je richtige Antwort, 20 je abgeschlossene Einheit. Level wie im Prototyp.
 - Serie zählt, sobald an einem Tag eine Einheit abgeschlossen ist.
+
+## Änderungen während der Umsetzung
+
+- Auf Wunsch während der Arbeit: **mindestens 100 Fragen pro Klasse** (statt 30). Umgesetzt mit handgeschriebenen Fragen plus geprüften Faktentabellen (`scripts/fakten/`), aus denen ein Generator Fragen baut. Ergebnis: 3.653 Fragen.
+- Flaggen und Länder werden aus einer Liste aller 195 Staaten erzeugt (`scripts/laender-basis.mjs`).
+- Logik & Mathe: Rechenaufgaben berechnet der Generator selbst, damit jede Lösung stimmt.
+- Barrierefreiheit zusätzlich mit axe-core geprüft (`npm run a11y`).

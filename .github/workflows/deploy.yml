@@ -1,0 +1,55 @@
+# Baut die Seite und stellt sie auf GitHub Pages online.
+# Läuft bei jedem Push auf main und dreimal täglich, damit die Nachrichten aktuell bleiben.
+name: Nachrichten holen und veröffentlichen
+
+on:
+  push:
+    branches: [main]
+  schedule:
+    - cron: '15 4,10,16 * * *' # 05:15, 11:15, 17:15 Uhr deutscher Winterzeit
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+concurrency:
+  group: pages
+  cancel-in-progress: false
+
+jobs:
+  bauen:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+          cache: npm
+      - run: npm ci
+      - name: Nachrichten abrufen
+        run: npm run news
+        continue-on-error: true
+      - name: news.json im Repository sichern (für Netlify und die 7-Tage-Historie)
+        run: |
+          git config user.name "wissenstag-bot"
+          git config user.email "wissenstag-bot@users.noreply.github.com"
+          git add public/news.json
+          git diff --cached --quiet || git commit -m "Nachrichten aktualisiert [skip ci]"
+          git push || echo "Push nicht möglich, die Seite wird trotzdem gebaut."
+      - run: npm test
+      - run: npm run build
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: dist
+
+  veroeffentlichen:
+    needs: bauen
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - id: deployment
+        uses: actions/deploy-pages@v4

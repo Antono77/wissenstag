@@ -1,0 +1,13 @@
+# Einstellungen für Netlify (kostenlos). Netlify baut die Seite bei jedem neuen Commit neu,
+# also auch dann, wenn die GitHub Action neue Nachrichten in public/news.json speichert.
+[build]
+  command = "npm run build"
+  publish = "dist"
+
+[build.environment]
+  NODE_VERSION = "22"
+
+[[headers]]
+  for = "/news.json"
+  [headers.values]
+    Cache-Control = "public, max-age=600"
