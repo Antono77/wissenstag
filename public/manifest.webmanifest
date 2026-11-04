@@ -1,0 +1,22 @@
+{
+  "name": "Wissenstag",
+  "short_name": "Wissenstag",
+  "description": "Jeden Tag ein bisschen klüger: Wissenskarten, Quiz, Der Dümmste fliegt und aktuelle Nachrichten.",
+  "lang": "de",
+  "start_url": "./#/",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#EBF0ED",
+  "theme_color": "#0B6B5D",
+  "icons": [
+    { "src": "icons/icon-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png" },
+    { "src": "icons/icon-maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ],
+  "shortcuts": [
+    { "name": "Gemischt lernen", "url": "./#/lernen" },
+    { "name": "Aktuell", "url": "./#/aktuell" },
+    { "name": "Der Dümmste fliegt", "url": "./#/duemmste" }
+  ]
+}

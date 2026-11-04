@@ -20,6 +20,7 @@ export function leererZustand() {
     tage: {}, // 'YYYY-MM-DD' → { einheiten, fragen, richtig, sekunden }
     highscore: { ddf: 0 },
     newsQuiz: { beste: 0 },
+    newsTag: { tag: null, meldungen: [] }, // die drei Meldungen des Tages
   };
 }
 
@@ -51,7 +52,7 @@ export function bereinige(roh) {
   z.einstellungen = { ...basis.einstellungen, ...(roh.einstellungen ?? {}) };
   z.einstellungen.ddf = { ...basis.einstellungen.ddf, ...(roh.einstellungen?.ddf ?? {}) };
   z.einstellungen.ziel = { ...basis.einstellungen.ziel, ...(roh.einstellungen?.ziel ?? {}) };
-  for (const feld of ['klassenXp', 'fragen', 'tage', 'highscore', 'newsQuiz']) {
+  for (const feld of ['klassenXp', 'fragen', 'tage', 'highscore', 'newsQuiz', 'newsTag']) {
     z[feld] = roh[feld] && typeof roh[feld] === 'object' && !Array.isArray(roh[feld]) ? { ...basis[feld], ...roh[feld] } : basis[feld];
   }
   z.xp = Number.isFinite(roh.xp) && roh.xp >= 0 ? roh.xp : 0;

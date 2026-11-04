@@ -405,3 +405,14 @@ main { outline: none; }
   :root { --linie: #6E7F78; --gedaempft: #3B4843; }
   .antwort, .karte { border-width: 2px; }
 }
+
+/* ============================================================
+   Ergänzungen: Nachrichten des Tages, ausblendbare Bereiche
+   ============================================================ */
+[hidden] { display: none !important; }
+.meldung-gross h3 { font-size: clamp(1.2rem, 1.05rem + 0.8vw, 1.45rem); }
+.mehr-knopf { min-height: 40px; padding: 0 4px; }
+.mehr-bereich { border-top: 1px solid var(--linie); padding-top: 12px; animation: einblenden var(--dauer) var(--feder); }
+.mehr-bereich p { line-height: 1.6; }
+.zwischentitel { font-family: var(--f-titel); font-size: 1.05rem; margin: 6px 0 0; letter-spacing: -0.01em; }
+.meldung-fuss.zwischen { justify-content: space-between; }

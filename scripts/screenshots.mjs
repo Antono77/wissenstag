@@ -124,6 +124,16 @@ for (const g of geraete) {
     await page.locator('.meldung, .hinweis').first().waitFor({ timeout: 15000 });
     await warte(500);
     await foto('13-aktuell', false);
+    if (await page.locator('.meldung').count() !== 3) fehler.push(`[${tag}] Aktuell zeigt nicht genau 3 Meldungen`);
+    await page.getByRole('button', { name: 'Mehr lesen' }).first().click();
+    await page.locator('.mehr-bereich a.knopf').first().waitFor({ timeout: 10000 });
+    await warte(300);
+    await foto('13b-mehr-lesen');
+    await page.getByRole('button', { name: /^Mehr News/ }).click();
+    await page.locator('#mehr-news .meldung').first().waitFor();
+    await warte(300);
+    if (await page.locator('.meldung').count() <= 3) fehler.push(`[${tag}] Mehr News zeigt keine weiteren Meldungen`);
+    await foto('13c-mehr-news', false);
 
     // Fortschritt
     await page.goto(`${BASIS}#/fortschritt`);

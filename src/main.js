@@ -91,3 +91,20 @@ kopfAktualisieren(speicher.get());
 
 window.addEventListener('hashchange', zeige);
 zeige();
+
+// Als App installierbar und offline nutzbar machen (nur in der veröffentlichten Version)
+if (import.meta.env.PROD && 'serviceWorker' in navigator) {
+  window.addEventListener('load', () => {
+    navigator.serviceWorker.register('./sw.js').then((reg) => {
+      // Beim Zurückkehren in die App nach einer neuen Version schauen
+      document.addEventListener('visibilitychange', () => { if (!document.hidden) reg.update().catch(() => {}); });
+    }).catch(() => {});
+    const hatteController = !!navigator.serviceWorker.controller; // beim allerersten Besuch keine Meldung
+    let neuGeladen = false;
+    navigator.serviceWorker.addEventListener('controllerchange', () => {
+      if (neuGeladen || !hatteController) return;
+      neuGeladen = true;
+      toast('Wissenstag wurde aktualisiert.', { aktion: { text: 'Neu laden', fn: () => location.reload() }, dauer: 8000 });
+    });
+  });
+}

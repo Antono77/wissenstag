@@ -4,7 +4,7 @@ import { levelInfo, serie, wochenleiste, klassenStufe } from '../src/lib/punkte.
 import { passtFreitext, normalisiere, freitextTauglich } from '../src/lib/text.js';
 import { plusTage, tageDazwischen } from '../src/lib/zeit.js';
 import { erstelleSpeicher, bereinige } from '../src/lib/speicher.js';
-import { zusammenfuehren, ausDlf, newsQuiz } from '../src/lib/nachrichten.js';
+import { zusammenfuehren, ausDlf, newsQuiz, tagesAuswahl, absaetzeAusDetails } from '../src/lib/nachrichten.js';
 
 describe('Wiederholung in Abständen', () => {
   it('neue Frage richtig: Fach 2, in 3 Tagen wieder', () => {
@@ -166,5 +166,21 @@ describe('Nachrichten', () => {
     const q = newsQuiz(meldungen, 5, () => 0.5);
     expect(q.length).toBe(5);
     for (const f of q) expect(new Set([f.richtig, ...f.falsch]).size).toBe(4);
+  });
+});
+
+describe('Meldungen des Tages', () => {
+  const jetzt = Date.parse('2026-11-04T12:00:00Z');
+  const m = (id, thema, stunden, details = null) => ({ id, thema, titel: id, text: 'x'.repeat(90), datum: new Date(jetzt - stunden * 3600000).toISOString(), details });
+  it('wählt genau drei Meldungen aus verschiedenen Themen', () => {
+    const liste = [m('a', 'Inland', 1, 'u'), m('b', 'Inland', 2, 'u'), m('c', 'Ausland', 3, 'u'), m('d', 'Wirtschaft', 4), m('e', 'Wissen', 5, 'u')];
+    const auswahl = tagesAuswahl(liste, { jetzt });
+    expect(auswahl).toHaveLength(3);
+    expect(new Set(auswahl.map((x) => x.thema)).size).toBe(3);
+    expect(auswahl.every((x) => x.details)).toBe(true);
+  });
+  it('liest Absätze aus dem tagesschau-Artikel', () => {
+    const a = absaetzeAusDetails({ content: [{ type: 'text', value: '<strong>Erster</strong> Absatz' }, { type: 'box', value: '' }, { type: 'headline', value: '<h2>Zwischen</h2>' }] });
+    expect(a).toEqual([{ art: 'text', text: 'Erster Absatz' }, { art: 'zwischen', text: 'Zwischen' }]);
   });
 });

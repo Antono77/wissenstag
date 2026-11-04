@@ -48,6 +48,7 @@ export function ausTagesschau(json) {
         text: kuerzen(ohneHtml(n.firstSentence || '')),
         datum: new Date(n.date).toISOString(),
         link,
+        details: typeof n.details === 'string' && n.details.startsWith('https://www.tagesschau.de/api2u/') ? n.details : null,
         stichworte: (n.tags ?? []).map((t) => t.tag).slice(0, 6),
       };
     });
@@ -160,4 +161,38 @@ export function newsQuiz(meldungen, anzahl = 6, rand = Math.random) {
     });
   }
   return fragen;
+}
+
+// Die drei Meldungen des Tages: möglichst aus verschiedenen Themen, bevorzugt mit ausführlichem Text.
+export function tagesAuswahl(meldungen, { jetzt = Date.now(), anzahl = 3 } = {}) {
+  const frisch = meldungen.filter((m) => jetzt - Date.parse(m.datum) < 36 * 3600000);
+  const pool = frisch.length >= anzahl ? frisch : meldungen;
+  const wert = (m) => (m.details ? 2 : 0) + (m.text && m.text.length > 80 ? 1 : 0);
+  const sortiert = [...pool].sort((a, b) => wert(b) - wert(a) || Date.parse(b.datum) - Date.parse(a.datum));
+  const auswahl = [];
+  const themen = new Set();
+  for (const m of sortiert) {
+    if (auswahl.length >= anzahl) break;
+    if (themen.has(m.thema)) continue;
+    themen.add(m.thema);
+    auswahl.push(m);
+  }
+  for (const m of sortiert) {
+    if (auswahl.length >= anzahl) break;
+    if (!auswahl.includes(m)) auswahl.push(m);
+  }
+  return auswahl;
+}
+
+// Absätze aus dem tagesschau-Detail-JSON (nur Text und Zwischenüberschriften)
+export function absaetzeAusDetails(json, max = 12) {
+  const res = [];
+  for (const c of json?.content ?? []) {
+    if (res.length >= max) break;
+    if (c.type === 'text' || c.type === 'headline') {
+      const t = ohneHtml(c.value);
+      if (t.length > 1) res.push({ art: c.type === 'headline' ? 'zwischen' : 'text', text: t });
+    }
+  }
+  return res;
 }
