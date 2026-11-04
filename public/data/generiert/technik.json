@@ -1,0 +1,1451 @@
+{
+ "klasse": "technik",
+ "erzeugt": "scripts/generate-fakten.mjs",
+ "fragen": [
+  {
+   "id": "tec-er-den-buchdruck-mit-beweglichen-lettern-1",
+   "schwierigkeit": "leicht",
+   "frage": "Wer erfand den Buchdruck mit beweglichen Lettern?",
+   "richtig": "Johannes Gutenberg",
+   "falsch": [
+    "Reinhold Burger",
+    "Levi Strauss",
+    "Benjamin Franklin"
+   ],
+   "begruendung": "Johannes Gutenberg: Buchdruck mit beweglichen Lettern (1450).",
+   "karte": {
+    "titel": "Johannes Gutenberg",
+    "text": "Gutenberg druckte in Mainz. Die Jahreszahl ist ungefähr, seine Bibel erschien um 1454.",
+    "merke": "Johannes Gutenberg: Buchdruck mit beweglichen Lettern (1450)."
+   }
+  },
+  {
+   "id": "tec-er-das-automobil-mit-benzinmotor-1",
+   "schwierigkeit": "leicht",
+   "frage": "Wer erfand das Automobil mit Benzinmotor?",
+   "richtig": "Carl Benz",
+   "falsch": [
+    "Tim Berners-Lee",
+    "Alexander Graham Bell",
+    "Johannes Gutenberg"
+   ],
+   "begruendung": "Carl Benz: Automobil mit Benzinmotor (1886).",
+   "karte": {
+    "titel": "Carl Benz",
+    "text": "Carl Benz meldete seinen Motorwagen 1886 zum Patent an. Bertha Benz machte 1888 die erste Fernfahrt.",
+    "merke": "Carl Benz: Automobil mit Benzinmotor (1886)."
+   }
+  },
+  {
+   "id": "tec-er-den-dieselmotor-1",
+   "schwierigkeit": "leicht",
+   "frage": "Wer erfand den Dieselmotor?",
+   "richtig": "Rudolf Diesel",
+   "falsch": [
+    "Carl von Linde",
+    "Ferdinand von Zeppelin",
+    "James Watt"
+   ],
+   "begruendung": "Rudolf Diesel: Dieselmotor (1893).",
+   "karte": {
+    "titel": "Rudolf Diesel",
+    "text": "Rudolf Diesel erhielt 1893 das Patent. Er starb 1913 auf rätselhafte Weise bei einer Schiffsüberfahrt.",
+    "merke": "Rudolf Diesel: Dieselmotor (1893)."
+   }
+  },
+  {
+   "id": "tec-er-die-laufmaschine-den-vorlaeufer-des-fahr-1",
+   "schwierigkeit": "mittel",
+   "frage": "Wer erfand die Laufmaschine, den Vorläufer des Fahrrads?",
+   "richtig": "Karl Drais",
+   "falsch": [
+    "Samuel Morse",
+    "Gottfried Wilhelm Leibniz",
+    "Benjamin Franklin"
+   ],
+   "begruendung": "Karl Drais: Laufmaschine, den Vorläufer des Fahrrads (1817).",
+   "karte": {
+    "titel": "Karl Drais",
+    "text": "Karl Drais aus Mannheim fuhr 1817 die erste Strecke. Pedale hatte die Laufmaschine noch nicht.",
+    "merke": "Karl Drais: Laufmaschine, den Vorläufer des Fahrrads (1817)."
+   }
+  },
+  {
+   "id": "tec-er-den-ersten-programmierbaren-computer-z3-1",
+   "schwierigkeit": "mittel",
+   "frage": "Wer erfand den ersten programmierbaren Computer Z3?",
+   "richtig": "Konrad Zuse",
+   "falsch": [
+    "Karlheinz Brandenburg",
+    "Rudolf Diesel",
+    "Louis Braille"
+   ],
+   "begruendung": "Konrad Zuse: ersten programmierbaren Computer Z3 (1941).",
+   "karte": {
+    "titel": "Konrad Zuse",
+    "text": "Die Z3 rechnete mit Relais. Das Original wurde im Krieg zerstört.",
+    "merke": "Konrad Zuse: ersten programmierbaren Computer Z3 (1941)."
+   }
+  },
+  {
+   "id": "tec-er-das-world-wide-web-1",
+   "schwierigkeit": "leicht",
+   "frage": "Wer erfand das World Wide Web?",
+   "richtig": "Tim Berners-Lee",
+   "falsch": [
+    "Melitta Bentz",
+    "Felix Hoffmann",
+    "Johannes Gutenberg"
+   ],
+   "begruendung": "Tim Berners-Lee: World Wide Web (1989).",
+   "karte": {
+    "titel": "Tim Berners-Lee",
+    "text": "Berners-Lee schlug das Web am Forschungszentrum CERN bei Genf vor.",
+    "merke": "Tim Berners-Lee: World Wide Web (1989)."
+   }
+  },
+  {
+   "id": "tec-er-das-dynamit-1",
+   "schwierigkeit": "leicht",
+   "frage": "Wer erfand das Dynamit?",
+   "richtig": "Alfred Nobel",
+   "falsch": [
+    "Samuel Morse",
+    "Alexander Graham Bell",
+    "Karl Drais"
+   ],
+   "begruendung": "Alfred Nobel: Dynamit (1867).",
+   "karte": {
+    "titel": "Alfred Nobel",
+    "text": "Mit dem Vermögen aus seinen Erfindungen stiftete Nobel die Nobelpreise.",
+    "merke": "Alfred Nobel: Dynamit (1867)."
+   }
+  },
+  {
+   "id": "tec-er-das-telefon-1",
+   "schwierigkeit": "leicht",
+   "frage": "Wer erfand das Telefon?",
+   "richtig": "Alexander Graham Bell",
+   "falsch": [
+    "Tim Berners-Lee",
+    "Gottfried Wilhelm Leibniz",
+    "Louis Braille"
+   ],
+   "begruendung": "Alexander Graham Bell: Telefon (1876).",
+   "karte": {
+    "titel": "Alexander Graham Bell",
+    "text": "Bell erhielt 1876 das Patent. Der Deutsche Philipp Reis hatte schon 1861 Töne elektrisch übertragen.",
+    "merke": "Alexander Graham Bell: Telefon (1876)."
+   }
+  },
+  {
+   "id": "tec-er-das-erste-motorflugzeug-1",
+   "schwierigkeit": "leicht",
+   "frage": "Wer erfand das erste Motorflugzeug?",
+   "richtig": "Brüder Wright",
+   "falsch": [
+    "Konrad Zuse",
+    "Nikolaus August Otto",
+    "Carl Benz"
+   ],
+   "begruendung": "Brüder Wright: erste Motorflugzeug (1903).",
+   "karte": {
+    "titel": "Brüder Wright",
+    "text": "Orville Wright flog 1903 zwölf Sekunden weit, rund 37 m.",
+    "merke": "Brüder Wright: erste Motorflugzeug (1903)."
+   }
+  },
+  {
+   "id": "tec-er-den-blitzableiter-1",
+   "schwierigkeit": "mittel",
+   "frage": "Wer erfand den Blitzableiter?",
+   "richtig": "Benjamin Franklin",
+   "falsch": [
+    "Tim Berners-Lee",
+    "Felix Hoffmann",
+    "Alexander Graham Bell"
+   ],
+   "begruendung": "Benjamin Franklin: Blitzableiter (1752).",
+   "karte": {
+    "titel": "Benjamin Franklin",
+    "text": "Franklin war Naturforscher und einer der Gründerväter der USA.",
+    "merke": "Benjamin Franklin: Blitzableiter (1752)."
+   }
+  },
+  {
+   "id": "tec-er-das-lenkbare-starrluftschiff-1",
+   "schwierigkeit": "mittel",
+   "frage": "Wer erfand das lenkbare Starrluftschiff?",
+   "richtig": "Ferdinand von Zeppelin",
+   "falsch": [
+    "Louis Braille",
+    "Samuel Morse",
+    "Tim Berners-Lee"
+   ],
+   "begruendung": "Ferdinand von Zeppelin: lenkbare Starrluftschiff (1900).",
+   "karte": {
+    "titel": "Ferdinand von Zeppelin",
+    "text": "Das erste Zeppelin-Luftschiff stieg 1900 über dem Bodensee auf.",
+    "merke": "Ferdinand von Zeppelin: lenkbare Starrluftschiff (1900)."
+   }
+  },
+  {
+   "id": "tec-er-die-kaeltemaschine-fuer-kuehlschraenke-1",
+   "schwierigkeit": "schwer",
+   "frage": "Wer erfand die Kältemaschine für Kühlschränke?",
+   "richtig": "Carl von Linde",
+   "falsch": [
+    "Rudolf Diesel",
+    "Carl Benz",
+    "Karl Drais"
+   ],
+   "begruendung": "Carl von Linde: Kältemaschine für Kühlschränke (1876).",
+   "karte": {
+    "titel": "Carl von Linde",
+    "text": "Carl von Linde baute Kältemaschinen zuerst für Brauereien.",
+    "merke": "Carl von Linde: Kältemaschine für Kühlschränke (1876)."
+   }
+  },
+  {
+   "id": "tec-er-das-mp3-format-1",
+   "schwierigkeit": "schwer",
+   "frage": "Wer erfand das MP3-Format?",
+   "richtig": "Karlheinz Brandenburg",
+   "falsch": [
+    "Carl Benz",
+    "Melitta Bentz",
+    "Rudolf Diesel"
+   ],
+   "begruendung": "Karlheinz Brandenburg: MP3-Format (1995).",
+   "karte": {
+    "titel": "Karlheinz Brandenburg",
+    "text": "Ein Team am Fraunhofer-Institut in Erlangen entwickelte MP3. Den Namen .mp3 legten sie 1995 fest.",
+    "merke": "Karlheinz Brandenburg: MP3-Format (1995)."
+   }
+  },
+  {
+   "id": "tec-er-die-jeans-mit-nieten-1",
+   "schwierigkeit": "mittel",
+   "frage": "Wer erfand die Jeans mit Nieten?",
+   "richtig": "Levi Strauss",
+   "falsch": [
+    "Artur Fischer",
+    "Louis Braille",
+    "Karlheinz Brandenburg"
+   ],
+   "begruendung": "Levi Strauss: Jeans mit Nieten (1873).",
+   "karte": {
+    "titel": "Levi Strauss",
+    "text": "Levi Strauss stammte aus Franken und ließ die Nietenhose 1873 mit dem Schneider Jacob Davis patentieren.",
+    "merke": "Levi Strauss: Jeans mit Nieten (1873)."
+   }
+  },
+  {
+   "id": "tec-er-den-kunststoffduebel-1",
+   "schwierigkeit": "mittel",
+   "frage": "Wer erfand den Kunststoffdübel?",
+   "richtig": "Artur Fischer",
+   "falsch": [
+    "Karl Drais",
+    "Alfred Nobel",
+    "James Watt"
+   ],
+   "begruendung": "Artur Fischer: Kunststoffdübel (1958).",
+   "karte": {
+    "titel": "Artur Fischer",
+    "text": "Artur Fischer aus dem Schwarzwald meldete über 1.000 Patente an.",
+    "merke": "Artur Fischer: Kunststoffdübel (1958)."
+   }
+  },
+  {
+   "id": "tec-er-den-kaffeefilter-aus-papier-1",
+   "schwierigkeit": "mittel",
+   "frage": "Wer erfand den Kaffeefilter aus Papier?",
+   "richtig": "Melitta Bentz",
+   "falsch": [
+    "Felix Hoffmann",
+    "Nikolaus August Otto",
+    "Karl Drais"
+   ],
+   "begruendung": "Melitta Bentz: Kaffeefilter aus Papier (1908).",
+   "karte": {
+    "titel": "Melitta Bentz",
+    "text": "Melitta Bentz aus Dresden nutzte Löschpapier ihres Sohnes als Filter.",
+    "merke": "Melitta Bentz: Kaffeefilter aus Papier (1908)."
+   }
+  },
+  {
+   "id": "tec-er-das-aspirin-1",
+   "schwierigkeit": "schwer",
+   "frage": "Wer erfand das Aspirin?",
+   "richtig": "Felix Hoffmann",
+   "falsch": [
+    "Karl Drais",
+    "Alexander Graham Bell",
+    "Levi Strauss"
+   ],
+   "begruendung": "Felix Hoffmann: Aspirin (1897).",
+   "karte": {
+    "titel": "Felix Hoffmann",
+    "text": "Felix Hoffmann stellte den Wirkstoff 1897 bei Bayer rein her.",
+    "merke": "Felix Hoffmann: Aspirin (1897)."
+   }
+  },
+  {
+   "id": "tec-er-die-thermoskanne-1",
+   "schwierigkeit": "schwer",
+   "frage": "Wer erfand die Thermoskanne?",
+   "richtig": "Reinhold Burger",
+   "falsch": [
+    "Karl Drais",
+    "Felix Hoffmann",
+    "Gottfried Wilhelm Leibniz"
+   ],
+   "begruendung": "Reinhold Burger: Thermoskanne (1903).",
+   "karte": {
+    "titel": "Reinhold Burger",
+    "text": "Reinhold Burger aus Berlin ließ das Gefäß 1903 patentieren.",
+    "merke": "Reinhold Burger: Thermoskanne (1903)."
+   }
+  },
+  {
+   "id": "tec-er-den-morseapparat-1",
+   "schwierigkeit": "mittel",
+   "frage": "Wer erfand den Morseapparat?",
+   "richtig": "Samuel Morse",
+   "falsch": [
+    "Felix Hoffmann",
+    "Karlheinz Brandenburg",
+    "Karl Drais"
+   ],
+   "begruendung": "Samuel Morse: Morseapparat (1837).",
+   "karte": {
+    "titel": "Samuel Morse",
+    "text": "Morse entwickelte auch den Morsecode aus Punkten und Strichen.",
+    "merke": "Samuel Morse: Morseapparat (1837)."
+   }
+  },
+  {
+   "id": "tec-er-die-blindenschrift-1",
+   "schwierigkeit": "mittel",
+   "frage": "Wer erfand die Blindenschrift?",
+   "richtig": "Louis Braille",
+   "falsch": [
+    "Rudolf Diesel",
+    "Artur Fischer",
+    "Benjamin Franklin"
+   ],
+   "begruendung": "Louis Braille: Blindenschrift (1825).",
+   "karte": {
+    "titel": "Louis Braille",
+    "text": "Louis Braille erblindete als Kind und erfand die Punktschrift mit 16 Jahren.",
+    "merke": "Louis Braille: Blindenschrift (1825)."
+   }
+  },
+  {
+   "id": "tec-er-die-sparsame-dampfmaschine-mit-kondensat-1",
+   "schwierigkeit": "mittel",
+   "frage": "Wer erfand die sparsame Dampfmaschine mit Kondensator?",
+   "richtig": "James Watt",
+   "falsch": [
+    "Levi Strauss",
+    "Alfred Nobel",
+    "Ferdinand von Zeppelin"
+   ],
+   "begruendung": "James Watt: sparsame Dampfmaschine mit Kondensator (1769).",
+   "karte": {
+    "titel": "James Watt",
+    "text": "Watt machte die Dampfmaschine viel sparsamer. Die Einheit Watt ist nach ihm benannt.",
+    "merke": "James Watt: sparsame Dampfmaschine mit Kondensator (1769)."
+   }
+  },
+  {
+   "id": "tec-er-den-viertaktmotor-1",
+   "schwierigkeit": "mittel",
+   "frage": "Wer erfand den Viertaktmotor?",
+   "richtig": "Nikolaus August Otto",
+   "falsch": [
+    "Karlheinz Brandenburg",
+    "Gottfried Wilhelm Leibniz",
+    "Tim Berners-Lee"
+   ],
+   "begruendung": "Nikolaus August Otto: Viertaktmotor (1876).",
+   "karte": {
+    "titel": "Nikolaus August Otto",
+    "text": "Nach ihm heißt der Benzinmotor auch Ottomotor.",
+    "merke": "Nikolaus August Otto: Viertaktmotor (1876)."
+   }
+  },
+  {
+   "id": "tec-er-die-rechenmaschine-mit-staffelwalze-1",
+   "schwierigkeit": "schwer",
+   "frage": "Wer erfand die Rechenmaschine mit Staffelwalze?",
+   "richtig": "Gottfried Wilhelm Leibniz",
+   "falsch": [
+    "Johannes Gutenberg",
+    "Ferdinand von Zeppelin",
+    "Nikolaus August Otto"
+   ],
+   "begruendung": "Gottfried Wilhelm Leibniz: Rechenmaschine mit Staffelwalze (1673).",
+   "karte": {
+    "titel": "Gottfried Wilhelm Leibniz",
+    "text": "Leibniz entwickelte auch das Dualsystem aus 0 und 1, die Grundlage heutiger Computer.",
+    "merke": "Gottfried Wilhelm Leibniz: Rechenmaschine mit Staffelwalze (1673)."
+   }
+  },
+  {
+   "id": "tec-er-den-buchdruck-mit-beweglichen-lettern-2",
+   "schwierigkeit": "leicht",
+   "frage": "Was erfand Johannes Gutenberg?",
+   "richtig": "Buchdruck mit beweglichen Lettern",
+   "falsch": [
+    "Kunststoffdübel",
+    "Ersten programmierbaren Computer Z3",
+    "Blindenschrift"
+   ],
+   "begruendung": "Johannes Gutenberg: Buchdruck mit beweglichen Lettern (1450).",
+   "karte": {
+    "titel": "Johannes Gutenberg",
+    "text": "Gutenberg druckte in Mainz. Die Jahreszahl ist ungefähr, seine Bibel erschien um 1454.",
+    "merke": "Johannes Gutenberg: Buchdruck mit beweglichen Lettern (1450)."
+   }
+  },
+  {
+   "id": "tec-er-das-automobil-mit-benzinmotor-2",
+   "schwierigkeit": "leicht",
+   "frage": "Was erfand Carl Benz?",
+   "richtig": "Automobil mit Benzinmotor",
+   "falsch": [
+    "Sparsame Dampfmaschine mit Kondensator",
+    "Buchdruck mit beweglichen Lettern",
+    "Kunststoffdübel"
+   ],
+   "begruendung": "Carl Benz: Automobil mit Benzinmotor (1886).",
+   "karte": {
+    "titel": "Carl Benz",
+    "text": "Carl Benz meldete seinen Motorwagen 1886 zum Patent an. Bertha Benz machte 1888 die erste Fernfahrt.",
+    "merke": "Carl Benz: Automobil mit Benzinmotor (1886)."
+   }
+  },
+  {
+   "id": "tec-er-den-dieselmotor-2",
+   "schwierigkeit": "leicht",
+   "frage": "Was erfand Rudolf Diesel?",
+   "richtig": "Dieselmotor",
+   "falsch": [
+    "Rechenmaschine mit Staffelwalze",
+    "Automobil mit Benzinmotor",
+    "Dynamit"
+   ],
+   "begruendung": "Rudolf Diesel: Dieselmotor (1893).",
+   "karte": {
+    "titel": "Rudolf Diesel",
+    "text": "Rudolf Diesel erhielt 1893 das Patent. Er starb 1913 auf rätselhafte Weise bei einer Schiffsüberfahrt.",
+    "merke": "Rudolf Diesel: Dieselmotor (1893)."
+   }
+  },
+  {
+   "id": "tec-er-die-laufmaschine-den-vorlaeufer-des-fahr-2",
+   "schwierigkeit": "mittel",
+   "frage": "Was erfand Karl Drais?",
+   "richtig": "Laufmaschine, den Vorläufer des Fahrrads",
+   "falsch": [
+    "Buchdruck mit beweglichen Lettern",
+    "Dynamit",
+    "Aspirin"
+   ],
+   "begruendung": "Karl Drais: Laufmaschine, den Vorläufer des Fahrrads (1817).",
+   "karte": {
+    "titel": "Karl Drais",
+    "text": "Karl Drais aus Mannheim fuhr 1817 die erste Strecke. Pedale hatte die Laufmaschine noch nicht.",
+    "merke": "Karl Drais: Laufmaschine, den Vorläufer des Fahrrads (1817)."
+   }
+  },
+  {
+   "id": "tec-er-den-ersten-programmierbaren-computer-z3-2",
+   "schwierigkeit": "mittel",
+   "frage": "Was erfand Konrad Zuse?",
+   "richtig": "Ersten programmierbaren Computer Z3",
+   "falsch": [
+    "Blitzableiter",
+    "Telefon",
+    "World Wide Web"
+   ],
+   "begruendung": "Konrad Zuse: ersten programmierbaren Computer Z3 (1941).",
+   "karte": {
+    "titel": "Konrad Zuse",
+    "text": "Die Z3 rechnete mit Relais. Das Original wurde im Krieg zerstört.",
+    "merke": "Konrad Zuse: ersten programmierbaren Computer Z3 (1941)."
+   }
+  },
+  {
+   "id": "tec-er-das-world-wide-web-2",
+   "schwierigkeit": "leicht",
+   "frage": "Was erfand Tim Berners-Lee?",
+   "richtig": "World Wide Web",
+   "falsch": [
+    "Automobil mit Benzinmotor",
+    "Morseapparat",
+    "Blitzableiter"
+   ],
+   "begruendung": "Tim Berners-Lee: World Wide Web (1989).",
+   "karte": {
+    "titel": "Tim Berners-Lee",
+    "text": "Berners-Lee schlug das Web am Forschungszentrum CERN bei Genf vor.",
+    "merke": "Tim Berners-Lee: World Wide Web (1989)."
+   }
+  },
+  {
+   "id": "tec-er-das-dynamit-2",
+   "schwierigkeit": "leicht",
+   "frage": "Was erfand Alfred Nobel?",
+   "richtig": "Dynamit",
+   "falsch": [
+    "Kaffeefilter aus Papier",
+    "Buchdruck mit beweglichen Lettern",
+    "Kunststoffdübel"
+   ],
+   "begruendung": "Alfred Nobel: Dynamit (1867).",
+   "karte": {
+    "titel": "Alfred Nobel",
+    "text": "Mit dem Vermögen aus seinen Erfindungen stiftete Nobel die Nobelpreise.",
+    "merke": "Alfred Nobel: Dynamit (1867)."
+   }
+  },
+  {
+   "id": "tec-er-das-telefon-2",
+   "schwierigkeit": "leicht",
+   "frage": "Was erfand Alexander Graham Bell?",
+   "richtig": "Telefon",
+   "falsch": [
+    "Rechenmaschine mit Staffelwalze",
+    "Automobil mit Benzinmotor",
+    "Morseapparat"
+   ],
+   "begruendung": "Alexander Graham Bell: Telefon (1876).",
+   "karte": {
+    "titel": "Alexander Graham Bell",
+    "text": "Bell erhielt 1876 das Patent. Der Deutsche Philipp Reis hatte schon 1861 Töne elektrisch übertragen.",
+    "merke": "Alexander Graham Bell: Telefon (1876)."
+   }
+  },
+  {
+   "id": "tec-er-das-erste-motorflugzeug-2",
+   "schwierigkeit": "leicht",
+   "frage": "Was erfand das Brüderpaar Wright?",
+   "richtig": "Erste Motorflugzeug",
+   "falsch": [
+    "Buchdruck mit beweglichen Lettern",
+    "Laufmaschine, den Vorläufer des Fahrrads",
+    "Jeans mit Nieten"
+   ],
+   "begruendung": "Brüder Wright: erste Motorflugzeug (1903).",
+   "karte": {
+    "titel": "Brüder Wright",
+    "text": "Orville Wright flog 1903 zwölf Sekunden weit, rund 37 m.",
+    "merke": "Brüder Wright: erste Motorflugzeug (1903)."
+   }
+  },
+  {
+   "id": "tec-er-den-blitzableiter-2",
+   "schwierigkeit": "mittel",
+   "frage": "Was erfand Benjamin Franklin?",
+   "richtig": "Blitzableiter",
+   "falsch": [
+    "Thermoskanne",
+    "Blindenschrift",
+    "Laufmaschine, den Vorläufer des Fahrrads"
+   ],
+   "begruendung": "Benjamin Franklin: Blitzableiter (1752).",
+   "karte": {
+    "titel": "Benjamin Franklin",
+    "text": "Franklin war Naturforscher und einer der Gründerväter der USA.",
+    "merke": "Benjamin Franklin: Blitzableiter (1752)."
+   }
+  },
+  {
+   "id": "tec-er-das-lenkbare-starrluftschiff-2",
+   "schwierigkeit": "mittel",
+   "frage": "Was erfand Ferdinand von Zeppelin?",
+   "richtig": "Lenkbare Starrluftschiff",
+   "falsch": [
+    "Blindenschrift",
+    "Erste Motorflugzeug",
+    "Thermoskanne"
+   ],
+   "begruendung": "Ferdinand von Zeppelin: lenkbare Starrluftschiff (1900).",
+   "karte": {
+    "titel": "Ferdinand von Zeppelin",
+    "text": "Das erste Zeppelin-Luftschiff stieg 1900 über dem Bodensee auf.",
+    "merke": "Ferdinand von Zeppelin: lenkbare Starrluftschiff (1900)."
+   }
+  },
+  {
+   "id": "tec-er-die-kaeltemaschine-fuer-kuehlschraenke-2",
+   "schwierigkeit": "schwer",
+   "frage": "Was erfand Carl von Linde?",
+   "richtig": "Kältemaschine für Kühlschränke",
+   "falsch": [
+    "Kunststoffdübel",
+    "Viertaktmotor",
+    "Sparsame Dampfmaschine mit Kondensator"
+   ],
+   "begruendung": "Carl von Linde: Kältemaschine für Kühlschränke (1876).",
+   "karte": {
+    "titel": "Carl von Linde",
+    "text": "Carl von Linde baute Kältemaschinen zuerst für Brauereien.",
+    "merke": "Carl von Linde: Kältemaschine für Kühlschränke (1876)."
+   }
+  },
+  {
+   "id": "tec-er-das-mp3-format-2",
+   "schwierigkeit": "schwer",
+   "frage": "Was erfand Karlheinz Brandenburg?",
+   "richtig": "MP3-Format",
+   "falsch": [
+    "Automobil mit Benzinmotor",
+    "Lenkbare Starrluftschiff",
+    "Blitzableiter"
+   ],
+   "begruendung": "Karlheinz Brandenburg: MP3-Format (1995).",
+   "karte": {
+    "titel": "Karlheinz Brandenburg",
+    "text": "Ein Team am Fraunhofer-Institut in Erlangen entwickelte MP3. Den Namen .mp3 legten sie 1995 fest.",
+    "merke": "Karlheinz Brandenburg: MP3-Format (1995)."
+   }
+  },
+  {
+   "id": "tec-er-die-jeans-mit-nieten-2",
+   "schwierigkeit": "mittel",
+   "frage": "Was erfand Levi Strauss?",
+   "richtig": "Jeans mit Nieten",
+   "falsch": [
+    "Blitzableiter",
+    "Sparsame Dampfmaschine mit Kondensator",
+    "Laufmaschine, den Vorläufer des Fahrrads"
+   ],
+   "begruendung": "Levi Strauss: Jeans mit Nieten (1873).",
+   "karte": {
+    "titel": "Levi Strauss",
+    "text": "Levi Strauss stammte aus Franken und ließ die Nietenhose 1873 mit dem Schneider Jacob Davis patentieren.",
+    "merke": "Levi Strauss: Jeans mit Nieten (1873)."
+   }
+  },
+  {
+   "id": "tec-er-den-kunststoffduebel-2",
+   "schwierigkeit": "mittel",
+   "frage": "Was erfand Artur Fischer?",
+   "richtig": "Kunststoffdübel",
+   "falsch": [
+    "Sparsame Dampfmaschine mit Kondensator",
+    "Kältemaschine für Kühlschränke",
+    "Dynamit"
+   ],
+   "begruendung": "Artur Fischer: Kunststoffdübel (1958).",
+   "karte": {
+    "titel": "Artur Fischer",
+    "text": "Artur Fischer aus dem Schwarzwald meldete über 1.000 Patente an.",
+    "merke": "Artur Fischer: Kunststoffdübel (1958)."
+   }
+  },
+  {
+   "id": "tec-er-den-kaffeefilter-aus-papier-2",
+   "schwierigkeit": "mittel",
+   "frage": "Was erfand Melitta Bentz?",
+   "richtig": "Kaffeefilter aus Papier",
+   "falsch": [
+    "Kältemaschine für Kühlschränke",
+    "Buchdruck mit beweglichen Lettern",
+    "Kunststoffdübel"
+   ],
+   "begruendung": "Melitta Bentz: Kaffeefilter aus Papier (1908).",
+   "karte": {
+    "titel": "Melitta Bentz",
+    "text": "Melitta Bentz aus Dresden nutzte Löschpapier ihres Sohnes als Filter.",
+    "merke": "Melitta Bentz: Kaffeefilter aus Papier (1908)."
+   }
+  },
+  {
+   "id": "tec-er-das-aspirin-2",
+   "schwierigkeit": "schwer",
+   "frage": "Was erfand Felix Hoffmann?",
+   "richtig": "Aspirin",
+   "falsch": [
+    "Kaffeefilter aus Papier",
+    "Laufmaschine, den Vorläufer des Fahrrads",
+    "Dynamit"
+   ],
+   "begruendung": "Felix Hoffmann: Aspirin (1897).",
+   "karte": {
+    "titel": "Felix Hoffmann",
+    "text": "Felix Hoffmann stellte den Wirkstoff 1897 bei Bayer rein her.",
+    "merke": "Felix Hoffmann: Aspirin (1897)."
+   }
+  },
+  {
+   "id": "tec-er-die-thermoskanne-2",
+   "schwierigkeit": "schwer",
+   "frage": "Was erfand Reinhold Burger?",
+   "richtig": "Thermoskanne",
+   "falsch": [
+    "World Wide Web",
+    "Sparsame Dampfmaschine mit Kondensator",
+    "Laufmaschine, den Vorläufer des Fahrrads"
+   ],
+   "begruendung": "Reinhold Burger: Thermoskanne (1903).",
+   "karte": {
+    "titel": "Reinhold Burger",
+    "text": "Reinhold Burger aus Berlin ließ das Gefäß 1903 patentieren.",
+    "merke": "Reinhold Burger: Thermoskanne (1903)."
+   }
+  },
+  {
+   "id": "tec-er-den-morseapparat-2",
+   "schwierigkeit": "mittel",
+   "frage": "Was erfand Samuel Morse?",
+   "richtig": "Morseapparat",
+   "falsch": [
+    "Lenkbare Starrluftschiff",
+    "Viertaktmotor",
+    "Dynamit"
+   ],
+   "begruendung": "Samuel Morse: Morseapparat (1837).",
+   "karte": {
+    "titel": "Samuel Morse",
+    "text": "Morse entwickelte auch den Morsecode aus Punkten und Strichen.",
+    "merke": "Samuel Morse: Morseapparat (1837)."
+   }
+  },
+  {
+   "id": "tec-er-die-blindenschrift-2",
+   "schwierigkeit": "mittel",
+   "frage": "Was erfand Louis Braille?",
+   "richtig": "Blindenschrift",
+   "falsch": [
+    "Laufmaschine, den Vorläufer des Fahrrads",
+    "Ersten programmierbaren Computer Z3",
+    "Buchdruck mit beweglichen Lettern"
+   ],
+   "begruendung": "Louis Braille: Blindenschrift (1825).",
+   "karte": {
+    "titel": "Louis Braille",
+    "text": "Louis Braille erblindete als Kind und erfand die Punktschrift mit 16 Jahren.",
+    "merke": "Louis Braille: Blindenschrift (1825)."
+   }
+  },
+  {
+   "id": "tec-er-die-sparsame-dampfmaschine-mit-kondensat-2",
+   "schwierigkeit": "mittel",
+   "frage": "Was erfand James Watt?",
+   "richtig": "Sparsame Dampfmaschine mit Kondensator",
+   "falsch": [
+    "Dynamit",
+    "Dieselmotor",
+    "Erste Motorflugzeug"
+   ],
+   "begruendung": "James Watt: sparsame Dampfmaschine mit Kondensator (1769).",
+   "karte": {
+    "titel": "James Watt",
+    "text": "Watt machte die Dampfmaschine viel sparsamer. Die Einheit Watt ist nach ihm benannt.",
+    "merke": "James Watt: sparsame Dampfmaschine mit Kondensator (1769)."
+   }
+  },
+  {
+   "id": "tec-er-den-viertaktmotor-2",
+   "schwierigkeit": "mittel",
+   "frage": "Was erfand Nikolaus August Otto?",
+   "richtig": "Viertaktmotor",
+   "falsch": [
+    "Laufmaschine, den Vorläufer des Fahrrads",
+    "Morseapparat",
+    "Lenkbare Starrluftschiff"
+   ],
+   "begruendung": "Nikolaus August Otto: Viertaktmotor (1876).",
+   "karte": {
+    "titel": "Nikolaus August Otto",
+    "text": "Nach ihm heißt der Benzinmotor auch Ottomotor.",
+    "merke": "Nikolaus August Otto: Viertaktmotor (1876)."
+   }
+  },
+  {
+   "id": "tec-er-die-rechenmaschine-mit-staffelwalze-2",
+   "schwierigkeit": "schwer",
+   "frage": "Was erfand Gottfried Wilhelm Leibniz?",
+   "richtig": "Rechenmaschine mit Staffelwalze",
+   "falsch": [
+    "Automobil mit Benzinmotor",
+    "Blitzableiter",
+    "Kunststoffdübel"
+   ],
+   "begruendung": "Gottfried Wilhelm Leibniz: Rechenmaschine mit Staffelwalze (1673).",
+   "karte": {
+    "titel": "Gottfried Wilhelm Leibniz",
+    "text": "Leibniz entwickelte auch das Dualsystem aus 0 und 1, die Grundlage heutiger Computer.",
+    "merke": "Gottfried Wilhelm Leibniz: Rechenmaschine mit Staffelwalze (1673)."
+   }
+  },
+  {
+   "id": "tec-ab-usb",
+   "schwierigkeit": "mittel",
+   "frage": "Wofür steht die Abkürzung USB?",
+   "richtig": "Universal Serial Bus",
+   "falsch": [
+    "Hypertext Markup Language",
+    "Electronic Mail",
+    "Uniform Resource Locator"
+   ],
+   "begruendung": "USB = Universal Serial Bus.",
+   "karte": {
+    "titel": "USB",
+    "text": "USB-C ist seit 2024 in der EU Pflicht als Ladeanschluss für viele Geräte.",
+    "merke": "USB = Universal Serial Bus."
+   }
+  },
+  {
+   "id": "tec-ab-wlan",
+   "schwierigkeit": "mittel",
+   "frage": "Wofür steht die Abkürzung WLAN?",
+   "richtig": "Wireless Local Area Network",
+   "falsch": [
+    "Portable Document Format",
+    "Electronic Mail",
+    "Hypertext Markup Language"
+   ],
+   "begruendung": "WLAN = Wireless Local Area Network.",
+   "karte": {
+    "titel": "WLAN",
+    "text": "Im Englischen sagt man meist Wi-Fi.",
+    "merke": "WLAN = Wireless Local Area Network."
+   }
+  },
+  {
+   "id": "tec-ab-gps",
+   "schwierigkeit": "mittel",
+   "frage": "Wofür steht die Abkürzung GPS?",
+   "richtig": "Global Positioning System",
+   "falsch": [
+    "Portable Document Format",
+    "Antiblockiersystem",
+    "Central Processing Unit"
+   ],
+   "begruendung": "GPS = Global Positioning System.",
+   "karte": {
+    "titel": "GPS",
+    "text": "GPS gehört den USA. Europa betreibt mit Galileo ein eigenes System.",
+    "merke": "GPS = Global Positioning System."
+   }
+  },
+  {
+   "id": "tec-ab-led",
+   "schwierigkeit": "mittel",
+   "frage": "Wofür steht die Abkürzung LED?",
+   "richtig": "Light-Emitting Diode",
+   "falsch": [
+    "Hypertext Transfer Protocol",
+    "Persönliche Identifikationsnummer",
+    "Technischer Überwachungsverein"
+   ],
+   "begruendung": "LED = Light-Emitting Diode.",
+   "karte": {
+    "titel": "LED",
+    "text": "Auf Deutsch heißt die LED Leuchtdiode.",
+    "merke": "LED = Light-Emitting Diode."
+   }
+  },
+  {
+   "id": "tec-ab-pdf",
+   "schwierigkeit": "mittel",
+   "frage": "Wofür steht die Abkürzung PDF?",
+   "richtig": "Portable Document Format",
+   "falsch": [
+    "Antiblockiersystem",
+    "Uniform Resource Locator",
+    "Near Field Communication"
+   ],
+   "begruendung": "PDF = Portable Document Format.",
+   "karte": {
+    "titel": "PDF",
+    "text": "Die Firma Adobe stellte PDF 1993 vor.",
+    "merke": "PDF = Portable Document Format."
+   }
+  },
+  {
+   "id": "tec-ab-html",
+   "schwierigkeit": "mittel",
+   "frage": "Wofür steht die Abkürzung HTML?",
+   "richtig": "Hypertext Markup Language",
+   "falsch": [
+    "Random Access Memory",
+    "Central Processing Unit",
+    "Universal Serial Bus"
+   ],
+   "begruendung": "HTML = Hypertext Markup Language.",
+   "karte": {
+    "titel": "HTML",
+    "text": "Mit HTML beschreibst du den Aufbau einer Webseite.",
+    "merke": "HTML = Hypertext Markup Language."
+   }
+  },
+  {
+   "id": "tec-ab-ram",
+   "schwierigkeit": "mittel",
+   "frage": "Wofür steht die Abkürzung RAM?",
+   "richtig": "Random Access Memory",
+   "falsch": [
+    "Künstliche Intelligenz",
+    "Solid State Drive",
+    "Hypertext Transfer Protocol"
+   ],
+   "begruendung": "RAM = Random Access Memory.",
+   "karte": {
+    "titel": "RAM",
+    "text": "RAM ist der Arbeitsspeicher. Ohne Strom vergisst er alles.",
+    "merke": "RAM = Random Access Memory."
+   }
+  },
+  {
+   "id": "tec-ab-cpu",
+   "schwierigkeit": "mittel",
+   "frage": "Wofür steht die Abkürzung CPU?",
+   "richtig": "Central Processing Unit",
+   "falsch": [
+    "Quick Response Code",
+    "Global Positioning System",
+    "Light-Emitting Diode"
+   ],
+   "begruendung": "CPU = Central Processing Unit.",
+   "karte": {
+    "titel": "CPU",
+    "text": "Die CPU ist der Hauptprozessor eines Computers.",
+    "merke": "CPU = Central Processing Unit."
+   }
+  },
+  {
+   "id": "tec-ab-ssd",
+   "schwierigkeit": "schwer",
+   "frage": "Wofür steht die Abkürzung SSD?",
+   "richtig": "Solid State Drive",
+   "falsch": [
+    "Uniform Resource Locator",
+    "Electronic Mail",
+    "Hypertext Transfer Protocol"
+   ],
+   "begruendung": "SSD = Solid State Drive.",
+   "karte": {
+    "titel": "SSD",
+    "text": "Eine SSD speichert Daten ohne bewegliche Teile.",
+    "merke": "SSD = Solid State Drive."
+   }
+  },
+  {
+   "id": "tec-ab-hdd",
+   "schwierigkeit": "schwer",
+   "frage": "Wofür steht die Abkürzung HDD?",
+   "richtig": "Hard Disk Drive",
+   "falsch": [
+    "Random Access Memory",
+    "Technischer Überwachungsverein",
+    "Light-Emitting Diode"
+   ],
+   "begruendung": "HDD = Hard Disk Drive.",
+   "karte": {
+    "titel": "HDD",
+    "text": "In einer HDD drehen sich Magnetscheiben. Sie ist eine Festplatte, kein Arbeitsspeicher.",
+    "merke": "HDD = Hard Disk Drive."
+   }
+  },
+  {
+   "id": "tec-ab-sim",
+   "schwierigkeit": "schwer",
+   "frage": "Wofür steht die Abkürzung SIM?",
+   "richtig": "Subscriber Identity Module",
+   "falsch": [
+    "Near Field Communication",
+    "Wireless Local Area Network",
+    "Random Access Memory"
+   ],
+   "begruendung": "SIM = Subscriber Identity Module.",
+   "karte": {
+    "titel": "SIM",
+    "text": "Die SIM-Karte weist dich im Mobilfunknetz als Kunden aus.",
+    "merke": "SIM = Subscriber Identity Module."
+   }
+  },
+  {
+   "id": "tec-ab-pin",
+   "schwierigkeit": "leicht",
+   "frage": "Wofür steht die Abkürzung PIN?",
+   "richtig": "Persönliche Identifikationsnummer",
+   "falsch": [
+    "Hard Disk Drive",
+    "Quick Response Code",
+    "Hypertext Markup Language"
+   ],
+   "begruendung": "PIN = Persönliche Identifikationsnummer.",
+   "karte": {
+    "titel": "PIN",
+    "text": "Englisch: Personal Identification Number. „PIN-Nummer“ ist also doppelt gemoppelt.",
+    "merke": "PIN = Persönliche Identifikationsnummer."
+   }
+  },
+  {
+   "id": "tec-ab-qr-code",
+   "schwierigkeit": "mittel",
+   "frage": "Wofür steht die Abkürzung QR-Code?",
+   "richtig": "Quick Response Code",
+   "falsch": [
+    "Wireless Local Area Network",
+    "Subscriber Identity Module",
+    "Uniform Resource Locator"
+   ],
+   "begruendung": "QR-Code = Quick Response Code.",
+   "karte": {
+    "titel": "QR-Code",
+    "text": "Eine japanische Firma erfand den QR-Code 1994 für die Autoindustrie.",
+    "merke": "QR-Code = Quick Response Code."
+   }
+  },
+  {
+   "id": "tec-ab-abs",
+   "schwierigkeit": "mittel",
+   "frage": "Wofür steht die Abkürzung ABS?",
+   "richtig": "Antiblockiersystem",
+   "falsch": [
+    "Subscriber Identity Module",
+    "Uniform Resource Locator",
+    "Central Processing Unit"
+   ],
+   "begruendung": "ABS = Antiblockiersystem.",
+   "karte": {
+    "titel": "ABS",
+    "text": "ABS verhindert, dass die Räder beim Bremsen blockieren. So bleibt das Auto lenkbar.",
+    "merke": "ABS = Antiblockiersystem."
+   }
+  },
+  {
+   "id": "tec-ab-ki",
+   "schwierigkeit": "leicht",
+   "frage": "Wofür steht die Abkürzung KI?",
+   "richtig": "Künstliche Intelligenz",
+   "falsch": [
+    "Subscriber Identity Module",
+    "Quick Response Code",
+    "Antiblockiersystem"
+   ],
+   "begruendung": "KI = Künstliche Intelligenz.",
+   "karte": {
+    "titel": "KI",
+    "text": "Auf Englisch heißt KI Artificial Intelligence, kurz AI.",
+    "merke": "KI = Künstliche Intelligenz."
+   }
+  },
+  {
+   "id": "tec-ab-url",
+   "schwierigkeit": "schwer",
+   "frage": "Wofür steht die Abkürzung URL?",
+   "richtig": "Uniform Resource Locator",
+   "falsch": [
+    "Random Access Memory",
+    "Antiblockiersystem",
+    "Solid State Drive"
+   ],
+   "begruendung": "URL = Uniform Resource Locator.",
+   "karte": {
+    "titel": "URL",
+    "text": "Die URL ist die Adresse einer Webseite.",
+    "merke": "URL = Uniform Resource Locator."
+   }
+  },
+  {
+   "id": "tec-ab-http",
+   "schwierigkeit": "schwer",
+   "frage": "Wofür steht die Abkürzung HTTP?",
+   "richtig": "Hypertext Transfer Protocol",
+   "falsch": [
+    "Light-Emitting Diode",
+    "Near Field Communication",
+    "Uniform Resource Locator"
+   ],
+   "begruendung": "HTTP = Hypertext Transfer Protocol.",
+   "karte": {
+    "titel": "HTTP",
+    "text": "Das S in HTTPS steht für „secure“, sicher.",
+    "merke": "HTTP = Hypertext Transfer Protocol."
+   }
+  },
+  {
+   "id": "tec-ab-nfc",
+   "schwierigkeit": "schwer",
+   "frage": "Wofür steht die Abkürzung NFC?",
+   "richtig": "Near Field Communication",
+   "falsch": [
+    "Light-Emitting Diode",
+    "Wireless Local Area Network",
+    "Global Positioning System"
+   ],
+   "begruendung": "NFC = Near Field Communication.",
+   "karte": {
+    "titel": "NFC",
+    "text": "Mit NFC bezahlst du kontaktlos mit Karte oder Handy.",
+    "merke": "NFC = Near Field Communication."
+   }
+  },
+  {
+   "id": "tec-ab-e-mail",
+   "schwierigkeit": "leicht",
+   "frage": "Wofür steht die Abkürzung E-Mail?",
+   "richtig": "Electronic Mail",
+   "falsch": [
+    "Solid State Drive",
+    "Antiblockiersystem",
+    "Künstliche Intelligenz"
+   ],
+   "begruendung": "E-Mail = Electronic Mail.",
+   "karte": {
+    "titel": "E-Mail",
+    "text": "Die erste E-Mail verschickte Ray Tomlinson 1971. Er führte auch das @-Zeichen ein.",
+    "merke": "E-Mail = Electronic Mail."
+   }
+  },
+  {
+   "id": "tec-ab-tuev",
+   "schwierigkeit": "leicht",
+   "frage": "Wofür steht die Abkürzung TÜV?",
+   "richtig": "Technischer Überwachungsverein",
+   "falsch": [
+    "Random Access Memory",
+    "Global Positioning System",
+    "Uniform Resource Locator"
+   ],
+   "begruendung": "TÜV = Technischer Überwachungsverein.",
+   "karte": {
+    "titel": "TÜV",
+    "text": "Der TÜV prüft unter anderem, ob Autos verkehrssicher sind.",
+    "merke": "TÜV = Technischer Überwachungsverein."
+   }
+  },
+  {
+   "id": "tec-j-erste-eisenbahn-in-deutschland",
+   "schwierigkeit": "mittel",
+   "frage": "In welchem Jahr fuhr die erste Eisenbahn in Deutschland?",
+   "richtig": "1835",
+   "falsch": [
+    "1851",
+    "1825",
+    "1840"
+   ],
+   "begruendung": "Erste Eisenbahn in Deutschland: 1835.",
+   "karte": {
+    "titel": "Erste Eisenbahn in Deutschland",
+    "text": "Die Lok „Adler“ fuhr von Nürnberg nach Fürth.",
+    "merke": "Erste Eisenbahn in Deutschland: 1835."
+   }
+  },
+  {
+   "id": "tec-j-erstes-iphone",
+   "schwierigkeit": "leicht",
+   "frage": "In welchem Jahr stellte Apple das erste iPhone vor?",
+   "richtig": "2007",
+   "falsch": [
+    "2023",
+    "1998",
+    "2022"
+   ],
+   "begruendung": "Erstes iPhone: 2007.",
+   "karte": {
+    "titel": "Erstes iPhone",
+    "text": "Steve Jobs präsentierte das iPhone im Januar 2007.",
+    "merke": "Erstes iPhone: 2007."
+   }
+  },
+  {
+   "id": "tec-j-erste-sms",
+   "schwierigkeit": "mittel",
+   "frage": "In welchem Jahr wurde die erste SMS verschickt?",
+   "richtig": "1992",
+   "falsch": [
+    "1998",
+    "1996",
+    "1978"
+   ],
+   "begruendung": "Erste SMS: 1992.",
+   "karte": {
+    "titel": "Erste SMS",
+    "text": "Der Text lautete „Merry Christmas“.",
+    "merke": "Erste SMS: 1992."
+   }
+  },
+  {
+   "id": "tec-j-mondlandung",
+   "schwierigkeit": "leicht",
+   "frage": "In welchem Jahr landeten Menschen zum ersten Mal auf dem Mond?",
+   "richtig": "1969",
+   "falsch": [
+    "1973",
+    "1935",
+    "1976"
+   ],
+   "begruendung": "Mondlandung: 1969.",
+   "karte": {
+    "titel": "Mondlandung",
+    "text": "Der Bordcomputer von Apollo 11 hatte weniger Rechenleistung als ein heutiger Taschenrechner.",
+    "merke": "Mondlandung: 1969."
+   }
+  },
+  {
+   "id": "tec-j-erster-fernsehsender-in-deutschland",
+   "schwierigkeit": "schwer",
+   "frage": "In welchem Jahr begann in Berlin der erste regelmäßige Fernsehbetrieb der Welt?",
+   "richtig": "1935",
+   "falsch": [
+    "1937",
+    "1932",
+    "1947"
+   ],
+   "begruendung": "Erster Fernsehsender in Deutschland: 1935.",
+   "karte": {
+    "titel": "Erster Fernsehsender in Deutschland",
+    "text": "Der Sender „Paul Nipkow“ strahlte ab 1935 Programm aus.",
+    "merke": "Erster Fernsehsender in Deutschland: 1935."
+   }
+  },
+  {
+   "id": "tec-j-einfuehrung-der-cd",
+   "schwierigkeit": "mittel",
+   "frage": "In welchem Jahr kam die Compact Disc auf den Markt?",
+   "richtig": "1982",
+   "falsch": [
+    "1973",
+    "1976",
+    "1998"
+   ],
+   "begruendung": "Einführung der CD: 1982.",
+   "karte": {
+    "titel": "Einführung der CD",
+    "text": "Philips und Sony entwickelten die CD gemeinsam.",
+    "merke": "Einführung der CD: 1982."
+   }
+  },
+  {
+   "id": "tec-j-gruendung-von-google",
+   "schwierigkeit": "mittel",
+   "frage": "In welchem Jahr wurde Google gegründet?",
+   "richtig": "1998",
+   "falsch": [
+    "2007",
+    "2022",
+    "1982"
+   ],
+   "begruendung": "Gründung von Google: 1998.",
+   "karte": {
+    "titel": "Gründung von Google",
+    "text": "Larry Page und Sergey Brin gründeten Google in einer Garage.",
+    "merke": "Gründung von Google: 1998."
+   }
+  },
+  {
+   "id": "tec-j-erster-transistor",
+   "schwierigkeit": "schwer",
+   "frage": "In welchem Jahr bauten Forscher der Bell Labs den ersten Transistor?",
+   "richtig": "1947",
+   "falsch": [
+    "1976",
+    "1978",
+    "1969"
+   ],
+   "begruendung": "Erster Transistor: 1947.",
+   "karte": {
+    "titel": "Erster Transistor",
+    "text": "Transistoren sind die winzigen Schalter in jedem Computerchip.",
+    "merke": "Erster Transistor: 1947."
+   }
+  },
+  {
+   "id": "tec-j-erste-autobahn-strecke-koeln-bonn",
+   "schwierigkeit": "schwer",
+   "frage": "In welchem Jahr wurde die erste kreuzungsfreie Autostraße Köln–Bonn eröffnet?",
+   "richtig": "1932",
+   "falsch": [
+    "1935",
+    "1947",
+    "1937"
+   ],
+   "begruendung": "Erste Autobahn-Strecke Köln–Bonn: 1932.",
+   "karte": {
+    "titel": "Erste Autobahn-Strecke Köln–Bonn",
+    "text": "Konrad Adenauer weihte die Strecke als Kölner Oberbürgermeister ein.",
+    "merke": "Erste Autobahn-Strecke Köln–Bonn: 1932."
+   }
+  },
+  {
+   "id": "tec-j-erstes-handy-gespraech",
+   "schwierigkeit": "schwer",
+   "frage": "In welchem Jahr führte Martin Cooper das erste Gespräch mit einem Handy?",
+   "richtig": "1973",
+   "falsch": [
+    "1992",
+    "1978",
+    "1935"
+   ],
+   "begruendung": "Erstes Handy-Gespräch: 1973.",
+   "karte": {
+    "titel": "Erstes Handy-Gespräch",
+    "text": "Cooper arbeitete bei Motorola und rief einen Konkurrenten an.",
+    "merke": "Erstes Handy-Gespräch: 1973."
+   }
+  },
+  {
+   "id": "tec-j-erste-weltausstellung",
+   "schwierigkeit": "schwer",
+   "frage": "In welchem Jahr fand in London die erste Weltausstellung statt?",
+   "richtig": "1851",
+   "falsch": [
+    "1835",
+    "1889",
+    "1849"
+   ],
+   "begruendung": "Erste Weltausstellung: 1851.",
+   "karte": {
+    "titel": "Erste Weltausstellung",
+    "text": "Herzstück war der Kristallpalast aus Glas und Eisen.",
+    "merke": "Erste Weltausstellung: 1851."
+   }
+  },
+  {
+   "id": "tec-j-eroeffnung-des-eiffelturms",
+   "schwierigkeit": "mittel",
+   "frage": "In welchem Jahr wurde der Eiffelturm eröffnet?",
+   "richtig": "1889",
+   "falsch": [
+    "1851",
+    "1894",
+    "1899"
+   ],
+   "begruendung": "Eröffnung des Eiffelturms: 1889.",
+   "karte": {
+    "titel": "Eröffnung des Eiffelturms",
+    "text": "Der Turm war zur Weltausstellung gebaut worden und sollte eigentlich wieder abgerissen werden.",
+    "merke": "Eröffnung des Eiffelturms: 1889."
+   }
+  },
+  {
+   "id": "tec-j-eroeffnung-der-golden-gate-bridge",
+   "schwierigkeit": "schwer",
+   "frage": "In welchem Jahr wurde die Golden Gate Bridge in San Francisco eröffnet?",
+   "richtig": "1937",
+   "falsch": [
+    "1947",
+    "1973",
+    "1969"
+   ],
+   "begruendung": "Eröffnung der Golden Gate Bridge: 1937.",
+   "karte": {
+    "titel": "Eröffnung der Golden Gate Bridge",
+    "text": "Die Brücke war damals die längste Hängebrücke der Welt.",
+    "merke": "Eröffnung der Golden Gate Bridge: 1937."
+   }
+  },
+  {
+   "id": "tec-j-eroeffnung-des-eurotunnels",
+   "schwierigkeit": "mittel",
+   "frage": "In welchem Jahr wurde der Eurotunnel zwischen England und Frankreich eröffnet?",
+   "richtig": "1994",
+   "falsch": [
+    "2007",
+    "1992",
+    "1978"
+   ],
+   "begruendung": "Eröffnung des Eurotunnels: 1994.",
+   "karte": {
+    "titel": "Eröffnung des Eurotunnels",
+    "text": "Der Tunnel ist rund 50 km lang, davon fast 38 km unter dem Meer.",
+    "merke": "Eröffnung des Eurotunnels: 1994."
+   }
+  },
+  {
+   "id": "tec-j-erstes-retortenbaby",
+   "schwierigkeit": "schwer",
+   "frage": "In welchem Jahr kam das erste durch künstliche Befruchtung gezeugte Baby zur Welt?",
+   "richtig": "1978",
+   "falsch": [
+    "1998",
+    "1994",
+    "1992"
+   ],
+   "begruendung": "Erstes Retortenbaby: 1978.",
+   "karte": {
+    "titel": "Erstes Retortenbaby",
+    "text": "Louise Brown wurde in England geboren.",
+    "merke": "Erstes Retortenbaby: 1978."
+   }
+  },
+  {
+   "id": "tec-j-klonschaf-dolly",
+   "schwierigkeit": "mittel",
+   "frage": "In welchem Jahr wurde das Klonschaf Dolly geboren?",
+   "richtig": "1996",
+   "falsch": [
+    "2022",
+    "1969",
+    "2007"
+   ],
+   "begruendung": "Klonschaf Dolly: 1996.",
+   "karte": {
+    "titel": "Klonschaf Dolly",
+    "text": "Dolly war das erste aus einer Körperzelle geklonte Säugetier.",
+    "merke": "Klonschaf Dolly: 1996."
+   }
+  },
+  {
+   "id": "tec-j-erster-linienflug-der-concorde",
+   "schwierigkeit": "schwer",
+   "frage": "In welchem Jahr startete die Concorde zu ihrem ersten Linienflug?",
+   "richtig": "1976",
+   "falsch": [
+    "1994",
+    "1947",
+    "1992"
+   ],
+   "begruendung": "Erster Linienflug der Concorde: 1976.",
+   "karte": {
+    "titel": "Erster Linienflug der Concorde",
+    "text": "Das Überschallflugzeug brauchte von London nach New York rund dreieinhalb Stunden. 2003 endete der Betrieb.",
+    "merke": "Erster Linienflug der Concorde: 1976."
+   }
+  },
+  {
+   "id": "tec-j-abschaltung-der-letzten-deutschen-atomkr",
+   "schwierigkeit": "leicht",
+   "frage": "In welchem Jahr wurden die letzten drei Atomkraftwerke in Deutschland abgeschaltet?",
+   "richtig": "2023",
+   "falsch": [
+    "1996",
+    "1994",
+    "1992"
+   ],
+   "begruendung": "Abschaltung der letzten deutschen Atomkraftwerke: 2023.",
+   "karte": {
+    "titel": "Abschaltung der letzten deutschen Atomkraftwerke",
+    "text": "Am 15. April 2023 gingen Isar 2, Emsland und Neckarwestheim 2 vom Netz.",
+    "merke": "Abschaltung der letzten deutschen Atomkraftwerke: 2023."
+   }
+  },
+  {
+   "id": "tec-j-chatgpt-veroeffentlicht",
+   "schwierigkeit": "leicht",
+   "frage": "In welchem Jahr veröffentlichte OpenAI ChatGPT?",
+   "richtig": "2022",
+   "falsch": [
+    "1994",
+    "2007",
+    "1992"
+   ],
+   "begruendung": "ChatGPT veröffentlicht: 2022.",
+   "karte": {
+    "titel": "ChatGPT veröffentlicht",
+    "text": "ChatGPT erreichte in zwei Monaten rund 100 Millionen Nutzer.",
+    "merke": "ChatGPT veröffentlicht: 2022."
+   }
+  }
+ ]
+}

@@ -1,0 +1,148 @@
+{
+  "klasse": "technik",
+  "fragen": [
+    {
+      "id": "tec-001", "schwierigkeit": "leicht", "ddf": true,
+      "frage": "Mit welcher Tastenkombination öffnest du unter Windows den Task-Manager direkt?",
+      "richtig": "Strg + Umschalt + Esc", "falsch": ["Strg + Alt + Entf", "Alt + F4", "Windows + D"],
+      "begruendung": "Strg + Umschalt + Esc öffnet den Task-Manager sofort. Strg + Alt + Entf zeigt erst ein Menü, aus dem du ihn wählen kannst.",
+      "karte": { "titel": "Task-Manager", "text": "Alt + F4 schließt das aktive Fenster. Windows + D zeigt den Desktop.", "merke": "Task-Manager direkt: Strg + Umschalt + Esc." }
+    },
+    {
+      "id": "tec-002", "schwierigkeit": "leicht",
+      "frage": "Wie viele Bit hat ein Byte?",
+      "richtig": "8", "falsch": ["2", "10", "16"], "alias": ["acht"],
+      "begruendung": "Ein Byte besteht aus acht Bit. Damit lassen sich 256 verschiedene Werte darstellen.",
+      "karte": { "titel": "Bit und Byte", "text": "Ein Bit kennt nur 0 oder 1. Ein Kilobyte sind 1.000 Byte, in der Computertechnik oft auch 1.024.", "merke": "1 Byte = 8 Bit = 256 Möglichkeiten." }
+    },
+    {
+      "id": "tec-003", "schwierigkeit": "mittel", "ddf": true,
+      "frage": "Was ist eine HDD?",
+      "richtig": "Eine Festplatte mit drehenden Scheiben", "falsch": ["Der Arbeitsspeicher", "Die Grafikkarte", "Ein Bildschirmanschluss"],
+      "begruendung": "HDD steht für Hard Disk Drive. Sie speichert Daten auf rotierenden Magnetscheiben.",
+      "karte": { "titel": "HDD und SSD", "text": "Eine SSD speichert auf Chips und ist viel schneller. Der Arbeitsspeicher heißt RAM.", "merke": "HDD = Festplatte, RAM = Arbeitsspeicher." }
+    },
+    {
+      "id": "tec-004", "schwierigkeit": "mittel",
+      "frage": "Welches Zahlensystem nutzen Computer intern?",
+      "richtig": "Das Binärsystem", "falsch": ["Das Dezimalsystem", "Das römische Zahlensystem", "Das Zwölfersystem"], "alias": ["Binärsystem", "Dualsystem"],
+      "begruendung": "Computer rechnen mit 0 und 1, weil sich Strom an und aus leicht unterscheiden lässt.",
+      "karte": { "titel": "Binärsystem", "text": "Die Zahl 5 schreibst du binär als 101: einmal 4, keinmal 2, einmal 1.", "merke": "Computer: Binärsystem aus 0 und 1." }
+    },
+    {
+      "id": "tec-005", "schwierigkeit": "leicht",
+      "frage": "Welche Spannung hat eine normale Steckdose in Deutschland?",
+      "richtig": "230 Volt", "falsch": ["110 Volt", "12 Volt", "400 Volt"], "alias": ["230", "230 V"],
+      "begruendung": "In Deutschland und fast ganz Europa liefern Steckdosen 230 Volt Wechselspannung mit 50 Hertz.",
+      "karte": { "titel": "Netzspannung", "text": "In den USA sind es 120 Volt. Starkstrom für Herd oder Wallbox hat 400 Volt.", "merke": "Steckdose: 230 V, 50 Hz." }
+    },
+    {
+      "id": "tec-006", "schwierigkeit": "mittel",
+      "frage": "Wofür steht das „@“ in einer E-Mail-Adresse?",
+      "richtig": "Für „bei“ (englisch „at“)", "falsch": ["Für „an alle“", "Für „Absender“", "Für „Adresse“"],
+      "begruendung": "Ray Tomlinson wählte 1971 das @ für „Nutzer at Rechner“, also Nutzer bei Rechner.",
+      "karte": { "titel": "Das @-Zeichen", "text": "Im Deutschen heißt es Klammeraffe. Händler nutzten das Zeichen schon vorher für „zu je“.", "merke": "@ = at = bei." }
+    },
+    {
+      "id": "tec-007", "schwierigkeit": "mittel",
+      "frage": "Welches Land hat die meisten Patente angemeldet?",
+      "richtig": "China", "falsch": ["USA", "Japan", "Deutschland"],
+      "begruendung": "China meldet seit Jahren mit Abstand die meisten Patente an, gefolgt von den USA.",
+      "karte": { "titel": "Patente", "text": "Ein Patent schützt eine Erfindung meist für 20 Jahre. Deutschland liegt in Europa vorn.", "merke": "Meiste Patentanmeldungen: China." },
+      "stand": "2026-11"
+    },
+    {
+      "id": "tec-008", "schwierigkeit": "leicht", "ddf": true,
+      "frage": "Wie viele Menschen braucht ein vollständig autonomes Auto zum Fahren?",
+      "richtig": "Keinen", "falsch": ["Einen", "Zwei", "Einen Beifahrer"], "alias": ["0", "null", "keine"],
+      "begruendung": "Autonom heißt selbstständig: Das Auto fährt ganz ohne Mensch am Steuer.",
+      "karte": { "titel": "Autonomes Fahren", "text": "Fachleute unterscheiden fünf Stufen. Erst Stufe 5 fährt überall ohne Mensch.", "merke": "Vollständig autonom = niemand muss fahren." }
+    },
+    {
+      "id": "tec-009", "schwierigkeit": "mittel",
+      "frage": "Woraus wird Glas hauptsächlich hergestellt?",
+      "richtig": "Aus Quarzsand", "falsch": ["Aus Salz", "Aus Kalkstein allein", "Aus Erdöl"], "alias": ["Sand", "Quarzsand"],
+      "begruendung": "Glas entsteht vor allem aus geschmolzenem Quarzsand, dazu kommen Soda und Kalk.",
+      "karte": { "titel": "Glas", "text": "Der Sand schmilzt bei rund 1.500 °C. Altglas lässt sich ohne Qualitätsverlust immer wieder einschmelzen.", "merke": "Glas = Quarzsand + Soda + Kalk." }
+    },
+    {
+      "id": "tec-010", "schwierigkeit": "mittel",
+      "frage": "Was misst ein Tachometer im Auto?",
+      "richtig": "Die Geschwindigkeit", "falsch": ["Die Drehzahl", "Den Tankinhalt", "Die gefahrenen Kilometer"],
+      "begruendung": "Der Tacho zeigt die Geschwindigkeit. Die Drehzahl des Motors zeigt der Drehzahlmesser.",
+      "karte": { "titel": "Tacho", "text": "Gesetzlich darf der Tacho nie weniger anzeigen, als du fährst. Deshalb zeigt er meist etwas mehr.", "merke": "Tacho: Tempo. Drehzahlmesser: Motorumdrehungen." }
+    },
+    {
+      "id": "tec-011", "schwierigkeit": "mittel",
+      "frage": "Welches Bauwerk ist das höchste der Welt?",
+      "richtig": "Burj Khalifa", "falsch": ["Shanghai Tower", "One World Trade Center", "Eiffelturm"],
+      "begruendung": "Der Burj Khalifa in Dubai ist 828 m hoch und seit 2010 das höchste Bauwerk der Welt.",
+      "karte": { "titel": "Burj Khalifa", "text": "Der Turm hat über 160 Stockwerke. In Saudi-Arabien entsteht ein Turm, der ihn übertreffen soll.", "merke": "Höchstes Bauwerk: Burj Khalifa, 828 m." },
+      "stand": "2026-11"
+    },
+    {
+      "id": "tec-012", "schwierigkeit": "leicht",
+      "frage": "Was speichert ein Akku?",
+      "richtig": "Elektrische Energie", "falsch": ["Daten", "Wärme", "Licht"], "alias": ["Energie", "Strom"],
+      "begruendung": "Ein Akku speichert elektrische Energie chemisch und gibt sie als Strom wieder ab.",
+      "karte": { "titel": "Akku", "text": "Anders als eine Batterie lässt sich ein Akku wieder aufladen. Die meisten Handys nutzen Lithium-Ionen-Akkus.", "merke": "Akku = wiederaufladbarer Energiespeicher." }
+    },
+    {
+      "id": "tec-013", "schwierigkeit": "schwer",
+      "frage": "Was besagt das Mooresche Gesetz?",
+      "richtig": "Die Zahl der Transistoren auf Chips verdoppelt sich etwa alle zwei Jahre", "falsch": ["Computer werden jedes Jahr halb so teuer", "Akkus halten jedes Jahr doppelt so lange", "Das Internet verdoppelt sich jeden Monat"],
+      "begruendung": "Gordon Moore, Mitgründer von Intel, beschrieb 1965 diese Entwicklung. Sie hielt Jahrzehnte, verlangsamt sich aber.",
+      "karte": { "titel": "Mooresches Gesetz", "text": "Das Gesetz ist eine Beobachtung, kein Naturgesetz. Heute stoßen Chips an physikalische Grenzen.", "merke": "Moore: Transistoren verdoppeln sich etwa alle 2 Jahre." }
+    },
+    {
+      "id": "tec-014", "schwierigkeit": "leicht",
+      "frage": "Wie heißt das Betriebssystem von Apple-Handys?",
+      "richtig": "iOS", "falsch": ["Android", "Windows", "macOS"],
+      "begruendung": "iPhones laufen mit iOS. macOS ist das System der Mac-Computer, Android stammt von Google.",
+      "karte": { "titel": "Handy-Betriebssysteme", "text": "Weltweit laufen die meisten Smartphones mit Android.", "merke": "iPhone: iOS. Die meisten anderen: Android." }
+    },
+    {
+      "id": "tec-015", "schwierigkeit": "mittel",
+      "frage": "Welcher Werkstoff rostet?",
+      "richtig": "Eisen", "falsch": ["Aluminium", "Gold", "Kunststoff"],
+      "begruendung": "Rost ist Eisenoxid. Er entsteht, wenn Eisen mit Sauerstoff und Wasser reagiert.",
+      "karte": { "titel": "Rost", "text": "Aluminium bildet zwar auch eine Oxidschicht, die schützt das Metall aber. Edelstahl enthält Chrom und rostet deshalb kaum.", "merke": "Rost = Eisen + Sauerstoff + Wasser." }
+    },
+    {
+      "id": "tec-016", "schwierigkeit": "mittel",
+      "frage": "Wie schnell darfst du auf deutschen Autobahnen ohne Tempolimit-Schild fahren?",
+      "richtig": "Es gibt keine Höchstgeschwindigkeit, empfohlen sind 130 km/h", "falsch": ["Höchstens 130 km/h", "Höchstens 150 km/h", "Höchstens 120 km/h"],
+      "begruendung": "Auf vielen Autobahnabschnitten gilt kein Limit. Die Richtgeschwindigkeit liegt bei 130 km/h.",
+      "karte": { "titel": "Richtgeschwindigkeit", "text": "Wer schneller als 130 fährt, haftet bei einem Unfall oft mit. Auf rund 30 Prozent der Autobahnstrecken gelten feste Limits.", "merke": "Autobahn: kein generelles Limit, Richtgeschwindigkeit 130." },
+      "stand": "2026-11"
+    },
+    {
+      "id": "tec-017", "schwierigkeit": "leicht", "ddf": true,
+      "frage": "Was erzeugt eine Solarzelle?",
+      "richtig": "Strom aus Licht", "falsch": ["Wärme aus Wind", "Licht aus Strom", "Wasserstoff aus Luft"],
+      "begruendung": "Solarzellen wandeln Sonnenlicht direkt in elektrischen Strom um. Das nennt man Photovoltaik.",
+      "karte": { "titel": "Photovoltaik", "text": "Solarthermie ist etwas anderes: Sie erwärmt mit Sonnenlicht Wasser.", "merke": "Photovoltaik: Licht → Strom." }
+    },
+    {
+      "id": "tec-018", "schwierigkeit": "schwer",
+      "frage": "Wie heißt die Programmiersprache, die in fast jedem Webbrowser läuft?",
+      "richtig": "JavaScript", "falsch": ["Java", "Python", "C++"],
+      "begruendung": "JavaScript läuft direkt im Browser. Mit Java hat es trotz des Namens wenig zu tun.",
+      "karte": { "titel": "JavaScript", "text": "Brendan Eich entwickelte JavaScript 1995 in nur zehn Tagen. Der Name war ein Marketing-Trick.", "merke": "Browser-Sprache: JavaScript, nicht Java." }
+    },
+    {
+      "id": "tec-019", "schwierigkeit": "mittel",
+      "frage": "Was bedeutet „Open Source“ bei Software?",
+      "richtig": "Der Quellcode ist öffentlich", "falsch": ["Die Software ist werbefinanziert", "Die Software läuft nur online", "Die Software hat keine Fehler"],
+      "begruendung": "Bei Open-Source-Software darf jeder den Quellcode lesen, ändern und weitergeben.",
+      "karte": { "titel": "Open Source", "text": "Bekannte Beispiele sind Linux, Firefox und Wikipedia-Software. Auch diese Lernseite nutzt Open-Source-Werkzeuge.", "merke": "Open Source = offener Quellcode." }
+    },
+    {
+      "id": "tec-020", "schwierigkeit": "mittel",
+      "frage": "Woher hat Bluetooth seinen Namen?",
+      "richtig": "Von einem dänischen Wikingerkönig", "falsch": ["Von einer blauen Zahnpasta", "Vom Erfinder Peter Bluetooth", "Von einer Hai-Art"],
+      "begruendung": "Harald Blauzahn einte im 10. Jahrhundert Dänemark und Norwegen. Bluetooth sollte Geräte vereinen.",
+      "karte": { "titel": "Harald Blauzahn", "text": "Das Bluetooth-Logo verbindet die Runen für H und B, die Initialen des Königs.", "merke": "Bluetooth = Harald Blauzahn." }
+    }
+  ]
+}

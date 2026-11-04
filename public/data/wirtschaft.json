@@ -1,0 +1,147 @@
+{
+  "klasse": "wirtschaft",
+  "fragen": [
+    {
+      "id": "wir-001", "schwierigkeit": "leicht", "ddf": true,
+      "frage": "Wie viele Cent hat ein Euro?",
+      "richtig": "100", "falsch": ["10", "50", "1.000"], "alias": ["hundert"],
+      "begruendung": "Ein Euro hat 100 Cent. Es gibt Münzen von 1 Cent bis 2 Euro.",
+      "karte": { "titel": "Euro-Münzen", "text": "Es gibt acht Euro-Münzen: 1, 2, 5, 10, 20 und 50 Cent sowie 1 und 2 Euro. Jedes Land prägt eigene Rückseiten.", "merke": "1 Euro = 100 Cent, acht Münzsorten." }
+    },
+    {
+      "id": "wir-002", "schwierigkeit": "mittel",
+      "frage": "Welcher ist der größte Euro-Geldschein, der noch ausgegeben wird?",
+      "richtig": "200 Euro", "falsch": ["500 Euro", "100 Euro", "1.000 Euro"], "alias": ["200"],
+      "begruendung": "Den 500-Euro-Schein geben die Notenbanken seit 2019 nicht mehr aus. Er bleibt aber gültig.",
+      "karte": { "titel": "Euro-Scheine", "text": "Es gibt Scheine zu 5, 10, 20, 50, 100, 200 und 500 Euro. Der 500er wurde abgeschafft, weil er bei Kriminellen beliebt war.", "merke": "Größter neu ausgegebener Schein: 200 Euro." }
+    },
+    {
+      "id": "wir-003", "schwierigkeit": "mittel",
+      "frage": "Wo sitzt die Europäische Zentralbank?",
+      "richtig": "Frankfurt am Main", "falsch": ["Brüssel", "Luxemburg", "Paris"], "alias": ["Frankfurt"],
+      "begruendung": "Die EZB hat ihren Sitz in Frankfurt am Main und wacht über den Euro.",
+      "karte": { "titel": "Europäische Zentralbank", "text": "Die EZB legt die Leitzinsen für den Euroraum fest. Ihr Ziel ist eine Inflation von rund 2 Prozent.", "merke": "EZB: Frankfurt, Inflationsziel 2 %." }
+    },
+    {
+      "id": "wir-004", "schwierigkeit": "mittel",
+      "frage": "Wie hoch ist der normale Mehrwertsteuersatz in Deutschland?",
+      "richtig": "19 %", "falsch": ["7 %", "16 %", "21 %"], "alias": ["19"],
+      "begruendung": "Der Regelsatz beträgt 19 Prozent. Für viele Lebensmittel und Bücher gelten 7 Prozent.",
+      "karte": { "titel": "Mehrwertsteuer", "text": "Seit dem 1. Januar 2026 gilt in Restaurants für Speisen dauerhaft der ermäßigte Satz von 7 Prozent, für Getränke weiter 19 Prozent.", "merke": "Mehrwertsteuer: 19 %, ermäßigt 7 %." },
+      "stand": "2026-11"
+    },
+    {
+      "id": "wir-005", "schwierigkeit": "leicht",
+      "frage": "Wie heißt der wichtigste deutsche Aktienindex?",
+      "richtig": "DAX", "falsch": ["Dow Jones", "NASDAQ", "FTSE"],
+      "begruendung": "Der DAX bildet die 40 größten Aktiengesellschaften an der Frankfurter Börse ab.",
+      "karte": { "titel": "DAX", "text": "Bis 2021 umfasste der DAX 30 Firmen, seitdem 40. Der Dow Jones ist ein US-Index.", "merke": "DAX: 40 große deutsche Aktien." }
+    },
+    {
+      "id": "wir-006", "schwierigkeit": "mittel",
+      "frage": "Wer schrieb das Buch „Das Kapital“?",
+      "richtig": "Karl Marx", "falsch": ["Adam Smith", "Friedrich Engels", "John Maynard Keynes"], "alias": ["Marx"],
+      "begruendung": "Karl Marx veröffentlichte 1867 den ersten Band. Engels gab die weiteren Bände nach Marx’ Tod heraus.",
+      "karte": { "titel": "Das Kapital", "text": "Marx kritisierte darin den Kapitalismus. Adam Smith gilt dagegen als Vater der freien Marktwirtschaft.", "merke": "„Das Kapital“: Karl Marx, 1867." }
+    },
+    {
+      "id": "wir-007", "schwierigkeit": "schwer",
+      "frage": "Wer prägte das Bild von der „unsichtbaren Hand“ des Marktes?",
+      "richtig": "Adam Smith", "falsch": ["Karl Marx", "Milton Friedman", "Ludwig Erhard"], "alias": ["Smith"],
+      "begruendung": "Adam Smith beschrieb 1776 in „Der Wohlstand der Nationen“, wie Eigennutz über den Markt allen nützen kann.",
+      "karte": { "titel": "Adam Smith", "text": "Der Schotte Adam Smith gilt als Begründer der modernen Volkswirtschaftslehre. Er war ursprünglich Moralphilosoph.", "merke": "Unsichtbare Hand: Adam Smith, 1776." }
+    },
+    {
+      "id": "wir-008", "schwierigkeit": "mittel",
+      "frage": "Wer gilt als Vater der Sozialen Marktwirtschaft in Deutschland?",
+      "richtig": "Ludwig Erhard", "falsch": ["Konrad Adenauer", "Otto von Bismarck", "Helmut Schmidt"], "alias": ["Erhard"],
+      "begruendung": "Ludwig Erhard setzte als Wirtschaftsminister ab 1949 die Soziale Marktwirtschaft durch.",
+      "karte": { "titel": "Wirtschaftswunder", "text": "Erhard war von 1949 bis 1963 Wirtschaftsminister und danach Kanzler. Mit ihm verbinden viele das „Wirtschaftswunder“.", "merke": "Soziale Marktwirtschaft: Ludwig Erhard." }
+    },
+    {
+      "id": "wir-009", "schwierigkeit": "leicht", "ddf": true,
+      "frage": "Was kostet mehr: ein Pfund Gold oder ein Pfund Federn?",
+      "richtig": "Das Gold", "falsch": ["Die Federn", "Beides gleich viel", "Kommt auf den Tag an"], "alias": ["Gold"],
+      "begruendung": "Beide wiegen gleich viel, aber Gold ist viel teurer. Die Frage zielt auf die alte Falle „Was ist schwerer?“.",
+      "karte": { "titel": "Fangfrage", "text": "Bei „Was ist schwerer?“ wäre die Antwort: beides gleich. Hier geht es aber um den Preis.", "merke": "Erst genau lesen: wiegen oder kosten?" }
+    },
+    {
+      "id": "wir-010", "schwierigkeit": "mittel",
+      "frage": "Welche Kryptowährung war die erste?",
+      "richtig": "Bitcoin", "falsch": ["Ethereum", "Dogecoin", "Ripple"],
+      "begruendung": "Bitcoin startete 2009. Der Erfinder nannte sich Satoshi Nakamoto, wer dahintersteckt, ist bis heute unbekannt.",
+      "karte": { "titel": "Bitcoin", "text": "Es wird nie mehr als 21 Millionen Bitcoin geben. 2010 kaufte jemand zwei Pizzen für 10.000 Bitcoin.", "merke": "Erste Kryptowährung: Bitcoin, 2009." }
+    },
+    {
+      "id": "wir-011", "schwierigkeit": "mittel",
+      "frage": "Was bedeutet es, wenn eine Bank „Negativzinsen“ verlangt?",
+      "richtig": "Du zahlst Geld dafür, dass dein Geld auf dem Konto liegt", "falsch": ["Du bekommst besonders viele Zinsen", "Dein Kredit wird billiger", "Die Bank ist pleite"],
+      "begruendung": "Bei Negativzinsen schrumpft dein Guthaben. Viele Banken verlangten sie zwischen 2014 und 2022 von Großkunden.",
+      "karte": { "titel": "Negativzinsen", "text": "Die EZB hatte von 2014 bis 2022 einen negativen Einlagenzins. Seitdem gibt es wieder positive Zinsen.", "merke": "Negativzins: Sparen kostet Geld." }
+    },
+    {
+      "id": "wir-012", "schwierigkeit": "leicht",
+      "frage": "Welches Land hat die größte Volkswirtschaft der Welt?",
+      "richtig": "USA", "falsch": ["China", "Deutschland", "Japan"], "alias": ["Vereinigte Staaten"],
+      "begruendung": "Gemessen am Bruttoinlandsprodukt in US-Dollar liegen die USA vorn, vor China.",
+      "karte": { "titel": "Größte Volkswirtschaften", "text": "Rechnet man nach Kaufkraft, liegt China vorn. Deutschland liegt in der Rangliste nach BIP in Dollar weit oben, meist auf Platz drei.", "merke": "Größte Volkswirtschaft (BIP in Dollar): USA, dann China." },
+      "stand": "2026-11"
+    },
+    {
+      "id": "wir-013", "schwierigkeit": "mittel",
+      "frage": "Was ist eine GmbH?",
+      "richtig": "Gesellschaft mit beschränkter Haftung", "falsch": ["Gemeinschaft mehrerer Handwerksbetriebe", "Genossenschaft mit begrenztem Handel", "Gesellschaft mit besonderer Hilfe"],
+      "begruendung": "Bei der GmbH haften die Gesellschafter nur mit ihrer Einlage, nicht mit ihrem Privatvermögen.",
+      "karte": { "titel": "GmbH", "text": "Zur Gründung brauchst du 25.000 Euro Stammkapital. Bei einer UG reicht schon 1 Euro.", "merke": "GmbH = beschränkte Haftung, 25.000 € Stammkapital." }
+    },
+    {
+      "id": "wir-014", "schwierigkeit": "mittel",
+      "frage": "Wofür steht die Abkürzung IBAN?",
+      "richtig": "International Bank Account Number", "falsch": ["Internationale Bank-Anmeldenummer", "Interne Bankleitzahl", "Individual Banking Number"],
+      "begruendung": "Die IBAN ist die internationale Kontonummer. In Deutschland hat sie 22 Stellen und beginnt mit DE.",
+      "karte": { "titel": "IBAN", "text": "Die IBAN enthält die alte Bankleitzahl und Kontonummer. Zwei Prüfziffern fangen Tippfehler ab.", "merke": "IBAN: internationale Kontonummer, in Deutschland 22 Stellen." }
+    },
+    {
+      "id": "wir-015", "schwierigkeit": "schwer",
+      "frage": "Welche Währung hatte Deutschland vor der Mark im Kaiserreich ab 1873?",
+      "richtig": "Taler und Gulden", "falsch": ["Reichsmark", "Pfennig", "Kreuzer allein"],
+      "begruendung": "Vor der Mark nutzten der Norden vor allem Taler und der Süden Gulden. Die Mark löste sie ab 1873 ab.",
+      "karte": { "titel": "Die Mark", "text": "Auf die Goldmark folgten 1924 die Reichsmark und 1948 die D-Mark. 2002 kam der Euro.", "merke": "Taler/Gulden → Mark → Reichsmark → D-Mark → Euro." }
+    },
+    {
+      "id": "wir-016", "schwierigkeit": "leicht",
+      "frage": "Wie viel ist ein Prozent von 1.000 Euro?",
+      "richtig": "10 Euro", "falsch": ["1 Euro", "100 Euro", "0,10 Euro"], "alias": ["10"],
+      "begruendung": "Ein Prozent ist ein Hundertstel: 1.000 € geteilt durch 100 ergibt 10 €.",
+      "karte": { "titel": "Prozent", "text": "Prozent heißt „von Hundert“. 10 Prozent sind ein Zehntel, 50 Prozent die Hälfte.", "merke": "1 % = ein Hundertstel." }
+    },
+    {
+      "id": "wir-017", "schwierigkeit": "mittel",
+      "frage": "Was misst der Verbraucherpreisindex?",
+      "richtig": "Wie sich die Preise für typische Einkäufe entwickeln", "falsch": ["Wie viele Waren verkauft werden", "Wie hoch die Löhne sind", "Wie viel Geld Banken verleihen"],
+      "begruendung": "Das Statistische Bundesamt beobachtet die Preise eines Warenkorbs. Daraus ergibt sich die Inflationsrate.",
+      "karte": { "titel": "Warenkorb", "text": "Im Warenkorb stecken rund 650 Güterarten, von Butter bis Miete. Er wird regelmäßig angepasst.", "merke": "Verbraucherpreisindex → Inflationsrate." }
+    },
+    {
+      "id": "wir-018", "schwierigkeit": "mittel",
+      "frage": "Was ist das Gegenteil von Export?",
+      "richtig": "Import", "falsch": ["Transport", "Rapport", "Report"],
+      "begruendung": "Export ist die Ausfuhr, Import die Einfuhr von Waren.",
+      "karte": { "titel": "Außenhandel", "text": "Deutschland exportiert vor allem Autos, Maschinen und Chemie. Die USA sind der wichtigste Abnehmer.", "merke": "Export = Ausfuhr, Import = Einfuhr." }
+    },
+    {
+      "id": "wir-019", "schwierigkeit": "schwer",
+      "frage": "Was war die „Tulpenmanie“?",
+      "richtig": "Eine Spekulationsblase mit Tulpenzwiebeln im 17. Jahrhundert", "falsch": ["Ein Blumenfest in Amsterdam", "Ein Gemälde von Rembrandt", "Eine Seuche bei Tulpen"],
+      "begruendung": "1637 platzte in den Niederlanden der Handel mit Tulpenzwiebeln, deren Preise vorher ins Absurde gestiegen waren.",
+      "karte": { "titel": "Tulpenmanie", "text": "Sie gilt als eine der ersten dokumentierten Spekulationsblasen. Historiker streiten, wie groß der Schaden wirklich war.", "merke": "Tulpenmanie 1637: frühe Spekulationsblase." }
+    },
+    {
+      "id": "wir-020", "schwierigkeit": "leicht",
+      "frage": "Was zahlst du für einen Kredit an die Bank zusätzlich zurück?",
+      "richtig": "Zinsen", "falsch": ["Dividende", "Rendite", "Skonto"],
+      "begruendung": "Zinsen sind der Preis für geliehenes Geld.",
+      "karte": { "titel": "Zinsen", "text": "Beim Kredit zahlst du Zinsen, beim Sparen bekommst du welche. Der effektive Jahreszins zeigt die echten Kosten.", "merke": "Zinsen = Preis fürs Leihen." }
+    }
+  ]
+}

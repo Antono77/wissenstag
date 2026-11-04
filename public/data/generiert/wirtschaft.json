@@ -1,0 +1,1410 @@
+{
+ "klasse": "wirtschaft",
+ "erzeugt": "scripts/generate-fakten.mjs",
+ "fragen": [
+  {
+   "id": "wir-he-adidas",
+   "schwierigkeit": "leicht",
+   "frage": "Aus welchem Land stammt das Unternehmen Adidas?",
+   "richtig": "Deutschland",
+   "falsch": [
+    "Spanien",
+    "Niederlande",
+    "Tschechien"
+   ],
+   "begruendung": "Adidas stammt aus Deutschland.",
+   "karte": {
+    "titel": "Adidas",
+    "text": "Adolf Dassler gründete Adidas. Sein Bruder Rudolf gründete Puma im selben Ort.",
+    "merke": "Adidas stammt aus Deutschland."
+   },
+   "ddf": true
+  },
+  {
+   "id": "wir-he-ikea",
+   "schwierigkeit": "leicht",
+   "frage": "Aus welchem Land stammt das Unternehmen IKEA?",
+   "richtig": "Schweden",
+   "falsch": [
+    "Tschechien",
+    "Schweiz",
+    "China"
+   ],
+   "begruendung": "IKEA stammt aus Schweden.",
+   "karte": {
+    "titel": "IKEA",
+    "text": "Der Name setzt sich aus den Initialen des Gründers Ingvar Kamprad und seinem Heimatort zusammen.",
+    "merke": "IKEA stammt aus Schweden."
+   },
+   "ddf": true
+  },
+  {
+   "id": "wir-he-nokia",
+   "schwierigkeit": "leicht",
+   "frage": "Aus welchem Land stammt das Unternehmen Nokia?",
+   "richtig": "Finnland",
+   "falsch": [
+    "Niederlande",
+    "Schweiz",
+    "Frankreich"
+   ],
+   "begruendung": "Nokia stammt aus Finnland.",
+   "karte": {
+    "titel": "Nokia",
+    "text": "Nokia begann 1865 als Papierfabrik.",
+    "merke": "Nokia stammt aus Finnland."
+   },
+   "ddf": true
+  },
+  {
+   "id": "wir-he-samsung",
+   "schwierigkeit": "leicht",
+   "frage": "Aus welchem Land stammt das Unternehmen Samsung?",
+   "richtig": "Südkorea",
+   "falsch": [
+    "Deutschland",
+    "Taiwan",
+    "China"
+   ],
+   "begruendung": "Samsung stammt aus Südkorea.",
+   "karte": {
+    "titel": "Samsung",
+    "text": "Samsung heißt auf Koreanisch „drei Sterne“.",
+    "merke": "Samsung stammt aus Südkorea."
+   },
+   "ddf": true
+  },
+  {
+   "id": "wir-he-sony",
+   "schwierigkeit": "leicht",
+   "frage": "Aus welchem Land stammt das Unternehmen Sony?",
+   "richtig": "Japan",
+   "falsch": [
+    "Schweiz",
+    "Schweden",
+    "Südkorea"
+   ],
+   "begruendung": "Sony stammt aus Japan.",
+   "karte": {
+    "titel": "Sony",
+    "text": "Sony brachte 1979 den Walkman auf den Markt.",
+    "merke": "Sony stammt aus Japan."
+   },
+   "ddf": true
+  },
+  {
+   "id": "wir-he-toyota",
+   "schwierigkeit": "leicht",
+   "frage": "Aus welchem Land stammt das Unternehmen Toyota?",
+   "richtig": "Japan",
+   "falsch": [
+    "Italien",
+    "China",
+    "Österreich"
+   ],
+   "begruendung": "Toyota stammt aus Japan.",
+   "karte": {
+    "titel": "Toyota",
+    "text": "Toyota gehört zu den größten Autoherstellern der Welt.",
+    "merke": "Toyota stammt aus Japan."
+   },
+   "ddf": true
+  },
+  {
+   "id": "wir-he-nestle",
+   "schwierigkeit": "mittel",
+   "frage": "Aus welchem Land stammt das Unternehmen Nestlé?",
+   "richtig": "Schweiz",
+   "falsch": [
+    "Finnland",
+    "China",
+    "Tschechien"
+   ],
+   "begruendung": "Nestlé stammt aus der Schweiz.",
+   "karte": {
+    "titel": "Nestlé",
+    "text": "Nestlé ist der größte Lebensmittelkonzern der Welt.",
+    "merke": "Nestlé stammt aus der Schweiz."
+   }
+  },
+  {
+   "id": "wir-he-lego",
+   "schwierigkeit": "leicht",
+   "frage": "Aus welchem Land stammt das Unternehmen Lego?",
+   "richtig": "Dänemark",
+   "falsch": [
+    "China",
+    "Spanien",
+    "Österreich"
+   ],
+   "begruendung": "Lego stammt aus Dänemark.",
+   "karte": {
+    "titel": "Lego",
+    "text": "Lego kommt vom dänischen „leg godt“, spiel gut.",
+    "merke": "Lego stammt aus Dänemark."
+   },
+   "ddf": true
+  },
+  {
+   "id": "wir-he-h-m",
+   "schwierigkeit": "mittel",
+   "frage": "Aus welchem Land stammt das Unternehmen H&M?",
+   "richtig": "Schweden",
+   "falsch": [
+    "Dänemark",
+    "Frankreich",
+    "Tschechien"
+   ],
+   "begruendung": "H&M stammt aus Schweden.",
+   "karte": {
+    "titel": "H&M",
+    "text": "H&M steht für Hennes & Mauritz.",
+    "merke": "H&M stammt aus Schweden."
+   }
+  },
+  {
+   "id": "wir-he-zara",
+   "schwierigkeit": "mittel",
+   "frage": "Aus welchem Land stammt das Unternehmen Zara?",
+   "richtig": "Spanien",
+   "falsch": [
+    "Japan",
+    "Südkorea",
+    "Schweiz"
+   ],
+   "begruendung": "Zara stammt aus Spanien.",
+   "karte": {
+    "titel": "Zara",
+    "text": "Zara gehört zum Konzern Inditex aus Galicien.",
+    "merke": "Zara stammt aus Spanien."
+   }
+  },
+  {
+   "id": "wir-he-ferrari",
+   "schwierigkeit": "leicht",
+   "frage": "Aus welchem Land stammt das Unternehmen Ferrari?",
+   "richtig": "Italien",
+   "falsch": [
+    "Südkorea",
+    "China",
+    "Schweden"
+   ],
+   "begruendung": "Ferrari stammt aus Italien.",
+   "karte": {
+    "titel": "Ferrari",
+    "text": "Ferrari sitzt in Maranello. Das Wappentier ist ein springendes Pferd.",
+    "merke": "Ferrari stammt aus Italien."
+   },
+   "ddf": true
+  },
+  {
+   "id": "wir-he-skoda",
+   "schwierigkeit": "mittel",
+   "frage": "Aus welchem Land stammt das Unternehmen Škoda?",
+   "richtig": "Tschechien",
+   "falsch": [
+    "Spanien",
+    "Frankreich",
+    "Taiwan"
+   ],
+   "begruendung": "Škoda stammt aus Tschechien.",
+   "karte": {
+    "titel": "Škoda",
+    "text": "Škoda gehört heute zum Volkswagen-Konzern.",
+    "merke": "Škoda stammt aus Tschechien."
+   }
+  },
+  {
+   "id": "wir-he-seat",
+   "schwierigkeit": "mittel",
+   "frage": "Aus welchem Land stammt das Unternehmen Seat?",
+   "richtig": "Spanien",
+   "falsch": [
+    "Dänemark",
+    "Schweiz",
+    "Niederlande"
+   ],
+   "begruendung": "Seat stammt aus Spanien.",
+   "karte": {
+    "titel": "Seat",
+    "text": "Seat gehört heute ebenfalls zum Volkswagen-Konzern.",
+    "merke": "Seat stammt aus Spanien."
+   }
+  },
+  {
+   "id": "wir-he-philips",
+   "schwierigkeit": "mittel",
+   "frage": "Aus welchem Land stammt das Unternehmen Philips?",
+   "richtig": "Niederlande",
+   "falsch": [
+    "Taiwan",
+    "Italien",
+    "Südkorea"
+   ],
+   "begruendung": "Philips stammt aus den Niederlanden.",
+   "karte": {
+    "titel": "Philips",
+    "text": "Philips begann 1891 in Eindhoven mit Glühlampen.",
+    "merke": "Philips stammt aus den Niederlanden."
+   }
+  },
+  {
+   "id": "wir-he-heineken",
+   "schwierigkeit": "mittel",
+   "frage": "Aus welchem Land stammt das Unternehmen Heineken?",
+   "richtig": "Niederlande",
+   "falsch": [
+    "Taiwan",
+    "Italien",
+    "Schweden"
+   ],
+   "begruendung": "Heineken stammt aus den Niederlanden.",
+   "karte": {
+    "titel": "Heineken",
+    "text": "Heineken ist eine der größten Brauereien der Welt.",
+    "merke": "Heineken stammt aus den Niederlanden."
+   }
+  },
+  {
+   "id": "wir-he-huawei",
+   "schwierigkeit": "mittel",
+   "frage": "Aus welchem Land stammt das Unternehmen Huawei?",
+   "richtig": "China",
+   "falsch": [
+    "Tschechien",
+    "Deutschland",
+    "Frankreich"
+   ],
+   "begruendung": "Huawei stammt aus China.",
+   "karte": {
+    "titel": "Huawei",
+    "text": "Huawei sitzt in Shenzhen.",
+    "merke": "Huawei stammt aus China."
+   }
+  },
+  {
+   "id": "wir-he-spotify",
+   "schwierigkeit": "mittel",
+   "frage": "Aus welchem Land stammt das Unternehmen Spotify?",
+   "richtig": "Schweden",
+   "falsch": [
+    "Dänemark",
+    "Deutschland",
+    "Finnland"
+   ],
+   "begruendung": "Spotify stammt aus Schweden.",
+   "karte": {
+    "titel": "Spotify",
+    "text": "Spotify wurde 2006 in Stockholm gegründet.",
+    "merke": "Spotify stammt aus Schweden."
+   }
+  },
+  {
+   "id": "wir-he-sap",
+   "schwierigkeit": "mittel",
+   "frage": "Aus welchem Land stammt das Unternehmen SAP?",
+   "richtig": "Deutschland",
+   "falsch": [
+    "Tschechien",
+    "Südkorea",
+    "Schweden"
+   ],
+   "begruendung": "SAP stammt aus Deutschland.",
+   "karte": {
+    "titel": "SAP",
+    "text": "SAP aus Walldorf ist einer der größten Softwarehersteller der Welt.",
+    "merke": "SAP stammt aus Deutschland."
+   }
+  },
+  {
+   "id": "wir-he-nintendo",
+   "schwierigkeit": "leicht",
+   "frage": "Aus welchem Land stammt das Unternehmen Nintendo?",
+   "richtig": "Japan",
+   "falsch": [
+    "Italien",
+    "Finnland",
+    "Niederlande"
+   ],
+   "begruendung": "Nintendo stammt aus Japan.",
+   "karte": {
+    "titel": "Nintendo",
+    "text": "Nintendo stellte anfangs Spielkarten her.",
+    "merke": "Nintendo stammt aus Japan."
+   },
+   "ddf": true
+  },
+  {
+   "id": "wir-he-red-bull",
+   "schwierigkeit": "mittel",
+   "frage": "Aus welchem Land stammt das Unternehmen Red Bull?",
+   "richtig": "Österreich",
+   "falsch": [
+    "Spanien",
+    "Deutschland",
+    "Japan"
+   ],
+   "begruendung": "Red Bull stammt aus Österreich.",
+   "karte": {
+    "titel": "Red Bull",
+    "text": "Red Bull beruht auf einem thailändischen Energydrink.",
+    "merke": "Red Bull stammt aus Österreich."
+   }
+  },
+  {
+   "id": "wir-he-rolex",
+   "schwierigkeit": "mittel",
+   "frage": "Aus welchem Land stammt das Unternehmen Rolex?",
+   "richtig": "Schweiz",
+   "falsch": [
+    "Deutschland",
+    "Schweden",
+    "Japan"
+   ],
+   "begruendung": "Rolex stammt aus der Schweiz.",
+   "karte": {
+    "titel": "Rolex",
+    "text": "Rolex wurde in London gegründet und zog später nach Genf.",
+    "merke": "Rolex stammt aus der Schweiz."
+   }
+  },
+  {
+   "id": "wir-he-haribo",
+   "schwierigkeit": "leicht",
+   "frage": "Aus welchem Land stammt das Unternehmen Haribo?",
+   "richtig": "Deutschland",
+   "falsch": [
+    "Japan",
+    "China",
+    "Spanien"
+   ],
+   "begruendung": "Haribo stammt aus Deutschland.",
+   "karte": {
+    "titel": "Haribo",
+    "text": "Haribo steht für Hans Riegel Bonn.",
+    "merke": "Haribo stammt aus Deutschland."
+   },
+   "ddf": true
+  },
+  {
+   "id": "wir-he-novo-nordisk",
+   "schwierigkeit": "schwer",
+   "frage": "Aus welchem Land stammt das Unternehmen Novo Nordisk?",
+   "richtig": "Dänemark",
+   "falsch": [
+    "Schweden",
+    "Italien",
+    "Niederlande"
+   ],
+   "begruendung": "Novo Nordisk stammt aus Dänemark.",
+   "karte": {
+    "titel": "Novo Nordisk",
+    "text": "Novo Nordisk stellt Insulin und Abnehmspritzen her.",
+    "merke": "Novo Nordisk stammt aus Dänemark."
+   }
+  },
+  {
+   "id": "wir-he-asml",
+   "schwierigkeit": "schwer",
+   "frage": "Aus welchem Land stammt das Unternehmen ASML?",
+   "richtig": "Niederlande",
+   "falsch": [
+    "Japan",
+    "Spanien",
+    "Österreich"
+   ],
+   "begruendung": "ASML stammt aus den Niederlanden.",
+   "karte": {
+    "titel": "ASML",
+    "text": "ASML baut die Maschinen, mit denen die modernsten Computerchips belichtet werden.",
+    "merke": "ASML stammt aus den Niederlanden."
+   }
+  },
+  {
+   "id": "wir-he-tsmc",
+   "schwierigkeit": "schwer",
+   "frage": "Aus welchem Land stammt das Unternehmen TSMC?",
+   "richtig": "Taiwan",
+   "falsch": [
+    "Schweiz",
+    "Südkorea",
+    "Dänemark"
+   ],
+   "begruendung": "TSMC stammt aus Taiwan.",
+   "karte": {
+    "titel": "TSMC",
+    "text": "TSMC fertigt Chips für Apple, Nvidia und viele andere.",
+    "merke": "TSMC stammt aus Taiwan."
+   }
+  },
+  {
+   "id": "wir-he-michelin",
+   "schwierigkeit": "mittel",
+   "frage": "Aus welchem Land stammt das Unternehmen Michelin?",
+   "richtig": "Frankreich",
+   "falsch": [
+    "Niederlande",
+    "Österreich",
+    "Spanien"
+   ],
+   "begruendung": "Michelin stammt aus Frankreich.",
+   "karte": {
+    "titel": "Michelin",
+    "text": "Der Reifenhersteller vergibt auch die berühmten Michelin-Sterne für Restaurants.",
+    "merke": "Michelin stammt aus Frankreich."
+   }
+  },
+  {
+   "id": "wir-he-l-oreal",
+   "schwierigkeit": "mittel",
+   "frage": "Aus welchem Land stammt das Unternehmen L'Oréal?",
+   "richtig": "Frankreich",
+   "falsch": [
+    "Spanien",
+    "Taiwan",
+    "Deutschland"
+   ],
+   "begruendung": "L'Oréal stammt aus Frankreich.",
+   "karte": {
+    "titel": "L'Oréal",
+    "text": "L'Oréal ist der größte Kosmetikkonzern der Welt.",
+    "merke": "L'Oréal stammt aus Frankreich."
+   }
+  },
+  {
+   "id": "wir-he-fiat",
+   "schwierigkeit": "mittel",
+   "frage": "Aus welchem Land stammt das Unternehmen Fiat?",
+   "richtig": "Italien",
+   "falsch": [
+    "China",
+    "Taiwan",
+    "Deutschland"
+   ],
+   "begruendung": "Fiat stammt aus Italien.",
+   "karte": {
+    "titel": "Fiat",
+    "text": "Fiat steht für Fabbrica Italiana Automobili Torino.",
+    "merke": "Fiat stammt aus Italien."
+   }
+  },
+  {
+   "id": "wir-he-hyundai",
+   "schwierigkeit": "mittel",
+   "frage": "Aus welchem Land stammt das Unternehmen Hyundai?",
+   "richtig": "Südkorea",
+   "falsch": [
+    "Taiwan",
+    "Österreich",
+    "Tschechien"
+   ],
+   "begruendung": "Hyundai stammt aus Südkorea.",
+   "karte": {
+    "titel": "Hyundai",
+    "text": "Hyundai heißt auf Koreanisch „modern“.",
+    "merke": "Hyundai stammt aus Südkorea."
+   }
+  },
+  {
+   "id": "wir-he-alibaba",
+   "schwierigkeit": "mittel",
+   "frage": "Aus welchem Land stammt das Unternehmen Alibaba?",
+   "richtig": "China",
+   "falsch": [
+    "Frankreich",
+    "Japan",
+    "Deutschland"
+   ],
+   "begruendung": "Alibaba stammt aus China.",
+   "karte": {
+    "titel": "Alibaba",
+    "text": "Jack Ma gründete Alibaba 1999 in Hangzhou.",
+    "merke": "Alibaba stammt aus China."
+   }
+  },
+  {
+   "id": "wir-si-volkswagen",
+   "schwierigkeit": "leicht",
+   "frage": "In welcher Stadt hat Volkswagen seinen Hauptsitz?",
+   "richtig": "Wolfsburg",
+   "falsch": [
+    "München",
+    "Mülheim an der Ruhr",
+    "Hamburg"
+   ],
+   "begruendung": "Volkswagen: Hauptsitz in Wolfsburg.",
+   "karte": {
+    "titel": "Volkswagen",
+    "text": "Volkswagen: Hauptsitz in Wolfsburg.",
+    "merke": "Volkswagen: Hauptsitz in Wolfsburg."
+   }
+  },
+  {
+   "id": "wir-si-bmw",
+   "schwierigkeit": "leicht",
+   "frage": "In welcher Stadt hat BMW seinen Hauptsitz?",
+   "richtig": "München",
+   "falsch": [
+    "Berlin",
+    "Waldenbuch",
+    "Mülheim an der Ruhr"
+   ],
+   "begruendung": "BMW: Hauptsitz in München.",
+   "karte": {
+    "titel": "BMW",
+    "text": "BMW: Hauptsitz in München.",
+    "merke": "BMW: Hauptsitz in München."
+   }
+  },
+  {
+   "id": "wir-si-mercedes-benz",
+   "schwierigkeit": "leicht",
+   "frage": "In welcher Stadt hat Mercedes-Benz seinen Hauptsitz?",
+   "richtig": "Stuttgart",
+   "falsch": [
+    "Hamburg",
+    "Herzogenaurach",
+    "Berlin"
+   ],
+   "begruendung": "Mercedes-Benz: Hauptsitz in Stuttgart.",
+   "karte": {
+    "titel": "Mercedes-Benz",
+    "text": "Mercedes-Benz: Hauptsitz in Stuttgart.",
+    "merke": "Mercedes-Benz: Hauptsitz in Stuttgart."
+   }
+  },
+  {
+   "id": "wir-si-porsche",
+   "schwierigkeit": "mittel",
+   "frage": "In welcher Stadt hat Porsche seinen Hauptsitz?",
+   "richtig": "Stuttgart",
+   "falsch": [
+    "Bonn",
+    "Walldorf",
+    "Mülheim an der Ruhr"
+   ],
+   "begruendung": "Porsche: Hauptsitz in Stuttgart.",
+   "karte": {
+    "titel": "Porsche",
+    "text": "Porsche: Hauptsitz in Stuttgart.",
+    "merke": "Porsche: Hauptsitz in Stuttgart."
+   }
+  },
+  {
+   "id": "wir-si-audi",
+   "schwierigkeit": "mittel",
+   "frage": "In welcher Stadt hat Audi seinen Hauptsitz?",
+   "richtig": "Ingolstadt",
+   "falsch": [
+    "München",
+    "Hamburg",
+    "Wolfsburg"
+   ],
+   "begruendung": "Audi: Hauptsitz in Ingolstadt.",
+   "karte": {
+    "titel": "Audi",
+    "text": "Audi: Hauptsitz in Ingolstadt.",
+    "merke": "Audi: Hauptsitz in Ingolstadt."
+   }
+  },
+  {
+   "id": "wir-si-adidas",
+   "schwierigkeit": "mittel",
+   "frage": "In welcher Stadt hat Adidas seinen Hauptsitz?",
+   "richtig": "Herzogenaurach",
+   "falsch": [
+    "Waldenbuch",
+    "Gütersloh",
+    "Ingolstadt"
+   ],
+   "begruendung": "Adidas: Hauptsitz in Herzogenaurach.",
+   "karte": {
+    "titel": "Adidas",
+    "text": "Adidas: Hauptsitz in Herzogenaurach.",
+    "merke": "Adidas: Hauptsitz in Herzogenaurach."
+   }
+  },
+  {
+   "id": "wir-si-puma",
+   "schwierigkeit": "schwer",
+   "frage": "In welcher Stadt hat Puma seinen Hauptsitz?",
+   "richtig": "Herzogenaurach",
+   "falsch": [
+    "Ingolstadt",
+    "Waldenbuch",
+    "Walldorf"
+   ],
+   "begruendung": "Puma: Hauptsitz in Herzogenaurach.",
+   "karte": {
+    "titel": "Puma",
+    "text": "Puma: Hauptsitz in Herzogenaurach.",
+    "merke": "Puma: Hauptsitz in Herzogenaurach."
+   }
+  },
+  {
+   "id": "wir-si-sap",
+   "schwierigkeit": "schwer",
+   "frage": "In welcher Stadt hat SAP seinen Hauptsitz?",
+   "richtig": "Walldorf",
+   "falsch": [
+    "Essen",
+    "Frankfurt am Main",
+    "Herzogenaurach"
+   ],
+   "begruendung": "SAP: Hauptsitz in Walldorf.",
+   "karte": {
+    "titel": "SAP",
+    "text": "SAP: Hauptsitz in Walldorf.",
+    "merke": "SAP: Hauptsitz in Walldorf."
+   }
+  },
+  {
+   "id": "wir-si-bayer",
+   "schwierigkeit": "mittel",
+   "frage": "In welcher Stadt hat Bayer seinen Hauptsitz?",
+   "richtig": "Leverkusen",
+   "falsch": [
+    "Neckarsulm",
+    "Ludwigshafen",
+    "Ingolstadt"
+   ],
+   "begruendung": "Bayer: Hauptsitz in Leverkusen.",
+   "karte": {
+    "titel": "Bayer",
+    "text": "Bayer: Hauptsitz in Leverkusen.",
+    "merke": "Bayer: Hauptsitz in Leverkusen."
+   }
+  },
+  {
+   "id": "wir-si-basf",
+   "schwierigkeit": "mittel",
+   "frage": "In welcher Stadt hat BASF seinen Hauptsitz?",
+   "richtig": "Ludwigshafen",
+   "falsch": [
+    "Walldorf",
+    "Gütersloh",
+    "Herzogenaurach"
+   ],
+   "begruendung": "BASF: Hauptsitz in Ludwigshafen.",
+   "karte": {
+    "titel": "BASF",
+    "text": "BASF: Hauptsitz in Ludwigshafen.",
+    "merke": "BASF: Hauptsitz in Ludwigshafen."
+   }
+  },
+  {
+   "id": "wir-si-deutsche-bank",
+   "schwierigkeit": "leicht",
+   "frage": "In welcher Stadt hat Deutsche Bank seinen Hauptsitz?",
+   "richtig": "Frankfurt am Main",
+   "falsch": [
+    "Stuttgart",
+    "Bonn",
+    "Ludwigshafen"
+   ],
+   "begruendung": "Deutsche Bank: Hauptsitz in Frankfurt am Main.",
+   "karte": {
+    "titel": "Deutsche Bank",
+    "text": "Deutsche Bank: Hauptsitz in Frankfurt am Main.",
+    "merke": "Deutsche Bank: Hauptsitz in Frankfurt am Main."
+   }
+  },
+  {
+   "id": "wir-si-opel",
+   "schwierigkeit": "mittel",
+   "frage": "In welcher Stadt hat Opel seinen Hauptsitz?",
+   "richtig": "Rüsselsheim",
+   "falsch": [
+    "Herzogenaurach",
+    "Gütersloh",
+    "Mülheim an der Ruhr"
+   ],
+   "begruendung": "Opel: Hauptsitz in Rüsselsheim.",
+   "karte": {
+    "titel": "Opel",
+    "text": "Opel: Hauptsitz in Rüsselsheim.",
+    "merke": "Opel: Hauptsitz in Rüsselsheim."
+   }
+  },
+  {
+   "id": "wir-si-allianz",
+   "schwierigkeit": "mittel",
+   "frage": "In welcher Stadt hat Allianz seinen Hauptsitz?",
+   "richtig": "München",
+   "falsch": [
+    "Ludwigshafen",
+    "Walldorf",
+    "Gütersloh"
+   ],
+   "begruendung": "Allianz: Hauptsitz in München.",
+   "karte": {
+    "titel": "Allianz",
+    "text": "Allianz: Hauptsitz in München.",
+    "merke": "Allianz: Hauptsitz in München."
+   }
+  },
+  {
+   "id": "wir-si-deutsche-telekom",
+   "schwierigkeit": "mittel",
+   "frage": "In welcher Stadt hat Deutsche Telekom seinen Hauptsitz?",
+   "richtig": "Bonn",
+   "falsch": [
+    "Rüsselsheim",
+    "Herzogenaurach",
+    "Wolfsburg"
+   ],
+   "begruendung": "Deutsche Telekom: Hauptsitz in Bonn.",
+   "karte": {
+    "titel": "Deutsche Telekom",
+    "text": "Deutsche Telekom: Hauptsitz in Bonn.",
+    "merke": "Deutsche Telekom: Hauptsitz in Bonn."
+   }
+  },
+  {
+   "id": "wir-si-dhl-group",
+   "schwierigkeit": "schwer",
+   "frage": "In welcher Stadt hat DHL Group seinen Hauptsitz?",
+   "richtig": "Bonn",
+   "falsch": [
+    "Herzogenaurach",
+    "Rüsselsheim",
+    "Ingolstadt"
+   ],
+   "begruendung": "DHL Group: Hauptsitz in Bonn.",
+   "karte": {
+    "titel": "DHL Group",
+    "text": "DHL Group: Hauptsitz in Bonn.",
+    "merke": "DHL Group: Hauptsitz in Bonn."
+   }
+  },
+  {
+   "id": "wir-si-henkel",
+   "schwierigkeit": "schwer",
+   "frage": "In welcher Stadt hat Henkel seinen Hauptsitz?",
+   "richtig": "Düsseldorf",
+   "falsch": [
+    "Gütersloh",
+    "Hamburg",
+    "Wolfsburg"
+   ],
+   "begruendung": "Henkel: Hauptsitz in Düsseldorf.",
+   "karte": {
+    "titel": "Henkel",
+    "text": "Henkel: Hauptsitz in Düsseldorf.",
+    "merke": "Henkel: Hauptsitz in Düsseldorf."
+   }
+  },
+  {
+   "id": "wir-si-beiersdorf",
+   "schwierigkeit": "schwer",
+   "frage": "In welcher Stadt hat Beiersdorf seinen Hauptsitz?",
+   "richtig": "Hamburg",
+   "falsch": [
+    "Bonn",
+    "Frankfurt am Main",
+    "München"
+   ],
+   "begruendung": "Beiersdorf: Hauptsitz in Hamburg.",
+   "karte": {
+    "titel": "Beiersdorf",
+    "text": "Beiersdorf: Hauptsitz in Hamburg.",
+    "merke": "Beiersdorf: Hauptsitz in Hamburg."
+   }
+  },
+  {
+   "id": "wir-si-otto",
+   "schwierigkeit": "schwer",
+   "frage": "In welcher Stadt hat Otto seinen Hauptsitz?",
+   "richtig": "Hamburg",
+   "falsch": [
+    "Rüsselsheim",
+    "Leverkusen",
+    "Neckarsulm"
+   ],
+   "begruendung": "Otto: Hauptsitz in Hamburg.",
+   "karte": {
+    "titel": "Otto",
+    "text": "Otto: Hauptsitz in Hamburg.",
+    "merke": "Otto: Hauptsitz in Hamburg."
+   }
+  },
+  {
+   "id": "wir-si-aldi-sued",
+   "schwierigkeit": "schwer",
+   "frage": "In welcher Stadt hat Aldi Süd seinen Hauptsitz?",
+   "richtig": "Mülheim an der Ruhr",
+   "falsch": [
+    "Walldorf",
+    "Berlin",
+    "Stuttgart"
+   ],
+   "begruendung": "Aldi Süd: Hauptsitz in Mülheim an der Ruhr.",
+   "karte": {
+    "titel": "Aldi Süd",
+    "text": "Aldi Süd: Hauptsitz in Mülheim an der Ruhr.",
+    "merke": "Aldi Süd: Hauptsitz in Mülheim an der Ruhr."
+   }
+  },
+  {
+   "id": "wir-si-aldi-nord",
+   "schwierigkeit": "schwer",
+   "frage": "In welcher Stadt hat Aldi Nord seinen Hauptsitz?",
+   "richtig": "Essen",
+   "falsch": [
+    "Wolfsburg",
+    "Ingolstadt",
+    "Neckarsulm"
+   ],
+   "begruendung": "Aldi Nord: Hauptsitz in Essen.",
+   "karte": {
+    "titel": "Aldi Nord",
+    "text": "Aldi Nord: Hauptsitz in Essen.",
+    "merke": "Aldi Nord: Hauptsitz in Essen."
+   }
+  },
+  {
+   "id": "wir-si-lidl",
+   "schwierigkeit": "schwer",
+   "frage": "In welcher Stadt hat Lidl seinen Hauptsitz?",
+   "richtig": "Neckarsulm",
+   "falsch": [
+    "Walldorf",
+    "Bonn",
+    "Stuttgart"
+   ],
+   "begruendung": "Lidl: Hauptsitz in Neckarsulm.",
+   "karte": {
+    "titel": "Lidl",
+    "text": "Lidl: Hauptsitz in Neckarsulm.",
+    "merke": "Lidl: Hauptsitz in Neckarsulm."
+   }
+  },
+  {
+   "id": "wir-si-zalando",
+   "schwierigkeit": "mittel",
+   "frage": "In welcher Stadt hat Zalando seinen Hauptsitz?",
+   "richtig": "Berlin",
+   "falsch": [
+    "Rüsselsheim",
+    "Ludwigshafen",
+    "Ingolstadt"
+   ],
+   "begruendung": "Zalando: Hauptsitz in Berlin.",
+   "karte": {
+    "titel": "Zalando",
+    "text": "Zalando: Hauptsitz in Berlin.",
+    "merke": "Zalando: Hauptsitz in Berlin."
+   }
+  },
+  {
+   "id": "wir-si-ritter-sport",
+   "schwierigkeit": "schwer",
+   "frage": "In welcher Stadt hat Ritter Sport seinen Hauptsitz?",
+   "richtig": "Waldenbuch",
+   "falsch": [
+    "Leverkusen",
+    "Hamburg",
+    "Walldorf"
+   ],
+   "begruendung": "Ritter Sport: Hauptsitz in Waldenbuch.",
+   "karte": {
+    "titel": "Ritter Sport",
+    "text": "Ritter Sport: Hauptsitz in Waldenbuch.",
+    "merke": "Ritter Sport: Hauptsitz in Waldenbuch."
+   }
+  },
+  {
+   "id": "wir-si-miele",
+   "schwierigkeit": "schwer",
+   "frage": "In welcher Stadt hat Miele seinen Hauptsitz?",
+   "richtig": "Gütersloh",
+   "falsch": [
+    "Walldorf",
+    "Ludwigshafen",
+    "Frankfurt am Main"
+   ],
+   "begruendung": "Miele: Hauptsitz in Gütersloh.",
+   "karte": {
+    "titel": "Miele",
+    "text": "Miele: Hauptsitz in Gütersloh.",
+    "merke": "Miele: Hauptsitz in Gütersloh."
+   }
+  },
+  {
+   "id": "wir-be-inflation",
+   "schwierigkeit": "leicht",
+   "frage": "Was bedeutet „Inflation“?",
+   "richtig": "Allgemeiner Anstieg der Preise",
+   "falsch": [
+    "Erlaubtes Überziehen des Girokontos",
+    "Konto für den täglichen Zahlungsverkehr",
+    "Auf und Ab der Wirtschaftsentwicklung"
+   ],
+   "begruendung": "Inflation: Allgemeiner Anstieg der Preise.",
+   "karte": {
+    "titel": "Inflation",
+    "text": "Inflation: Allgemeiner Anstieg der Preise.",
+    "merke": "Inflation: Allgemeiner Anstieg der Preise."
+   }
+  },
+  {
+   "id": "wir-be-deflation",
+   "schwierigkeit": "mittel",
+   "frage": "Was bedeutet „Deflation“?",
+   "richtig": "Allgemeiner Rückgang der Preise",
+   "falsch": [
+    "Erlaubtes Überziehen des Girokontos",
+    "Allgemeiner Anstieg der Preise",
+    "Betrag nach Abzug von Steuern und Abgaben"
+   ],
+   "begruendung": "Deflation: Allgemeiner Rückgang der Preise.",
+   "karte": {
+    "titel": "Deflation",
+    "text": "Deflation: Allgemeiner Rückgang der Preise.",
+    "merke": "Deflation: Allgemeiner Rückgang der Preise."
+   }
+  },
+  {
+   "id": "wir-be-rezession",
+   "schwierigkeit": "mittel",
+   "frage": "Was bedeutet „Rezession“?",
+   "richtig": "Wirtschaftsleistung schrumpft über längere Zeit",
+   "falsch": [
+    "Erlaubtes Überziehen des Girokontos",
+    "Nur ein Anbieter beherrscht den Markt",
+    "Zinssatz, zu dem sich Banken bei der Zentralbank Geld leihen"
+   ],
+   "begruendung": "Rezession: Wirtschaftsleistung schrumpft über längere Zeit.",
+   "karte": {
+    "titel": "Rezession",
+    "text": "Rezession: Wirtschaftsleistung schrumpft über längere Zeit.",
+    "merke": "Rezession: Wirtschaftsleistung schrumpft über längere Zeit."
+   }
+  },
+  {
+   "id": "wir-be-bruttoinlandsprodukt",
+   "schwierigkeit": "mittel",
+   "frage": "Was bedeutet „Bruttoinlandsprodukt“?",
+   "richtig": "Wert aller Waren und Dienstleistungen eines Landes in einem Jahr",
+   "falsch": [
+    "Nur ein Anbieter beherrscht den Markt",
+    "Börsenphase mit fallenden Kursen",
+    "Konto für den täglichen Zahlungsverkehr"
+   ],
+   "begruendung": "Bruttoinlandsprodukt: Wert aller Waren und Dienstleistungen eines Landes in einem Jahr.",
+   "karte": {
+    "titel": "Bruttoinlandsprodukt",
+    "text": "Bruttoinlandsprodukt: Wert aller Waren und Dienstleistungen eines Landes in einem Jahr.",
+    "merke": "Bruttoinlandsprodukt: Wert aller Waren und Dienstleistungen eines Landes in einem Jahr."
+   }
+  },
+  {
+   "id": "wir-be-dividende",
+   "schwierigkeit": "mittel",
+   "frage": "Was bedeutet „Dividende“?",
+   "richtig": "Gewinnanteil, den eine Firma an Aktionäre auszahlt",
+   "falsch": [
+    "Verbotene Absprache zwischen Firmen, etwa über Preise",
+    "Rückzahlung eines Kredits",
+    "Steuer, die beim Einkauf im Preis steckt"
+   ],
+   "begruendung": "Dividende: Gewinnanteil, den eine Firma an Aktionäre auszahlt.",
+   "karte": {
+    "titel": "Dividende",
+    "text": "Dividende: Gewinnanteil, den eine Firma an Aktionäre auszahlt.",
+    "merke": "Dividende: Gewinnanteil, den eine Firma an Aktionäre auszahlt."
+   }
+  },
+  {
+   "id": "wir-be-aktie",
+   "schwierigkeit": "leicht",
+   "frage": "Was bedeutet „Aktie“?",
+   "richtig": "Anteil an einem Unternehmen",
+   "falsch": [
+    "Börsenphase mit fallenden Kursen",
+    "Konto für den täglichen Zahlungsverkehr",
+    "Vorübergehend weniger Arbeitszeit mit Zuschuss vom Staat"
+   ],
+   "begruendung": "Aktie: Anteil an einem Unternehmen.",
+   "karte": {
+    "titel": "Aktie",
+    "text": "Aktie: Anteil an einem Unternehmen.",
+    "merke": "Aktie: Anteil an einem Unternehmen."
+   }
+  },
+  {
+   "id": "wir-be-anleihe",
+   "schwierigkeit": "schwer",
+   "frage": "Was bedeutet „Anleihe“?",
+   "richtig": "Wertpapier, mit dem sich jemand Geld leiht und Zinsen zahlt",
+   "falsch": [
+    "Allgemeiner Rückgang der Preise",
+    "Ausfuhr von Waren ins Ausland",
+    "Wert aller Waren und Dienstleistungen eines Landes in einem Jahr"
+   ],
+   "begruendung": "Anleihe: Wertpapier, mit dem sich jemand Geld leiht und Zinsen zahlt.",
+   "karte": {
+    "titel": "Anleihe",
+    "text": "Anleihe: Wertpapier, mit dem sich jemand Geld leiht und Zinsen zahlt.",
+    "merke": "Anleihe: Wertpapier, mit dem sich jemand Geld leiht und Zinsen zahlt."
+   }
+  },
+  {
+   "id": "wir-be-monopol",
+   "schwierigkeit": "leicht",
+   "frage": "Was bedeutet „Monopol“?",
+   "richtig": "Nur ein Anbieter beherrscht den Markt",
+   "falsch": [
+    "Betrag vor Abzug von Steuern und Abgaben",
+    "Staatlicher Zuschuss an Unternehmen",
+    "Allgemeiner Rückgang der Preise"
+   ],
+   "begruendung": "Monopol: Nur ein Anbieter beherrscht den Markt.",
+   "karte": {
+    "titel": "Monopol",
+    "text": "Monopol: Nur ein Anbieter beherrscht den Markt.",
+    "merke": "Monopol: Nur ein Anbieter beherrscht den Markt."
+   }
+  },
+  {
+   "id": "wir-be-kartell",
+   "schwierigkeit": "mittel",
+   "frage": "Was bedeutet „Kartell“?",
+   "richtig": "Verbotene Absprache zwischen Firmen, etwa über Preise",
+   "falsch": [
+    "Preisnachlass bei schneller Zahlung",
+    "Steuer, die beim Einkauf im Preis steckt",
+    "Konto für den täglichen Zahlungsverkehr"
+   ],
+   "begruendung": "Kartell: Verbotene Absprache zwischen Firmen, etwa über Preise.",
+   "karte": {
+    "titel": "Kartell",
+    "text": "Kartell: Verbotene Absprache zwischen Firmen, etwa über Preise.",
+    "merke": "Kartell: Verbotene Absprache zwischen Firmen, etwa über Preise."
+   }
+  },
+  {
+   "id": "wir-be-insolvenz",
+   "schwierigkeit": "leicht",
+   "frage": "Was bedeutet „Insolvenz“?",
+   "richtig": "Zahlungsunfähigkeit",
+   "falsch": [
+    "Ausfuhr von Waren ins Ausland",
+    "Börsenphase mit fallenden Kursen",
+    "Rückzahlung eines Kredits"
+   ],
+   "begruendung": "Insolvenz: Zahlungsunfähigkeit.",
+   "karte": {
+    "titel": "Insolvenz",
+    "text": "Insolvenz: Zahlungsunfähigkeit.",
+    "merke": "Insolvenz: Zahlungsunfähigkeit."
+   }
+  },
+  {
+   "id": "wir-be-rendite",
+   "schwierigkeit": "mittel",
+   "frage": "Was bedeutet „Rendite“?",
+   "richtig": "Ertrag einer Geldanlage in Prozent",
+   "falsch": [
+    "Betrag nach Abzug von Steuern und Abgaben",
+    "Vorübergehend weniger Arbeitszeit mit Zuschuss vom Staat",
+    "Ausfuhr von Waren ins Ausland"
+   ],
+   "begruendung": "Rendite: Ertrag einer Geldanlage in Prozent.",
+   "karte": {
+    "titel": "Rendite",
+    "text": "Rendite: Ertrag einer Geldanlage in Prozent.",
+    "merke": "Rendite: Ertrag einer Geldanlage in Prozent."
+   }
+  },
+  {
+   "id": "wir-be-brutto",
+   "schwierigkeit": "leicht",
+   "frage": "Was bedeutet „Brutto“?",
+   "richtig": "Betrag vor Abzug von Steuern und Abgaben",
+   "falsch": [
+    "Allgemeiner Anstieg der Preise",
+    "Konto für den täglichen Zahlungsverkehr",
+    "Börsenphase mit steigenden Kursen"
+   ],
+   "begruendung": "Brutto: Betrag vor Abzug von Steuern und Abgaben.",
+   "karte": {
+    "titel": "Brutto",
+    "text": "Brutto: Betrag vor Abzug von Steuern und Abgaben.",
+    "merke": "Brutto: Betrag vor Abzug von Steuern und Abgaben."
+   }
+  },
+  {
+   "id": "wir-be-netto",
+   "schwierigkeit": "leicht",
+   "frage": "Was bedeutet „Netto“?",
+   "richtig": "Betrag nach Abzug von Steuern und Abgaben",
+   "falsch": [
+    "Steuer, die beim Einkauf im Preis steckt",
+    "Erlaubtes Überziehen des Girokontos",
+    "Börsenphase mit steigenden Kursen"
+   ],
+   "begruendung": "Netto: Betrag nach Abzug von Steuern und Abgaben.",
+   "karte": {
+    "titel": "Netto",
+    "text": "Netto: Betrag nach Abzug von Steuern und Abgaben.",
+    "merke": "Netto: Betrag nach Abzug von Steuern und Abgaben."
+   }
+  },
+  {
+   "id": "wir-be-skonto",
+   "schwierigkeit": "schwer",
+   "frage": "Was bedeutet „Skonto“?",
+   "richtig": "Preisnachlass bei schneller Zahlung",
+   "falsch": [
+    "Rückzahlung eines Kredits",
+    "Betrag nach Abzug von Steuern und Abgaben",
+    "Vorübergehend weniger Arbeitszeit mit Zuschuss vom Staat"
+   ],
+   "begruendung": "Skonto: Preisnachlass bei schneller Zahlung.",
+   "karte": {
+    "titel": "Skonto",
+    "text": "Skonto: Preisnachlass bei schneller Zahlung.",
+    "merke": "Skonto: Preisnachlass bei schneller Zahlung."
+   }
+  },
+  {
+   "id": "wir-be-dispositionskredit",
+   "schwierigkeit": "mittel",
+   "frage": "Was bedeutet „Dispositionskredit“?",
+   "richtig": "Erlaubtes Überziehen des Girokontos",
+   "falsch": [
+    "Betrag vor Abzug von Steuern und Abgaben",
+    "Konto für den täglichen Zahlungsverkehr",
+    "Rückzahlung eines Kredits"
+   ],
+   "begruendung": "Dispositionskredit: Erlaubtes Überziehen des Girokontos.",
+   "karte": {
+    "titel": "Dispositionskredit",
+    "text": "Dispositionskredit: Erlaubtes Überziehen des Girokontos.",
+    "merke": "Dispositionskredit: Erlaubtes Überziehen des Girokontos."
+   }
+  },
+  {
+   "id": "wir-be-subvention",
+   "schwierigkeit": "mittel",
+   "frage": "Was bedeutet „Subvention“?",
+   "richtig": "Staatlicher Zuschuss an Unternehmen",
+   "falsch": [
+    "Wirtschaftsleistung schrumpft über längere Zeit",
+    "Allgemeiner Rückgang der Preise",
+    "Nur ein Anbieter beherrscht den Markt"
+   ],
+   "begruendung": "Subvention: Staatlicher Zuschuss an Unternehmen.",
+   "karte": {
+    "titel": "Subvention",
+    "text": "Subvention: Staatlicher Zuschuss an Unternehmen.",
+    "merke": "Subvention: Staatlicher Zuschuss an Unternehmen."
+   }
+  },
+  {
+   "id": "wir-be-zoll",
+   "schwierigkeit": "leicht",
+   "frage": "Was bedeutet „Zoll“?",
+   "richtig": "Abgabe auf Waren, die über eine Grenze kommen",
+   "falsch": [
+    "Allgemeiner Anstieg der Preise",
+    "Wert aller Waren und Dienstleistungen eines Landes in einem Jahr",
+    "Rückzahlung eines Kredits"
+   ],
+   "begruendung": "Zoll: Abgabe auf Waren, die über eine Grenze kommen.",
+   "karte": {
+    "titel": "Zoll",
+    "text": "Zoll: Abgabe auf Waren, die über eine Grenze kommen.",
+    "merke": "Zoll: Abgabe auf Waren, die über eine Grenze kommen."
+   }
+  },
+  {
+   "id": "wir-be-export",
+   "schwierigkeit": "leicht",
+   "frage": "Was bedeutet „Export“?",
+   "richtig": "Ausfuhr von Waren ins Ausland",
+   "falsch": [
+    "Zinssatz, zu dem sich Banken bei der Zentralbank Geld leihen",
+    "Junges Unternehmen mit neuer Geschäftsidee",
+    "Gewinnanteil, den eine Firma an Aktionäre auszahlt"
+   ],
+   "begruendung": "Export: Ausfuhr von Waren ins Ausland.",
+   "karte": {
+    "titel": "Export",
+    "text": "Export: Ausfuhr von Waren ins Ausland.",
+    "merke": "Export: Ausfuhr von Waren ins Ausland."
+   }
+  },
+  {
+   "id": "wir-be-konjunktur",
+   "schwierigkeit": "mittel",
+   "frage": "Was bedeutet „Konjunktur“?",
+   "richtig": "Auf und Ab der Wirtschaftsentwicklung",
+   "falsch": [
+    "Allgemeiner Anstieg der Preise",
+    "Wertpapier, mit dem sich jemand Geld leiht und Zinsen zahlt",
+    "Zahlungsunfähigkeit"
+   ],
+   "begruendung": "Konjunktur: Auf und Ab der Wirtschaftsentwicklung.",
+   "karte": {
+    "titel": "Konjunktur",
+    "text": "Konjunktur: Auf und Ab der Wirtschaftsentwicklung.",
+    "merke": "Konjunktur: Auf und Ab der Wirtschaftsentwicklung."
+   }
+  },
+  {
+   "id": "wir-be-kurzarbeit",
+   "schwierigkeit": "mittel",
+   "frage": "Was bedeutet „Kurzarbeit“?",
+   "richtig": "Vorübergehend weniger Arbeitszeit mit Zuschuss vom Staat",
+   "falsch": [
+    "Auf und Ab der Wirtschaftsentwicklung",
+    "Zinssatz, zu dem sich Banken bei der Zentralbank Geld leihen",
+    "Wirtschaftsleistung schrumpft über längere Zeit"
+   ],
+   "begruendung": "Kurzarbeit: Vorübergehend weniger Arbeitszeit mit Zuschuss vom Staat.",
+   "karte": {
+    "titel": "Kurzarbeit",
+    "text": "Kurzarbeit: Vorübergehend weniger Arbeitszeit mit Zuschuss vom Staat.",
+    "merke": "Kurzarbeit: Vorübergehend weniger Arbeitszeit mit Zuschuss vom Staat."
+   }
+  },
+  {
+   "id": "wir-be-bullenmarkt",
+   "schwierigkeit": "schwer",
+   "frage": "Was bedeutet „Bullenmarkt“?",
+   "richtig": "Börsenphase mit steigenden Kursen",
+   "falsch": [
+    "Wirtschaftsleistung schrumpft über längere Zeit",
+    "Ausfuhr von Waren ins Ausland",
+    "Auf und Ab der Wirtschaftsentwicklung"
+   ],
+   "begruendung": "Bullenmarkt: Börsenphase mit steigenden Kursen.",
+   "karte": {
+    "titel": "Bullenmarkt",
+    "text": "Bullenmarkt: Börsenphase mit steigenden Kursen.",
+    "merke": "Bullenmarkt: Börsenphase mit steigenden Kursen."
+   }
+  },
+  {
+   "id": "wir-be-baerenmarkt",
+   "schwierigkeit": "schwer",
+   "frage": "Was bedeutet „Bärenmarkt“?",
+   "richtig": "Börsenphase mit fallenden Kursen",
+   "falsch": [
+    "Allgemeiner Rückgang der Preise",
+    "Steuer, die beim Einkauf im Preis steckt",
+    "Auf und Ab der Wirtschaftsentwicklung"
+   ],
+   "begruendung": "Bärenmarkt: Börsenphase mit fallenden Kursen.",
+   "karte": {
+    "titel": "Bärenmarkt",
+    "text": "Bärenmarkt: Börsenphase mit fallenden Kursen.",
+    "merke": "Bärenmarkt: Börsenphase mit fallenden Kursen."
+   }
+  },
+  {
+   "id": "wir-be-leitzins",
+   "schwierigkeit": "mittel",
+   "frage": "Was bedeutet „Leitzins“?",
+   "richtig": "Zinssatz, zu dem sich Banken bei der Zentralbank Geld leihen",
+   "falsch": [
+    "Ausfuhr von Waren ins Ausland",
+    "Betrag vor Abzug von Steuern und Abgaben",
+    "Wert aller Waren und Dienstleistungen eines Landes in einem Jahr"
+   ],
+   "begruendung": "Leitzins: Zinssatz, zu dem sich Banken bei der Zentralbank Geld leihen.",
+   "karte": {
+    "titel": "Leitzins",
+    "text": "Leitzins: Zinssatz, zu dem sich Banken bei der Zentralbank Geld leihen.",
+    "merke": "Leitzins: Zinssatz, zu dem sich Banken bei der Zentralbank Geld leihen."
+   }
+  },
+  {
+   "id": "wir-be-start-up",
+   "schwierigkeit": "leicht",
+   "frage": "Was bedeutet „Start-up“?",
+   "richtig": "Junges Unternehmen mit neuer Geschäftsidee",
+   "falsch": [
+    "Allgemeiner Rückgang der Preise",
+    "Konto für den täglichen Zahlungsverkehr",
+    "Wertpapier, mit dem sich jemand Geld leiht und Zinsen zahlt"
+   ],
+   "begruendung": "Start-up: Junges Unternehmen mit neuer Geschäftsidee.",
+   "karte": {
+    "titel": "Start-up",
+    "text": "Start-up: Junges Unternehmen mit neuer Geschäftsidee.",
+    "merke": "Start-up: Junges Unternehmen mit neuer Geschäftsidee."
+   }
+  },
+  {
+   "id": "wir-be-franchise",
+   "schwierigkeit": "schwer",
+   "frage": "Was bedeutet „Franchise“?",
+   "richtig": "Nutzung von Marke und Konzept einer anderen Firma gegen Gebühr",
+   "falsch": [
+    "Nur ein Anbieter beherrscht den Markt",
+    "Abgabe auf Waren, die über eine Grenze kommen",
+    "Staatlicher Zuschuss an Unternehmen"
+   ],
+   "begruendung": "Franchise: Nutzung von Marke und Konzept einer anderen Firma gegen Gebühr.",
+   "karte": {
+    "titel": "Franchise",
+    "text": "Franchise: Nutzung von Marke und Konzept einer anderen Firma gegen Gebühr.",
+    "merke": "Franchise: Nutzung von Marke und Konzept einer anderen Firma gegen Gebühr."
+   }
+  },
+  {
+   "id": "wir-be-mehrwertsteuer",
+   "schwierigkeit": "leicht",
+   "frage": "Was bedeutet „Mehrwertsteuer“?",
+   "richtig": "Steuer, die beim Einkauf im Preis steckt",
+   "falsch": [
+    "Wertpapier, mit dem sich jemand Geld leiht und Zinsen zahlt",
+    "Preisnachlass bei schneller Zahlung",
+    "Allgemeiner Rückgang der Preise"
+   ],
+   "begruendung": "Mehrwertsteuer: Steuer, die beim Einkauf im Preis steckt.",
+   "karte": {
+    "titel": "Mehrwertsteuer",
+    "text": "Mehrwertsteuer: Steuer, die beim Einkauf im Preis steckt.",
+    "merke": "Mehrwertsteuer: Steuer, die beim Einkauf im Preis steckt."
+   }
+  },
+  {
+   "id": "wir-be-girokonto",
+   "schwierigkeit": "leicht",
+   "frage": "Was bedeutet „Girokonto“?",
+   "richtig": "Konto für den täglichen Zahlungsverkehr",
+   "falsch": [
+    "Rückzahlung eines Kredits",
+    "Betrag nach Abzug von Steuern und Abgaben",
+    "Wirtschaftsleistung schrumpft über längere Zeit"
+   ],
+   "begruendung": "Girokonto: Konto für den täglichen Zahlungsverkehr.",
+   "karte": {
+    "titel": "Girokonto",
+    "text": "Girokonto: Konto für den täglichen Zahlungsverkehr.",
+    "merke": "Girokonto: Konto für den täglichen Zahlungsverkehr."
+   }
+  },
+  {
+   "id": "wir-be-tilgung",
+   "schwierigkeit": "mittel",
+   "frage": "Was bedeutet „Tilgung“?",
+   "richtig": "Rückzahlung eines Kredits",
+   "falsch": [
+    "Allgemeiner Rückgang der Preise",
+    "Verbotene Absprache zwischen Firmen, etwa über Preise",
+    "Steuer, die beim Einkauf im Preis steckt"
+   ],
+   "begruendung": "Tilgung: Rückzahlung eines Kredits.",
+   "karte": {
+    "titel": "Tilgung",
+    "text": "Tilgung: Rückzahlung eines Kredits.",
+    "merke": "Tilgung: Rückzahlung eines Kredits."
+   }
+  }
+ ]
+}

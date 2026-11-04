@@ -111,7 +111,7 @@ export default {
         ['Eisbären', 'Arktis', 1, 'Eisbären haben unter dem weißen Fell schwarze Haut.'],
         ['Kaiserpinguine', 'Antarktis', 1, 'Kaiserpinguine brüten mitten im antarktischen Winter.'],
         ['Lemuren', 'Madagaskar', 2, 'Lemuren gibt es in freier Wildbahn nur auf Madagaskar.'],
-        ['Bisons', 'Nordamerika', 2, 'Im 19. Jahrhundert wurden Bisons fast ausgerottet. Heute leben wieder Hunderttausende.'],
+        ['Bisons', 'Nordamerika', 2, 'Im 19. Jahrhundert wurden Bisons fast ausgerottet. Heute gibt es wieder Hunderttausende, die meisten auf Farmen.'],
       ],
       fragen: [{
         frage: (r) => `Wo leben ${r.tiere} in freier Wildbahn?`,
