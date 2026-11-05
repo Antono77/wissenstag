@@ -4,7 +4,7 @@ import { chromium } from 'playwright';
 import { AxeBuilder } from '@axe-core/playwright';
 
 const BASIS = process.env.URL ?? 'http://localhost:5173/';
-const seiten = ['#/', '#/lernen', '#/lernen/geografie', '#/sitzung?modus=klasse&klasse=logik&art=fragen&wert=3', '#/duemmste', '#/aktuell', '#/fortschritt'];
+const seiten = ['#/', '#/lernen', '#/lernen/geografie', '#/sitzung?modus=klasse&klasse=logik&art=fragen&wert=3', '#/duemmste', '#/aktuell', '#/fortschritt', '#/lernen/atlas-laender', '#/karten/geografie', '#/atlas/atlas-laender/lernen', '#/atlas/atlas-staedte/pruefen', '#/atlas/atlas-globus/pruefen'];
 const browser = await chromium.launch();
 let probleme = 0;
 for (const schema of ['light', 'dark']) {

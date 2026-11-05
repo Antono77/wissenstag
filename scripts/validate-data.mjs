@@ -19,6 +19,7 @@ const zeilen = [];
 let gesamt = 0;
 
 for (const k of klassen) {
+  if (k.typ === 'atlas') continue; // Atlas-Klassen prüft scripts/generate-atlas.mjs
   let anzahl = 0;
   const stufen = { leicht: 0, mittel: 0, schwer: 0 };
   for (const datei of k.dateien) {

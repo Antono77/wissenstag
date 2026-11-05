@@ -12,6 +12,7 @@ export function leererZustand() {
       ziel: { art: 'zeit', wert: 10 }, // art: zeit | fragen | frei
       theme: 'auto', // auto | hell | dunkel
       kartenZeigen: true,
+      atlasLevel: 'anfaenger', // anfaenger | fortgeschritten | profi
       ddf: { zeitlimit: 10, zeitAn: true, freitext: false, leben: 3, namen: ['', ''] },
     },
     xp: 0,
@@ -21,6 +22,7 @@ export function leererZustand() {
     highscore: { ddf: 0 },
     newsQuiz: { beste: 0 },
     newsTag: { tag: null, meldungen: [] }, // die drei Meldungen des Tages
+    kartenPos: {}, // Lernmodus: zuletzt angesehene Karte je Klasse
   };
 }
 
@@ -52,7 +54,7 @@ export function bereinige(roh) {
   z.einstellungen = { ...basis.einstellungen, ...(roh.einstellungen ?? {}) };
   z.einstellungen.ddf = { ...basis.einstellungen.ddf, ...(roh.einstellungen?.ddf ?? {}) };
   z.einstellungen.ziel = { ...basis.einstellungen.ziel, ...(roh.einstellungen?.ziel ?? {}) };
-  for (const feld of ['klassenXp', 'fragen', 'tage', 'highscore', 'newsQuiz', 'newsTag']) {
+  for (const feld of ['klassenXp', 'fragen', 'tage', 'highscore', 'newsQuiz', 'newsTag', 'kartenPos']) {
     z[feld] = roh[feld] && typeof roh[feld] === 'object' && !Array.isArray(roh[feld]) ? { ...basis[feld], ...roh[feld] } : basis[feld];
   }
   z.xp = Number.isFinite(roh.xp) && roh.xp >= 0 ? roh.xp : 0;

@@ -1,0 +1,6192 @@
+{
+ "hinweis": "Erzeugt von scripts/generate-atlas.mjs. Nicht von Hand ändern: Koordinaten stehen in scripts/atlas-orte.mjs.",
+ "stand": "2026-11",
+ "quelle": "Grenzen: Natural Earth über das Paket „world-atlas“ (gemeinfrei).",
+ "laender": [
+  {
+   "code": "al",
+   "name": "Albanien",
+   "kontinent": "Europa",
+   "stufe": 2,
+   "hs": "Tirana",
+   "hsPos": [
+    19.82,
+    41.33
+   ],
+   "pos": [
+    20.05,
+    41.13
+   ],
+   "form": true,
+   "klein": false
+  },
+  {
+   "code": "ad",
+   "name": "Andorra",
+   "kontinent": "Europa",
+   "stufe": 3,
+   "hs": "Andorra la Vella",
+   "hsPos": [
+    1.52,
+    42.51
+   ],
+   "pos": [
+    1.56,
+    42.54
+   ],
+   "form": true,
+   "klein": true
+  },
+  {
+   "code": "am",
+   "name": "Armenien",
+   "kontinent": "Asien",
+   "stufe": 3,
+   "hs": "Eriwan",
+   "hsPos": [
+    44.51,
+    40.18
+   ],
+   "pos": [
+    44.94,
+    40.29
+   ],
+   "form": true,
+   "klein": false
+  },
+  {
+   "code": "az",
+   "name": "Aserbaidschan",
+   "kontinent": "Asien",
+   "stufe": 3,
+   "hs": "Baku",
+   "hsPos": [
+    49.87,
+    40.41
+   ],
+   "pos": [
+    47.67,
+    40.34
+   ],
+   "form": true,
+   "klein": false
+  },
+  {
+   "code": "be",
+   "name": "Belgien",
+   "kontinent": "Europa",
+   "stufe": 1,
+   "hs": "Brüssel",
+   "hsPos": [
+    4.35,
+    50.85
+   ],
+   "pos": [
+    4.65,
+    50.64
+   ],
+   "form": true,
+   "klein": false
+  },
+  {
+   "code": "ba",
+   "name": "Bosnien und Herzegowina",
+   "kontinent": "Europa",
+   "stufe": 2,
+   "hs": "Sarajevo",
+   "hsPos": [
+    18.41,
+    43.86
+   ],
+   "pos": [
+    17.77,
+    44.17
+   ],
+   "form": true,
+   "klein": false
+  },
+  {
+   "code": "bg",
+   "name": "Bulgarien",
+   "kontinent": "Europa",
+   "stufe": 2,
+   "hs": "Sofia",
+   "hsPos": [
+    23.32,
+    42.7
+   ],
+   "pos": [
+    25.21,
+    42.77
+   ],
+   "form": true,
+   "klein": false
+  },
+  {
+   "code": "dk",
+   "name": "Dänemark",
+   "kontinent": "Europa",
+   "stufe": 1,
+   "hs": "Kopenhagen",
+   "hsPos": [
+    12.57,
+    55.68
+   ],
+   "pos": [
+    9.35,
+    56.23
+   ],
+   "form": true,
+   "klein": false
+  },
+  {
+   "code": "de",
+   "name": "Deutschland",
+   "kontinent": "Europa",
+   "stufe": 1,
+   "hs": "Berlin",
+   "hsPos": [
+    13.4,
+    52.52
+   ],
+   "pos": [
+    10.35,
+    51.03
+   ],
+   "form": true,
+   "klein": false
+  },
+  {
+   "code": "ee",
+   "name": "Estland",
+   "kontinent": "Europa",
+   "stufe": 2,
+   "hs": "Tallinn",
+   "hsPos": [
+    24.75,
+    59.44
+   ],
+   "pos": [
+    25.84,
+    58.68
+   ],
+   "form": true,
+   "klein": false
+  },
+  {
+   "code": "fi",
+   "name": "Finnland",
+   "kontinent": "Europa",
+   "stufe": 1,
+   "hs": "Helsinki",
+   "hsPos": [
+    24.94,
+    60.17
+   ],
+   "pos": [
+    26.21,
+    64.26
+   ],
+   "form": true,
+   "klein": false
+  },
+  {
+   "code": "fr",
+   "name": "Frankreich",
+   "kontinent": "Europa",
+   "stufe": 1,
+   "hs": "Paris",
+   "hsPos": [
+    2.35,
+    48.86
+   ],
+   "pos": [
+    2.46,
+    46.57
+   ],
+   "form": true,
+   "klein": false
+  },
+  {
+   "code": "ge",
+   "name": "Georgien",
+   "kontinent": "Asien",
+   "stufe": 3,
+   "hs": "Tiflis",
+   "hsPos": [
+    44.79,
+    41.72
+   ],
+   "pos": [
+    43.52,
+    42.17
+   ],
+   "form": true,
+   "klein": false
+  },
+  {
+   "code": "gr",
+   "name": "Griechenland",
+   "kontinent": "Europa",
+   "stufe": 1,
+   "hs": "Athen",
+   "hsPos": [
+    23.73,
+    37.98
+   ],
+   "pos": [
+    22.57,
+    39.46
+   ],
+   "form": true,
+   "klein": false
+  },
+  {
+   "code": "ie",
+   "name": "Irland",
+   "kontinent": "Europa",
+   "stufe": 1,
+   "hs": "Dublin",
+   "hsPos": [
+    -6.26,
+    53.35
+   ],
+   "pos": [
+    -8.14,
+    53.16
+   ],
+   "form": true,
+   "klein": false
+  },
+  {
+   "code": "is",
+   "name": "Island",
+   "kontinent": "Europa",
+   "stufe": 1,
+   "hs": "Reykjavík",
+   "hsPos": [
+    -21.94,
+    64.15
+   ],
+   "pos": [
+    -18.58,
+    65
+   ],
+   "form": true,
+   "klein": false
+  },
+  {
+   "code": "it",
+   "name": "Italien",
+   "kontinent": "Europa",
+   "stufe": 1,
+   "hs": "Rom",
+   "hsPos": [
+    12.5,
+    41.9
+   ],
+   "pos": [
+    12.3,
+    43.49
+   ],
+   "form": true,
+   "klein": false
+  },
+  {
+   "code": "hr",
+   "name": "Kroatien",
+   "kontinent": "Europa",
+   "stufe": 1,
+   "hs": "Zagreb",
+   "hsPos": [
+    15.98,
+    45.81
+   ],
+   "pos": [
+    16.42,
+    45.16
+   ],
+   "form": true,
+   "klein": false
+  },
+  {
+   "code": "lv",
+   "name": "Lettland",
+   "kontinent": "Europa",
+   "stufe": 2,
+   "hs": "Riga",
+   "hsPos": [
+    24.11,
+    56.95
+   ],
+   "pos": [
+    24.92,
+    56.86
+   ],
+   "form": true,
+   "klein": false
+  },
+  {
+   "code": "li",
+   "name": "Liechtenstein",
+   "kontinent": "Europa",
+   "stufe": 2,
+   "hs": "Vaduz",
+   "hsPos": [
+    9.52,
+    47.14
+   ],
+   "pos": [
+    9.54,
+    47.14
+   ],
+   "form": true,
+   "klein": true
+  },
+  {
+   "code": "lt",
+   "name": "Litauen",
+   "kontinent": "Europa",
+   "stufe": 2,
+   "hs": "Vilnius",
+   "hsPos": [
+    25.28,
+    54.69
+   ],
+   "pos": [
+    23.9,
+    55.32
+   ],
+   "form": true,
+   "klein": false
+  },
+  {
+   "code": "lu",
+   "name": "Luxemburg",
+   "kontinent": "Europa",
+   "stufe": 1,
+   "hs": "Luxemburg",
+   "hsPos": [
+    6.13,
+    49.61
+   ],
+   "pos": [
+    6.07,
+    49.77
+   ],
+   "form": true,
+   "klein": false
+  },
+  {
+   "code": "mt",
+   "name": "Malta",
+   "kontinent": "Europa",
+   "stufe": 2,
+   "hs": "Valletta",
+   "hsPos": [
+    14.51,
+    35.9
+   ],
+   "pos": [
+    14.44,
+    35.89
+   ],
+   "form": true,
+   "klein": true
+  },
+  {
+   "code": "md",
+   "name": "Moldau",
+   "kontinent": "Europa",
+   "stufe": 3,
+   "hs": "Chișinău",
+   "hsPos": [
+    28.86,
+    47.01
+   ],
+   "pos": [
+    28.47,
+    47.19
+   ],
+   "form": true,
+   "klein": false
+  },
+  {
+   "code": "mc",
+   "name": "Monaco",
+   "kontinent": "Europa",
+   "stufe": 2,
+   "hs": "Monaco",
+   "hsPos": [
+    7.42,
+    43.73
+   ],
+   "pos": [
+    7.41,
+    43.75
+   ],
+   "form": true,
+   "klein": true
+  },
+  {
+   "code": "me",
+   "name": "Montenegro",
+   "kontinent": "Europa",
+   "stufe": 2,
+   "hs": "Podgorica",
+   "hsPos": [
+    19.26,
+    42.44
+   ],
+   "pos": [
+    19.24,
+    42.79
+   ],
+   "form": true,
+   "klein": false
+  },
+  {
+   "code": "nl",
+   "name": "Niederlande",
+   "kontinent": "Europa",
+   "stufe": 1,
+   "hs": "Amsterdam",
+   "hsPos": [
+    4.9,
+    52.37
+   ],
+   "pos": [
+    5.63,
+    52.28
+   ],
+   "form": true,
+   "klein": false
+  },
+  {
+   "code": "mk",
+   "name": "Nordmazedonien",
+   "kontinent": "Europa",
+   "stufe": 2,
+   "hs": "Skopje",
+   "hsPos": [
+    21.43,
+    42
+   ],
+   "pos": [
+    21.68,
+    41.6
+   ],
+   "form": true,
+   "klein": false
+  },
+  {
+   "code": "no",
+   "name": "Norwegen",
+   "kontinent": "Europa",
+   "stufe": 1,
+   "hs": "Oslo",
+   "hsPos": [
+    10.75,
+    59.91
+   ],
+   "pos": [
+    12.16,
+    63.79
+   ],
+   "form": true,
+   "klein": false
+  },
+  {
+   "code": "at",
+   "name": "Österreich",
+   "kontinent": "Europa",
+   "stufe": 1,
+   "hs": "Wien",
+   "hsPos": [
+    16.37,
+    48.21
+   ],
+   "pos": [
+    14.11,
+    47.59
+   ],
+   "form": true,
+   "klein": false
+  },
+  {
+   "code": "pl",
+   "name": "Polen",
+   "kontinent": "Europa",
+   "stufe": 1,
+   "hs": "Warschau",
+   "hsPos": [
+    21.01,
+    52.23
+   ],
+   "pos": [
+    19.42,
+    52.11
+   ],
+   "form": true,
+   "klein": false
+  },
+  {
+   "code": "pt",
+   "name": "Portugal",
+   "kontinent": "Europa",
+   "stufe": 1,
+   "hs": "Lissabon",
+   "hsPos": [
+    -9.14,
+    38.72
+   ],
+   "pos": [
+    -7.98,
+    39.65
+   ],
+   "form": true,
+   "klein": false
+  },
+  {
+   "code": "ro",
+   "name": "Rumänien",
+   "kontinent": "Europa",
+   "stufe": 1,
+   "hs": "Bukarest",
+   "hsPos": [
+    26.1,
+    44.43
+   ],
+   "pos": [
+    24.98,
+    45.85
+   ],
+   "form": true,
+   "klein": false
+  },
+  {
+   "code": "ru",
+   "name": "Russland",
+   "kontinent": "Europa",
+   "stufe": 1,
+   "hs": "Moskau",
+   "hsPos": [
+    37.62,
+    55.76
+   ],
+   "pos": [
+    95.53,
+    65.89
+   ],
+   "form": true,
+   "klein": false
+  },
+  {
+   "code": "sm",
+   "name": "San Marino",
+   "kontinent": "Europa",
+   "stufe": 2,
+   "hs": "San Marino",
+   "hsPos": [
+    12.45,
+    43.94
+   ],
+   "pos": [
+    12.46,
+    43.94
+   ],
+   "form": true,
+   "klein": true
+  },
+  {
+   "code": "se",
+   "name": "Schweden",
+   "kontinent": "Europa",
+   "stufe": 1,
+   "hs": "Stockholm",
+   "hsPos": [
+    18.07,
+    59.33
+   ],
+   "pos": [
+    16.25,
+    62.43
+   ],
+   "form": true,
+   "klein": false
+  },
+  {
+   "code": "ch",
+   "name": "Schweiz",
+   "kontinent": "Europa",
+   "stufe": 1,
+   "hs": "Bern",
+   "hsPos": [
+    7.45,
+    46.95
+   ],
+   "pos": [
+    8.21,
+    46.8
+   ],
+   "form": true,
+   "klein": false
+  },
+  {
+   "code": "rs",
+   "name": "Serbien",
+   "kontinent": "Europa",
+   "stufe": 2,
+   "hs": "Belgrad",
+   "hsPos": [
+    20.45,
+    44.79
+   ],
+   "pos": [
+    20.81,
+    44.21
+   ],
+   "form": true,
+   "klein": false
+  },
+  {
+   "code": "sk",
+   "name": "Slowakei",
+   "kontinent": "Europa",
+   "stufe": 2,
+   "hs": "Bratislava",
+   "hsPos": [
+    17.11,
+    48.15
+   ],
+   "pos": [
+    19.47,
+    48.71
+   ],
+   "form": true,
+   "klein": false
+  },
+  {
+   "code": "si",
+   "name": "Slowenien",
+   "kontinent": "Europa",
+   "stufe": 2,
+   "hs": "Ljubljana",
+   "hsPos": [
+    14.51,
+    46.06
+   ],
+   "pos": [
+    14.8,
+    46.12
+   ],
+   "form": true,
+   "klein": false
+  },
+  {
+   "code": "es",
+   "name": "Spanien",
+   "kontinent": "Europa",
+   "stufe": 1,
+   "hs": "Madrid",
+   "hsPos": [
+    -3.7,
+    40.42
+   ],
+   "pos": [
+    -3.57,
+    40.37
+   ],
+   "form": true,
+   "klein": false
+  },
+  {
+   "code": "cz",
+   "name": "Tschechien",
+   "kontinent": "Europa",
+   "stufe": 1,
+   "hs": "Prag",
+   "hsPos": [
+    14.44,
+    50.08
+   ],
+   "pos": [
+    15.32,
+    49.74
+   ],
+   "form": true,
+   "klein": false
+  },
+  {
+   "code": "tr",
+   "name": "Türkei",
+   "kontinent": "Asien",
+   "stufe": 1,
+   "hs": "Ankara",
+   "hsPos": [
+    32.86,
+    39.93
+   ],
+   "pos": [
+    35.41,
+    39.06
+   ],
+   "form": true,
+   "klein": false
+  },
+  {
+   "code": "ua",
+   "name": "Ukraine",
+   "kontinent": "Europa",
+   "stufe": 1,
+   "hs": "Kyjiw",
+   "hsPos": [
+    30.52,
+    50.45
+   ],
+   "pos": [
+    31.32,
+    49.2
+   ],
+   "form": true,
+   "klein": false
+  },
+  {
+   "code": "hu",
+   "name": "Ungarn",
+   "kontinent": "Europa",
+   "stufe": 1,
+   "hs": "Budapest",
+   "hsPos": [
+    19.04,
+    47.5
+   ],
+   "pos": [
+    19.38,
+    47.17
+   ],
+   "form": true,
+   "klein": false
+  },
+  {
+   "code": "va",
+   "name": "Vatikanstadt",
+   "kontinent": "Europa",
+   "stufe": 2,
+   "hs": "Vatikanstadt",
+   "hsPos": [
+    12.45,
+    41.9
+   ],
+   "pos": [
+    12.43,
+    41.9
+   ],
+   "form": true,
+   "klein": true
+  },
+  {
+   "code": "gb",
+   "name": "Vereinigtes Königreich",
+   "kontinent": "Europa",
+   "stufe": 1,
+   "hs": "London",
+   "hsPos": [
+    -0.13,
+    51.51
+   ],
+   "pos": [
+    -2.41,
+    53.83
+   ],
+   "form": true,
+   "klein": false
+  },
+  {
+   "code": "by",
+   "name": "Belarus",
+   "kontinent": "Europa",
+   "stufe": 2,
+   "hs": "Minsk",
+   "hsPos": [
+    27.56,
+    53.9
+   ],
+   "pos": [
+    28.02,
+    53.52
+   ],
+   "form": true,
+   "klein": false
+  },
+  {
+   "code": "cy",
+   "name": "Zypern",
+   "kontinent": "Asien",
+   "stufe": 2,
+   "hs": "Nikosia",
+   "hsPos": [
+    33.36,
+    35.17
+   ],
+   "pos": [
+    33.01,
+    34.92
+   ],
+   "form": true,
+   "klein": false
+  },
+  {
+   "code": "af",
+   "name": "Afghanistan",
+   "kontinent": "Asien",
+   "stufe": 2,
+   "hs": "Kabul",
+   "hsPos": [
+    69.17,
+    34.53
+   ],
+   "pos": [
+    65.93,
+    33.82
+   ],
+   "form": true,
+   "klein": false
+  },
+  {
+   "code": "bh",
+   "name": "Bahrain",
+   "kontinent": "Asien",
+   "stufe": 3,
+   "hs": "Manama",
+   "hsPos": [
+    50.59,
+    26.23
+   ],
+   "pos": [
+    50.54,
+    26.04
+   ],
+   "form": true,
+   "klein": true
+  },
+  {
+   "code": "bd",
+   "name": "Bangladesch",
+   "kontinent": "Asien",
+   "stufe": 2,
+   "hs": "Dhaka",
+   "hsPos": [
+    90.41,
+    23.81
+   ],
+   "pos": [
+    90.23,
+    23.89
+   ],
+   "form": true,
+   "klein": false
+  },
+  {
+   "code": "bt",
+   "name": "Bhutan",
+   "kontinent": "Asien",
+   "stufe": 3,
+   "hs": "Thimphu",
+   "hsPos": [
+    89.64,
+    27.47
+   ],
+   "pos": [
+    90.4,
+    27.41
+   ],
+   "form": true,
+   "klein": false
+  },
+  {
+   "code": "bn",
+   "name": "Brunei",
+   "kontinent": "Asien",
+   "stufe": 3,
+   "hs": "Bandar Seri Begawan",
+   "hsPos": [
+    114.94,
+    4.89
+   ],
+   "pos": [
+    114.59,
+    4.49
+   ],
+   "form": true,
+   "klein": false
+  },
+  {
+   "code": "cn",
+   "name": "China",
+   "kontinent": "Asien",
+   "stufe": 1,
+   "hs": "Peking",
+   "hsPos": [
+    116.41,
+    39.9
+   ],
+   "pos": [
+    103.35,
+    36.76
+   ],
+   "form": true,
+   "klein": false
+  },
+  {
+   "code": "in",
+   "name": "Indien",
+   "kontinent": "Asien",
+   "stufe": 1,
+   "hs": "Neu-Delhi",
+   "hsPos": [
+    77.21,
+    28.61
+   ],
+   "pos": [
+    79.53,
+    22.8
+   ],
+   "form": true,
+   "klein": false
+  },
+  {
+   "code": "id",
+   "name": "Indonesien",
+   "kontinent": "Asien",
+   "stufe": 1,
+   "hs": "Jakarta",
+   "hsPos": [
+    106.85,
+    -6.21
+   ],
+   "pos": [
+    114.01,
+    -0.19
+   ],
+   "form": true,
+   "klein": false
+  },
+  {
+   "code": "iq",
+   "name": "Irak",
+   "kontinent": "Asien",
+   "stufe": 2,
+   "hs": "Bagdad",
+   "hsPos": [
+    44.37,
+    33.31
+   ],
+   "pos": [
+    43.77,
+    33.01
+   ],
+   "form": true,
+   "klein": false
+  },
+  {
+   "code": "ir",
+   "name": "Iran",
+   "kontinent": "Asien",
+   "stufe": 1,
+   "hs": "Teheran",
+   "hsPos": [
+    51.39,
+    35.69
+   ],
+   "pos": [
+    54.44,
+    32.53
+   ],
+   "form": true,
+   "klein": false
+  },
+  {
+   "code": "il",
+   "name": "Israel",
+   "kontinent": "Asien",
+   "stufe": 1,
+   "hs": null,
+   "hsPos": null,
+   "pos": [
+    35,
+    31.45
+   ],
+   "form": true,
+   "klein": false
+  },
+  {
+   "code": "jp",
+   "name": "Japan",
+   "kontinent": "Asien",
+   "stufe": 1,
+   "hs": "Tokio",
+   "hsPos": [
+    139.69,
+    35.68
+   ],
+   "pos": [
+    137.88,
+    36.63
+   ],
+   "form": true,
+   "klein": false
+  },
+  {
+   "code": "ye",
+   "name": "Jemen",
+   "kontinent": "Asien",
+   "stufe": 2,
+   "hs": "Sanaa",
+   "hsPos": [
+    44.19,
+    15.37
+   ],
+   "pos": [
+    47.52,
+    15.94
+   ],
+   "form": true,
+   "klein": false
+  },
+  {
+   "code": "jo",
+   "name": "Jordanien",
+   "kontinent": "Asien",
+   "stufe": 2,
+   "hs": "Amman",
+   "hsPos": [
+    35.93,
+    31.95
+   ],
+   "pos": [
+    36.76,
+    31.24
+   ],
+   "form": true,
+   "klein": false
+  },
+  {
+   "code": "kh",
+   "name": "Kambodscha",
+   "kontinent": "Asien",
+   "stufe": 2,
+   "hs": "Phnom Penh",
+   "hsPos": [
+    104.92,
+    11.56
+   ],
+   "pos": [
+    104.91,
+    12.72
+   ],
+   "form": true,
+   "klein": false
+  },
+  {
+   "code": "kz",
+   "name": "Kasachstan",
+   "kontinent": "Asien",
+   "stufe": 2,
+   "hs": "Astana",
+   "hsPos": [
+    71.45,
+    51.17
+   ],
+   "pos": [
+    67.25,
+    48.36
+   ],
+   "form": true,
+   "klein": false
+  },
+  {
+   "code": "qa",
+   "name": "Katar",
+   "kontinent": "Asien",
+   "stufe": 2,
+   "hs": "Doha",
+   "hsPos": [
+    51.53,
+    25.29
+   ],
+   "pos": [
+    51.18,
+    25.3
+   ],
+   "form": true,
+   "klein": false
+  },
+  {
+   "code": "kg",
+   "name": "Kirgisistan",
+   "kontinent": "Asien",
+   "stufe": 3,
+   "hs": "Bischkek",
+   "hsPos": [
+    74.59,
+    42.87
+   ],
+   "pos": [
+    74.51,
+    41.47
+   ],
+   "form": true,
+   "klein": false
+  },
+  {
+   "code": "kw",
+   "name": "Kuwait",
+   "kontinent": "Asien",
+   "stufe": 2,
+   "hs": "Kuwait-Stadt",
+   "hsPos": [
+    47.99,
+    29.38
+   ],
+   "pos": [
+    47.56,
+    29.32
+   ],
+   "form": true,
+   "klein": false
+  },
+  {
+   "code": "la",
+   "name": "Laos",
+   "kontinent": "Asien",
+   "stufe": 3,
+   "hs": "Vientiane",
+   "hsPos": [
+    102.63,
+    17.98
+   ],
+   "pos": [
+    103.78,
+    18.49
+   ],
+   "form": true,
+   "klein": false
+  },
+  {
+   "code": "lb",
+   "name": "Libanon",
+   "kontinent": "Asien",
+   "stufe": 2,
+   "hs": "Beirut",
+   "hsPos": [
+    35.5,
+    33.89
+   ],
+   "pos": [
+    35.88,
+    33.92
+   ],
+   "form": true,
+   "klein": false
+  },
+  {
+   "code": "my",
+   "name": "Malaysia",
+   "kontinent": "Asien",
+   "stufe": 2,
+   "hs": "Kuala Lumpur",
+   "hsPos": [
+    101.69,
+    3.14
+   ],
+   "pos": [
+    114.72,
+    3.62
+   ],
+   "form": true,
+   "klein": false
+  },
+  {
+   "code": "mv",
+   "name": "Malediven",
+   "kontinent": "Asien",
+   "stufe": 2,
+   "hs": "Malé",
+   "hsPos": [
+    73.51,
+    4.18
+   ],
+   "pos": [
+    73.5,
+    4.2
+   ],
+   "form": true,
+   "klein": true
+  },
+  {
+   "code": "mn",
+   "name": "Mongolei",
+   "kontinent": "Asien",
+   "stufe": 2,
+   "hs": "Ulaanbaatar",
+   "hsPos": [
+    106.91,
+    47.89
+   ],
+   "pos": [
+    103.12,
+    46.96
+   ],
+   "form": true,
+   "klein": false
+  },
+  {
+   "code": "mm",
+   "name": "Myanmar",
+   "kontinent": "Asien",
+   "stufe": 3,
+   "hs": "Naypyidaw",
+   "hsPos": [
+    96.08,
+    19.76
+   ],
+   "pos": [
+    96.49,
+    21.15
+   ],
+   "form": true,
+   "klein": false
+  },
+  {
+   "code": "np",
+   "name": "Nepal",
+   "kontinent": "Asien",
+   "stufe": 2,
+   "hs": "Kathmandu",
+   "hsPos": [
+    85.32,
+    27.72
+   ],
+   "pos": [
+    83.95,
+    28.26
+   ],
+   "form": true,
+   "klein": false
+  },
+  {
+   "code": "kp",
+   "name": "Nordkorea",
+   "kontinent": "Asien",
+   "stufe": 1,
+   "hs": "Pjöngjang",
+   "hsPos": [
+    125.76,
+    39.04
+   ],
+   "pos": [
+    127.16,
+    40.14
+   ],
+   "form": true,
+   "klein": false
+  },
+  {
+   "code": "om",
+   "name": "Oman",
+   "kontinent": "Asien",
+   "stufe": 2,
+   "hs": "Maskat",
+   "hsPos": [
+    58.41,
+    23.59
+   ],
+   "pos": [
+    56.06,
+    20.56
+   ],
+   "form": true,
+   "klein": false
+  },
+  {
+   "code": "pk",
+   "name": "Pakistan",
+   "kontinent": "Asien",
+   "stufe": 2,
+   "hs": "Islamabad",
+   "hsPos": [
+    73.05,
+    33.68
+   ],
+   "pos": [
+    69.17,
+    29.88
+   ],
+   "form": true,
+   "klein": false
+  },
+  {
+   "code": "ps",
+   "name": "Palästina",
+   "kontinent": "Asien",
+   "stufe": 2,
+   "hs": null,
+   "hsPos": null,
+   "pos": [
+    35.25,
+    31.95
+   ],
+   "form": true,
+   "klein": false
+  },
+  {
+   "code": "ph",
+   "name": "Philippinen",
+   "kontinent": "Asien",
+   "stufe": 1,
+   "hs": "Manila",
+   "hsPos": [
+    120.98,
+    14.6
+   ],
+   "pos": [
+    121.42,
+    15.95
+   ],
+   "form": true,
+   "klein": false
+  },
+  {
+   "code": "sa",
+   "name": "Saudi-Arabien",
+   "kontinent": "Asien",
+   "stufe": 1,
+   "hs": "Riad",
+   "hsPos": [
+    46.68,
+    24.71
+   ],
+   "pos": [
+    44.67,
+    24.09
+   ],
+   "form": true,
+   "klein": false
+  },
+  {
+   "code": "sg",
+   "name": "Singapur",
+   "kontinent": "Asien",
+   "stufe": 1,
+   "hs": "Singapur",
+   "hsPos": [
+    103.85,
+    1.29
+   ],
+   "pos": [
+    103.82,
+    1.36
+   ],
+   "form": true,
+   "klein": true
+  },
+  {
+   "code": "lk",
+   "name": "Sri Lanka",
+   "kontinent": "Asien",
+   "stufe": 3,
+   "hs": "Sri Jayewardenepura Kotte",
+   "hsPos": [
+    79.92,
+    6.89
+   ],
+   "pos": [
+    80.7,
+    7.61
+   ],
+   "form": true,
+   "klein": false
+  },
+  {
+   "code": "kr",
+   "name": "Südkorea",
+   "kontinent": "Asien",
+   "stufe": 1,
+   "hs": "Seoul",
+   "hsPos": [
+    126.98,
+    37.57
+   ],
+   "pos": [
+    127.87,
+    36.45
+   ],
+   "form": true,
+   "klein": false
+  },
+  {
+   "code": "sy",
+   "name": "Syrien",
+   "kontinent": "Asien",
+   "stufe": 2,
+   "hs": "Damaskus",
+   "hsPos": [
+    36.29,
+    33.51
+   ],
+   "pos": [
+    38.49,
+    35.02
+   ],
+   "form": true,
+   "klein": false
+  },
+  {
+   "code": "tj",
+   "name": "Tadschikistan",
+   "kontinent": "Asien",
+   "stufe": 3,
+   "hs": "Duschanbe",
+   "hsPos": [
+    68.79,
+    38.56
+   ],
+   "pos": [
+    71.03,
+    38.53
+   ],
+   "form": true,
+   "klein": false
+  },
+  {
+   "code": "th",
+   "name": "Thailand",
+   "kontinent": "Asien",
+   "stufe": 1,
+   "hs": "Bangkok",
+   "hsPos": [
+    100.5,
+    13.76
+   ],
+   "pos": [
+    101,
+    15.1
+   ],
+   "form": true,
+   "klein": false
+  },
+  {
+   "code": "tl",
+   "name": "Timor-Leste",
+   "kontinent": "Asien",
+   "stufe": 3,
+   "hs": "Dili",
+   "hsPos": [
+    125.57,
+    -8.56
+   ],
+   "pos": [
+    125.92,
+    -8.81
+   ],
+   "form": true,
+   "klein": false
+  },
+  {
+   "code": "tm",
+   "name": "Turkmenistan",
+   "kontinent": "Asien",
+   "stufe": 3,
+   "hs": "Aşgabat",
+   "hsPos": [
+    58.33,
+    37.96
+   ],
+   "pos": [
+    59.45,
+    39.13
+   ],
+   "form": true,
+   "klein": false
+  },
+  {
+   "code": "uz",
+   "name": "Usbekistan",
+   "kontinent": "Asien",
+   "stufe": 2,
+   "hs": "Taschkent",
+   "hsPos": [
+    69.24,
+    41.3
+   ],
+   "pos": [
+    63.29,
+    41.78
+   ],
+   "form": true,
+   "klein": false
+  },
+  {
+   "code": "ae",
+   "name": "Vereinigte Arabische Emirate",
+   "kontinent": "Asien",
+   "stufe": 1,
+   "hs": "Abu Dhabi",
+   "hsPos": [
+    54.38,
+    24.45
+   ],
+   "pos": [
+    54.3,
+    23.9
+   ],
+   "form": true,
+   "klein": false
+  },
+  {
+   "code": "vn",
+   "name": "Vietnam",
+   "kontinent": "Asien",
+   "stufe": 1,
+   "hs": "Hanoi",
+   "hsPos": [
+    105.85,
+    21.03
+   ],
+   "pos": [
+    105.85,
+    21.03
+   ],
+   "form": true,
+   "klein": false
+  },
+  {
+   "code": "eg",
+   "name": "Ägypten",
+   "kontinent": "Afrika",
+   "stufe": 1,
+   "hs": "Kairo",
+   "hsPos": [
+    31.24,
+    30.04
+   ],
+   "pos": [
+    29.88,
+    26.46
+   ],
+   "form": true,
+   "klein": false
+  },
+  {
+   "code": "dz",
+   "name": "Algerien",
+   "kontinent": "Afrika",
+   "stufe": 2,
+   "hs": "Algier",
+   "hsPos": [
+    3.06,
+    36.75
+   ],
+   "pos": [
+    2.63,
+    28.06
+   ],
+   "form": true,
+   "klein": false
+  },
+  {
+   "code": "ao",
+   "name": "Angola",
+   "kontinent": "Afrika",
+   "stufe": 2,
+   "hs": "Luanda",
+   "hsPos": [
+    13.23,
+    -8.84
+   ],
+   "pos": [
+    17.56,
+    -12.31
+   ],
+   "form": true,
+   "klein": false
+  },
+  {
+   "code": "gq",
+   "name": "Äquatorialguinea",
+   "kontinent": "Afrika",
+   "stufe": 3,
+   "hs": null,
+   "hsPos": null,
+   "pos": [
+    10.47,
+    1.57
+   ],
+   "form": true,
+   "klein": false
+  },
+  {
+   "code": "et",
+   "name": "Äthiopien",
+   "kontinent": "Afrika",
+   "stufe": 2,
+   "hs": "Addis Abeba",
+   "hsPos": [
+    38.74,
+    9.03
+   ],
+   "pos": [
+    39.61,
+    8.61
+   ],
+   "form": true,
+   "klein": false
+  },
+  {
+   "code": "bj",
+   "name": "Benin",
+   "kontinent": "Afrika",
+   "stufe": 3,
+   "hs": "Porto-Novo",
+   "hsPos": [
+    2.63,
+    6.5
+   ],
+   "pos": [
+    2.33,
+    9.64
+   ],
+   "form": true,
+   "klein": false
+  },
+  {
+   "code": "bw",
+   "name": "Botswana",
+   "kontinent": "Afrika",
+   "stufe": 3,
+   "hs": "Gaborone",
+   "hsPos": [
+    25.91,
+    -24.65
+   ],
+   "pos": [
+    23.81,
+    -22.17
+   ],
+   "form": true,
+   "klein": false
+  },
+  {
+   "code": "bf",
+   "name": "Burkina Faso",
+   "kontinent": "Afrika",
+   "stufe": 3,
+   "hs": "Ouagadougou",
+   "hsPos": [
+    -1.52,
+    12.37
+   ],
+   "pos": [
+    -1.76,
+    12.27
+   ],
+   "form": true,
+   "klein": false
+  },
+  {
+   "code": "bi",
+   "name": "Burundi",
+   "kontinent": "Afrika",
+   "stufe": 3,
+   "hs": "Gitega",
+   "hsPos": [
+    29.93,
+    -3.43
+   ],
+   "pos": [
+    29.88,
+    -3.36
+   ],
+   "form": true,
+   "klein": false
+  },
+  {
+   "code": "dj",
+   "name": "Dschibuti",
+   "kontinent": "Afrika",
+   "stufe": 3,
+   "hs": "Dschibuti",
+   "hsPos": [
+    43.15,
+    11.59
+   ],
+   "pos": [
+    42.56,
+    11.75
+   ],
+   "form": true,
+   "klein": false
+  },
+  {
+   "code": "ci",
+   "name": "Elfenbeinküste",
+   "kontinent": "Afrika",
+   "stufe": 2,
+   "hs": "Yamoussoukro",
+   "hsPos": [
+    -5.29,
+    6.83
+   ],
+   "pos": [
+    -5.57,
+    7.63
+   ],
+   "form": true,
+   "klein": false
+  },
+  {
+   "code": "er",
+   "name": "Eritrea",
+   "kontinent": "Afrika",
+   "stufe": 3,
+   "hs": "Asmara",
+   "hsPos": [
+    38.93,
+    15.32
+   ],
+   "pos": [
+    38.85,
+    15.36
+   ],
+   "form": true,
+   "klein": false
+  },
+  {
+   "code": "sz",
+   "name": "Eswatini",
+   "kontinent": "Afrika",
+   "stufe": 3,
+   "hs": "Mbabane",
+   "hsPos": [
+    31.14,
+    -26.31
+   ],
+   "pos": [
+    31.48,
+    -26.56
+   ],
+   "form": true,
+   "klein": false
+  },
+  {
+   "code": "ga",
+   "name": "Gabun",
+   "kontinent": "Afrika",
+   "stufe": 3,
+   "hs": "Libreville",
+   "hsPos": [
+    9.47,
+    0.42
+   ],
+   "pos": [
+    11.79,
+    -0.59
+   ],
+   "form": true,
+   "klein": false
+  },
+  {
+   "code": "gm",
+   "name": "Gambia",
+   "kontinent": "Afrika",
+   "stufe": 3,
+   "hs": "Banjul",
+   "hsPos": [
+    -16.58,
+    13.45
+   ],
+   "pos": [
+    -15.4,
+    13.45
+   ],
+   "form": true,
+   "klein": false
+  },
+  {
+   "code": "gh",
+   "name": "Ghana",
+   "kontinent": "Afrika",
+   "stufe": 2,
+   "hs": "Accra",
+   "hsPos": [
+    -0.19,
+    5.6
+   ],
+   "pos": [
+    -1.22,
+    7.95
+   ],
+   "form": true,
+   "klein": false
+  },
+  {
+   "code": "gn",
+   "name": "Guinea",
+   "kontinent": "Afrika",
+   "stufe": 3,
+   "hs": "Conakry",
+   "hsPos": [
+    -13.58,
+    9.64
+   ],
+   "pos": [
+    -10.93,
+    10.44
+   ],
+   "form": true,
+   "klein": false
+  },
+  {
+   "code": "gw",
+   "name": "Guinea-Bissau",
+   "kontinent": "Afrika",
+   "stufe": 3,
+   "hs": "Bissau",
+   "hsPos": [
+    -15.6,
+    11.86
+   ],
+   "pos": [
+    -14.92,
+    12.06
+   ],
+   "form": true,
+   "klein": false
+  },
+  {
+   "code": "cm",
+   "name": "Kamerun",
+   "kontinent": "Afrika",
+   "stufe": 2,
+   "hs": "Jaunde",
+   "hsPos": [
+    11.5,
+    3.85
+   ],
+   "pos": [
+    12.73,
+    5.68
+   ],
+   "form": true,
+   "klein": false
+  },
+  {
+   "code": "cv",
+   "name": "Kap Verde",
+   "kontinent": "Afrika",
+   "stufe": 3,
+   "hs": "Praia",
+   "hsPos": [
+    -23.51,
+    14.93
+   ],
+   "pos": [
+    -23.64,
+    15.08
+   ],
+   "form": true,
+   "klein": true
+  },
+  {
+   "code": "ke",
+   "name": "Kenia",
+   "kontinent": "Afrika",
+   "stufe": 1,
+   "hs": "Nairobi",
+   "hsPos": [
+    36.82,
+    -1.29
+   ],
+   "pos": [
+    37.8,
+    0.6
+   ],
+   "form": true,
+   "klein": false
+  },
+  {
+   "code": "km",
+   "name": "Komoren",
+   "kontinent": "Afrika",
+   "stufe": 3,
+   "hs": "Moroni",
+   "hsPos": [
+    43.26,
+    -11.7
+   ],
+   "pos": [
+    43.34,
+    -11.65
+   ],
+   "form": true,
+   "klein": true
+  },
+  {
+   "code": "cd",
+   "name": "Demokratische Republik Kongo",
+   "kontinent": "Afrika",
+   "stufe": 2,
+   "hs": "Kinshasa",
+   "hsPos": [
+    15.27,
+    -4.44
+   ],
+   "pos": [
+    23.64,
+    -2.87
+   ],
+   "form": true,
+   "klein": false
+  },
+  {
+   "code": "cg",
+   "name": "Republik Kongo",
+   "kontinent": "Afrika",
+   "stufe": 3,
+   "hs": "Brazzaville",
+   "hsPos": [
+    15.28,
+    -4.27
+   ],
+   "pos": [
+    15.22,
+    -0.84
+   ],
+   "form": true,
+   "klein": false
+  },
+  {
+   "code": "ls",
+   "name": "Lesotho",
+   "kontinent": "Afrika",
+   "stufe": 3,
+   "hs": "Maseru",
+   "hsPos": [
+    27.48,
+    -29.31
+   ],
+   "pos": [
+    28.23,
+    -29.58
+   ],
+   "form": true,
+   "klein": false
+  },
+  {
+   "code": "lr",
+   "name": "Liberia",
+   "kontinent": "Afrika",
+   "stufe": 3,
+   "hs": "Monrovia",
+   "hsPos": [
+    -10.8,
+    6.3
+   ],
+   "pos": [
+    -9.32,
+    6.45
+   ],
+   "form": true,
+   "klein": false
+  },
+  {
+   "code": "ly",
+   "name": "Libyen",
+   "kontinent": "Afrika",
+   "stufe": 2,
+   "hs": "Tripolis",
+   "hsPos": [
+    13.19,
+    32.89
+   ],
+   "pos": [
+    18.07,
+    27.02
+   ],
+   "form": true,
+   "klein": false
+  },
+  {
+   "code": "mg",
+   "name": "Madagaskar",
+   "kontinent": "Afrika",
+   "stufe": 2,
+   "hs": "Antananarivo",
+   "hsPos": [
+    47.51,
+    -18.88
+   ],
+   "pos": [
+    46.74,
+    -19.32
+   ],
+   "form": true,
+   "klein": false
+  },
+  {
+   "code": "mw",
+   "name": "Malawi",
+   "kontinent": "Afrika",
+   "stufe": 3,
+   "hs": "Lilongwe",
+   "hsPos": [
+    33.79,
+    -13.96
+   ],
+   "pos": [
+    34.28,
+    -13.21
+   ],
+   "form": true,
+   "klein": false
+  },
+  {
+   "code": "ml",
+   "name": "Mali",
+   "kontinent": "Afrika",
+   "stufe": 2,
+   "hs": "Bamako",
+   "hsPos": [
+    -8,
+    12.64
+   ],
+   "pos": [
+    -3.59,
+    17.32
+   ],
+   "form": true,
+   "klein": false
+  },
+  {
+   "code": "ma",
+   "name": "Marokko",
+   "kontinent": "Afrika",
+   "stufe": 1,
+   "hs": "Rabat",
+   "hsPos": [
+    -6.84,
+    34.02
+   ],
+   "pos": [
+    -8.73,
+    29.77
+   ],
+   "form": true,
+   "klein": false
+  },
+  {
+   "code": "mr",
+   "name": "Mauretanien",
+   "kontinent": "Afrika",
+   "stufe": 3,
+   "hs": "Nouakchott",
+   "hsPos": [
+    -15.98,
+    18.08
+   ],
+   "pos": [
+    -10.37,
+    20.22
+   ],
+   "form": true,
+   "klein": false
+  },
+  {
+   "code": "mu",
+   "name": "Mauritius",
+   "kontinent": "Afrika",
+   "stufe": 2,
+   "hs": "Port Louis",
+   "hsPos": [
+    57.5,
+    -20.16
+   ],
+   "pos": [
+    57.57,
+    -20.28
+   ],
+   "form": true,
+   "klein": true
+  },
+  {
+   "code": "mz",
+   "name": "Mosambik",
+   "kontinent": "Afrika",
+   "stufe": 2,
+   "hs": "Maputo",
+   "hsPos": [
+    32.57,
+    -25.97
+   ],
+   "pos": [
+    35.6,
+    -17.2
+   ],
+   "form": true,
+   "klein": false
+  },
+  {
+   "code": "na",
+   "name": "Namibia",
+   "kontinent": "Afrika",
+   "stufe": 2,
+   "hs": "Windhoek",
+   "hsPos": [
+    17.08,
+    -22.56
+   ],
+   "pos": [
+    17.2,
+    -22.07
+   ],
+   "form": true,
+   "klein": false
+  },
+  {
+   "code": "ne",
+   "name": "Niger",
+   "kontinent": "Afrika",
+   "stufe": 3,
+   "hs": "Niamey",
+   "hsPos": [
+    2.11,
+    13.51
+   ],
+   "pos": [
+    9.33,
+    17.41
+   ],
+   "form": true,
+   "klein": false
+  },
+  {
+   "code": "ng",
+   "name": "Nigeria",
+   "kontinent": "Afrika",
+   "stufe": 1,
+   "hs": "Abuja",
+   "hsPos": [
+    7.5,
+    9.06
+   ],
+   "pos": [
+    8.08,
+    9.59
+   ],
+   "form": true,
+   "klein": false
+  },
+  {
+   "code": "rw",
+   "name": "Ruanda",
+   "kontinent": "Afrika",
+   "stufe": 2,
+   "hs": "Kigali",
+   "hsPos": [
+    30.06,
+    -1.95
+   ],
+   "pos": [
+    29.92,
+    -1.99
+   ],
+   "form": true,
+   "klein": false
+  },
+  {
+   "code": "zm",
+   "name": "Sambia",
+   "kontinent": "Afrika",
+   "stufe": 3,
+   "hs": "Lusaka",
+   "hsPos": [
+    28.32,
+    -15.39
+   ],
+   "pos": [
+    27.81,
+    -13.46
+   ],
+   "form": true,
+   "klein": false
+  },
+  {
+   "code": "st",
+   "name": "São Tomé und Príncipe",
+   "kontinent": "Afrika",
+   "stufe": 3,
+   "hs": "São Tomé",
+   "hsPos": [
+    6.73,
+    0.34
+   ],
+   "pos": [
+    6.61,
+    0.24
+   ],
+   "form": true,
+   "klein": true
+  },
+  {
+   "code": "sn",
+   "name": "Senegal",
+   "kontinent": "Afrika",
+   "stufe": 2,
+   "hs": "Dakar",
+   "hsPos": [
+    -17.47,
+    14.72
+   ],
+   "pos": [
+    -14.47,
+    14.36
+   ],
+   "form": true,
+   "klein": false
+  },
+  {
+   "code": "sc",
+   "name": "Seychellen",
+   "kontinent": "Afrika",
+   "stufe": 2,
+   "hs": "Victoria",
+   "hsPos": [
+    55.45,
+    -4.62
+   ],
+   "pos": [
+    55.48,
+    -4.66
+   ],
+   "form": true,
+   "klein": true
+  },
+  {
+   "code": "sl",
+   "name": "Sierra Leone",
+   "kontinent": "Afrika",
+   "stufe": 3,
+   "hs": "Freetown",
+   "hsPos": [
+    -13.23,
+    8.48
+   ],
+   "pos": [
+    -11.79,
+    8.57
+   ],
+   "form": true,
+   "klein": false
+  },
+  {
+   "code": "zw",
+   "name": "Simbabwe",
+   "kontinent": "Afrika",
+   "stufe": 2,
+   "hs": "Harare",
+   "hsPos": [
+    31.05,
+    -17.83
+   ],
+   "pos": [
+    29.85,
+    -19
+   ],
+   "form": true,
+   "klein": false
+  },
+  {
+   "code": "so",
+   "name": "Somalia",
+   "kontinent": "Afrika",
+   "stufe": 2,
+   "hs": "Mogadischu",
+   "hsPos": [
+    45.32,
+    2.05
+   ],
+   "pos": [
+    45.68,
+    4.74
+   ],
+   "form": true,
+   "klein": false
+  },
+  {
+   "code": "za",
+   "name": "Südafrika",
+   "kontinent": "Afrika",
+   "stufe": 1,
+   "hs": "Pretoria",
+   "hsPos": [
+    28.19,
+    -25.75
+   ],
+   "pos": [
+    25.19,
+    -28.97
+   ],
+   "form": true,
+   "klein": false
+  },
+  {
+   "code": "sd",
+   "name": "Sudan",
+   "kontinent": "Afrika",
+   "stufe": 2,
+   "hs": "Khartum",
+   "hsPos": [
+    32.56,
+    15.5
+   ],
+   "pos": [
+    29.91,
+    15.97
+   ],
+   "form": true,
+   "klein": false
+  },
+  {
+   "code": "ss",
+   "name": "Südsudan",
+   "kontinent": "Afrika",
+   "stufe": 3,
+   "hs": "Juba",
+   "hsPos": [
+    31.58,
+    4.85
+   ],
+   "pos": [
+    30.25,
+    7.31
+   ],
+   "form": true,
+   "klein": false
+  },
+  {
+   "code": "tz",
+   "name": "Tansania",
+   "kontinent": "Afrika",
+   "stufe": 2,
+   "hs": "Dodoma",
+   "hsPos": [
+    35.75,
+    -6.16
+   ],
+   "pos": [
+    34.79,
+    -6.27
+   ],
+   "form": true,
+   "klein": false
+  },
+  {
+   "code": "tg",
+   "name": "Togo",
+   "kontinent": "Afrika",
+   "stufe": 3,
+   "hs": "Lomé",
+   "hsPos": [
+    1.22,
+    6.13
+   ],
+   "pos": [
+    0.96,
+    8.52
+   ],
+   "form": true,
+   "klein": false
+  },
+  {
+   "code": "td",
+   "name": "Tschad",
+   "kontinent": "Afrika",
+   "stufe": 3,
+   "hs": "N'Djamena",
+   "hsPos": [
+    15.06,
+    12.13
+   ],
+   "pos": [
+    18.64,
+    15.28
+   ],
+   "form": true,
+   "klein": false
+  },
+  {
+   "code": "tn",
+   "name": "Tunesien",
+   "kontinent": "Afrika",
+   "stufe": 1,
+   "hs": "Tunis",
+   "hsPos": [
+    10.18,
+    36.81
+   ],
+   "pos": [
+    9.55,
+    34.09
+   ],
+   "form": true,
+   "klein": false
+  },
+  {
+   "code": "ug",
+   "name": "Uganda",
+   "kontinent": "Afrika",
+   "stufe": 2,
+   "hs": "Kampala",
+   "hsPos": [
+    32.58,
+    0.35
+   ],
+   "pos": [
+    32.37,
+    1.27
+   ],
+   "form": true,
+   "klein": false
+  },
+  {
+   "code": "cf",
+   "name": "Zentralafrikanische Republik",
+   "kontinent": "Afrika",
+   "stufe": 3,
+   "hs": "Bangui",
+   "hsPos": [
+    18.56,
+    4.39
+   ],
+   "pos": [
+    20.46,
+    6.57
+   ],
+   "form": true,
+   "klein": false
+  },
+  {
+   "code": "ag",
+   "name": "Antigua und Barbuda",
+   "kontinent": "Nordamerika",
+   "stufe": 3,
+   "hs": "Saint John's",
+   "hsPos": [
+    -61.85,
+    17.12
+   ],
+   "pos": [
+    -61.79,
+    17.08
+   ],
+   "form": true,
+   "klein": true
+  },
+  {
+   "code": "bs",
+   "name": "Bahamas",
+   "kontinent": "Nordamerika",
+   "stufe": 2,
+   "hs": "Nassau",
+   "hsPos": [
+    -77.35,
+    25.05
+   ],
+   "pos": [
+    -78.04,
+    24.7
+   ],
+   "form": true,
+   "klein": false
+  },
+  {
+   "code": "bb",
+   "name": "Barbados",
+   "kontinent": "Nordamerika",
+   "stufe": 3,
+   "hs": "Bridgetown",
+   "hsPos": [
+    -59.61,
+    13.1
+   ],
+   "pos": [
+    -59.56,
+    13.18
+   ],
+   "form": true,
+   "klein": true
+  },
+  {
+   "code": "bz",
+   "name": "Belize",
+   "kontinent": "Nordamerika",
+   "stufe": 3,
+   "hs": "Belmopan",
+   "hsPos": [
+    -88.77,
+    17.25
+   ],
+   "pos": [
+    -88.72,
+    17.19
+   ],
+   "form": true,
+   "klein": false
+  },
+  {
+   "code": "cr",
+   "name": "Costa Rica",
+   "kontinent": "Nordamerika",
+   "stufe": 2,
+   "hs": "San José",
+   "hsPos": [
+    -84.09,
+    9.93
+   ],
+   "pos": [
+    -84.19,
+    9.98
+   ],
+   "form": true,
+   "klein": false
+  },
+  {
+   "code": "dm",
+   "name": "Dominica",
+   "kontinent": "Nordamerika",
+   "stufe": 3,
+   "hs": "Roseau",
+   "hsPos": [
+    -61.39,
+    15.3
+   ],
+   "pos": [
+    -61.36,
+    15.44
+   ],
+   "form": true,
+   "klein": true
+  },
+  {
+   "code": "do",
+   "name": "Dominikanische Republik",
+   "kontinent": "Nordamerika",
+   "stufe": 2,
+   "hs": "Santo Domingo",
+   "hsPos": [
+    -69.93,
+    18.49
+   ],
+   "pos": [
+    -70.51,
+    18.9
+   ],
+   "form": true,
+   "klein": false
+  },
+  {
+   "code": "sv",
+   "name": "El Salvador",
+   "kontinent": "Nordamerika",
+   "stufe": 2,
+   "hs": "San Salvador",
+   "hsPos": [
+    -89.22,
+    13.69
+   ],
+   "pos": [
+    -88.87,
+    13.74
+   ],
+   "form": true,
+   "klein": false
+  },
+  {
+   "code": "gd",
+   "name": "Grenada",
+   "kontinent": "Nordamerika",
+   "stufe": 3,
+   "hs": "St. George's",
+   "hsPos": [
+    -61.75,
+    12.06
+   ],
+   "pos": [
+    -61.68,
+    12.12
+   ],
+   "form": true,
+   "klein": true
+  },
+  {
+   "code": "gt",
+   "name": "Guatemala",
+   "kontinent": "Nordamerika",
+   "stufe": 2,
+   "hs": "Guatemala-Stadt",
+   "hsPos": [
+    -90.51,
+    14.63
+   ],
+   "pos": [
+    -90.37,
+    15.69
+   ],
+   "form": true,
+   "klein": false
+  },
+  {
+   "code": "ht",
+   "name": "Haiti",
+   "kontinent": "Nordamerika",
+   "stufe": 2,
+   "hs": "Port-au-Prince",
+   "hsPos": [
+    -72.31,
+    18.59
+   ],
+   "pos": [
+    -72.68,
+    18.93
+   ],
+   "form": true,
+   "klein": false
+  },
+  {
+   "code": "hn",
+   "name": "Honduras",
+   "kontinent": "Nordamerika",
+   "stufe": 3,
+   "hs": "Tegucigalpa",
+   "hsPos": [
+    -87.19,
+    14.07
+   ],
+   "pos": [
+    -86.62,
+    14.83
+   ],
+   "form": true,
+   "klein": false
+  },
+  {
+   "code": "jm",
+   "name": "Jamaika",
+   "kontinent": "Nordamerika",
+   "stufe": 1,
+   "hs": "Kingston",
+   "hsPos": [
+    -76.79,
+    17.97
+   ],
+   "pos": [
+    -77.31,
+    18.16
+   ],
+   "form": true,
+   "klein": false
+  },
+  {
+   "code": "ca",
+   "name": "Kanada",
+   "kontinent": "Nordamerika",
+   "stufe": 1,
+   "hs": "Ottawa",
+   "hsPos": [
+    -75.7,
+    45.42
+   ],
+   "pos": [
+    -99,
+    58.59
+   ],
+   "form": true,
+   "klein": false
+  },
+  {
+   "code": "cu",
+   "name": "Kuba",
+   "kontinent": "Nordamerika",
+   "stufe": 1,
+   "hs": "Havanna",
+   "hsPos": [
+    -82.37,
+    23.11
+   ],
+   "pos": [
+    -78.91,
+    21.63
+   ],
+   "form": true,
+   "klein": false
+  },
+  {
+   "code": "mx",
+   "name": "Mexiko",
+   "kontinent": "Nordamerika",
+   "stufe": 1,
+   "hs": "Mexiko-Stadt",
+   "hsPos": [
+    -99.13,
+    19.43
+   ],
+   "pos": [
+    -102.15,
+    23.92
+   ],
+   "form": true,
+   "klein": false
+  },
+  {
+   "code": "ni",
+   "name": "Nicaragua",
+   "kontinent": "Nordamerika",
+   "stufe": 3,
+   "hs": "Managua",
+   "hsPos": [
+    -86.24,
+    12.11
+   ],
+   "pos": [
+    -85.03,
+    12.85
+   ],
+   "form": true,
+   "klein": false
+  },
+  {
+   "code": "pa",
+   "name": "Panama",
+   "kontinent": "Nordamerika",
+   "stufe": 2,
+   "hs": "Panama-Stadt",
+   "hsPos": [
+    -79.52,
+    8.98
+   ],
+   "pos": [
+    -80.11,
+    8.53
+   ],
+   "form": true,
+   "klein": false
+  },
+  {
+   "code": "kn",
+   "name": "St. Kitts und Nevis",
+   "kontinent": "Nordamerika",
+   "stufe": 3,
+   "hs": "Basseterre",
+   "hsPos": [
+    -62.72,
+    17.3
+   ],
+   "pos": [
+    -62.75,
+    17.33
+   ],
+   "form": true,
+   "klein": true
+  },
+  {
+   "code": "lc",
+   "name": "St. Lucia",
+   "kontinent": "Nordamerika",
+   "stufe": 3,
+   "hs": "Castries",
+   "hsPos": [
+    -60.99,
+    14.01
+   ],
+   "pos": [
+    -60.97,
+    13.89
+   ],
+   "form": true,
+   "klein": true
+  },
+  {
+   "code": "vc",
+   "name": "St. Vincent und die Grenadinen",
+   "kontinent": "Nordamerika",
+   "stufe": 3,
+   "hs": "Kingstown",
+   "hsPos": [
+    -61.23,
+    13.16
+   ],
+   "pos": [
+    -61.2,
+    13.25
+   ],
+   "form": true,
+   "klein": true
+  },
+  {
+   "code": "tt",
+   "name": "Trinidad und Tobago",
+   "kontinent": "Nordamerika",
+   "stufe": 3,
+   "hs": "Port of Spain",
+   "hsPos": [
+    -61.51,
+    10.66
+   ],
+   "pos": [
+    -61.29,
+    10.42
+   ],
+   "form": true,
+   "klein": false
+  },
+  {
+   "code": "us",
+   "name": "Vereinigte Staaten",
+   "kontinent": "Nordamerika",
+   "stufe": 1,
+   "hs": "Washington, D.C.",
+   "hsPos": [
+    -77.04,
+    38.9
+   ],
+   "pos": [
+    -98.82,
+    39.89
+   ],
+   "form": true,
+   "klein": false
+  },
+  {
+   "code": "ar",
+   "name": "Argentinien",
+   "kontinent": "Südamerika",
+   "stufe": 1,
+   "hs": "Buenos Aires",
+   "hsPos": [
+    -58.38,
+    -34.6
+   ],
+   "pos": [
+    -64.75,
+    -34.54
+   ],
+   "form": true,
+   "klein": false
+  },
+  {
+   "code": "bo",
+   "name": "Bolivien",
+   "kontinent": "Südamerika",
+   "stufe": 2,
+   "hs": "Sucre",
+   "hsPos": [
+    -65.26,
+    -19.04
+   ],
+   "pos": [
+    -64.7,
+    -16.68
+   ],
+   "form": true,
+   "klein": false
+  },
+  {
+   "code": "br",
+   "name": "Brasilien",
+   "kontinent": "Südamerika",
+   "stufe": 1,
+   "hs": "Brasília",
+   "hsPos": [
+    -47.88,
+    -15.79
+   ],
+   "pos": [
+    -53.24,
+    -10.69
+   ],
+   "form": true,
+   "klein": false
+  },
+  {
+   "code": "cl",
+   "name": "Chile",
+   "kontinent": "Südamerika",
+   "stufe": 1,
+   "hs": "Santiago de Chile",
+   "hsPos": [
+    -70.67,
+    -33.45
+   ],
+   "pos": [
+    -70.95,
+    -34.36
+   ],
+   "form": true,
+   "klein": false
+  },
+  {
+   "code": "ec",
+   "name": "Ecuador",
+   "kontinent": "Südamerika",
+   "stufe": 2,
+   "hs": "Quito",
+   "hsPos": [
+    -78.47,
+    -0.18
+   ],
+   "pos": [
+    -78.39,
+    -1.44
+   ],
+   "form": true,
+   "klein": false
+  },
+  {
+   "code": "gy",
+   "name": "Guyana",
+   "kontinent": "Südamerika",
+   "stufe": 3,
+   "hs": "Georgetown",
+   "hsPos": [
+    -58.16,
+    6.8
+   ],
+   "pos": [
+    -58.98,
+    4.79
+   ],
+   "form": true,
+   "klein": false
+  },
+  {
+   "code": "co",
+   "name": "Kolumbien",
+   "kontinent": "Südamerika",
+   "stufe": 1,
+   "hs": "Bogotá",
+   "hsPos": [
+    -74.07,
+    4.71
+   ],
+   "pos": [
+    -73.08,
+    3.9
+   ],
+   "form": true,
+   "klein": false
+  },
+  {
+   "code": "py",
+   "name": "Paraguay",
+   "kontinent": "Südamerika",
+   "stufe": 2,
+   "hs": "Asunción",
+   "hsPos": [
+    -57.58,
+    -25.26
+   ],
+   "pos": [
+    -58.44,
+    -23.21
+   ],
+   "form": true,
+   "klein": false
+  },
+  {
+   "code": "pe",
+   "name": "Peru",
+   "kontinent": "Südamerika",
+   "stufe": 1,
+   "hs": "Lima",
+   "hsPos": [
+    -77.04,
+    -12.05
+   ],
+   "pos": [
+    -74.42,
+    -9.11
+   ],
+   "form": true,
+   "klein": false
+  },
+  {
+   "code": "sr",
+   "name": "Suriname",
+   "kontinent": "Südamerika",
+   "stufe": 3,
+   "hs": "Paramaribo",
+   "hsPos": [
+    -55.2,
+    5.85
+   ],
+   "pos": [
+    -55.91,
+    4.13
+   ],
+   "form": true,
+   "klein": false
+  },
+  {
+   "code": "uy",
+   "name": "Uruguay",
+   "kontinent": "Südamerika",
+   "stufe": 2,
+   "hs": "Montevideo",
+   "hsPos": [
+    -56.16,
+    -34.9
+   ],
+   "pos": [
+    -56.03,
+    -32.79
+   ],
+   "form": true,
+   "klein": false
+  },
+  {
+   "code": "ve",
+   "name": "Venezuela",
+   "kontinent": "Südamerika",
+   "stufe": 1,
+   "hs": "Caracas",
+   "hsPos": [
+    -66.9,
+    10.48
+   ],
+   "pos": [
+    -66.18,
+    7.12
+   ],
+   "form": true,
+   "klein": false
+  },
+  {
+   "code": "au",
+   "name": "Australien",
+   "kontinent": "Ozeanien",
+   "stufe": 1,
+   "hs": "Canberra",
+   "hsPos": [
+    149.13,
+    -35.28
+   ],
+   "pos": [
+    134.21,
+    -25.63
+   ],
+   "form": true,
+   "klein": false
+  },
+  {
+   "code": "fj",
+   "name": "Fidschi",
+   "kontinent": "Ozeanien",
+   "stufe": 2,
+   "hs": "Suva",
+   "hsPos": [
+    178.44,
+    -18.14
+   ],
+   "pos": [
+    177.97,
+    -17.82
+   ],
+   "form": true,
+   "klein": false
+  },
+  {
+   "code": "ki",
+   "name": "Kiribati",
+   "kontinent": "Ozeanien",
+   "stufe": 3,
+   "hs": "South Tarawa",
+   "hsPos": [
+    172.98,
+    1.33
+   ],
+   "pos": [
+    -157.37,
+    1.85
+   ],
+   "form": true,
+   "klein": true
+  },
+  {
+   "code": "mh",
+   "name": "Marshallinseln",
+   "kontinent": "Ozeanien",
+   "stufe": 3,
+   "hs": "Majuro",
+   "hsPos": [
+    171.38,
+    7.09
+   ],
+   "pos": [
+    171.38,
+    7.09
+   ],
+   "form": true,
+   "klein": true
+  },
+  {
+   "code": "fm",
+   "name": "Mikronesien",
+   "kontinent": "Ozeanien",
+   "stufe": 3,
+   "hs": "Palikir",
+   "hsPos": [
+    158.16,
+    6.92
+   ],
+   "pos": [
+    158.23,
+    6.89
+   ],
+   "form": true,
+   "klein": true
+  },
+  {
+   "code": "nr",
+   "name": "Nauru",
+   "kontinent": "Ozeanien",
+   "stufe": 3,
+   "hs": null,
+   "hsPos": null,
+   "pos": [
+    166.93,
+    -0.52
+   ],
+   "form": true,
+   "klein": true
+  },
+  {
+   "code": "nz",
+   "name": "Neuseeland",
+   "kontinent": "Ozeanien",
+   "stufe": 1,
+   "hs": "Wellington",
+   "hsPos": [
+    174.78,
+    -41.29
+   ],
+   "pos": [
+    170.61,
+    -43.95
+   ],
+   "form": true,
+   "klein": false
+  },
+  {
+   "code": "pw",
+   "name": "Palau",
+   "kontinent": "Ozeanien",
+   "stufe": 3,
+   "hs": "Ngerulmud",
+   "hsPos": [
+    134.62,
+    7.5
+   ],
+   "pos": [
+    134.58,
+    7.51
+   ],
+   "form": true,
+   "klein": true
+  },
+  {
+   "code": "pg",
+   "name": "Papua-Neuguinea",
+   "kontinent": "Ozeanien",
+   "stufe": 2,
+   "hs": "Port Moresby",
+   "hsPos": [
+    147.18,
+    -9.44
+   ],
+   "pos": [
+    144.23,
+    -6.6
+   ],
+   "form": true,
+   "klein": false
+  },
+  {
+   "code": "sb",
+   "name": "Salomonen",
+   "kontinent": "Ozeanien",
+   "stufe": 3,
+   "hs": "Honiara",
+   "hsPos": [
+    159.95,
+    -9.43
+   ],
+   "pos": [
+    160.17,
+    -9.62
+   ],
+   "form": true,
+   "klein": false
+  },
+  {
+   "code": "ws",
+   "name": "Samoa",
+   "kontinent": "Ozeanien",
+   "stufe": 3,
+   "hs": "Apia",
+   "hsPos": [
+    -171.76,
+    -13.83
+   ],
+   "pos": [
+    -172.44,
+    -13.63
+   ],
+   "form": true,
+   "klein": true
+  },
+  {
+   "code": "to",
+   "name": "Tonga",
+   "kontinent": "Ozeanien",
+   "stufe": 3,
+   "hs": "Nukuʻalofa",
+   "hsPos": [
+    -175.2,
+    -21.14
+   ],
+   "pos": [
+    -175.22,
+    -21.17
+   ],
+   "form": true,
+   "klein": true
+  },
+  {
+   "code": "tv",
+   "name": "Tuvalu",
+   "kontinent": "Ozeanien",
+   "stufe": 3,
+   "hs": "Funafuti",
+   "hsPos": [
+    179.2,
+    -8.52
+   ],
+   "pos": [
+    179.2,
+    -8.52
+   ],
+   "form": false,
+   "klein": true
+  },
+  {
+   "code": "vu",
+   "name": "Vanuatu",
+   "kontinent": "Ozeanien",
+   "stufe": 3,
+   "hs": "Port Vila",
+   "hsPos": [
+    168.32,
+    -17.73
+   ],
+   "pos": [
+    166.85,
+    -15.23
+   ],
+   "form": true,
+   "klein": false
+  }
+ ],
+ "staedte": [
+  {
+   "id": "hs-al",
+   "name": "Tirana",
+   "code": "al",
+   "pos": [
+    19.82,
+    41.33
+   ],
+   "stufe": 2,
+   "hauptstadt": true,
+   "merke": "Hauptstadt von Albanien."
+  },
+  {
+   "id": "hs-ad",
+   "name": "Andorra la Vella",
+   "code": "ad",
+   "pos": [
+    1.52,
+    42.51
+   ],
+   "stufe": 3,
+   "hauptstadt": true,
+   "merke": "Hauptstadt von Andorra."
+  },
+  {
+   "id": "hs-am",
+   "name": "Eriwan",
+   "code": "am",
+   "pos": [
+    44.51,
+    40.18
+   ],
+   "stufe": 3,
+   "hauptstadt": true,
+   "merke": "Hauptstadt von Armenien."
+  },
+  {
+   "id": "hs-az",
+   "name": "Baku",
+   "code": "az",
+   "pos": [
+    49.87,
+    40.41
+   ],
+   "stufe": 3,
+   "hauptstadt": true,
+   "merke": "Hauptstadt von Aserbaidschan."
+  },
+  {
+   "id": "hs-be",
+   "name": "Brüssel",
+   "code": "be",
+   "pos": [
+    4.35,
+    50.85
+   ],
+   "stufe": 1,
+   "hauptstadt": true,
+   "merke": "Hauptstadt von Belgien."
+  },
+  {
+   "id": "hs-ba",
+   "name": "Sarajevo",
+   "code": "ba",
+   "pos": [
+    18.41,
+    43.86
+   ],
+   "stufe": 2,
+   "hauptstadt": true,
+   "merke": "Hauptstadt von Bosnien und Herzegowina."
+  },
+  {
+   "id": "hs-bg",
+   "name": "Sofia",
+   "code": "bg",
+   "pos": [
+    23.32,
+    42.7
+   ],
+   "stufe": 2,
+   "hauptstadt": true,
+   "merke": "Hauptstadt von Bulgarien."
+  },
+  {
+   "id": "hs-dk",
+   "name": "Kopenhagen",
+   "code": "dk",
+   "pos": [
+    12.57,
+    55.68
+   ],
+   "stufe": 1,
+   "hauptstadt": true,
+   "merke": "Hauptstadt von Dänemark."
+  },
+  {
+   "id": "hs-de",
+   "name": "Berlin",
+   "code": "de",
+   "pos": [
+    13.4,
+    52.52
+   ],
+   "stufe": 1,
+   "hauptstadt": true,
+   "merke": "Hauptstadt von Deutschland."
+  },
+  {
+   "id": "hs-ee",
+   "name": "Tallinn",
+   "code": "ee",
+   "pos": [
+    24.75,
+    59.44
+   ],
+   "stufe": 2,
+   "hauptstadt": true,
+   "merke": "Hauptstadt von Estland."
+  },
+  {
+   "id": "hs-fi",
+   "name": "Helsinki",
+   "code": "fi",
+   "pos": [
+    24.94,
+    60.17
+   ],
+   "stufe": 1,
+   "hauptstadt": true,
+   "merke": "Hauptstadt von Finnland."
+  },
+  {
+   "id": "hs-fr",
+   "name": "Paris",
+   "code": "fr",
+   "pos": [
+    2.35,
+    48.86
+   ],
+   "stufe": 1,
+   "hauptstadt": true,
+   "merke": "Hauptstadt von Frankreich."
+  },
+  {
+   "id": "hs-ge",
+   "name": "Tiflis",
+   "code": "ge",
+   "pos": [
+    44.79,
+    41.72
+   ],
+   "stufe": 3,
+   "hauptstadt": true,
+   "merke": "Hauptstadt von Georgien."
+  },
+  {
+   "id": "hs-gr",
+   "name": "Athen",
+   "code": "gr",
+   "pos": [
+    23.73,
+    37.98
+   ],
+   "stufe": 1,
+   "hauptstadt": true,
+   "merke": "Hauptstadt von Griechenland."
+  },
+  {
+   "id": "hs-ie",
+   "name": "Dublin",
+   "code": "ie",
+   "pos": [
+    -6.26,
+    53.35
+   ],
+   "stufe": 1,
+   "hauptstadt": true,
+   "merke": "Hauptstadt von Irland."
+  },
+  {
+   "id": "hs-is",
+   "name": "Reykjavík",
+   "code": "is",
+   "pos": [
+    -21.94,
+    64.15
+   ],
+   "stufe": 1,
+   "hauptstadt": true,
+   "merke": "Hauptstadt von Island."
+  },
+  {
+   "id": "hs-it",
+   "name": "Rom",
+   "code": "it",
+   "pos": [
+    12.5,
+    41.9
+   ],
+   "stufe": 1,
+   "hauptstadt": true,
+   "merke": "Hauptstadt von Italien."
+  },
+  {
+   "id": "hs-hr",
+   "name": "Zagreb",
+   "code": "hr",
+   "pos": [
+    15.98,
+    45.81
+   ],
+   "stufe": 1,
+   "hauptstadt": true,
+   "merke": "Hauptstadt von Kroatien."
+  },
+  {
+   "id": "hs-lv",
+   "name": "Riga",
+   "code": "lv",
+   "pos": [
+    24.11,
+    56.95
+   ],
+   "stufe": 2,
+   "hauptstadt": true,
+   "merke": "Hauptstadt von Lettland."
+  },
+  {
+   "id": "hs-li",
+   "name": "Vaduz",
+   "code": "li",
+   "pos": [
+    9.52,
+    47.14
+   ],
+   "stufe": 2,
+   "hauptstadt": true,
+   "merke": "Hauptstadt von Liechtenstein."
+  },
+  {
+   "id": "hs-lt",
+   "name": "Vilnius",
+   "code": "lt",
+   "pos": [
+    25.28,
+    54.69
+   ],
+   "stufe": 2,
+   "hauptstadt": true,
+   "merke": "Hauptstadt von Litauen."
+  },
+  {
+   "id": "hs-lu",
+   "name": "Luxemburg",
+   "code": "lu",
+   "pos": [
+    6.13,
+    49.61
+   ],
+   "stufe": 1,
+   "hauptstadt": true,
+   "merke": "Hauptstadt von Luxemburg."
+  },
+  {
+   "id": "hs-mt",
+   "name": "Valletta",
+   "code": "mt",
+   "pos": [
+    14.51,
+    35.9
+   ],
+   "stufe": 2,
+   "hauptstadt": true,
+   "merke": "Hauptstadt von Malta."
+  },
+  {
+   "id": "hs-md",
+   "name": "Chișinău",
+   "code": "md",
+   "pos": [
+    28.86,
+    47.01
+   ],
+   "stufe": 3,
+   "hauptstadt": true,
+   "merke": "Hauptstadt von Moldau."
+  },
+  {
+   "id": "hs-mc",
+   "name": "Monaco",
+   "code": "mc",
+   "pos": [
+    7.42,
+    43.73
+   ],
+   "stufe": 2,
+   "hauptstadt": true,
+   "merke": "Hauptstadt von Monaco."
+  },
+  {
+   "id": "hs-me",
+   "name": "Podgorica",
+   "code": "me",
+   "pos": [
+    19.26,
+    42.44
+   ],
+   "stufe": 2,
+   "hauptstadt": true,
+   "merke": "Hauptstadt von Montenegro."
+  },
+  {
+   "id": "hs-nl",
+   "name": "Amsterdam",
+   "code": "nl",
+   "pos": [
+    4.9,
+    52.37
+   ],
+   "stufe": 1,
+   "hauptstadt": true,
+   "merke": "Hauptstadt von Niederlande."
+  },
+  {
+   "id": "hs-mk",
+   "name": "Skopje",
+   "code": "mk",
+   "pos": [
+    21.43,
+    42
+   ],
+   "stufe": 2,
+   "hauptstadt": true,
+   "merke": "Hauptstadt von Nordmazedonien."
+  },
+  {
+   "id": "hs-no",
+   "name": "Oslo",
+   "code": "no",
+   "pos": [
+    10.75,
+    59.91
+   ],
+   "stufe": 1,
+   "hauptstadt": true,
+   "merke": "Hauptstadt von Norwegen."
+  },
+  {
+   "id": "hs-at",
+   "name": "Wien",
+   "code": "at",
+   "pos": [
+    16.37,
+    48.21
+   ],
+   "stufe": 1,
+   "hauptstadt": true,
+   "merke": "Hauptstadt von Österreich."
+  },
+  {
+   "id": "hs-pl",
+   "name": "Warschau",
+   "code": "pl",
+   "pos": [
+    21.01,
+    52.23
+   ],
+   "stufe": 1,
+   "hauptstadt": true,
+   "merke": "Hauptstadt von Polen."
+  },
+  {
+   "id": "hs-pt",
+   "name": "Lissabon",
+   "code": "pt",
+   "pos": [
+    -9.14,
+    38.72
+   ],
+   "stufe": 1,
+   "hauptstadt": true,
+   "merke": "Hauptstadt von Portugal."
+  },
+  {
+   "id": "hs-ro",
+   "name": "Bukarest",
+   "code": "ro",
+   "pos": [
+    26.1,
+    44.43
+   ],
+   "stufe": 1,
+   "hauptstadt": true,
+   "merke": "Hauptstadt von Rumänien."
+  },
+  {
+   "id": "hs-ru",
+   "name": "Moskau",
+   "code": "ru",
+   "pos": [
+    37.62,
+    55.76
+   ],
+   "stufe": 1,
+   "hauptstadt": true,
+   "merke": "Hauptstadt von Russland."
+  },
+  {
+   "id": "hs-sm",
+   "name": "San Marino",
+   "code": "sm",
+   "pos": [
+    12.45,
+    43.94
+   ],
+   "stufe": 2,
+   "hauptstadt": true,
+   "merke": "Hauptstadt von San Marino."
+  },
+  {
+   "id": "hs-se",
+   "name": "Stockholm",
+   "code": "se",
+   "pos": [
+    18.07,
+    59.33
+   ],
+   "stufe": 1,
+   "hauptstadt": true,
+   "merke": "Hauptstadt von Schweden."
+  },
+  {
+   "id": "hs-ch",
+   "name": "Bern",
+   "code": "ch",
+   "pos": [
+    7.45,
+    46.95
+   ],
+   "stufe": 1,
+   "hauptstadt": true,
+   "merke": "Hauptstadt von Schweiz."
+  },
+  {
+   "id": "hs-rs",
+   "name": "Belgrad",
+   "code": "rs",
+   "pos": [
+    20.45,
+    44.79
+   ],
+   "stufe": 2,
+   "hauptstadt": true,
+   "merke": "Hauptstadt von Serbien."
+  },
+  {
+   "id": "hs-sk",
+   "name": "Bratislava",
+   "code": "sk",
+   "pos": [
+    17.11,
+    48.15
+   ],
+   "stufe": 2,
+   "hauptstadt": true,
+   "merke": "Hauptstadt von Slowakei."
+  },
+  {
+   "id": "hs-si",
+   "name": "Ljubljana",
+   "code": "si",
+   "pos": [
+    14.51,
+    46.06
+   ],
+   "stufe": 2,
+   "hauptstadt": true,
+   "merke": "Hauptstadt von Slowenien."
+  },
+  {
+   "id": "hs-es",
+   "name": "Madrid",
+   "code": "es",
+   "pos": [
+    -3.7,
+    40.42
+   ],
+   "stufe": 1,
+   "hauptstadt": true,
+   "merke": "Hauptstadt von Spanien."
+  },
+  {
+   "id": "hs-cz",
+   "name": "Prag",
+   "code": "cz",
+   "pos": [
+    14.44,
+    50.08
+   ],
+   "stufe": 1,
+   "hauptstadt": true,
+   "merke": "Hauptstadt von Tschechien."
+  },
+  {
+   "id": "hs-tr",
+   "name": "Ankara",
+   "code": "tr",
+   "pos": [
+    32.86,
+    39.93
+   ],
+   "stufe": 1,
+   "hauptstadt": true,
+   "merke": "Hauptstadt von Türkei."
+  },
+  {
+   "id": "hs-ua",
+   "name": "Kyjiw",
+   "code": "ua",
+   "pos": [
+    30.52,
+    50.45
+   ],
+   "stufe": 1,
+   "hauptstadt": true,
+   "merke": "Hauptstadt von Ukraine."
+  },
+  {
+   "id": "hs-hu",
+   "name": "Budapest",
+   "code": "hu",
+   "pos": [
+    19.04,
+    47.5
+   ],
+   "stufe": 1,
+   "hauptstadt": true,
+   "merke": "Hauptstadt von Ungarn."
+  },
+  {
+   "id": "hs-va",
+   "name": "Vatikanstadt",
+   "code": "va",
+   "pos": [
+    12.45,
+    41.9
+   ],
+   "stufe": 2,
+   "hauptstadt": true,
+   "merke": "Hauptstadt von Vatikanstadt."
+  },
+  {
+   "id": "hs-gb",
+   "name": "London",
+   "code": "gb",
+   "pos": [
+    -0.13,
+    51.51
+   ],
+   "stufe": 1,
+   "hauptstadt": true,
+   "merke": "Hauptstadt von Vereinigtes Königreich."
+  },
+  {
+   "id": "hs-by",
+   "name": "Minsk",
+   "code": "by",
+   "pos": [
+    27.56,
+    53.9
+   ],
+   "stufe": 2,
+   "hauptstadt": true,
+   "merke": "Hauptstadt von Belarus."
+  },
+  {
+   "id": "hs-cy",
+   "name": "Nikosia",
+   "code": "cy",
+   "pos": [
+    33.36,
+    35.17
+   ],
+   "stufe": 2,
+   "hauptstadt": true,
+   "merke": "Hauptstadt von Zypern."
+  },
+  {
+   "id": "hs-af",
+   "name": "Kabul",
+   "code": "af",
+   "pos": [
+    69.17,
+    34.53
+   ],
+   "stufe": 2,
+   "hauptstadt": true,
+   "merke": "Hauptstadt von Afghanistan."
+  },
+  {
+   "id": "hs-bh",
+   "name": "Manama",
+   "code": "bh",
+   "pos": [
+    50.59,
+    26.23
+   ],
+   "stufe": 3,
+   "hauptstadt": true,
+   "merke": "Hauptstadt von Bahrain."
+  },
+  {
+   "id": "hs-bd",
+   "name": "Dhaka",
+   "code": "bd",
+   "pos": [
+    90.41,
+    23.81
+   ],
+   "stufe": 2,
+   "hauptstadt": true,
+   "merke": "Hauptstadt von Bangladesch."
+  },
+  {
+   "id": "hs-bt",
+   "name": "Thimphu",
+   "code": "bt",
+   "pos": [
+    89.64,
+    27.47
+   ],
+   "stufe": 3,
+   "hauptstadt": true,
+   "merke": "Hauptstadt von Bhutan."
+  },
+  {
+   "id": "hs-bn",
+   "name": "Bandar Seri Begawan",
+   "code": "bn",
+   "pos": [
+    114.94,
+    4.89
+   ],
+   "stufe": 3,
+   "hauptstadt": true,
+   "merke": "Hauptstadt von Brunei."
+  },
+  {
+   "id": "hs-cn",
+   "name": "Peking",
+   "code": "cn",
+   "pos": [
+    116.41,
+    39.9
+   ],
+   "stufe": 1,
+   "hauptstadt": true,
+   "merke": "Hauptstadt von China."
+  },
+  {
+   "id": "hs-in",
+   "name": "Neu-Delhi",
+   "code": "in",
+   "pos": [
+    77.21,
+    28.61
+   ],
+   "stufe": 1,
+   "hauptstadt": true,
+   "merke": "Hauptstadt von Indien."
+  },
+  {
+   "id": "hs-id",
+   "name": "Jakarta",
+   "code": "id",
+   "pos": [
+    106.85,
+    -6.21
+   ],
+   "stufe": 1,
+   "hauptstadt": true,
+   "merke": "Hauptstadt von Indonesien."
+  },
+  {
+   "id": "hs-iq",
+   "name": "Bagdad",
+   "code": "iq",
+   "pos": [
+    44.37,
+    33.31
+   ],
+   "stufe": 2,
+   "hauptstadt": true,
+   "merke": "Hauptstadt von Irak."
+  },
+  {
+   "id": "hs-ir",
+   "name": "Teheran",
+   "code": "ir",
+   "pos": [
+    51.39,
+    35.69
+   ],
+   "stufe": 1,
+   "hauptstadt": true,
+   "merke": "Hauptstadt von Iran."
+  },
+  {
+   "id": "hs-jp",
+   "name": "Tokio",
+   "code": "jp",
+   "pos": [
+    139.69,
+    35.68
+   ],
+   "stufe": 1,
+   "hauptstadt": true,
+   "merke": "Hauptstadt von Japan."
+  },
+  {
+   "id": "hs-ye",
+   "name": "Sanaa",
+   "code": "ye",
+   "pos": [
+    44.19,
+    15.37
+   ],
+   "stufe": 2,
+   "hauptstadt": true,
+   "merke": "Hauptstadt von Jemen."
+  },
+  {
+   "id": "hs-jo",
+   "name": "Amman",
+   "code": "jo",
+   "pos": [
+    35.93,
+    31.95
+   ],
+   "stufe": 2,
+   "hauptstadt": true,
+   "merke": "Hauptstadt von Jordanien."
+  },
+  {
+   "id": "hs-kh",
+   "name": "Phnom Penh",
+   "code": "kh",
+   "pos": [
+    104.92,
+    11.56
+   ],
+   "stufe": 2,
+   "hauptstadt": true,
+   "merke": "Hauptstadt von Kambodscha."
+  },
+  {
+   "id": "hs-kz",
+   "name": "Astana",
+   "code": "kz",
+   "pos": [
+    71.45,
+    51.17
+   ],
+   "stufe": 2,
+   "hauptstadt": true,
+   "merke": "Hauptstadt von Kasachstan."
+  },
+  {
+   "id": "hs-qa",
+   "name": "Doha",
+   "code": "qa",
+   "pos": [
+    51.53,
+    25.29
+   ],
+   "stufe": 2,
+   "hauptstadt": true,
+   "merke": "Hauptstadt von Katar."
+  },
+  {
+   "id": "hs-kg",
+   "name": "Bischkek",
+   "code": "kg",
+   "pos": [
+    74.59,
+    42.87
+   ],
+   "stufe": 3,
+   "hauptstadt": true,
+   "merke": "Hauptstadt von Kirgisistan."
+  },
+  {
+   "id": "hs-kw",
+   "name": "Kuwait-Stadt",
+   "code": "kw",
+   "pos": [
+    47.99,
+    29.38
+   ],
+   "stufe": 2,
+   "hauptstadt": true,
+   "merke": "Hauptstadt von Kuwait."
+  },
+  {
+   "id": "hs-la",
+   "name": "Vientiane",
+   "code": "la",
+   "pos": [
+    102.63,
+    17.98
+   ],
+   "stufe": 3,
+   "hauptstadt": true,
+   "merke": "Hauptstadt von Laos."
+  },
+  {
+   "id": "hs-lb",
+   "name": "Beirut",
+   "code": "lb",
+   "pos": [
+    35.5,
+    33.89
+   ],
+   "stufe": 2,
+   "hauptstadt": true,
+   "merke": "Hauptstadt von Libanon."
+  },
+  {
+   "id": "hs-my",
+   "name": "Kuala Lumpur",
+   "code": "my",
+   "pos": [
+    101.69,
+    3.14
+   ],
+   "stufe": 2,
+   "hauptstadt": true,
+   "merke": "Hauptstadt von Malaysia."
+  },
+  {
+   "id": "hs-mv",
+   "name": "Malé",
+   "code": "mv",
+   "pos": [
+    73.51,
+    4.18
+   ],
+   "stufe": 2,
+   "hauptstadt": true,
+   "merke": "Hauptstadt von Malediven."
+  },
+  {
+   "id": "hs-mn",
+   "name": "Ulaanbaatar",
+   "code": "mn",
+   "pos": [
+    106.91,
+    47.89
+   ],
+   "stufe": 2,
+   "hauptstadt": true,
+   "merke": "Hauptstadt von Mongolei."
+  },
+  {
+   "id": "hs-mm",
+   "name": "Naypyidaw",
+   "code": "mm",
+   "pos": [
+    96.08,
+    19.76
+   ],
+   "stufe": 3,
+   "hauptstadt": true,
+   "merke": "Hauptstadt von Myanmar."
+  },
+  {
+   "id": "hs-np",
+   "name": "Kathmandu",
+   "code": "np",
+   "pos": [
+    85.32,
+    27.72
+   ],
+   "stufe": 2,
+   "hauptstadt": true,
+   "merke": "Hauptstadt von Nepal."
+  },
+  {
+   "id": "hs-kp",
+   "name": "Pjöngjang",
+   "code": "kp",
+   "pos": [
+    125.76,
+    39.04
+   ],
+   "stufe": 1,
+   "hauptstadt": true,
+   "merke": "Hauptstadt von Nordkorea."
+  },
+  {
+   "id": "hs-om",
+   "name": "Maskat",
+   "code": "om",
+   "pos": [
+    58.41,
+    23.59
+   ],
+   "stufe": 2,
+   "hauptstadt": true,
+   "merke": "Hauptstadt von Oman."
+  },
+  {
+   "id": "hs-pk",
+   "name": "Islamabad",
+   "code": "pk",
+   "pos": [
+    73.05,
+    33.68
+   ],
+   "stufe": 2,
+   "hauptstadt": true,
+   "merke": "Hauptstadt von Pakistan."
+  },
+  {
+   "id": "hs-ph",
+   "name": "Manila",
+   "code": "ph",
+   "pos": [
+    120.98,
+    14.6
+   ],
+   "stufe": 1,
+   "hauptstadt": true,
+   "merke": "Hauptstadt von Philippinen."
+  },
+  {
+   "id": "hs-sa",
+   "name": "Riad",
+   "code": "sa",
+   "pos": [
+    46.68,
+    24.71
+   ],
+   "stufe": 1,
+   "hauptstadt": true,
+   "merke": "Hauptstadt von Saudi-Arabien."
+  },
+  {
+   "id": "hs-sg",
+   "name": "Singapur",
+   "code": "sg",
+   "pos": [
+    103.85,
+    1.29
+   ],
+   "stufe": 1,
+   "hauptstadt": true,
+   "merke": "Hauptstadt von Singapur."
+  },
+  {
+   "id": "hs-lk",
+   "name": "Sri Jayewardenepura Kotte",
+   "code": "lk",
+   "pos": [
+    79.92,
+    6.89
+   ],
+   "stufe": 3,
+   "hauptstadt": true,
+   "merke": "Hauptstadt von Sri Lanka."
+  },
+  {
+   "id": "hs-kr",
+   "name": "Seoul",
+   "code": "kr",
+   "pos": [
+    126.98,
+    37.57
+   ],
+   "stufe": 1,
+   "hauptstadt": true,
+   "merke": "Hauptstadt von Südkorea."
+  },
+  {
+   "id": "hs-sy",
+   "name": "Damaskus",
+   "code": "sy",
+   "pos": [
+    36.29,
+    33.51
+   ],
+   "stufe": 2,
+   "hauptstadt": true,
+   "merke": "Hauptstadt von Syrien."
+  },
+  {
+   "id": "hs-tj",
+   "name": "Duschanbe",
+   "code": "tj",
+   "pos": [
+    68.79,
+    38.56
+   ],
+   "stufe": 3,
+   "hauptstadt": true,
+   "merke": "Hauptstadt von Tadschikistan."
+  },
+  {
+   "id": "hs-th",
+   "name": "Bangkok",
+   "code": "th",
+   "pos": [
+    100.5,
+    13.76
+   ],
+   "stufe": 1,
+   "hauptstadt": true,
+   "merke": "Hauptstadt von Thailand."
+  },
+  {
+   "id": "hs-tl",
+   "name": "Dili",
+   "code": "tl",
+   "pos": [
+    125.57,
+    -8.56
+   ],
+   "stufe": 3,
+   "hauptstadt": true,
+   "merke": "Hauptstadt von Timor-Leste."
+  },
+  {
+   "id": "hs-tm",
+   "name": "Aşgabat",
+   "code": "tm",
+   "pos": [
+    58.33,
+    37.96
+   ],
+   "stufe": 3,
+   "hauptstadt": true,
+   "merke": "Hauptstadt von Turkmenistan."
+  },
+  {
+   "id": "hs-uz",
+   "name": "Taschkent",
+   "code": "uz",
+   "pos": [
+    69.24,
+    41.3
+   ],
+   "stufe": 2,
+   "hauptstadt": true,
+   "merke": "Hauptstadt von Usbekistan."
+  },
+  {
+   "id": "hs-ae",
+   "name": "Abu Dhabi",
+   "code": "ae",
+   "pos": [
+    54.38,
+    24.45
+   ],
+   "stufe": 1,
+   "hauptstadt": true,
+   "merke": "Hauptstadt von Vereinigte Arabische Emirate."
+  },
+  {
+   "id": "hs-vn",
+   "name": "Hanoi",
+   "code": "vn",
+   "pos": [
+    105.85,
+    21.03
+   ],
+   "stufe": 1,
+   "hauptstadt": true,
+   "merke": "Hauptstadt von Vietnam."
+  },
+  {
+   "id": "hs-eg",
+   "name": "Kairo",
+   "code": "eg",
+   "pos": [
+    31.24,
+    30.04
+   ],
+   "stufe": 1,
+   "hauptstadt": true,
+   "merke": "Hauptstadt von Ägypten."
+  },
+  {
+   "id": "hs-dz",
+   "name": "Algier",
+   "code": "dz",
+   "pos": [
+    3.06,
+    36.75
+   ],
+   "stufe": 2,
+   "hauptstadt": true,
+   "merke": "Hauptstadt von Algerien."
+  },
+  {
+   "id": "hs-ao",
+   "name": "Luanda",
+   "code": "ao",
+   "pos": [
+    13.23,
+    -8.84
+   ],
+   "stufe": 2,
+   "hauptstadt": true,
+   "merke": "Hauptstadt von Angola."
+  },
+  {
+   "id": "hs-et",
+   "name": "Addis Abeba",
+   "code": "et",
+   "pos": [
+    38.74,
+    9.03
+   ],
+   "stufe": 2,
+   "hauptstadt": true,
+   "merke": "Hauptstadt von Äthiopien."
+  },
+  {
+   "id": "hs-bj",
+   "name": "Porto-Novo",
+   "code": "bj",
+   "pos": [
+    2.63,
+    6.5
+   ],
+   "stufe": 3,
+   "hauptstadt": true,
+   "merke": "Hauptstadt von Benin."
+  },
+  {
+   "id": "hs-bw",
+   "name": "Gaborone",
+   "code": "bw",
+   "pos": [
+    25.91,
+    -24.65
+   ],
+   "stufe": 3,
+   "hauptstadt": true,
+   "merke": "Hauptstadt von Botswana."
+  },
+  {
+   "id": "hs-bf",
+   "name": "Ouagadougou",
+   "code": "bf",
+   "pos": [
+    -1.52,
+    12.37
+   ],
+   "stufe": 3,
+   "hauptstadt": true,
+   "merke": "Hauptstadt von Burkina Faso."
+  },
+  {
+   "id": "hs-bi",
+   "name": "Gitega",
+   "code": "bi",
+   "pos": [
+    29.93,
+    -3.43
+   ],
+   "stufe": 3,
+   "hauptstadt": true,
+   "merke": "Hauptstadt von Burundi."
+  },
+  {
+   "id": "hs-dj",
+   "name": "Dschibuti",
+   "code": "dj",
+   "pos": [
+    43.15,
+    11.59
+   ],
+   "stufe": 3,
+   "hauptstadt": true,
+   "merke": "Hauptstadt von Dschibuti."
+  },
+  {
+   "id": "hs-ci",
+   "name": "Yamoussoukro",
+   "code": "ci",
+   "pos": [
+    -5.29,
+    6.83
+   ],
+   "stufe": 2,
+   "hauptstadt": true,
+   "merke": "Hauptstadt von Elfenbeinküste."
+  },
+  {
+   "id": "hs-er",
+   "name": "Asmara",
+   "code": "er",
+   "pos": [
+    38.93,
+    15.32
+   ],
+   "stufe": 3,
+   "hauptstadt": true,
+   "merke": "Hauptstadt von Eritrea."
+  },
+  {
+   "id": "hs-sz",
+   "name": "Mbabane",
+   "code": "sz",
+   "pos": [
+    31.14,
+    -26.31
+   ],
+   "stufe": 3,
+   "hauptstadt": true,
+   "merke": "Hauptstadt von Eswatini."
+  },
+  {
+   "id": "hs-ga",
+   "name": "Libreville",
+   "code": "ga",
+   "pos": [
+    9.47,
+    0.42
+   ],
+   "stufe": 3,
+   "hauptstadt": true,
+   "merke": "Hauptstadt von Gabun."
+  },
+  {
+   "id": "hs-gm",
+   "name": "Banjul",
+   "code": "gm",
+   "pos": [
+    -16.58,
+    13.45
+   ],
+   "stufe": 3,
+   "hauptstadt": true,
+   "merke": "Hauptstadt von Gambia."
+  },
+  {
+   "id": "hs-gh",
+   "name": "Accra",
+   "code": "gh",
+   "pos": [
+    -0.19,
+    5.6
+   ],
+   "stufe": 2,
+   "hauptstadt": true,
+   "merke": "Hauptstadt von Ghana."
+  },
+  {
+   "id": "hs-gn",
+   "name": "Conakry",
+   "code": "gn",
+   "pos": [
+    -13.58,
+    9.64
+   ],
+   "stufe": 3,
+   "hauptstadt": true,
+   "merke": "Hauptstadt von Guinea."
+  },
+  {
+   "id": "hs-gw",
+   "name": "Bissau",
+   "code": "gw",
+   "pos": [
+    -15.6,
+    11.86
+   ],
+   "stufe": 3,
+   "hauptstadt": true,
+   "merke": "Hauptstadt von Guinea-Bissau."
+  },
+  {
+   "id": "hs-cm",
+   "name": "Jaunde",
+   "code": "cm",
+   "pos": [
+    11.5,
+    3.85
+   ],
+   "stufe": 2,
+   "hauptstadt": true,
+   "merke": "Hauptstadt von Kamerun."
+  },
+  {
+   "id": "hs-cv",
+   "name": "Praia",
+   "code": "cv",
+   "pos": [
+    -23.51,
+    14.93
+   ],
+   "stufe": 3,
+   "hauptstadt": true,
+   "merke": "Hauptstadt von Kap Verde."
+  },
+  {
+   "id": "hs-ke",
+   "name": "Nairobi",
+   "code": "ke",
+   "pos": [
+    36.82,
+    -1.29
+   ],
+   "stufe": 1,
+   "hauptstadt": true,
+   "merke": "Hauptstadt von Kenia."
+  },
+  {
+   "id": "hs-km",
+   "name": "Moroni",
+   "code": "km",
+   "pos": [
+    43.26,
+    -11.7
+   ],
+   "stufe": 3,
+   "hauptstadt": true,
+   "merke": "Hauptstadt von Komoren."
+  },
+  {
+   "id": "hs-cd",
+   "name": "Kinshasa",
+   "code": "cd",
+   "pos": [
+    15.27,
+    -4.44
+   ],
+   "stufe": 2,
+   "hauptstadt": true,
+   "merke": "Hauptstadt von Demokratische Republik Kongo."
+  },
+  {
+   "id": "hs-cg",
+   "name": "Brazzaville",
+   "code": "cg",
+   "pos": [
+    15.28,
+    -4.27
+   ],
+   "stufe": 3,
+   "hauptstadt": true,
+   "merke": "Hauptstadt von Republik Kongo."
+  },
+  {
+   "id": "hs-ls",
+   "name": "Maseru",
+   "code": "ls",
+   "pos": [
+    27.48,
+    -29.31
+   ],
+   "stufe": 3,
+   "hauptstadt": true,
+   "merke": "Hauptstadt von Lesotho."
+  },
+  {
+   "id": "hs-lr",
+   "name": "Monrovia",
+   "code": "lr",
+   "pos": [
+    -10.8,
+    6.3
+   ],
+   "stufe": 3,
+   "hauptstadt": true,
+   "merke": "Hauptstadt von Liberia."
+  },
+  {
+   "id": "hs-ly",
+   "name": "Tripolis",
+   "code": "ly",
+   "pos": [
+    13.19,
+    32.89
+   ],
+   "stufe": 2,
+   "hauptstadt": true,
+   "merke": "Hauptstadt von Libyen."
+  },
+  {
+   "id": "hs-mg",
+   "name": "Antananarivo",
+   "code": "mg",
+   "pos": [
+    47.51,
+    -18.88
+   ],
+   "stufe": 2,
+   "hauptstadt": true,
+   "merke": "Hauptstadt von Madagaskar."
+  },
+  {
+   "id": "hs-mw",
+   "name": "Lilongwe",
+   "code": "mw",
+   "pos": [
+    33.79,
+    -13.96
+   ],
+   "stufe": 3,
+   "hauptstadt": true,
+   "merke": "Hauptstadt von Malawi."
+  },
+  {
+   "id": "hs-ml",
+   "name": "Bamako",
+   "code": "ml",
+   "pos": [
+    -8,
+    12.64
+   ],
+   "stufe": 2,
+   "hauptstadt": true,
+   "merke": "Hauptstadt von Mali."
+  },
+  {
+   "id": "hs-ma",
+   "name": "Rabat",
+   "code": "ma",
+   "pos": [
+    -6.84,
+    34.02
+   ],
+   "stufe": 1,
+   "hauptstadt": true,
+   "merke": "Hauptstadt von Marokko."
+  },
+  {
+   "id": "hs-mr",
+   "name": "Nouakchott",
+   "code": "mr",
+   "pos": [
+    -15.98,
+    18.08
+   ],
+   "stufe": 3,
+   "hauptstadt": true,
+   "merke": "Hauptstadt von Mauretanien."
+  },
+  {
+   "id": "hs-mu",
+   "name": "Port Louis",
+   "code": "mu",
+   "pos": [
+    57.5,
+    -20.16
+   ],
+   "stufe": 2,
+   "hauptstadt": true,
+   "merke": "Hauptstadt von Mauritius."
+  },
+  {
+   "id": "hs-mz",
+   "name": "Maputo",
+   "code": "mz",
+   "pos": [
+    32.57,
+    -25.97
+   ],
+   "stufe": 2,
+   "hauptstadt": true,
+   "merke": "Hauptstadt von Mosambik."
+  },
+  {
+   "id": "hs-na",
+   "name": "Windhoek",
+   "code": "na",
+   "pos": [
+    17.08,
+    -22.56
+   ],
+   "stufe": 2,
+   "hauptstadt": true,
+   "merke": "Hauptstadt von Namibia."
+  },
+  {
+   "id": "hs-ne",
+   "name": "Niamey",
+   "code": "ne",
+   "pos": [
+    2.11,
+    13.51
+   ],
+   "stufe": 3,
+   "hauptstadt": true,
+   "merke": "Hauptstadt von Niger."
+  },
+  {
+   "id": "hs-ng",
+   "name": "Abuja",
+   "code": "ng",
+   "pos": [
+    7.5,
+    9.06
+   ],
+   "stufe": 1,
+   "hauptstadt": true,
+   "merke": "Hauptstadt von Nigeria."
+  },
+  {
+   "id": "hs-rw",
+   "name": "Kigali",
+   "code": "rw",
+   "pos": [
+    30.06,
+    -1.95
+   ],
+   "stufe": 2,
+   "hauptstadt": true,
+   "merke": "Hauptstadt von Ruanda."
+  },
+  {
+   "id": "hs-zm",
+   "name": "Lusaka",
+   "code": "zm",
+   "pos": [
+    28.32,
+    -15.39
+   ],
+   "stufe": 3,
+   "hauptstadt": true,
+   "merke": "Hauptstadt von Sambia."
+  },
+  {
+   "id": "hs-st",
+   "name": "São Tomé",
+   "code": "st",
+   "pos": [
+    6.73,
+    0.34
+   ],
+   "stufe": 3,
+   "hauptstadt": true,
+   "merke": "Hauptstadt von São Tomé und Príncipe."
+  },
+  {
+   "id": "hs-sn",
+   "name": "Dakar",
+   "code": "sn",
+   "pos": [
+    -17.47,
+    14.72
+   ],
+   "stufe": 2,
+   "hauptstadt": true,
+   "merke": "Hauptstadt von Senegal."
+  },
+  {
+   "id": "hs-sc",
+   "name": "Victoria",
+   "code": "sc",
+   "pos": [
+    55.45,
+    -4.62
+   ],
+   "stufe": 2,
+   "hauptstadt": true,
+   "merke": "Hauptstadt von Seychellen."
+  },
+  {
+   "id": "hs-sl",
+   "name": "Freetown",
+   "code": "sl",
+   "pos": [
+    -13.23,
+    8.48
+   ],
+   "stufe": 3,
+   "hauptstadt": true,
+   "merke": "Hauptstadt von Sierra Leone."
+  },
+  {
+   "id": "hs-zw",
+   "name": "Harare",
+   "code": "zw",
+   "pos": [
+    31.05,
+    -17.83
+   ],
+   "stufe": 2,
+   "hauptstadt": true,
+   "merke": "Hauptstadt von Simbabwe."
+  },
+  {
+   "id": "hs-so",
+   "name": "Mogadischu",
+   "code": "so",
+   "pos": [
+    45.32,
+    2.05
+   ],
+   "stufe": 2,
+   "hauptstadt": true,
+   "merke": "Hauptstadt von Somalia."
+  },
+  {
+   "id": "hs-za",
+   "name": "Pretoria",
+   "code": "za",
+   "pos": [
+    28.19,
+    -25.75
+   ],
+   "stufe": 1,
+   "hauptstadt": true,
+   "merke": "Hauptstadt von Südafrika."
+  },
+  {
+   "id": "hs-sd",
+   "name": "Khartum",
+   "code": "sd",
+   "pos": [
+    32.56,
+    15.5
+   ],
+   "stufe": 2,
+   "hauptstadt": true,
+   "merke": "Hauptstadt von Sudan."
+  },
+  {
+   "id": "hs-ss",
+   "name": "Juba",
+   "code": "ss",
+   "pos": [
+    31.58,
+    4.85
+   ],
+   "stufe": 3,
+   "hauptstadt": true,
+   "merke": "Hauptstadt von Südsudan."
+  },
+  {
+   "id": "hs-tz",
+   "name": "Dodoma",
+   "code": "tz",
+   "pos": [
+    35.75,
+    -6.16
+   ],
+   "stufe": 2,
+   "hauptstadt": true,
+   "merke": "Hauptstadt von Tansania."
+  },
+  {
+   "id": "hs-tg",
+   "name": "Lomé",
+   "code": "tg",
+   "pos": [
+    1.22,
+    6.13
+   ],
+   "stufe": 3,
+   "hauptstadt": true,
+   "merke": "Hauptstadt von Togo."
+  },
+  {
+   "id": "hs-td",
+   "name": "N'Djamena",
+   "code": "td",
+   "pos": [
+    15.06,
+    12.13
+   ],
+   "stufe": 3,
+   "hauptstadt": true,
+   "merke": "Hauptstadt von Tschad."
+  },
+  {
+   "id": "hs-tn",
+   "name": "Tunis",
+   "code": "tn",
+   "pos": [
+    10.18,
+    36.81
+   ],
+   "stufe": 1,
+   "hauptstadt": true,
+   "merke": "Hauptstadt von Tunesien."
+  },
+  {
+   "id": "hs-ug",
+   "name": "Kampala",
+   "code": "ug",
+   "pos": [
+    32.58,
+    0.35
+   ],
+   "stufe": 2,
+   "hauptstadt": true,
+   "merke": "Hauptstadt von Uganda."
+  },
+  {
+   "id": "hs-cf",
+   "name": "Bangui",
+   "code": "cf",
+   "pos": [
+    18.56,
+    4.39
+   ],
+   "stufe": 3,
+   "hauptstadt": true,
+   "merke": "Hauptstadt von Zentralafrikanische Republik."
+  },
+  {
+   "id": "hs-ag",
+   "name": "Saint John's",
+   "code": "ag",
+   "pos": [
+    -61.85,
+    17.12
+   ],
+   "stufe": 3,
+   "hauptstadt": true,
+   "merke": "Hauptstadt von Antigua und Barbuda."
+  },
+  {
+   "id": "hs-bs",
+   "name": "Nassau",
+   "code": "bs",
+   "pos": [
+    -77.35,
+    25.05
+   ],
+   "stufe": 2,
+   "hauptstadt": true,
+   "merke": "Hauptstadt von Bahamas."
+  },
+  {
+   "id": "hs-bb",
+   "name": "Bridgetown",
+   "code": "bb",
+   "pos": [
+    -59.61,
+    13.1
+   ],
+   "stufe": 3,
+   "hauptstadt": true,
+   "merke": "Hauptstadt von Barbados."
+  },
+  {
+   "id": "hs-bz",
+   "name": "Belmopan",
+   "code": "bz",
+   "pos": [
+    -88.77,
+    17.25
+   ],
+   "stufe": 3,
+   "hauptstadt": true,
+   "merke": "Hauptstadt von Belize."
+  },
+  {
+   "id": "hs-cr",
+   "name": "San José",
+   "code": "cr",
+   "pos": [
+    -84.09,
+    9.93
+   ],
+   "stufe": 2,
+   "hauptstadt": true,
+   "merke": "Hauptstadt von Costa Rica."
+  },
+  {
+   "id": "hs-dm",
+   "name": "Roseau",
+   "code": "dm",
+   "pos": [
+    -61.39,
+    15.3
+   ],
+   "stufe": 3,
+   "hauptstadt": true,
+   "merke": "Hauptstadt von Dominica."
+  },
+  {
+   "id": "hs-do",
+   "name": "Santo Domingo",
+   "code": "do",
+   "pos": [
+    -69.93,
+    18.49
+   ],
+   "stufe": 2,
+   "hauptstadt": true,
+   "merke": "Hauptstadt von Dominikanische Republik."
+  },
+  {
+   "id": "hs-sv",
+   "name": "San Salvador",
+   "code": "sv",
+   "pos": [
+    -89.22,
+    13.69
+   ],
+   "stufe": 2,
+   "hauptstadt": true,
+   "merke": "Hauptstadt von El Salvador."
+  },
+  {
+   "id": "hs-gd",
+   "name": "St. George's",
+   "code": "gd",
+   "pos": [
+    -61.75,
+    12.06
+   ],
+   "stufe": 3,
+   "hauptstadt": true,
+   "merke": "Hauptstadt von Grenada."
+  },
+  {
+   "id": "hs-gt",
+   "name": "Guatemala-Stadt",
+   "code": "gt",
+   "pos": [
+    -90.51,
+    14.63
+   ],
+   "stufe": 2,
+   "hauptstadt": true,
+   "merke": "Hauptstadt von Guatemala."
+  },
+  {
+   "id": "hs-ht",
+   "name": "Port-au-Prince",
+   "code": "ht",
+   "pos": [
+    -72.31,
+    18.59
+   ],
+   "stufe": 2,
+   "hauptstadt": true,
+   "merke": "Hauptstadt von Haiti."
+  },
+  {
+   "id": "hs-hn",
+   "name": "Tegucigalpa",
+   "code": "hn",
+   "pos": [
+    -87.19,
+    14.07
+   ],
+   "stufe": 3,
+   "hauptstadt": true,
+   "merke": "Hauptstadt von Honduras."
+  },
+  {
+   "id": "hs-jm",
+   "name": "Kingston",
+   "code": "jm",
+   "pos": [
+    -76.79,
+    17.97
+   ],
+   "stufe": 1,
+   "hauptstadt": true,
+   "merke": "Hauptstadt von Jamaika."
+  },
+  {
+   "id": "hs-ca",
+   "name": "Ottawa",
+   "code": "ca",
+   "pos": [
+    -75.7,
+    45.42
+   ],
+   "stufe": 1,
+   "hauptstadt": true,
+   "merke": "Hauptstadt von Kanada."
+  },
+  {
+   "id": "hs-cu",
+   "name": "Havanna",
+   "code": "cu",
+   "pos": [
+    -82.37,
+    23.11
+   ],
+   "stufe": 1,
+   "hauptstadt": true,
+   "merke": "Hauptstadt von Kuba."
+  },
+  {
+   "id": "hs-mx",
+   "name": "Mexiko-Stadt",
+   "code": "mx",
+   "pos": [
+    -99.13,
+    19.43
+   ],
+   "stufe": 1,
+   "hauptstadt": true,
+   "merke": "Hauptstadt von Mexiko."
+  },
+  {
+   "id": "hs-ni",
+   "name": "Managua",
+   "code": "ni",
+   "pos": [
+    -86.24,
+    12.11
+   ],
+   "stufe": 3,
+   "hauptstadt": true,
+   "merke": "Hauptstadt von Nicaragua."
+  },
+  {
+   "id": "hs-pa",
+   "name": "Panama-Stadt",
+   "code": "pa",
+   "pos": [
+    -79.52,
+    8.98
+   ],
+   "stufe": 2,
+   "hauptstadt": true,
+   "merke": "Hauptstadt von Panama."
+  },
+  {
+   "id": "hs-kn",
+   "name": "Basseterre",
+   "code": "kn",
+   "pos": [
+    -62.72,
+    17.3
+   ],
+   "stufe": 3,
+   "hauptstadt": true,
+   "merke": "Hauptstadt von St. Kitts und Nevis."
+  },
+  {
+   "id": "hs-lc",
+   "name": "Castries",
+   "code": "lc",
+   "pos": [
+    -60.99,
+    14.01
+   ],
+   "stufe": 3,
+   "hauptstadt": true,
+   "merke": "Hauptstadt von St. Lucia."
+  },
+  {
+   "id": "hs-vc",
+   "name": "Kingstown",
+   "code": "vc",
+   "pos": [
+    -61.23,
+    13.16
+   ],
+   "stufe": 3,
+   "hauptstadt": true,
+   "merke": "Hauptstadt von St. Vincent und die Grenadinen."
+  },
+  {
+   "id": "hs-tt",
+   "name": "Port of Spain",
+   "code": "tt",
+   "pos": [
+    -61.51,
+    10.66
+   ],
+   "stufe": 3,
+   "hauptstadt": true,
+   "merke": "Hauptstadt von Trinidad und Tobago."
+  },
+  {
+   "id": "hs-us",
+   "name": "Washington, D.C.",
+   "code": "us",
+   "pos": [
+    -77.04,
+    38.9
+   ],
+   "stufe": 1,
+   "hauptstadt": true,
+   "merke": "Hauptstadt von Vereinigte Staaten."
+  },
+  {
+   "id": "hs-ar",
+   "name": "Buenos Aires",
+   "code": "ar",
+   "pos": [
+    -58.38,
+    -34.6
+   ],
+   "stufe": 1,
+   "hauptstadt": true,
+   "merke": "Hauptstadt von Argentinien."
+  },
+  {
+   "id": "hs-bo",
+   "name": "Sucre",
+   "code": "bo",
+   "pos": [
+    -65.26,
+    -19.04
+   ],
+   "stufe": 2,
+   "hauptstadt": true,
+   "merke": "Hauptstadt von Bolivien."
+  },
+  {
+   "id": "hs-br",
+   "name": "Brasília",
+   "code": "br",
+   "pos": [
+    -47.88,
+    -15.79
+   ],
+   "stufe": 1,
+   "hauptstadt": true,
+   "merke": "Hauptstadt von Brasilien."
+  },
+  {
+   "id": "hs-cl",
+   "name": "Santiago de Chile",
+   "code": "cl",
+   "pos": [
+    -70.67,
+    -33.45
+   ],
+   "stufe": 1,
+   "hauptstadt": true,
+   "merke": "Hauptstadt von Chile."
+  },
+  {
+   "id": "hs-ec",
+   "name": "Quito",
+   "code": "ec",
+   "pos": [
+    -78.47,
+    -0.18
+   ],
+   "stufe": 2,
+   "hauptstadt": true,
+   "merke": "Hauptstadt von Ecuador."
+  },
+  {
+   "id": "hs-gy",
+   "name": "Georgetown",
+   "code": "gy",
+   "pos": [
+    -58.16,
+    6.8
+   ],
+   "stufe": 3,
+   "hauptstadt": true,
+   "merke": "Hauptstadt von Guyana."
+  },
+  {
+   "id": "hs-co",
+   "name": "Bogotá",
+   "code": "co",
+   "pos": [
+    -74.07,
+    4.71
+   ],
+   "stufe": 1,
+   "hauptstadt": true,
+   "merke": "Hauptstadt von Kolumbien."
+  },
+  {
+   "id": "hs-py",
+   "name": "Asunción",
+   "code": "py",
+   "pos": [
+    -57.58,
+    -25.26
+   ],
+   "stufe": 2,
+   "hauptstadt": true,
+   "merke": "Hauptstadt von Paraguay."
+  },
+  {
+   "id": "hs-pe",
+   "name": "Lima",
+   "code": "pe",
+   "pos": [
+    -77.04,
+    -12.05
+   ],
+   "stufe": 1,
+   "hauptstadt": true,
+   "merke": "Hauptstadt von Peru."
+  },
+  {
+   "id": "hs-sr",
+   "name": "Paramaribo",
+   "code": "sr",
+   "pos": [
+    -55.2,
+    5.85
+   ],
+   "stufe": 3,
+   "hauptstadt": true,
+   "merke": "Hauptstadt von Suriname."
+  },
+  {
+   "id": "hs-uy",
+   "name": "Montevideo",
+   "code": "uy",
+   "pos": [
+    -56.16,
+    -34.9
+   ],
+   "stufe": 2,
+   "hauptstadt": true,
+   "merke": "Hauptstadt von Uruguay."
+  },
+  {
+   "id": "hs-ve",
+   "name": "Caracas",
+   "code": "ve",
+   "pos": [
+    -66.9,
+    10.48
+   ],
+   "stufe": 1,
+   "hauptstadt": true,
+   "merke": "Hauptstadt von Venezuela."
+  },
+  {
+   "id": "hs-au",
+   "name": "Canberra",
+   "code": "au",
+   "pos": [
+    149.13,
+    -35.28
+   ],
+   "stufe": 1,
+   "hauptstadt": true,
+   "merke": "Hauptstadt von Australien."
+  },
+  {
+   "id": "hs-fj",
+   "name": "Suva",
+   "code": "fj",
+   "pos": [
+    178.44,
+    -18.14
+   ],
+   "stufe": 2,
+   "hauptstadt": true,
+   "merke": "Hauptstadt von Fidschi."
+  },
+  {
+   "id": "hs-ki",
+   "name": "South Tarawa",
+   "code": "ki",
+   "pos": [
+    172.98,
+    1.33
+   ],
+   "stufe": 3,
+   "hauptstadt": true,
+   "merke": "Hauptstadt von Kiribati."
+  },
+  {
+   "id": "hs-mh",
+   "name": "Majuro",
+   "code": "mh",
+   "pos": [
+    171.38,
+    7.09
+   ],
+   "stufe": 3,
+   "hauptstadt": true,
+   "merke": "Hauptstadt von Marshallinseln."
+  },
+  {
+   "id": "hs-fm",
+   "name": "Palikir",
+   "code": "fm",
+   "pos": [
+    158.16,
+    6.92
+   ],
+   "stufe": 3,
+   "hauptstadt": true,
+   "merke": "Hauptstadt von Mikronesien."
+  },
+  {
+   "id": "hs-nz",
+   "name": "Wellington",
+   "code": "nz",
+   "pos": [
+    174.78,
+    -41.29
+   ],
+   "stufe": 1,
+   "hauptstadt": true,
+   "merke": "Hauptstadt von Neuseeland."
+  },
+  {
+   "id": "hs-pw",
+   "name": "Ngerulmud",
+   "code": "pw",
+   "pos": [
+    134.62,
+    7.5
+   ],
+   "stufe": 3,
+   "hauptstadt": true,
+   "merke": "Hauptstadt von Palau."
+  },
+  {
+   "id": "hs-pg",
+   "name": "Port Moresby",
+   "code": "pg",
+   "pos": [
+    147.18,
+    -9.44
+   ],
+   "stufe": 2,
+   "hauptstadt": true,
+   "merke": "Hauptstadt von Papua-Neuguinea."
+  },
+  {
+   "id": "hs-sb",
+   "name": "Honiara",
+   "code": "sb",
+   "pos": [
+    159.95,
+    -9.43
+   ],
+   "stufe": 3,
+   "hauptstadt": true,
+   "merke": "Hauptstadt von Salomonen."
+  },
+  {
+   "id": "hs-ws",
+   "name": "Apia",
+   "code": "ws",
+   "pos": [
+    -171.76,
+    -13.83
+   ],
+   "stufe": 3,
+   "hauptstadt": true,
+   "merke": "Hauptstadt von Samoa."
+  },
+  {
+   "id": "hs-to",
+   "name": "Nukuʻalofa",
+   "code": "to",
+   "pos": [
+    -175.2,
+    -21.14
+   ],
+   "stufe": 3,
+   "hauptstadt": true,
+   "merke": "Hauptstadt von Tonga."
+  },
+  {
+   "id": "hs-tv",
+   "name": "Funafuti",
+   "code": "tv",
+   "pos": [
+    179.2,
+    -8.52
+   ],
+   "stufe": 3,
+   "hauptstadt": true,
+   "merke": "Hauptstadt von Tuvalu."
+  },
+  {
+   "id": "hs-vu",
+   "name": "Port Vila",
+   "code": "vu",
+   "pos": [
+    168.32,
+    -17.73
+   ],
+   "stufe": 3,
+   "hauptstadt": true,
+   "merke": "Hauptstadt von Vanuatu."
+  },
+  {
+   "id": "new-york",
+   "name": "New York",
+   "code": "us",
+   "pos": [
+    -74.01,
+    40.71
+   ],
+   "stufe": 1,
+   "hauptstadt": false,
+   "merke": "Größte Stadt der USA, an der Ostküste."
+  },
+  {
+   "id": "los-angeles",
+   "name": "Los Angeles",
+   "code": "us",
+   "pos": [
+    -118.24,
+    34.05
+   ],
+   "stufe": 1,
+   "hauptstadt": false,
+   "merke": "Größte Stadt Kaliforniens, an der Westküste."
+  },
+  {
+   "id": "chicago",
+   "name": "Chicago",
+   "code": "us",
+   "pos": [
+    -87.63,
+    41.88
+   ],
+   "stufe": 2,
+   "hauptstadt": false,
+   "merke": "Liegt am Michigansee im Mittleren Westen."
+  },
+  {
+   "id": "san-francisco",
+   "name": "San Francisco",
+   "code": "us",
+   "pos": [
+    -122.42,
+    37.77
+   ],
+   "stufe": 2,
+   "hauptstadt": false,
+   "merke": "Liegt an einer Bucht in Kalifornien, bekannt für die Golden Gate Bridge."
+  },
+  {
+   "id": "miami",
+   "name": "Miami",
+   "code": "us",
+   "pos": [
+    -80.19,
+    25.76
+   ],
+   "stufe": 2,
+   "hauptstadt": false,
+   "merke": "Liegt an der Südspitze Floridas."
+  },
+  {
+   "id": "seattle",
+   "name": "Seattle",
+   "code": "us",
+   "pos": [
+    -122.33,
+    47.61
+   ],
+   "stufe": 3,
+   "hauptstadt": false,
+   "merke": "Liegt im Nordwesten der USA, nahe Kanada."
+  },
+  {
+   "id": "toronto",
+   "name": "Toronto",
+   "code": "ca",
+   "pos": [
+    -79.38,
+    43.65
+   ],
+   "stufe": 1,
+   "hauptstadt": false,
+   "merke": "Größte Stadt Kanadas, am Ontariosee."
+  },
+  {
+   "id": "vancouver",
+   "name": "Vancouver",
+   "code": "ca",
+   "pos": [
+    -123.12,
+    49.28
+   ],
+   "stufe": 2,
+   "hauptstadt": false,
+   "merke": "Liegt an der Pazifikküste Kanadas."
+  },
+  {
+   "id": "montreal",
+   "name": "Montreal",
+   "code": "ca",
+   "pos": [
+    -73.57,
+    45.5
+   ],
+   "stufe": 2,
+   "hauptstadt": false,
+   "merke": "Größte Stadt der französischsprachigen Provinz Québec."
+  },
+  {
+   "id": "guadalajara",
+   "name": "Guadalajara",
+   "code": "mx",
+   "pos": [
+    -103.35,
+    20.67
+   ],
+   "stufe": 3,
+   "hauptstadt": false,
+   "merke": "Zweitgrößte Stadt Mexikos, im Westen des Landes."
+  },
+  {
+   "id": "rio",
+   "name": "Rio de Janeiro",
+   "code": "br",
+   "pos": [
+    -43.17,
+    -22.91
+   ],
+   "stufe": 1,
+   "hauptstadt": false,
+   "merke": "Liegt an der Atlantikküste Brasiliens, bekannt für den Zuckerhut."
+  },
+  {
+   "id": "sao-paulo",
+   "name": "São Paulo",
+   "code": "br",
+   "pos": [
+    -46.63,
+    -23.55
+   ],
+   "stufe": 1,
+   "hauptstadt": false,
+   "merke": "Größte Stadt Brasiliens und Südamerikas."
+  },
+  {
+   "id": "medellin",
+   "name": "Medellín",
+   "code": "co",
+   "pos": [
+    -75.58,
+    6.24
+   ],
+   "stufe": 3,
+   "hauptstadt": false,
+   "merke": "Zweitgrößte Stadt Kolumbiens, in einem Andental."
+  },
+  {
+   "id": "sydney",
+   "name": "Sydney",
+   "code": "au",
+   "pos": [
+    151.21,
+    -33.87
+   ],
+   "stufe": 1,
+   "hauptstadt": false,
+   "merke": "Größte Stadt Australiens, an der Ostküste."
+  },
+  {
+   "id": "melbourne",
+   "name": "Melbourne",
+   "code": "au",
+   "pos": [
+    144.96,
+    -37.81
+   ],
+   "stufe": 2,
+   "hauptstadt": false,
+   "merke": "Zweitgrößte Stadt Australiens, im Südosten."
+  },
+  {
+   "id": "auckland",
+   "name": "Auckland",
+   "code": "nz",
+   "pos": [
+    174.76,
+    -36.85
+   ],
+   "stufe": 2,
+   "hauptstadt": false,
+   "merke": "Größte Stadt Neuseelands, auf der Nordinsel."
+  },
+  {
+   "id": "istanbul",
+   "name": "Istanbul",
+   "code": "tr",
+   "pos": [
+    28.98,
+    41.01
+   ],
+   "stufe": 1,
+   "hauptstadt": false,
+   "merke": "Größte Stadt der Türkei, am Bosporus zwischen Europa und Asien."
+  },
+  {
+   "id": "mumbai",
+   "name": "Mumbai",
+   "code": "in",
+   "pos": [
+    72.88,
+    19.08
+   ],
+   "stufe": 1,
+   "hauptstadt": false,
+   "merke": "Größte Stadt Indiens, an der Westküste."
+  },
+  {
+   "id": "kolkata",
+   "name": "Kolkata",
+   "code": "in",
+   "pos": [
+    88.36,
+    22.57
+   ],
+   "stufe": 3,
+   "hauptstadt": false,
+   "merke": "Liegt im Osten Indiens, nahe Bangladesch."
+  },
+  {
+   "id": "bengaluru",
+   "name": "Bengaluru",
+   "code": "in",
+   "pos": [
+    77.59,
+    12.97
+   ],
+   "stufe": 3,
+   "hauptstadt": false,
+   "merke": "Liegt im Süden Indiens, Zentrum der Software-Branche."
+  },
+  {
+   "id": "karachi",
+   "name": "Karatschi",
+   "code": "pk",
+   "pos": [
+    67.01,
+    24.86
+   ],
+   "stufe": 2,
+   "hauptstadt": false,
+   "merke": "Größte Stadt Pakistans, am Arabischen Meer."
+  },
+  {
+   "id": "shanghai",
+   "name": "Shanghai",
+   "code": "cn",
+   "pos": [
+    121.47,
+    31.23
+   ],
+   "stufe": 1,
+   "hauptstadt": false,
+   "merke": "Größte Stadt Chinas, an der Mündung des Jangtsekiang."
+  },
+  {
+   "id": "osaka",
+   "name": "Osaka",
+   "code": "jp",
+   "pos": [
+    135.5,
+    34.69
+   ],
+   "stufe": 2,
+   "hauptstadt": false,
+   "merke": "Zweitgrößte Metropolregion Japans, westlich von Tokio."
+  },
+  {
+   "id": "ho-chi-minh",
+   "name": "Ho-Chi-Minh-Stadt",
+   "code": "vn",
+   "pos": [
+    106.63,
+    10.82
+   ],
+   "stufe": 2,
+   "hauptstadt": false,
+   "merke": "Größte Stadt Vietnams, im Süden des Landes."
+  },
+  {
+   "id": "dubai",
+   "name": "Dubai",
+   "code": "ae",
+   "pos": [
+    55.27,
+    25.2
+   ],
+   "stufe": 1,
+   "hauptstadt": false,
+   "merke": "Größte Stadt der Vereinigten Arabischen Emirate, am Persischen Golf."
+  },
+  {
+   "id": "mekka",
+   "name": "Mekka",
+   "code": "sa",
+   "pos": [
+    39.86,
+    21.39
+   ],
+   "stufe": 2,
+   "hauptstadt": false,
+   "merke": "Heiligste Stadt des Islam, im Westen Saudi-Arabiens."
+  },
+  {
+   "id": "tel-aviv",
+   "name": "Tel Aviv",
+   "code": "il",
+   "pos": [
+    34.78,
+    32.09
+   ],
+   "stufe": 2,
+   "hauptstadt": false,
+   "merke": "Größte Wirtschaftsmetropole Israels, am Mittelmeer."
+  },
+  {
+   "id": "kapstadt",
+   "name": "Kapstadt",
+   "code": "za",
+   "pos": [
+    18.42,
+    -33.92
+   ],
+   "stufe": 1,
+   "hauptstadt": false,
+   "merke": "Liegt an der Südwestspitze Afrikas, am Tafelberg."
+  },
+  {
+   "id": "johannesburg",
+   "name": "Johannesburg",
+   "code": "za",
+   "pos": [
+    28.05,
+    -26.2
+   ],
+   "stufe": 2,
+   "hauptstadt": false,
+   "merke": "Größte Stadt Südafrikas, im Landesinneren."
+  },
+  {
+   "id": "lagos",
+   "name": "Lagos",
+   "code": "ng",
+   "pos": [
+    3.38,
+    6.52
+   ],
+   "stufe": 2,
+   "hauptstadt": false,
+   "merke": "Größte Stadt Nigerias und eine der größten Afrikas, an der Küste."
+  },
+  {
+   "id": "casablanca",
+   "name": "Casablanca",
+   "code": "ma",
+   "pos": [
+    -7.59,
+    33.57
+   ],
+   "stufe": 2,
+   "hauptstadt": false,
+   "merke": "Größte Stadt Marokkos, am Atlantik."
+  },
+  {
+   "id": "marrakesch",
+   "name": "Marrakesch",
+   "code": "ma",
+   "pos": [
+    -8.01,
+    31.63
+   ],
+   "stufe": 2,
+   "hauptstadt": false,
+   "merke": "Liegt im Inneren Marokkos, am Fuß des Atlasgebirges."
+  },
+  {
+   "id": "alexandria",
+   "name": "Alexandria",
+   "code": "eg",
+   "pos": [
+    29.92,
+    31.2
+   ],
+   "stufe": 2,
+   "hauptstadt": false,
+   "merke": "Zweitgrößte Stadt Ägyptens, am Mittelmeer."
+  },
+  {
+   "id": "hamburg",
+   "name": "Hamburg",
+   "code": "de",
+   "pos": [
+    9.99,
+    53.55
+   ],
+   "stufe": 1,
+   "hauptstadt": false,
+   "merke": "Zweitgrößte Stadt Deutschlands, an der Elbe im Norden."
+  },
+  {
+   "id": "muenchen",
+   "name": "München",
+   "code": "de",
+   "pos": [
+    11.58,
+    48.14
+   ],
+   "stufe": 1,
+   "hauptstadt": false,
+   "merke": "Hauptstadt Bayerns, im Süden Deutschlands."
+  },
+  {
+   "id": "koeln",
+   "name": "Köln",
+   "code": "de",
+   "pos": [
+    6.96,
+    50.94
+   ],
+   "stufe": 1,
+   "hauptstadt": false,
+   "merke": "Liegt am Rhein im Westen Deutschlands."
+  },
+  {
+   "id": "frankfurt",
+   "name": "Frankfurt am Main",
+   "code": "de",
+   "pos": [
+    8.68,
+    50.11
+   ],
+   "stufe": 1,
+   "hauptstadt": false,
+   "merke": "Bankenstadt am Main, in Hessen."
+  },
+  {
+   "id": "mailand",
+   "name": "Mailand",
+   "code": "it",
+   "pos": [
+    9.19,
+    45.46
+   ],
+   "stufe": 1,
+   "hauptstadt": false,
+   "merke": "Größte Stadt Norditaliens."
+  },
+  {
+   "id": "venedig",
+   "name": "Venedig",
+   "code": "it",
+   "pos": [
+    12.32,
+    45.44
+   ],
+   "stufe": 1,
+   "hauptstadt": false,
+   "merke": "Lagunenstadt an der Adria im Nordosten Italiens."
+  },
+  {
+   "id": "neapel",
+   "name": "Neapel",
+   "code": "it",
+   "pos": [
+    14.27,
+    40.85
+   ],
+   "stufe": 2,
+   "hauptstadt": false,
+   "merke": "Liegt in Süditalien, am Fuß des Vesuvs."
+  },
+  {
+   "id": "barcelona",
+   "name": "Barcelona",
+   "code": "es",
+   "pos": [
+    2.17,
+    41.39
+   ],
+   "stufe": 1,
+   "hauptstadt": false,
+   "merke": "Größte Stadt Kataloniens, am Mittelmeer."
+  },
+  {
+   "id": "marseille",
+   "name": "Marseille",
+   "code": "fr",
+   "pos": [
+    5.37,
+    43.3
+   ],
+   "stufe": 2,
+   "hauptstadt": false,
+   "merke": "Größte Hafenstadt Frankreichs, am Mittelmeer."
+  },
+  {
+   "id": "zuerich",
+   "name": "Zürich",
+   "code": "ch",
+   "pos": [
+    8.54,
+    47.37
+   ],
+   "stufe": 1,
+   "hauptstadt": false,
+   "merke": "Größte Stadt der Schweiz, am Zürichsee."
+  },
+  {
+   "id": "genf",
+   "name": "Genf",
+   "code": "ch",
+   "pos": [
+    6.14,
+    46.2
+   ],
+   "stufe": 2,
+   "hauptstadt": false,
+   "merke": "Liegt am Genfersee, Sitz vieler internationaler Organisationen."
+  },
+  {
+   "id": "st-petersburg",
+   "name": "Sankt Petersburg",
+   "code": "ru",
+   "pos": [
+    30.36,
+    59.93
+   ],
+   "stufe": 1,
+   "hauptstadt": false,
+   "merke": "Zweitgrößte Stadt Russlands, an der Ostsee."
+  },
+  {
+   "id": "manchester",
+   "name": "Manchester",
+   "code": "gb",
+   "pos": [
+    -2.24,
+    53.48
+   ],
+   "stufe": 2,
+   "hauptstadt": false,
+   "merke": "Großstadt im Nordwesten Englands."
+  },
+  {
+   "id": "edinburgh",
+   "name": "Edinburgh",
+   "code": "gb",
+   "pos": [
+    -3.19,
+    55.95
+   ],
+   "stufe": 2,
+   "hauptstadt": false,
+   "merke": "Hauptstadt Schottlands."
+  },
+  {
+   "id": "krakau",
+   "name": "Krakau",
+   "code": "pl",
+   "pos": [
+    19.94,
+    50.06
+   ],
+   "stufe": 2,
+   "hauptstadt": false,
+   "merke": "Alte Königsstadt im Süden Polens."
+  },
+  {
+   "id": "rotterdam",
+   "name": "Rotterdam",
+   "code": "nl",
+   "pos": [
+    4.48,
+    51.92
+   ],
+   "stufe": 2,
+   "hauptstadt": false,
+   "merke": "Größter Seehafen Europas, in den Niederlanden."
+  }
+ ]
+}

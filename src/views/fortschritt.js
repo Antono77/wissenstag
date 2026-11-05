@@ -12,7 +12,7 @@ export async function render(main) {
   main.append(seite);
   seite.append(h('div', { class: 'lade', role: 'status' }, h('div', { class: 'lade-punkt' })));
   const klassen = await ladeKlassen();
-  const alle = await ladeAlle(klassen);
+  const alle = await ladeAlle(klassen, { mitAtlas: true });
   zeichnen(seite, klassen, alle);
   const ab = speicher.abonnieren(() => zeichnen(seite, klassen, alle));
   return ab;

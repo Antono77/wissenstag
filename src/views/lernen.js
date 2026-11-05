@@ -5,6 +5,7 @@ import { klassenStatistik, istFaellig, istSchwaeche } from '../lib/lernlogik.js'
 import { klassenStufe } from '../lib/punkte.js';
 import { heute } from '../lib/zeit.js';
 import { zielFuerHeute, zielText } from './start.js';
+import { LEVEL, levelVon } from '../lib/atlas-daten.js';
 
 const prozent = (x) => `${Math.round(x * 100)} %`;
 
@@ -24,9 +25,10 @@ export async function render(main, { gruppen }) {
 async function uebersicht(seite, klassen) {
   const z = speicher.get();
   const ziel = zielFuerHeute(z);
-  const alle = await ladeAlle(klassen);
+  const alle = await ladeAlle(klassen, { mitAtlas: true });
   const nachKlasse = Object.groupBy ? Object.groupBy(alle, (q) => q.klasse) : alle.reduce((m, q) => ((m[q.klasse] ??= []).push(q), m), {});
-  const schwaechen = Object.values(z.fragen).filter(istSchwaeche).length;
+  // Atlas-Fragen gehören nicht zu „Schwächen üben“ (sie brauchen den Globus)
+  const schwaechen = Object.entries(z.fragen).filter(([id, e]) => !id.startsWith('atl-') && istSchwaeche(e)).length;
   const starte = (modus, klasse) => {
     const p = new URLSearchParams({ modus, art: ziel.art, wert: String(ziel.wert) });
     if (klasse) p.set('klasse', klasse);
@@ -70,11 +72,35 @@ async function detail(seite, k) {
   for (const q of fragen) stufen[q.schwierigkeit]++;
   const ziel = zielFuerHeute(z);
   const starte = (modus) => {
-    const p = new URLSearchParams({ modus, klasse: k.id, art: ziel.art, wert: String(ziel.wert) });
+    const p = new URLSearchParams({ modus, klasse: k.id, art: ziel.art, wert: String(ziel.wert), karten: '0' });
     location.hash = `#/sitzung?${p}`;
   };
+  const istAtlas = k.typ === 'atlas';
 
-  ersetzen(seite, 
+  // Jede Klasse hat genau zwei Modi: Lernen (ansehen, einprägen) und Prüfen (Quiz)
+  const modusKarte = (titel, text, knopf) => h('div', { class: 'modus-karte stapel' }, h('h3', {}, titel), h('p', { class: 'gedaempft' }, text), knopf);
+  const modi = h('section', { class: 'modi', 'aria-label': 'Modus wählen' },
+    modusKarte('Lernmodus',
+      istAtlas ? 'Globus ansehen, Orte auswählen und einprägen. Ohne Punkte und ohne Zeitdruck.' : 'Alle Wissenskarten der Klasse in Ruhe durchblättern. Ohne Fragen und ohne Punkte.',
+      h('a', { class: 'knopf zweit gross', href: istAtlas ? `#/atlas/${k.id}/lernen` : `#/karten/${k.id}` }, 'Lernmodus starten')),
+    modusKarte('Prüfungsmodus',
+      istAtlas ? `${k.id === 'atlas-globus' ? 'Orte selbst auf dem Globus antippen' : 'Markierte Orte benennen'}. 10 Fragen, mit XP und Wiederholung.` : `Quizfragen ohne Wissenskarte vorweg. Dein Ziel: ${zielText(ziel)}.`,
+      istAtlas
+        ? h('a', { class: 'knopf gelb gross', href: `#/atlas/${k.id}/pruefen` }, 'Prüfung starten')
+        : h('button', { class: 'knopf gelb gross', type: 'button', onclick: () => starte('klasse') }, 'Prüfung starten')),
+  );
+
+  const levelWahl = istAtlas ? h('fieldset', { class: 'karte stapel level-wahl' },
+    h('legend', { class: 'label' }, 'Schwierigkeitslevel'),
+    ...Object.entries(LEVEL).map(([id, lv]) => h('label', { class: 'level-option' },
+      h('input', {
+        type: 'radio', name: 'atlas-level', value: id, checked: levelVon(z) === id,
+        onchange: () => speicher.aendern((zz) => { zz.einstellungen.atlasLevel = id; }),
+      }),
+      h('span', { class: 'stapel', style: { gap: '2px' } }, h('strong', {}, lv.name), h('span', { class: 'gedaempft' }, lv.text)))),
+  ) : null;
+
+  ersetzen(seite,
     h('a', { class: 'knopf leise', href: '#/lernen', style: { justifySelf: 'start' } }, '← Alle Klassen'),
     h('section', { class: 'stapel' },
       h('div', { class: 'reihe' },
@@ -94,11 +120,12 @@ async function detail(seite, k) {
         `${st.gelernt} von ${st.gesamt} Fragen sicher gelernt, ${st.gesehen} gesehen. `,
         st.meister ? 'Du bist Meister dieser Klasse.' : `Ab 90 % gelernt bekommst du das Meister-Abzeichen.`),
       h('p', { class: 'label' }, `${stufen.leicht} leicht · ${stufen.mittel} mittel · ${stufen.schwer} schwer`),
-      h('button', { class: 'knopf gelb gross', type: 'button', onclick: () => starte('klasse') }, `${k.name} lernen`),
       h('div', { class: 'reihe' },
-        schwach ? h('button', { class: 'knopf zweit', type: 'button', onclick: () => starte('schwaechen') }, `Schwächen in dieser Klasse (${schwach})`) : null,
+        schwach && !istAtlas ? h('button', { class: 'knopf zweit', type: 'button', onclick: () => starte('schwaechen') }, `Schwächen in dieser Klasse (${schwach})`) : null,
         faellig ? h('span', { class: 'chip' }, `${faellig} fällig`) : null,
       ),
     ),
+    levelWahl,
+    modi,
   );
 }

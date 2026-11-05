@@ -1,4 +1,6 @@
 // Lädt Klassenliste und Fragen-Dateien (mit Zwischenspeicher).
+import { ladeOrte, atlasFragen } from './atlas-daten.js';
+
 const basis = import.meta.env?.BASE_URL ?? './';
 const url = (pfad) => `${basis}${pfad}`.replace(/\/\.\//g, '/');
 
@@ -16,6 +18,12 @@ export async function ladeKlassen() {
 
 export async function ladeKlasse(klasse) {
   if (fragenCache.has(klasse.id)) return fragenCache.get(klasse.id);
+  if (klasse.typ === 'atlas') {
+    // Atlas-Klassen haben keine Fragen-Dateien: Die Fragen entstehen aus den Kartendaten
+    const p = ladeOrte().then((orte) => atlasFragen(klasse.id, orte)).catch(() => []);
+    fragenCache.set(klasse.id, p);
+    return p;
+  }
   const promise = Promise.all(
     klasse.dateien.map(async (d) => {
       try {
@@ -32,8 +40,9 @@ export async function ladeKlasse(klasse) {
   return promise;
 }
 
-export async function ladeAlle(klassen) {
-  const listen = await Promise.all(klassen.map((k) => ladeKlasse(k)));
+// mitAtlas: false für Quiz-Sitzungen und Spiele (Atlas-Fragen brauchen den Globus)
+export async function ladeAlle(klassen, { mitAtlas = false } = {}) {
+  const listen = await Promise.all(klassen.filter((k) => mitAtlas || k.typ !== 'atlas').map((k) => ladeKlasse(k)));
   return listen.flat();
 }
 

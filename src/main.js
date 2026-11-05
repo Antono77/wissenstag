@@ -14,12 +14,16 @@ import * as sitzung from './views/sitzung.js';
 import * as duemmste from './views/duemmste.js';
 import * as aktuell from './views/aktuell.js';
 import * as fortschritt from './views/fortschritt.js';
+import * as karten from './views/karten.js';
 
 const routen = [
   { muster: /^\/?$/, ansicht: start, nav: 'start', titel: 'Start' },
   { muster: /^\/lernen\/?$/, ansicht: lernen, nav: 'lernen', titel: 'Lernen' },
   { muster: /^\/lernen\/([\w-]+)\/?$/, ansicht: lernen, nav: 'lernen', titel: 'Klasse' },
   { muster: /^\/sitzung\/?$/, ansicht: sitzung, nav: 'lernen', titel: 'Lerneinheit' },
+  { muster: /^\/karten\/([\w-]+)\/?$/, ansicht: karten, nav: 'lernen', titel: 'Lernmodus' },
+  // Der Globus (d3-geo, Kartendaten) wird erst geladen, wenn er gebraucht wird
+  { muster: /^\/atlas\/([\w-]+)\/(lernen|pruefen)\/?$/, lade: () => import('./views/atlas.js'), nav: 'lernen', titel: 'Atlas' },
   { muster: /^\/duemmste\/?$/, ansicht: duemmste, nav: 'duemmste', titel: 'Der Dümmste fliegt' },
   { muster: /^\/aktuell\/?$/, ansicht: aktuell, nav: 'aktuell', titel: 'Aktuell' },
   { muster: /^\/fortschritt\/?$/, ansicht: fortschritt, nav: 'fortschritt', titel: 'Fortschritt' },
@@ -55,7 +59,9 @@ async function zeige() {
   }
   document.title = `${treffer.titel} · Wissenstag`;
   window.scrollTo({ top: 0 });
-  const ergebnis = await treffer.ansicht.render(main, { gruppen, parameter });
+  const ansicht = treffer.ansicht ?? await treffer.lade();
+  if (aktuellerPfad().pfad !== pfad) return; // während des Ladens weiternavigiert
+  const ergebnis = await ansicht.render(main, { gruppen, parameter });
   if (typeof ergebnis === 'function') aufraeumen = ergebnis;
   // Fokus für Screenreader auf den neuen Inhalt setzen
   const h1 = main.querySelector('h1');

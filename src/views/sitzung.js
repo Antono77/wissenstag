@@ -21,6 +21,9 @@ export async function render(main, { parameter }) {
   const klassen = await ladeKlassen();
   const klassenName = Object.fromEntries(klassen.map((k) => [k.id, k.name]));
   const auswahl = klasseId ? klassen.filter((k) => k.id === klasseId) : klassen;
+  if (klasseId && auswahl[0]?.typ === 'atlas') { location.hash = `#/atlas/${klasseId}/pruefen`; return; }
+  // Prüfungsmodus einer Klasse: nur Fragen, keine Wissenskarten vorweg
+  const nurQuiz = parameter.get('karten') === '0';
   const fragen = klasseId ? await ladeKlasse(auswahl[0]) : await ladeAlle(auswahl);
   const tag = heute();
 
@@ -150,7 +153,7 @@ export async function render(main, { parameter }) {
       });
     };
 
-    if (eintrag.art === 'neu' && speicher.get().einstellungen.kartenZeigen && q.karte) {
+    if (eintrag.art === 'neu' && !nurQuiz && speicher.get().einstellungen.kartenZeigen && q.karte) {
       aktuell = zeigeKarte(buehne, q, { klassenName: klassenName[q.klasse], onWeiter: frageZeigen });
     } else frageZeigen();
     if (!bewegungReduziert()) window.scrollTo({ top: 0, behavior: 'smooth' });

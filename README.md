@@ -3,6 +3,8 @@
 Eine Lernseite für Allgemeinwissen. Du lernst mit Wissenskarten und Quizfragen in 24 Klassen, spielst „Der Dümmste fliegt“ allein oder mit Freunden und liest die aktuellen Nachrichten mit kurzer Einordnung. Die Seite ist statisch: kein Server, keine Anmeldung, keine Kosten.
 
 - 24 Klassen mit zusammen über 3.600 Fragen, jede mit Erklärkarte, Merksatz und Begründung
+- Jede Klasse hat zwei Modi: **Lernmodus** (Karten ansehen und einprägen) und **Prüfungsmodus** (Quiz)
+- 3 Atlas-Klassen mit Globus und Weltkarte: Länder, Städte und Globus-Zuordnung, in drei Levels (Anfänger mit Tipps, Fortgeschritten, Profi)
 - Lernzeit frei wählbar: Minuten, Anzahl Fragen oder ohne Limit
 - Wiederholung in Abständen: Falsch beantwortete Fragen kommen öfter wieder
 - XP, Level, Tagesserie, Fortschritt pro Klasse mit Meister-Abzeichen
@@ -29,6 +31,7 @@ Weitere Befehle:
 | `npm run build` | baut die fertige Seite in den Ordner `dist/` |
 | `npm run preview` | zeigt die gebaute Seite zur Kontrolle an |
 | `npm run pruefen` | prüft alle Fragen auf Fehler |
+| `npm run atlas` | baut die Daten für die Atlas-Klassen und prüft alle Koordinaten |
 | `npm test` | startet die automatischen Tests |
 | `npm run news` | holt die neuesten Nachrichten nach `public/news.json` |
 | `npm run screenshots` | klickt sich durch alle Bereiche und speichert Bilder in `screenshots/` (vorher `npm run dev` starten) |
@@ -75,6 +78,20 @@ Viele Fragen entstehen automatisch aus Tabellen in `scripts/fakten/`. In `script
 2. Trag die Klasse in `public/data/klassen.json` ein (Name, zwei Buchstaben als Kürzel, kurze Beschreibung, Dateiliste).
 3. `npm run pruefen` verlangt mindestens 100 Fragen pro Klasse. Den Wert kannst du oben in `scripts/validate-data.mjs` ändern.
 
+### Die Atlas-Klassen (Globus)
+
+Die drei Atlas-Klassen haben keine Fragen-Dateien. Ihre Fragen entstehen aus den Kartendaten:
+
+| Klasse | Lernmodus | Prüfungsmodus |
+|---|---|---|
+| Atlas: Länder | Land wählen, Globus zeigt es | Welches Land ist markiert? |
+| Atlas: Städte | Stadt wählen, Globus zeigt sie | Welche Stadt ist markiert? |
+| Atlas: Globus | Globus frei erkunden | Land oder Stadt selbst antippen |
+
+Das Level stellst du auf der Seite der Klasse ein. **Anfänger** bekommen nur bekannte Orte und einen Tipp (Kontinent oder Hauptstadt), der Kontinent ist auf dem Globus eingefärbt. **Fortgeschritten** bekommen mehr Orte und keine Tipps. **Profis** bekommen alle 195 Staaten, falsche Antworten aus der Nachbarschaft und müssen genauer tippen (150 statt 500 km).
+
+Neue Städte trägst du in `scripts/atlas-orte.mjs` ein (Name, Land, Breite, Länge, Stufe, Merksatz). `npm run atlas` baut daraus `public/data/atlas/` und prüft, ob jede Stadt wirklich in ihrem Land liegt. Liegt eine Koordinate falsch, bricht das Skript mit einer Meldung ab.
+
 ## 3. Die Seite kostenlos online stellen
 
 ### Variante A: GitHub Pages (empfohlen, mit automatischen Nachrichten)
@@ -114,10 +131,10 @@ Fällt beides aus, zeigt die Seite einen deutlichen Hinweis mit dem Datum des le
 ```
 index.html              Grundgerüst der Seite
 src/main.js             Start, Navigation, Farbschema
-src/views/              die fünf Bereiche: Start, Lernen, Dümmste fliegt, Aktuell, Fortschritt
+src/views/              die Bereiche: Start, Lernen, Lernkarten, Atlas, Dümmste fliegt, Aktuell, Fortschritt
 src/lib/                Lernlogik, Speicher, Punkte, Textvergleich, Nachrichten
 src/styles/main.css     Farben, Schriften, Layout
-public/data/            Fragen (eine Datei pro Klasse)
+public/data/            Fragen (eine Datei pro Klasse), atlas/ mit Ländergrenzen und Orten
 public/news.json        Nachrichten, von der Action erzeugt
 scripts/                Generatoren, Prüfskript, Nachrichtenabruf, Screenshots
 tests/                  automatische Tests
@@ -134,5 +151,6 @@ Dein Fortschritt bleibt in deinem Browser (localStorage). Die Seite setzt keine 
 
 - Code: MIT
 - Flaggen: [flag-icons](https://github.com/lipis/flag-icons), MIT-Lizenz
+- Ländergrenzen: [Natural Earth](https://www.naturalearthdata.com) über [world-atlas](https://github.com/topojson/world-atlas), gemeinfrei; Globus mit [d3-geo](https://d3js.org/d3-geo), ISC-Lizenz
 - Schriften: Bricolage Grotesque, Figtree und IBM Plex Mono über [Fontsource](https://fontsource.org), SIL Open Font License
 - Nachrichten: Überschriften und Anrisse gehören den Redaktionen von tagesschau.de, ZDFheute und Deutschlandfunk. Die Seite verlinkt jeweils auf den Originalartikel.
