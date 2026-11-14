@@ -1,26 +1,617 @@
 {
- "stand": "2026-11-14T04:58:49.205Z",
+ "stand": "2026-11-14T10:50:02.115Z",
  "quellen": [
   {
    "name": "tagesschau",
    "seite": "https://www.tagesschau.de",
    "ok": true,
-   "anzahl": 38
+   "anzahl": 12
   },
   {
    "name": "ZDFheute",
    "seite": "https://www.zdfheute.de",
    "ok": true,
-   "anzahl": 172
+   "anzahl": 178
   },
   {
    "name": "Deutschlandfunk",
    "seite": "https://www.deutschlandfunk.de",
    "ok": true,
-   "anzahl": 20
+   "anzahl": 32
   }
  ],
  "meldungen": [
+  {
+   "id": "dlf-1swlk0g",
+   "quelle": "Deutschlandfunk",
+   "thema": "Nachrichten",
+   "kontext": "Ukraine",
+   "titel": "Selenskyj: USA haben Gebietsabtretungen an Russland im Gegenzug für eine NATO-Mitgliedschaft ins Gespräch gebracht",
+   "text": "Die USA haben nach Angaben des ukrainischen Präsidenten Selenskyj eine NATO-Mitgliedschaft seines Landes bei gleichzeitigen Gebietsabtretungen an Russland ins Gespräch gebracht.",
+   "datum": "2026-11-14T10:43:41.000Z",
+   "link": "https://www.deutschlandfunk.de/selenskyj-usa-haben-gebietsabtretungen-an-russland-im-gegenzug-fuer-eine-nato-mitgliedschaft-ins-ges-100.html",
+   "stichworte": []
+  },
+  {
+   "id": "dlf-q25dgb",
+   "quelle": "Deutschlandfunk",
+   "thema": "Nachrichten",
+   "kontext": "Cloud-Dienste",
+   "titel": "Microsoft gibt Ende der weltweiten Störungen bekannt",
+   "text": "Microsoft hat die weltweiten Störungen bei einigen seiner Dienste nach mehr als ⁠24 Stunden behoben.",
+   "datum": "2026-11-14T10:43:41.000Z",
+   "link": "https://www.deutschlandfunk.de/microsoft-gibt-ende-der-weltweiten-stoerungen-bekannt-102.html",
+   "stichworte": []
+  },
+  {
+   "id": "dlf-1pjgikj",
+   "quelle": "Deutschlandfunk",
+   "thema": "Nachrichten",
+   "kontext": "Rente",
+   "titel": "Pläne: Abzüge bei Frührente sollen von 0,3 auf 0,4 Prozent pro Monat steigen",
+   "text": "Die Bundesregierung plant höhere Abzüge für Menschen, die vor Erreichen der Regelaltersgrenze in Rente gehen. Nach Angaben des CSU-Landesgruppenchefs Hoffmann sollen die Abschläge von 0,3 auf 0,4 Prozent pro Monat angehoben werden.",
+   "datum": "2026-11-14T10:43:41.000Z",
+   "link": "https://www.deutschlandfunk.de/plaene-abzuege-bei-fruehrente-sollen-von-0-3-auf-0-4-prozent-pro-monat-steigen-100.html",
+   "stichworte": []
+  },
+  {
+   "id": "dlf-q11nrp",
+   "quelle": "Deutschlandfunk",
+   "thema": "Nachrichten",
+   "kontext": "Mecklenburg-Vorpommern",
+   "titel": "Parteitage: SPD und Grüne stimmen über Koalitionsvertrag ab",
+   "text": "In Mecklenburg-Vorpommern sind SPD und Grüne jeweils zu Parteitagen zusammengekommen, um über den Koalitionsvertrag abzustimmen.",
+   "datum": "2026-11-14T10:43:41.000Z",
+   "link": "https://www.deutschlandfunk.de/parteitage-spd-und-gruene-stimmen-ueber-koalitionsvertrag-ab-100.html",
+   "stichworte": []
+  },
+  {
+   "id": "dlf-k13vhf",
+   "quelle": "Deutschlandfunk",
+   "thema": "Nachrichten",
+   "kontext": "Trauerfeier",
+   "titel": "Angehörige und Wegbegleiter nehmen Abschied von Aiwanger",
+   "text": "In der Münchener Frauenkirche haben mehr als tausend Trauergäste Abschied vom verstorbenen bayerischen Wirtschaftsminister und stellvertretenden Ministerpräsidenten Aiwanger genommen.",
+   "datum": "2026-11-14T10:43:41.000Z",
+   "link": "https://www.deutschlandfunk.de/angehoerige-und-wegbegleiter-nehmen-abschied-von-aiwanger-106.html",
+   "stichworte": []
+  },
+  {
+   "id": "dlf-9mxbss",
+   "quelle": "Deutschlandfunk",
+   "thema": "Nachrichten",
+   "kontext": "Sachsen-Anhalt",
+   "titel": "BSW will Landesspitze neu aufstellen",
+   "text": "Das BSW in Sachsen-Anhalt wählt bei einem Landesparteitag in Magdeburg einen neuen Landesvorstand.",
+   "datum": "2026-11-14T10:43:41.000Z",
+   "link": "https://www.deutschlandfunk.de/bsw-will-landesspitze-neu-aufstellen-100.html",
+   "stichworte": []
+  },
+  {
+   "id": "dlf-2psi4s",
+   "quelle": "Deutschlandfunk",
+   "thema": "Nachrichten",
+   "kontext": "Peru",
+   "titel": "Papst Leo XIV. feiert Messe mit 500.000 Gläubigen",
+   "text": "Papst Leo der Vierzehnte hat im Rahmen seiner Südamerikareise die peruanische Stadt Chiclayo besucht.",
+   "datum": "2026-11-14T10:43:41.000Z",
+   "link": "https://www.deutschlandfunk.de/papst-leo-xiv-feiert-messe-mit-500-000-glaeubigen-100.html",
+   "stichworte": []
+  },
+  {
+   "id": "dlf-130qf8b",
+   "quelle": "Deutschlandfunk",
+   "thema": "Nachrichten",
+   "kontext": "Bundesweite Regel",
+   "titel": "Deutsche Bahn zieht positive Bilanz bei Alkoholverbot an Bahnhöfen",
+   "text": "Einen Monat nach dem Inkrafttreten des Alkoholverbots an allen Bahnhöfen hat die Deutsche Bahn eine erste positive Bilanz gezogen.",
+   "datum": "2026-11-14T10:43:41.000Z",
+   "link": "https://www.deutschlandfunk.de/deutsche-bahn-zieht-positive-bilanz-bei-alkoholverbot-an-bahnhoefen-104.html",
+   "stichworte": []
+  },
+  {
+   "id": "dlf-1rsgbl5",
+   "quelle": "Deutschlandfunk",
+   "thema": "Nachrichten",
+   "kontext": "Sicherheitsbehörden",
+   "titel": "Krampe (Linke): AfD bekommt Überwachungsstaat \"schlüsselfertig hingehalten\"",
+   "text": "Der Linken-Bundestagsabgeordnete Krampe hat vor den möglichen Folgen der Reform der Geheimdienste gewarnt.",
+   "datum": "2026-11-14T10:43:41.000Z",
+   "link": "https://www.deutschlandfunk.de/krampe-linke-afd-bekommt-ueberwachungsstaat-schluesselfertig-hingehalten-100.html",
+   "stichworte": []
+  },
+  {
+   "id": "dlf-cj04ut",
+   "quelle": "Deutschlandfunk",
+   "thema": "Nachrichten",
+   "kontext": "Technische Störung",
+   "titel": "Flugverbot in den USA wieder aufgehoben",
+   "text": "In den USA hat es wegen technischer Probleme ein stundenlanges Flugverbot gegeben. Ursache war eine Störung der Kommunikationssysteme, wie das Verkehrsministerium mitteilte. Die Luftsicherheitsbehörde FAA untersagte den Start Tausender Flugzeuge. Zehntausende Menschen strandeten an den Flughäfen.",
+   "datum": "2026-11-14T10:43:41.000Z",
+   "link": "https://www.deutschlandfunk.de/flugverbot-in-den-usa-wieder-aufgehoben-100.html",
+   "stichworte": []
+  },
+  {
+   "id": "dlf-1xyk4qp",
+   "quelle": "Deutschlandfunk",
+   "thema": "Nachrichten",
+   "kontext": "Migration",
+   "titel": "Ruanda soll erster Standort für EU-Abschiebezentrum werden",
+   "text": "Deutschland und vier weitere EU-Mitgliedsstaaten stehen offenbar kurz vor dem Abschluss eines Migrationsabkommens mit Ruanda. Nach Informationen der Nachrichtenagentur AFP soll eine Vereinbarung am Montag bekanntgegeben werden.",
+   "datum": "2026-11-14T10:43:41.000Z",
+   "link": "https://www.deutschlandfunk.de/ruanda-soll-erster-standort-fuer-eu-abschiebezentrum-werden-100.html",
+   "stichworte": []
+  },
+  {
+   "id": "dlf-1qkh8c6",
+   "quelle": "Deutschlandfunk",
+   "thema": "Nachrichten",
+   "kontext": "Niedersachsen",
+   "titel": "CDU-Landeschef Lechner fordert Senkung der Stromsteuer",
+   "text": "Der niedersächsische CDU-Vorsitzende Lechner fordert von der Bundesregierung mehr Entlastungen für die Bevölkerung.",
+   "datum": "2026-11-14T10:43:41.000Z",
+   "link": "https://www.deutschlandfunk.de/cdu-landeschef-lechner-fordert-senkung-der-stromsteuer-100.html",
+   "stichworte": []
+  },
+  {
+   "id": "dlf-1j4nlgm",
+   "quelle": "Deutschlandfunk",
+   "thema": "Nachrichten",
+   "kontext": "Apec-Gipfel",
+   "titel": "US-Regierung: Trump trifft Putin und Xi am kommenden Donnerstag",
+   "text": "Die US-Regierung hat Details zum geplanten Treffen von Präsident Trump mit dem russischen Staatschef Putin und Chinas Staatschef Xi mitgeteilt.",
+   "datum": "2026-11-14T10:43:41.000Z",
+   "link": "https://www.deutschlandfunk.de/us-regierung-trump-trifft-putin-und-xi-am-kommenden-donnerstag-100.html",
+   "stichworte": []
+  },
+  {
+   "id": "dlf-vukziy",
+   "quelle": "Deutschlandfunk",
+   "thema": "Nachrichten",
+   "kontext": "Ukraine-Friedensgespräche",
+   "titel": "Grünen-Europaabgeordneter Lagodinsky: Für Putin läuft es gut",
+   "text": "Der Grünen-Europaabgeordnete Lagodinsky hat Europa mit Blick auf künftige Friedensgespräche zwischen Russland und der Ukraine vor einer gefährlichen Situation gewarnt. Der Fokus solle nicht mehr nur auf Frieden in der Ukraine, sondern auf die europäische Sicherheitsarchitektur gerichtet werden.",
+   "datum": "2026-11-14T10:43:41.000Z",
+   "link": "https://www.deutschlandfunk.de/gruenen-europaabgeordneter-lagodinsky-fuer-putin-laeuft-es-gut-100.html",
+   "stichworte": []
+  },
+  {
+   "id": "dlf-5ceimn",
+   "quelle": "Deutschlandfunk",
+   "thema": "Nachrichten",
+   "kontext": "Nach Einigung für 2027",
+   "titel": "Führende Ökonomen warnen: Belastungen in die Zukunft verschoben",
+   "text": "Führende Wirtschaftswissenschaftler in Deutschland erwarten zunehmend schwierige Haushaltsverhandlungen in den kommenden Jahren. Der Ökonom des Kieler Instituts für Weltwirtschaft, Boysen-Hogrefe, sagte im Deutschlandfunk, der geplante Haushalt für das kommende Jahr verschiebe viele Belastungen in die Zukunft.",
+   "datum": "2026-11-14T10:43:41.000Z",
+   "link": "https://www.deutschlandfunk.de/fuehrende-oekonomen-warnen-belastungen-in-die-zukunft-verschoben-100.html",
+   "stichworte": []
+  },
+  {
+   "id": "dlf-gmbn2q",
+   "quelle": "Deutschlandfunk",
+   "thema": "Nachrichten",
+   "kontext": "Türkei",
+   "titel": "Genehmigte Demonstrationen zur Halbzeit der UNO-Klimakonferenz angekündigt",
+   "text": "Im türkischen Antalya wollen Umweltaktivisten heute für mehr Einsatz gegen den Klimawandel demonstrieren.",
+   "datum": "2026-11-14T10:43:41.000Z",
+   "link": "https://www.deutschlandfunk.de/genehmigte-demonstrationen-zur-halbzeit-der-uno-klimakonferenz-angekuendigt-100.html",
+   "stichworte": []
+  },
+  {
+   "id": "dlf-1abb3uh",
+   "quelle": "Deutschlandfunk",
+   "thema": "Nachrichten",
+   "kontext": "Ausschluss geplant",
+   "titel": "Linke-Parteichef Pantisano verteidigt Verfahren zu Berliner Abgeordneten Emde",
+   "text": "Der Linke-Bundesvorsitzende Pantisano hat das Verfahren zum Umgang mit der umstrittenen Berliner Abgeordneten Emde verteidigt.",
+   "datum": "2026-11-14T10:43:41.000Z",
+   "link": "https://www.deutschlandfunk.de/linke-parteichef-pantisano-verteidigt-verfahren-zu-berliner-abgeordneten-emde-100.html",
+   "stichworte": []
+  },
+  {
+   "id": "dlf-d47029",
+   "quelle": "Deutschlandfunk",
+   "thema": "Nachrichten",
+   "kontext": "Koalition",
+   "titel": "Diskussion um Senkung der Stromsteuer geht weiter",
+   "text": "Bundeskanzler Merz hält an den Plänen für eine Senkung der Stromsteuer fest. Es sei weiterhin sein Ziel, die Stromsteuer auf das europäische Minimum abzusenken, betonte der CDU-Vorsitzende. Dies solle ab dem nächsten Jahr in vollständiger Höhe geschehen.",
+   "datum": "2026-11-14T10:43:41.000Z",
+   "link": "https://www.deutschlandfunk.de/diskussion-um-senkung-der-stromsteuer-geht-weiter-110.html",
+   "stichworte": []
+  },
+  {
+   "id": "dlf-1nhs0bm",
+   "quelle": "Deutschlandfunk",
+   "thema": "Nachrichten",
+   "kontext": "Den Haag",
+   "titel": "Niederländische Minderheitsregierung hält vorerst - Ministerpräsident Jetten: Grundlegender Neustart nötig",
+   "text": "In den Niederlanden hat Ministerpräsident Jetten einen Bruch seiner Minderheitsregierung vorerst abgewendet.",
+   "datum": "2026-11-14T10:43:41.000Z",
+   "link": "https://www.deutschlandfunk.de/niederlaendische-minderheitsregierung-haelt-vorerst-ministerpraesident-jetten-grundlegender-neustart-100.html",
+   "stichworte": []
+  },
+  {
+   "id": "dlf-1v6eg9n",
+   "quelle": "Deutschlandfunk",
+   "thema": "Nachrichten",
+   "kontext": "Weltweite Störung",
+   "titel": "Microsoft: Probleme gingen auf Netzwerk-Update zurück",
+   "text": "Die lange weltweite Störung bei Online-Diensten von Microsoft ging nach Angaben des Unternehmens auf ein hausinternes Update zurück.",
+   "datum": "2026-11-14T10:43:41.000Z",
+   "link": "https://www.deutschlandfunk.de/microsoft-probleme-gingen-auf-netzwerk-update-zurueck-104.html",
+   "stichworte": []
+  },
+  {
+   "id": "dlf-1mnr1cx",
+   "quelle": "Deutschlandfunk",
+   "thema": "Nachrichten",
+   "kontext": "Nvidia-Skandal",
+   "titel": "US-Finanzminister Bessent macht Handelsminister Lutnick für Chip-Lieferungen nach China verantwortlich",
+   "text": "Im Skandal um den zurückgetretenen Nvidia-Chef Huang steht nun auch US-Handelsminister Lutnick in der Kritik.",
+   "datum": "2026-11-14T10:43:41.000Z",
+   "link": "https://www.deutschlandfunk.de/us-finanzminister-bessent-macht-handelsminister-lutnick-fuer-chip-lieferungen-nach-china-verantwortl-106.html",
+   "stichworte": []
+  },
+  {
+   "id": "dlf-1eklp6k",
+   "quelle": "Deutschlandfunk",
+   "thema": "Nachrichten",
+   "kontext": "Interview der Woche",
+   "titel": "Bundestagspräsidentin Klöckner will Mitarbeiter des Parlaments stärker durchleuchten",
+   "text": "Bundestagspräsidentin Klöckner hat angesichts hybrider Bedrohungen eine stärkere Kontrolle von Parlamentsmitarbeitern angemahnt. Man brauche für Sicherheitsüberprüfungen von künftigen Mitarbeitern auch Informationen der Nachrichtendienste, sagte Klöckner im Interview der Woche des Deutschlandfunks.",
+   "datum": "2026-11-14T10:43:41.000Z",
+   "link": "https://www.deutschlandfunk.de/bundestagspraesidentin-kloeckner-will-mitarbeiter-des-parlaments-staerker-durchleuchten-106.html",
+   "stichworte": []
+  },
+  {
+   "id": "dlf-1pvqmti",
+   "quelle": "Deutschlandfunk",
+   "thema": "Nachrichten",
+   "kontext": "Militärische Bedeutung",
+   "titel": "Bund will nach Medienberichten bei Atomfirma Urenco einsteigen",
+   "text": "Die Bundesregierung will sich nach übereinstimmenden Medienberichten am Atomtechnikkonzern Urenco beteiligen.",
+   "datum": "2026-11-14T10:43:41.000Z",
+   "link": "https://www.deutschlandfunk.de/bund-will-nach-medienberichten-bei-atomfirma-urenco-einsteigen-106.html",
+   "stichworte": []
+  },
+  {
+   "id": "dlf-18ktikj",
+   "quelle": "Deutschlandfunk",
+   "thema": "Nachrichten",
+   "kontext": "USA",
+   "titel": "Frachter rammt Flusskreuzfahrtschiff in New Orleans - 30 Passagiere im Krankenhaus",
+   "text": "In New Orleans im US-Bundesstaat Louisiana ist es zu einem Schiffsunglück gekommen.",
+   "datum": "2026-11-14T10:43:41.000Z",
+   "link": "https://www.deutschlandfunk.de/frachter-rammt-flusskreuzfahrtschiff-in-new-orleans-30-passagiere-im-krankenhaus-102.html",
+   "stichworte": []
+  },
+  {
+   "id": "dlf-onel17",
+   "quelle": "Deutschlandfunk",
+   "thema": "Nachrichten",
+   "kontext": "Nach tragischem Tod",
+   "titel": "Spanischer Fußballverband: Zwölf Spiele Sperre für Torwart Owono",
+   "text": "Der spanische Fußballverband hat den Torwart Jesús Owono, nach dessen schwerem Foul der Gegenspieler Jesús de Miguel gestorben ist, für zwölf Spiele gesperrt. Das entschied der Disziplinarausschuss.",
+   "datum": "2026-11-14T10:43:41.000Z",
+   "link": "https://www.deutschlandfunk.de/spanischer-fussballverband-zwoelf-spiele-sperre-fuer-torwart-owono-100.html",
+   "stichworte": []
+  },
+  {
+   "id": "dlf-1fc003x",
+   "quelle": "Deutschlandfunk",
+   "thema": "Nachrichten",
+   "kontext": "Vor Heim-WM",
+   "titel": "Kretzschmar hofft auf Schub: \"Handball noch zu provinziell\"",
+   "text": "Der frühere Nationalspieler Stefan Kretzschmar sieht in der bevorstehenden Heim-Weltmeisterschaft eine Chance für die langfristige Entwicklung des Handballs in Deutschland.",
+   "datum": "2026-11-14T10:43:41.000Z",
+   "link": "https://www.deutschlandfunk.de/kretzschmar-hofft-auf-schub-handball-noch-zu-provinziell-102.html",
+   "stichworte": []
+  },
+  {
+   "id": "dlf-vx073g",
+   "quelle": "Deutschlandfunk",
+   "thema": "Nachrichten",
+   "kontext": "Klimaauswirkungen",
+   "titel": "El Niño: Brasilianischer Bundesstaat Pará ruft nach Tausenden Waldbränden den Umweltnotstand aus",
+   "text": "Der brasilianische Bundesstaat Pará hat nach zahlreichen Waldbränden den Umweltnotstand ausgerufen.",
+   "datum": "2026-11-14T10:43:41.000Z",
+   "link": "https://www.deutschlandfunk.de/el-ni-o-brasilianischer-bundesstaat-par-ruft-nach-tausenden-waldbraenden-den-umweltnotstand-aus-104.html",
+   "stichworte": []
+  },
+  {
+   "id": "dlf-a5etsu",
+   "quelle": "Deutschlandfunk",
+   "thema": "Nachrichten",
+   "kontext": "Kritik an \"1Live\"",
+   "titel": "Kitschkrieg fordert feste Quote für deutschsprachige Musik im Radio",
+   "text": "Die Musikproduzenten-Gruppe Kitschkrieg setzt sich für eine feste Quote für deutschsprachige Musik im Radio ein.",
+   "datum": "2026-11-14T10:43:41.000Z",
+   "link": "https://www.deutschlandfunk.de/kitschkrieg-fordert-feste-quote-fuer-deutschsprachige-musik-im-radio-100.html",
+   "stichworte": []
+  },
+  {
+   "id": "dlf-1gxcone",
+   "quelle": "Deutschlandfunk",
+   "thema": "Nachrichten",
+   "kontext": "Familienleistung",
+   "titel": "Was sich beim Elterngeld ändern soll",
+   "text": "Das Elterngeld soll einfacher und attraktiver werden, so will es die Bundesregierung. Das Kabinett hat sich nun auf einen Gesetzentwurf geeinigt, der ab November 2027 greifen soll. Ein Überblick über die geplanten Änderungen.",
+   "datum": "2026-11-14T10:43:41.000Z",
+   "link": "https://www.deutschlandfunk.de/was-sich-beim-elterngeld-aendern-soll-100.html",
+   "stichworte": []
+  },
+  {
+   "id": "dlf-1rxjg7y",
+   "quelle": "Deutschlandfunk",
+   "thema": "Nachrichten",
+   "kontext": "Nations League",
+   "titel": "Deutsche Fußball-Nationalmannschaft schlägt Serbien",
+   "text": "Die Fußball-Nationalmannschaft der Männer hat in der Nations League das Rückspiel gegen Serbien in Belgrad mit 3:1 gewonnen. Deutschland ging bereits in der dritten Minute in Führung.",
+   "datum": "2026-11-14T10:43:41.000Z",
+   "link": "https://www.deutschlandfunk.de/deutsche-fussball-nationalmannschaft-schlaegt-serbien-100.html",
+   "stichworte": []
+  },
+  {
+   "id": "dlf-1py8x93",
+   "quelle": "Deutschlandfunk",
+   "thema": "Nachrichten",
+   "kontext": "Wintersport",
+   "titel": "Nach Finnland wollen auch Norwegen, Schweden und Estland russischen Sportlern die Einreise verweigern",
+   "text": "Drei weitere europäische Länder wollen Sportlern aus Russland die Einreise zu internationalen Wettkämpfen verweigern.",
+   "datum": "2026-11-14T10:43:41.000Z",
+   "link": "https://www.deutschlandfunk.de/nach-finnland-wollen-auch-norwegen-schweden-und-estland-russischen-sportlern-die-einreise-verweigern-104.html",
+   "stichworte": []
+  },
+  {
+   "id": "dlf-10fk05h",
+   "quelle": "Deutschlandfunk",
+   "thema": "Nachrichten",
+   "kontext": "Wetter",
+   "titel": "Im Norden und Osten bewölkt, im Westen und Süden heiter",
+   "text": "Der Wetterbericht, die Lage: Die aus Nordwesten einfließende polare Meereskaltluft gerät unter Zwischenhocheinfluss. Lediglich im Norden bleibt das Wetter leicht wechselhaft.",
+   "datum": "2026-11-14T10:43:41.000Z",
+   "link": "https://www.deutschlandfunk.de/im-norden-und-osten-bewoelkt-im-westen-und-sueden-heiter-108.html",
+   "stichworte": []
+  },
+  {
+   "id": "zdf-wgppw7",
+   "quelle": "ZDFheute",
+   "thema": "Ausland",
+   "kontext": "Politik",
+   "titel": "Iran-Krieg und Nahost-Konflikt: Alle Nachrichten im Liveblog",
+   "text": "Die Lage in Nahost ist weiter angespannt - es kommt immer wieder zu Angriffen. Im Westjordanland spitzt sich die Situation zu. Alle Entwicklungen im Liveblog.",
+   "datum": "2026-11-14T10:43:00.000Z",
+   "link": "https://www.zdfheute.de/politik/ausland/iran-israel-usa-angriff-liveblog-100.html",
+   "stichworte": []
+  },
+  {
+   "id": "zdf-1hfjvfw",
+   "quelle": "ZDFheute",
+   "thema": "Nachrichten",
+   "kontext": "Newsticker",
+   "titel": "Schlagzeilen",
+   "text": "Schlagzeilen zu aktuellen Ereignissen - kurze Nachrichten im Ticker",
+   "datum": "2026-11-14T10:22:00.000Z",
+   "link": "https://www.zdfheute.de/newsticker/schlagzeilen-100.html",
+   "stichworte": []
+  },
+  {
+   "id": "ts-10xegre",
+   "quelle": "tagesschau",
+   "thema": "Wirtschaft",
+   "kontext": "Nach Großstörung",
+   "titel": "Alle Systeme laut Microsoft wiederhergestellt",
+   "text": "Zentrale Cloud-Dienste waren stundenlang lahmgelegt - Unternehmen und Verbraucher weltweit waren betroffen.",
+   "datum": "2026-11-14T10:17:44.169Z",
+   "link": "https://www.tagesschau.de/wirtschaft/unternehmen/microsoft-stoerung-behoben-100.html",
+   "details": "https://www.tagesschau.de/api2u/wirtschaft/unternehmen/microsoft-stoerung-behoben-100.json",
+   "stichworte": [
+    "Microsoft",
+    "Outlook",
+    "Teams"
+   ]
+  },
+  {
+   "id": "ts-1r4f4qx",
+   "quelle": "tagesschau",
+   "thema": "Inland",
+   "kontext": "Nach einem Monat",
+   "titel": "Bahn zieht positive Bilanz zu Alkoholverbot",
+   "text": "Weniger Müll, weniger Konflikte - die Situation habe sich für Reisende und Mitarbeitende verbessert.",
+   "datum": "2026-11-14T10:07:05.643Z",
+   "link": "https://www.tagesschau.de/inland/gesellschaft/bahn-alkohol-verbot-bilanz-100.html",
+   "details": "https://www.tagesschau.de/api2u/inland/gesellschaft/bahn-alkohol-verbot-bilanz-100.json",
+   "stichworte": [
+    "Deutsche Bahn",
+    "Alkohol",
+    "Verbot"
+   ]
+  },
+  {
+   "id": "ts-ocesb5",
+   "quelle": "tagesschau",
+   "thema": "Wirtschaft",
+   "kontext": "Massive IT-Störungen",
+   "titel": "Was über den Ausfall von Microsoft-Diensten bekannt ist",
+   "text": "Wer von den Microsoft-Störungen betroffen ist und welche Hintergründe vermutet werden - ein Überblick.",
+   "datum": "2026-11-14T09:55:34.427Z",
+   "link": "https://www.tagesschau.de/wirtschaft/unternehmen/faq-ausfall-microsoft-dienste-weltweit-100.html",
+   "details": "https://www.tagesschau.de/api2u/wirtschaft/unternehmen/faq-ausfall-microsoft-dienste-weltweit-100.json",
+   "stichworte": [
+    "FAQ",
+    "Microsoft",
+    "Ausfall",
+    "Outlook",
+    "Teams"
+   ]
+  },
+  {
+   "id": "zdf-1py1bfe",
+   "quelle": "ZDFheute",
+   "thema": "Inland",
+   "kontext": "Staatsakt in München",
+   "titel": "Abschied von Hubert Aiwanger",
+   "text": "Mit einem Trauerstaatsakt nimmt Bayern Abschied von dem verstorbenen stelllvertretenden Ministerpräsidenten Aiwanger. Sein Sarg wird anschließend auf dem Domplatz verabschiedet.",
+   "datum": "2026-11-14T09:36:00.000Z",
+   "link": "https://www.zdfheute.de/politik/deutschland/aiwanger-staatsakt-trauerfeier-100.html",
+   "stichworte": []
+  },
+  {
+   "id": "zdf-ivqbvb",
+   "quelle": "ZDFheute",
+   "thema": "Nachrichten",
+   "kontext": "Europas Demokratien in der Krise",
+   "titel": "Precht: Symptome für Krisen waren 2010 \"durchaus zu sehen\"",
+   "text": "2010 warnte Richard David Precht vor Gefahren, die Europas Demokratien ins Wanken bringen könnten. Er erklärt, warum die Symptome der heutigen Krisen schon damals sichtbar waren.",
+   "datum": "2026-11-14T09:32:00.000Z",
+   "link": "https://www.zdfheute.de/video/politik-lanz-precht-krise-100.html",
+   "stichworte": []
+  },
+  {
+   "id": "zdf-idxhb8",
+   "quelle": "ZDFheute",
+   "thema": "Wirtschaft",
+   "kontext": "Mega-Panne bei Outlook, Teams und Co.",
+   "titel": "Microsoft: Störungen behoben - Dienste funktionieren wieder",
+   "text": "Der US-Technologie-Gigant meldet, dass alle seine Dienste wieder funktionieren. Alle Störungen bei Diensten wie Outlook oder Teams seien beseitigt worden, so der Konzern.",
+   "datum": "2026-11-14T08:31:00.000Z",
+   "link": "https://www.zdfheute.de/wirtschaft/unternehmen/microsoft-office-outlook-teams-ausfaelle-behoben-100.html",
+   "stichworte": []
+  },
+  {
+   "id": "ts-1lcz06r",
+   "quelle": "tagesschau",
+   "thema": "Inland",
+   "kontext": "Sparprogramm der Bundesregierung",
+   "titel": "Kassenärzte-Chef erwartet mehr Selbstzahler-Termine",
+   "text": "Wer längere Wartezeiten vermeiden will, muss Behandlungen selbst zahlen, so der Kassenärzte-Chef.",
+   "datum": "2026-11-14T08:15:06.125Z",
+   "link": "https://www.tagesschau.de/inland/gesetzlich-versicherte-behandlung-selbstzahler-100.html",
+   "details": "https://www.tagesschau.de/api2u/inland/gesetzlich-versicherte-behandlung-selbstzahler-100.json",
+   "stichworte": [
+    "Gesetzliche Krankenversicherung",
+    "Arzttermin",
+    "Gassen",
+    "Gesundheitssystem"
+   ]
+  },
+  {
+   "id": "zdf-11ra3we",
+   "quelle": "ZDFheute",
+   "thema": "Nachrichten",
+   "kontext": "Verstehen, wie Trump die USA verändert",
+   "titel": "Tausche Frieden gegen Donbass",
+   "text": "Washington drängt Kiew zu Gebietsabtretungen. Putin fordert auch Land, das seine Truppen nicht kontrollieren. Europa hat sich auf ein Verhandlungsteam geeinigt.",
+   "datum": "2026-11-14T07:42:00.000Z",
+   "link": "https://www.zdfheute.de/briefing/trump-effekt/midterms-newsletter-dublin-moskau-kushner-witkoff-100.html",
+   "stichworte": []
+  },
+  {
+   "id": "ts-14gpbu0",
+   "quelle": "tagesschau",
+   "thema": "Wirtschaft",
+   "kontext": "Weniger Bürokratie, einfachere Planung",
+   "titel": "Warum in Polen schneller gebaut wird als in Deutschland",
+   "text": "Wird in Polen eine neue Straße oder Brücke errichtet, geht es deutlich schneller als westlich der Oder. Warum?",
+   "datum": "2026-11-14T07:24:30.251Z",
+   "link": "https://www.tagesschau.de/wirtschaft/weltwirtschaft/bauen-polen-100.html",
+   "details": "https://www.tagesschau.de/api2u/wirtschaft/weltwirtschaft/bauen-polen-100.json",
+   "stichworte": [
+    "Baubranche",
+    "Wohnungen",
+    "Brücken",
+    "Infrastruktur",
+    "Polen"
+   ]
+  },
+  {
+   "id": "ts-183t0os",
+   "quelle": "tagesschau",
+   "thema": "Ausland",
+   "kontext": "Nach US-Zwischenwahlen",
+   "titel": "Migranten auf dem Weg Richtung USA",
+   "text": "Nach dem Sieg der Demokraten bei den Midterms hat sich Migranten auf den Weg Richtung USA gemacht.",
+   "datum": "2026-11-14T07:21:14.673Z",
+   "link": "https://www.tagesschau.de/ausland/amerika/migranten-usa-mexiko-110.html",
+   "details": "https://www.tagesschau.de/api2u/ausland/amerika/migranten-usa-mexiko-110.json",
+   "stichworte": [
+    "USA",
+    "Mexiko",
+    "Migranten"
+   ]
+  },
+  {
+   "id": "zdf-blz6m7",
+   "quelle": "ZDFheute",
+   "thema": "Ausland",
+   "kontext": "Politik",
+   "titel": "Aktuelles zum Krieg in der Ukraine",
+   "text": "Seit Februar 2022 führt Russland einen Angriffskrieg gegen die Ukraine, die Kämpfe dauern an. Alle Entwicklungen und Ukraine-News im Liveticker.",
+   "datum": "2026-11-14T07:21:00.000Z",
+   "link": "https://www.zdfheute.de/politik/ausland/ukraine-russland-konflikt-blog-102.html",
+   "stichworte": []
+  },
+  {
+   "id": "ts-iakzix",
+   "quelle": "tagesschau",
+   "thema": "Ausland",
+   "kontext": "Vorübergehendes Startverbot in den USA",
+   "titel": "\"Unglaublich veraltetes Flugsicherungssystem\"",
+   "text": "Nach dem Startverbot an US-Flughäfen macht die Regierung veraltete Technik verantwortlich.",
+   "datum": "2026-11-14T07:15:22.453Z",
+   "link": "https://www.tagesschau.de/ausland/amerika/usa-ende-startverbot-flughaefen-100.html",
+   "details": "https://www.tagesschau.de/api2u/ausland/amerika/usa-ende-startverbot-flughaefen-100.json",
+   "stichworte": [
+    "USA",
+    "Flugzeuge",
+    "Flughäfen",
+    "Flugverkehr"
+   ]
+  },
+  {
+   "id": "zdf-ug5xe3",
+   "quelle": "ZDFheute",
+   "thema": "Panorama",
+   "kontext": "Zieht schneller als sein Schatten",
+   "titel": "Lucky Luke wird 80 Jahre alt - und heilig gesprochen",
+   "text": "Vor 80 Jahren erschien Lucky Luke erstmals. Die Fangemeinde ist weiterhin groß. Der einsame Cowboy ist bis heute cool und zieht seinen Colt immer noch schneller als sein Schatten.",
+   "datum": "2026-11-14T06:01:00.000Z",
+   "link": "https://www.zdfheute.de/panorama/lucky-luke-80-geburtstag-100.html",
+   "stichworte": []
+  },
+  {
+   "id": "zdf-5690l1",
+   "quelle": "ZDFheute",
+   "thema": "Panorama",
+   "kontext": "Steigende Jugendgewalt in Potsdam",
+   "titel": "Boxen statt Stress auf der Straße",
+   "text": "Die Initiative \"FAIR Boxen\" bringt Jugendlichen in Potsdam das Boxen bei. Beim Training lernen sie respektvollen Umgang miteinander und bekommen ein Ventil für ihre Gefühle.",
+   "datum": "2026-11-14T06:00:00.000Z",
+   "link": "https://www.zdfheute.de/video/panorama-jugendgewalt-boxclub-potsdam-video-100.html",
+   "stichworte": []
+  },
+  {
+   "id": "zdf-1eem154",
+   "quelle": "ZDFheute",
+   "thema": "Nachrichten",
+   "kontext": "Diabetes Typ 2 rechtzeitig vorbeugen",
+   "titel": "Prädiabetes: Wann der Blutzucker zum Warnsignal wird",
+   "text": "Immer mehr Menschen haben Prädiabetes, was aber meist unbemerkt bleibt. Dabei bietet die Vorstufe des Typ-2-Diabetes die Chance, der Erkrankung gegenzusteuern. Wer gefährdet ist.",
+   "datum": "2026-11-14T05:15:00.000Z",
+   "link": "https://www.zdfheute.de/ratgeber/gesundheit/diabetes-typ-2-praediabetes-blutzucker-praevention-diagnose-100.html",
+   "stichworte": []
+  },
+  {
+   "id": "zdf-2lh5n9",
+   "quelle": "ZDFheute",
+   "thema": "Sport",
+   "kontext": "Verfolgerduell in der Frauen-Bundesliga",
+   "titel": "Wölfinnen wollen Bayerns Serie knacken",
+   "text": "Die beste Offensive gegen die zweitbeste: Die Top-Teams der Frauen-Bundesliga treffen im Spitzenspiel aufeinander, Wolfsburg ist dabei so stark wie lange nicht.",
+   "datum": "2026-11-14T05:05:00.000Z",
+   "link": "https://www.zdfheute.de/sport/fussball-bundesliga-frauen/bundesliga-frauen-vfl-wolfsburg-fc-bayern-muenchen-vorschau-100.html",
+   "stichworte": []
+  },
   {
    "id": "dlf-1eway09",
    "quelle": "Deutschlandfunk",
@@ -44,17 +635,6 @@
    "stichworte": []
   },
   {
-   "id": "dlf-1j4nlgm",
-   "quelle": "Deutschlandfunk",
-   "thema": "Nachrichten",
-   "kontext": "Apec-Gipfel",
-   "titel": "US-Regierung: Trump trifft Putin und Xi am kommenden Donnerstag",
-   "text": "Die US-Regierung hat Details zum geplanten Treffen von Präsident Trump mit dem russischen Staatschef Putin und Chinas Staatschef Xi mitgeteilt.",
-   "datum": "2026-11-14T04:56:44.000Z",
-   "link": "https://www.deutschlandfunk.de/us-regierung-trump-trifft-putin-und-xi-am-kommenden-donnerstag-100.html",
-   "stichworte": []
-  },
-  {
    "id": "dlf-1h4q8w4",
    "quelle": "Deutschlandfunk",
    "thema": "Nachrichten",
@@ -63,50 +643,6 @@
    "text": "Europa will sich mit einer Delegation aus Diplomaten an künftigen Friedensgesprächen zwischen Russland und der Ukraine beteiligen. Der Kontinent werde von Spitzen der Europäischen Union und Vertretern der sogenannten Koalition der Willigen repräsentiert, kündigte EU-Ratspräsident Costa nach einem informellen Gipfel in …",
    "datum": "2026-11-14T04:56:44.000Z",
    "link": "https://www.deutschlandfunk.de/europa-legt-sich-auf-delegation-fuer-ukraine-friedensverhandlungen-fest-102.html",
-   "stichworte": []
-  },
-  {
-   "id": "dlf-gmbn2q",
-   "quelle": "Deutschlandfunk",
-   "thema": "Nachrichten",
-   "kontext": "Türkei",
-   "titel": "Genehmigte Demonstrationen zur Halbzeit der UNO-Klimakonferenz angekündigt",
-   "text": "Im türkischen Antalya wollen Umweltaktivisten heute für mehr Einsatz gegen den Klimawandel demonstrieren.",
-   "datum": "2026-11-14T04:56:44.000Z",
-   "link": "https://www.deutschlandfunk.de/genehmigte-demonstrationen-zur-halbzeit-der-uno-klimakonferenz-angekuendigt-100.html",
-   "stichworte": []
-  },
-  {
-   "id": "dlf-1abb3uh",
-   "quelle": "Deutschlandfunk",
-   "thema": "Nachrichten",
-   "kontext": "Ausschluss geplant",
-   "titel": "Linke-Parteichef Pantisano verteidigt Verfahren zu Berliner Abgeordneten Emde",
-   "text": "Der Linke-Bundesvorsitzende Pantisano hat das Verfahren zum Umgang mit der umstrittenen Berliner Abgeordneten Emde verteidigt.",
-   "datum": "2026-11-14T04:56:44.000Z",
-   "link": "https://www.deutschlandfunk.de/linke-parteichef-pantisano-verteidigt-verfahren-zu-berliner-abgeordneten-emde-100.html",
-   "stichworte": []
-  },
-  {
-   "id": "dlf-q11nrp",
-   "quelle": "Deutschlandfunk",
-   "thema": "Nachrichten",
-   "kontext": "Mecklenburg-Vorpommern",
-   "titel": "Parteitage: SPD und Grüne stimmen über Koalitionsvertrag ab",
-   "text": "In Mecklenburg-Vorpommern wollen SPD und Grüne heute auf ihren Parteitagen über den Koalitionsvertrag abstimmen, den sie gemeinsam mit der Linken ausgearbeitet haben.",
-   "datum": "2026-11-14T04:56:44.000Z",
-   "link": "https://www.deutschlandfunk.de/parteitage-spd-und-gruene-stimmen-ueber-koalitionsvertrag-ab-100.html",
-   "stichworte": []
-  },
-  {
-   "id": "dlf-d47029",
-   "quelle": "Deutschlandfunk",
-   "thema": "Nachrichten",
-   "kontext": "Koalition",
-   "titel": "Diskussion um Senkung der Stromsteuer geht weiter",
-   "text": "Bundeskanzler Merz hält an den Plänen für eine Senkung der Stromsteuer fest. Es sei weiterhin sein Ziel, die Stromsteuer auf das europäische Minimum abzusenken, betonte der CDU-Vorsitzende. Dies solle ab dem nächsten Jahr in vollständiger Höhe geschehen.",
-   "datum": "2026-11-14T04:56:44.000Z",
-   "link": "https://www.deutschlandfunk.de/diskussion-um-senkung-der-stromsteuer-geht-weiter-110.html",
    "stichworte": []
   },
   {
@@ -121,94 +657,6 @@
    "stichworte": []
   },
   {
-   "id": "dlf-1v6eg9n",
-   "quelle": "Deutschlandfunk",
-   "thema": "Nachrichten",
-   "kontext": "Weltweite Störung",
-   "titel": "Microsoft: Probleme gingen auf Netzwerk-Update zurück",
-   "text": "Die lange weltweite Störung bei Online-Diensten von Microsoft ging nach Angaben des Unternehmens auf ein hausinternes Update zurück.",
-   "datum": "2026-11-14T04:56:44.000Z",
-   "link": "https://www.deutschlandfunk.de/microsoft-probleme-gingen-auf-netzwerk-update-zurueck-104.html",
-   "stichworte": []
-  },
-  {
-   "id": "dlf-1mnr1cx",
-   "quelle": "Deutschlandfunk",
-   "thema": "Nachrichten",
-   "kontext": "Nvidia-Skandal",
-   "titel": "US-Finanzminister Bessent macht Handelsminister Lutnick für Chip-Lieferungen nach China verantwortlich",
-   "text": "Im Skandal um den zurückgetretenen Nvidia-Chef Huang steht nun auch US-Handelsminister Lutnick in der Kritik.",
-   "datum": "2026-11-14T04:56:44.000Z",
-   "link": "https://www.deutschlandfunk.de/us-finanzminister-bessent-macht-handelsminister-lutnick-fuer-chip-lieferungen-nach-china-verantwortl-106.html",
-   "stichworte": []
-  },
-  {
-   "id": "dlf-1eklp6k",
-   "quelle": "Deutschlandfunk",
-   "thema": "Nachrichten",
-   "kontext": "Interview der Woche",
-   "titel": "Bundestagspräsidentin Klöckner will Mitarbeiter des Parlaments stärker durchleuchten",
-   "text": "Bundestagspräsidentin Klöckner hat angesichts hybrider Bedrohungen eine stärkere Kontrolle von Parlamentsmitarbeitern angemahnt. Man brauche für Sicherheitsüberprüfungen von künftigen Mitarbeitern auch Informationen der Nachrichtendienste, sagte Klöckner im Interview der Woche des Deutschlandfunks.",
-   "datum": "2026-11-14T04:56:44.000Z",
-   "link": "https://www.deutschlandfunk.de/bundestagspraesidentin-kloeckner-will-mitarbeiter-des-parlaments-staerker-durchleuchten-106.html",
-   "stichworte": []
-  },
-  {
-   "id": "dlf-1pvqmti",
-   "quelle": "Deutschlandfunk",
-   "thema": "Nachrichten",
-   "kontext": "Militärische Bedeutung",
-   "titel": "Bund will nach Medienberichten bei Atomfirma Urenco einsteigen",
-   "text": "Die Bundesregierung will sich nach übereinstimmenden Medienberichten am Atomtechnikkonzern Urenco beteiligen.",
-   "datum": "2026-11-14T04:56:44.000Z",
-   "link": "https://www.deutschlandfunk.de/bund-will-nach-medienberichten-bei-atomfirma-urenco-einsteigen-106.html",
-   "stichworte": []
-  },
-  {
-   "id": "dlf-18ktikj",
-   "quelle": "Deutschlandfunk",
-   "thema": "Nachrichten",
-   "kontext": "USA",
-   "titel": "Frachter rammt Flusskreuzfahrtschiff in New Orleans - 30 Passagiere im Krankenhaus",
-   "text": "In New Orleans im US-Bundesstaat Louisiana ist es zu einem Schiffsunglück gekommen.",
-   "datum": "2026-11-14T04:56:44.000Z",
-   "link": "https://www.deutschlandfunk.de/frachter-rammt-flusskreuzfahrtschiff-in-new-orleans-30-passagiere-im-krankenhaus-102.html",
-   "stichworte": []
-  },
-  {
-   "id": "dlf-vx073g",
-   "quelle": "Deutschlandfunk",
-   "thema": "Nachrichten",
-   "kontext": "Klimaauswirkungen",
-   "titel": "El Niño: Brasilianischer Bundesstaat Pará ruft nach Tausenden Waldbränden den Umweltnotstand aus",
-   "text": "Der brasilianische Bundesstaat Pará hat nach zahlreichen Waldbränden den Umweltnotstand ausgerufen.",
-   "datum": "2026-11-14T04:56:44.000Z",
-   "link": "https://www.deutschlandfunk.de/el-ni-o-brasilianischer-bundesstaat-par-ruft-nach-tausenden-waldbraenden-den-umweltnotstand-aus-104.html",
-   "stichworte": []
-  },
-  {
-   "id": "dlf-a5etsu",
-   "quelle": "Deutschlandfunk",
-   "thema": "Nachrichten",
-   "kontext": "Kritik an \"1Live\"",
-   "titel": "Kitschkrieg fordert feste Quote für deutschsprachige Musik im Radio",
-   "text": "Die Musikproduzenten-Gruppe Kitschkrieg setzt sich für eine feste Quote für deutschsprachige Musik im Radio ein.",
-   "datum": "2026-11-14T04:56:44.000Z",
-   "link": "https://www.deutschlandfunk.de/kitschkrieg-fordert-feste-quote-fuer-deutschsprachige-musik-im-radio-100.html",
-   "stichworte": []
-  },
-  {
-   "id": "dlf-1gxcone",
-   "quelle": "Deutschlandfunk",
-   "thema": "Nachrichten",
-   "kontext": "Familienleistung",
-   "titel": "Was sich beim Elterngeld ändern soll",
-   "text": "Das Elterngeld soll einfacher und attraktiver werden, so will es die Bundesregierung. Das Kabinett hat sich nun auf einen Gesetzentwurf geeinigt, der ab November 2027 greifen soll. Ein Überblick über die geplanten Änderungen.",
-   "datum": "2026-11-14T04:56:44.000Z",
-   "link": "https://www.deutschlandfunk.de/was-sich-beim-elterngeld-aendern-soll-100.html",
-   "stichworte": []
-  },
-  {
    "id": "dlf-188vf2e",
    "quelle": "Deutschlandfunk",
    "thema": "Nachrichten",
@@ -217,28 +665,6 @@
    "text": "Die Fußball-Nationalmannschaft der Männer hat in der Nations League das Rückspiel gegen Serbien in Belgrad mit 3:1 gewonnen. Deutschland ging bereits in der dritten Minute in Führung.",
    "datum": "2026-11-14T04:56:44.000Z",
    "link": "https://www.deutschlandfunk.de/dfb-elf-der-maenner-schlaegt-serbien-110.html",
-   "stichworte": []
-  },
-  {
-   "id": "dlf-1py8x93",
-   "quelle": "Deutschlandfunk",
-   "thema": "Nachrichten",
-   "kontext": "Wintersport",
-   "titel": "Nach Finnland wollen auch Norwegen, Schweden und Estland russischen Sportlern die Einreise verweigern",
-   "text": "Drei weitere europäische Länder wollen Sportlern aus Russland die Einreise zu internationalen Wettkämpfen verweigern.",
-   "datum": "2026-11-14T04:56:44.000Z",
-   "link": "https://www.deutschlandfunk.de/nach-finnland-wollen-auch-norwegen-schweden-und-estland-russischen-sportlern-die-einreise-verweigern-104.html",
-   "stichworte": []
-  },
-  {
-   "id": "dlf-wn70zx",
-   "quelle": "Deutschlandfunk",
-   "thema": "Nachrichten",
-   "kontext": "Wetter",
-   "titel": "Im Norden und Osten bewölkt, im Westen und Süden heiter",
-   "text": "Der Wetterbericht, die Lage: Die aus Nordwesten eingeflossene polare Meereskaltluft befindet sich unter Hochdruckeinfluss. Lediglich im Norden bleibt das Wetter leicht unbeständig.",
-   "datum": "2026-11-14T04:56:44.000Z",
-   "link": "https://www.deutschlandfunk.de/im-norden-und-osten-bewoelkt-im-westen-und-sueden-heiter-100.html",
    "stichworte": []
   },
   {
@@ -291,6 +717,17 @@
    "text": "Auf dem Mississippi ist ein Flusskreuzfahrtschiff teilweise gesunken, doch alle Menschen an Bord konnten gerettet werden. Behörden sprechen von einem \"Wunder\".",
    "datum": "2026-11-14T04:08:00.000Z",
    "link": "https://www.zdfheute.de/panorama/unfall-frachter-kreuzfahrtschiff-new-orleans-100.html",
+   "stichworte": []
+  },
+  {
+   "id": "zdf-xgpk5c",
+   "quelle": "ZDFheute",
+   "thema": "Nachrichten",
+   "kontext": "ZDFinfo Doku",
+   "titel": "Finstere Alpen",
+   "text": "Ein geheimnisvoller Serientäter, ein mordender Metzgermeister und ein Anschlag durch das organisierte Verbrechen: Das sind Taten, die in Österreich Kriminalgeschichte geschrieben haben.",
+   "datum": "2026-11-14T04:00:00.000Z",
+   "link": "https://www.zdf.de/video/dokus/ermittler-100/zdfinfo-ermittler-finstere-alpen-100",
    "stichworte": []
   },
   {
@@ -378,28 +815,6 @@
    "stichworte": []
   },
   {
-   "id": "zdf-wgppw7",
-   "quelle": "ZDFheute",
-   "thema": "Ausland",
-   "kontext": "Politik",
-   "titel": "Iran-Krieg und Nahost-Konflikt: Alle Nachrichten im Liveblog",
-   "text": "Die Lage in Nahost ist weiter angespannt - es kommt immer wieder zu Angriffen. Im Westjordanland spitzt sich die Situation zu. Alle Entwicklungen im Liveblog.",
-   "datum": "2026-11-13T22:57:00.000Z",
-   "link": "https://www.zdfheute.de/politik/ausland/iran-israel-usa-angriff-liveblog-100.html",
-   "stichworte": []
-  },
-  {
-   "id": "zdf-blz6m7",
-   "quelle": "ZDFheute",
-   "thema": "Ausland",
-   "kontext": "Politik",
-   "titel": "Aktuelles zum Krieg in der Ukraine",
-   "text": "Seit Februar 2022 führt Russland einen Angriffskrieg gegen die Ukraine, die Kämpfe dauern an. Alle Entwicklungen und Ukraine-News im Liveticker.",
-   "datum": "2026-11-13T22:56:00.000Z",
-   "link": "https://www.zdfheute.de/politik/ausland/ukraine-russland-konflikt-blog-102.html",
-   "stichworte": []
-  },
-  {
    "id": "zdf-1tcavre",
    "quelle": "ZDFheute",
    "thema": "Panorama",
@@ -416,7 +831,7 @@
    "thema": "Sport",
    "kontext": "UEFA Nations League",
    "titel": "DFB-Elf gewinnt die Regenschlacht von Belgrad",
-   "text": "Im vorletzten Länderspiel des Jahres hat die deutsche Nationalmannschaft den ersten Sieg unter Jürgen Klopp eingefahren. Das DFB-Team besiegte Serbien klar.",
+   "text": "Im vorletzten Länderspiel des Jahres hat die deutsche Nationalmannschaft den ersten Auswärtssieg unter Jürgen Klopp eingefahren. Das DFB-Team besiegte Serbien klar.",
    "datum": "2026-11-13T22:21:00.000Z",
    "link": "https://www.zdfheute.de/sport/fussball-nations-league/video/serbien-deutschland-highlights-maenner-zusammenfassung-100.html",
    "stichworte": []
@@ -508,24 +923,6 @@
    "datum": "2026-11-13T20:36:00.000Z",
    "link": "https://www.zdfheute.de/politik/deutschland/mecklenburg-vorpommern-linke-stimmt-koalitionsvertrag-zu-100.html",
    "stichworte": []
-  },
-  {
-   "id": "ts-ocesb5",
-   "quelle": "tagesschau",
-   "thema": "Wirtschaft",
-   "kontext": "Massive IT-Störungen",
-   "titel": "Was über den Ausfall von Microsoft-Diensten bekannt ist",
-   "text": "Wer von den Microsoft-Störungen betroffen ist und welche Hintergründe vermutet werden - ein Überblick.",
-   "datum": "2026-11-13T20:22:33.599Z",
-   "link": "https://www.tagesschau.de/wirtschaft/unternehmen/faq-ausfall-microsoft-dienste-weltweit-100.html",
-   "details": "https://www.tagesschau.de/api2u/wirtschaft/unternehmen/faq-ausfall-microsoft-dienste-weltweit-100.json",
-   "stichworte": [
-    "FAQ",
-    "Microsoft",
-    "Ausfall",
-    "Outlook",
-    "Teams"
-   ]
   },
   {
    "id": "ts-1gxgnhq",
@@ -993,116 +1390,6 @@
    "stichworte": []
   },
   {
-   "id": "dlf-11g7jy1",
-   "quelle": "Deutschlandfunk",
-   "thema": "Nachrichten",
-   "kontext": "Nahostkonflikt",
-   "titel": "Ärzte ohne Grenzen kritisiert Luftangriff auf Krankenhaus im Gazastreifen",
-   "text": "Die Hilfsorganisation Ärzte ohne Grenzen hat den israelischen Luftangriff auf ein Krankenhaus im Gazastreifen kritisiert.",
-   "datum": "2026-11-13T16:39:01.000Z",
-   "link": "https://www.deutschlandfunk.de/aerzte-ohne-grenzen-kritisiert-luftangriff-auf-krankenhaus-im-gazastreifen-102.html",
-   "stichworte": []
-  },
-  {
-   "id": "dlf-1ckcg4p",
-   "quelle": "Deutschlandfunk",
-   "thema": "Nachrichten",
-   "kontext": "Güstrow",
-   "titel": "Mecklenburg-Vorpommern: Linke stimmt auf Parteitag über Koalitionsvertrag ab",
-   "text": "Die Linke in Mecklenburg-Vorpommern stimmt heute auf einem Parteitag in Güstrow über den rot-rot-grünen Koalitionsvertrag ab.",
-   "datum": "2026-11-13T16:39:01.000Z",
-   "link": "https://www.deutschlandfunk.de/mecklenburg-vorpommern-linke-stimmt-auf-parteitag-ueber-koalitionsvertrag-ab-100.html",
-   "stichworte": []
-  },
-  {
-   "id": "dlf-1nrulzz",
-   "quelle": "Deutschlandfunk",
-   "thema": "Nachrichten",
-   "kontext": "\"Lux\"",
-   "titel": "Rosalía gewinnt Latin Grammy für das Album des Jahres",
-   "text": "Die spanische Sängerin Rosalía hat bei den 27. Latin Grammy Awards in Las Vegas die wichtigste Auszeichnung des Abends gewonnen: Ihr 2025 veröffentlichtes Album \"Lux\" wurde zum Album des Jahres gekürt.",
-   "datum": "2026-11-13T16:39:01.000Z",
-   "link": "https://www.deutschlandfunk.de/rosal-a-gewinnt-latin-grammy-fuer-das-album-des-jahres-104.html",
-   "stichworte": []
-  },
-  {
-   "id": "dlf-tsjcgk",
-   "quelle": "Deutschlandfunk",
-   "thema": "Nachrichten",
-   "kontext": "Berlin",
-   "titel": "Jüdische Kulturtage mit Konzert eröffnet",
-   "text": "Mit einem Konzert der israelischen Sängerin Marina Maximilian in der Synagoge Rykestraße sind die 39. Jüdischen Kulturtage Berlin eröffnet worden. Das Festival steht in diesem Jahr unter dem Motto \"Zadikim - Zeit für Gerechte\", wie die Organisatoren um die Jüdische Gemeinde zu Berlin mitteilten.",
-   "datum": "2026-11-13T16:39:01.000Z",
-   "link": "https://www.deutschlandfunk.de/juedische-kulturtage-mit-konzert-eroeffnet-102.html",
-   "stichworte": []
-  },
-  {
-   "id": "dlf-1iol1td",
-   "quelle": "Deutschlandfunk",
-   "thema": "Nachrichten",
-   "kontext": "Leistungssport",
-   "titel": "Experte erhebt schwere Vorwürfe wegen Kinderdoping",
-   "text": "Der Doping-Experte Hajo Seppelt hat an die Verantwortlichen des internationalen Sports appelliert, härter gegen Kinderdoping durchzugreifen. Nach einer Hochrechnung auf Grundlage von rund 50 wissenschaftlichen Studien sollen weltweit mindestens zehn Millionen Minderjährige von Doping betroffen sein.",
-   "datum": "2026-11-13T16:39:01.000Z",
-   "link": "https://www.deutschlandfunk.de/experte-erhebt-schwere-vorwuerfe-wegen-kinderdoping-100.html",
-   "stichworte": []
-  },
-  {
-   "id": "dlf-a7p4jb",
-   "quelle": "Deutschlandfunk",
-   "thema": "Nachrichten",
-   "kontext": "Wahl im Dezember",
-   "titel": "Ethikkomission stimmt zu: Mronz und Engelhardt kämpfen um DOSB-Chefposten",
-   "text": "Das Rennen um das Präsidenten-Amt beim Deutschen Olympischen Sportbund ist nun auch offiziell ein Duell zwischen IOC-Mitglied Michael Mronz und dem Präsidenten der Deutschen Triathlon-Union, Martin Engelhardt. Wie der Dachverband mitteilte, erhielten beide Kandidaten die Zulassung der DOSB-Ethikkommission.",
-   "datum": "2026-11-13T16:39:01.000Z",
-   "link": "https://www.deutschlandfunk.de/ethikkomission-stimmt-zu-mronz-und-engelhardt-kaempfen-um-dosb-chefposten-102.html",
-   "stichworte": []
-  },
-  {
-   "id": "dlf-15yhb8n",
-   "quelle": "Deutschlandfunk",
-   "thema": "Nachrichten",
-   "kontext": "Fußball-Bundesligist",
-   "titel": "BVB beendet umstrittene Partnerschaft mit Rheinmetall",
-   "text": "Borussia Dortmund beendet seine umstrittene Sponsoringpartnerschaft mit dem Rüstungskonzern Rheinmetall. Der im Sommer 2027 auslaufende Vertrag soll nach drei Jahren nicht verlängert werden, teilten der Fußball-Bundesligist und das Düsseldorfer Unternehmen mit.",
-   "datum": "2026-11-13T16:39:01.000Z",
-   "link": "https://www.deutschlandfunk.de/bvb-beendet-umstrittene-partnerschaft-mit-rheinmetall-100.html",
-   "stichworte": []
-  },
-  {
-   "id": "dlf-1jfp9iw",
-   "quelle": "Deutschlandfunk",
-   "thema": "Nachrichten",
-   "kontext": "Nations League",
-   "titel": "Fußball-Nationalmannschaft trifft auf Serbien - Klopp hofft auf Sieg",
-   "text": "Die deutsche Fußball-Nationalmannschaft trifft am Abend in der Nations League auf Serbien.",
-   "datum": "2026-11-13T16:39:01.000Z",
-   "link": "https://www.deutschlandfunk.de/fussball-nationalmannschaft-trifft-auf-serbien-klopp-hofft-auf-sieg-102.html",
-   "stichworte": []
-  },
-  {
-   "id": "dlf-1na6m5n",
-   "quelle": "Deutschlandfunk",
-   "thema": "Nachrichten",
-   "kontext": "Eishockey-Streit",
-   "titel": "Russland droht Gastgeber Deutschland mit Schadenersatzforderungen im Fall von WM-Ausschluss",
-   "text": "Der russische Eishockeyverband hat dem Deutschen Eishockey-Bund für den Fall eines Ausschlusses von der WM im kommenden Jahr mit Schadenersatzforderungen gedroht.",
-   "datum": "2026-11-13T16:39:01.000Z",
-   "link": "https://www.deutschlandfunk.de/russland-droht-gastgeber-deutschland-mit-schadenersatzforderungen-im-fall-von-wm-ausschluss-102.html",
-   "stichworte": []
-  },
-  {
-   "id": "dlf-1q7aoq",
-   "quelle": "Deutschlandfunk",
-   "thema": "Nachrichten",
-   "kontext": "Wetter",
-   "titel": "In der Nacht meist klar und trocken, 3 bis -5 Grad",
-   "text": "Das Wetter: In der Nacht im Norden einzelne Schauer, sonst Bewölkungsrückgang, teils klar und trocken. Tiefstwerte 3 bis minus 5 Grad, am Alpenrand über Schnee noch kälter. Morgen im Norden und Osten bewölkt, im Küstenumfeld einzelne Schauer. Im Westen und Süden nach Nebelauflösung heiter. Maximal 3 bis 10 Grad.",
-   "datum": "2026-11-13T16:39:01.000Z",
-   "link": "https://www.deutschlandfunk.de/in-der-nacht-meist-klar-und-trocken-3-bis-5-grad-100.html",
-   "stichworte": []
-  },
-  {
    "id": "ts-16th5zu",
    "quelle": "tagesschau",
    "thema": "Inland",
@@ -1421,17 +1708,6 @@
    "stichworte": []
   },
   {
-   "id": "zdf-1hfjvfw",
-   "quelle": "ZDFheute",
-   "thema": "Nachrichten",
-   "kontext": "Newsticker",
-   "titel": "Schlagzeilen",
-   "text": "Schlagzeilen zu aktuellen Ereignissen - kurze Nachrichten im Ticker",
-   "datum": "2026-11-13T13:01:00.000Z",
-   "link": "https://www.zdfheute.de/newsticker/schlagzeilen-100.html",
-   "stichworte": []
-  },
-  {
    "id": "ts-1il98ae",
    "quelle": "tagesschau",
    "thema": "Wirtschaft",
@@ -1566,105 +1842,6 @@
    "stichworte": []
   },
   {
-   "id": "zdf-63zj90",
-   "quelle": "ZDFheute",
-   "thema": "Wirtschaft",
-   "kontext": "\"Das ist mit uns nicht zu machen\"",
-   "titel": "Mercedes-Sparkurs: Jetzt spricht der Betriebsrat",
-   "text": "Mercedes stoppt vorerst alle Investitionen in deutsche Standorte, der Druck auf Betriebsrat und IG Metall steigt. Sie lehnen den Plan ab, das sei mit ihnen \"nicht zu machen\".",
-   "datum": "2026-11-13T11:23:00.000Z",
-   "link": "https://www.zdfheute.de/wirtschaft/unternehmen/investitionen-deutschland-kostensenkungen-werksschliessungen-stopp-100.html",
-   "stichworte": []
-  },
-  {
-   "id": "dlf-176byc5",
-   "quelle": "Deutschlandfunk",
-   "thema": "Nachrichten",
-   "kontext": "Dublin",
-   "titel": "Kushner: Europäer sollen bei nächsten Ukraine-Gesprächen dabei sein",
-   "text": "Der russische Präsident Putin ist nach Angaben der USA bereit, Europa bei künftigen Ukraine-Friedensgesprächen mit einzubeziehen. Der US-Sondergesandte Kushner teilte in Dublin mit, man gehe davon aus, in Kürze den Zeitplan und weitere Einzelheiten bekanntgeben zu können.",
-   "datum": "2026-11-13T11:04:03.000Z",
-   "link": "https://www.deutschlandfunk.de/kushner-europaeer-sollen-bei-naechsten-ukraine-gespraechen-dabei-sein-100.html",
-   "stichworte": []
-  },
-  {
-   "id": "dlf-9rzi3r",
-   "quelle": "Deutschlandfunk",
-   "thema": "Nachrichten",
-   "kontext": "Weltweite Störung",
-   "titel": "Microsoft sieht bislang keine Anzeichen für Cyberangriff",
-   "text": "Microsoft sieht nach eigenen Angaben bislang keine Anzeichen dafür, dass die gegenwärtigen weltweiten Störungen seiner Dienste auf einen Cyberangriff zurückzuführen seien.",
-   "datum": "2026-11-13T11:04:03.000Z",
-   "link": "https://www.deutschlandfunk.de/microsoft-sieht-bislang-keine-anzeichen-fuer-cyberangriff-100.html",
-   "stichworte": []
-  },
-  {
-   "id": "dlf-8q7ja9",
-   "quelle": "Deutschlandfunk",
-   "thema": "Nachrichten",
-   "kontext": "Bundeshaushalt",
-   "titel": "Kreditfinanzierter Autobahnausbau: Kritik an Klingbeil aus eigener Fraktion",
-   "text": "Die Haushaltspläne von Bundesfinanzminister Klingbeil zur bundeseigenen Autobahn GmbH stoßen auch in seiner eigenen SPD-Fraktion auf Kritik.",
-   "datum": "2026-11-13T11:04:03.000Z",
-   "link": "https://www.deutschlandfunk.de/kreditfinanzierter-autobahnausbau-kritik-an-klingbeil-aus-eigener-fraktion-106.html",
-   "stichworte": []
-  },
-  {
-   "id": "dlf-12nateq",
-   "quelle": "Deutschlandfunk",
-   "thema": "Nachrichten",
-   "kontext": "Bundeshaushalt",
-   "titel": "Millionen-Förderprogramm für ostdeutsche Zivilgesellschaft",
-   "text": "Der in der Nacht beschlossene Bundeshaushalt für das kommende Jahr umfasst auch ein Förderprogramm von zehn Millionen Euro für die Zivilgesellschaft in Ostdeutschland.",
-   "datum": "2026-11-13T11:04:03.000Z",
-   "link": "https://www.deutschlandfunk.de/millionen-foerderprogramm-fuer-ostdeutsche-zivilgesellschaft-100.html",
-   "stichworte": []
-  },
-  {
-   "id": "dlf-1h8z8v8",
-   "quelle": "Deutschlandfunk",
-   "thema": "Nachrichten",
-   "kontext": "Geheimdienste",
-   "titel": "BND soll künftig auch Sabotage im Ausland betreiben dürfen - Bundestag könnte Befugnisse heute deutlich ausweiten",
-   "text": "Der Bundestag in Berlin stimmt heute über die geplante Reform der Geheimdienste ab. Damit sollen die Befugnisse des Bundesnachrichtendienstes und des Bundesamts für Verfassungsschutz für die Abwehr von Sabotage, Spionage und Cyberangriffen substanziell erweitert werden.",
-   "datum": "2026-11-13T11:04:03.000Z",
-   "link": "https://www.deutschlandfunk.de/bnd-soll-kuenftig-auch-sabotage-im-ausland-betreiben-duerfen-bundestag-koennte-befugnisse-heute-deut-102.html",
-   "stichworte": []
-  },
-  {
-   "id": "dlf-zw2spz",
-   "quelle": "Deutschlandfunk",
-   "thema": "Nachrichten",
-   "kontext": "Vapes und Zigaretten",
-   "titel": "Nächstes Rauchverbot an Bus- und Bahnhaltestellen beschlossen",
-   "text": "Für Raucher werden die Regeln auch an Bus- und Bahnhaltestellen in Deutschland strenger.",
-   "datum": "2026-11-13T11:04:03.000Z",
-   "link": "https://www.deutschlandfunk.de/naechstes-rauchverbot-an-bus-und-bahnhaltestellen-beschlossen-104.html",
-   "stichworte": []
-  },
-  {
-   "id": "dlf-1nh3hpj",
-   "quelle": "Deutschlandfunk",
-   "thema": "Nachrichten",
-   "kontext": "UKASKM",
-   "titel": "Kindesmissbrauch im medizinischen Umfeld: Kommission ruft zu mehr Wachsamkeit auf und bittet Betroffene um Hinweise",
-   "text": "Die Unabhängige Kommission zur Aufarbeitung sexuellen Kindesmissbrauchs hat zu mehr Wachsamkeit für Risiken in Arztpraxen und Kliniken aufgerufen.",
-   "datum": "2026-11-13T11:04:03.000Z",
-   "link": "https://www.deutschlandfunk.de/kindesmissbrauch-im-medizinischen-umfeld-kommission-ruft-zu-mehr-wachsamkeit-auf-und-bittet-betroffe-106.html",
-   "stichworte": []
-  },
-  {
-   "id": "zdf-196q8zz",
-   "quelle": "ZDFheute",
-   "thema": "Nachrichten",
-   "kontext": "phoenix runde",
-   "titel": "Neue Bedrohungslage - Wie verwundbar ist unser Alltag?",
-   "text": "Anke Plättner diskutiert mit Svea Eckert (Digital-Expertin der ARD), Johannes Rundfeldt (AG Kritis), Wolf-Jürgen Stahl (Präsident Bundesakademie für Sicherheitspolitik) und Thomas Silberhorn (CSU, Mitglied des Innenausschusses im Bundestag)",
-   "datum": "2026-11-13T11:01:00.000Z",
-   "link": "https://www.phoenix.de/sendungen/gespraeche/phoenix-runde/neue-bedrohungslage---wie-a-5240755.html",
-   "stichworte": []
-  },
-  {
    "id": "ts-y0kcbj",
    "quelle": "tagesschau",
    "thema": "Ausland",
@@ -1682,50 +1859,6 @@
     "US-Migrationspolitik",
     "Migration"
    ]
-  },
-  {
-   "id": "zdf-1so1g6z",
-   "quelle": "ZDFheute",
-   "thema": "Sport",
-   "kontext": "Eishockey-WM 2027",
-   "titel": "Russland droht Gastgeber Deutschland",
-   "text": "Russlands Eishockey-Verband droht Deutschland bei einem Ausschluss von der Weltmeisterschaft mit Schadenersatz. Putin erhebt Vorwürfe.",
-   "datum": "2026-11-13T10:32:00.000Z",
-   "link": "https://www.zdfheute.de/sport/eishockey-wm-russland-putin-deutschland-streit-100.html",
-   "stichworte": []
-  },
-  {
-   "id": "zdf-h17e2u",
-   "quelle": "ZDFheute",
-   "thema": "Wirtschaft",
-   "kontext": "Laut Unternehmen keine Gefahr für Nutzer",
-   "titel": "Quantum Systems: Cyberangriff auf deutschen Drohnenhersteller",
-   "text": "Quantum Systems beliefert auch die Ukraine mit Drohnen. Das Start-up aus Bayern hat nach eigenen Angaben nun einen Cyberangriff feindlicher Akteure eingedämmt.",
-   "datum": "2026-11-13T10:30:00.000Z",
-   "link": "https://www.zdfheute.de/wirtschaft/unternehmen/cyberangriff-quantum-systems-ruestungs-start-up-100.html",
-   "stichworte": []
-  },
-  {
-   "id": "zdf-z4o9s7",
-   "quelle": "ZDFheute",
-   "thema": "Inland",
-   "kontext": "Rekorde für Soziales und Verteidigung",
-   "titel": "Haushalt 2027: So verteilt der Bund das Geld",
-   "text": "Der Haushalt für 2027 steht. Jeder fünfte Euro soll bald an die Bundeswehr gehen. Welche anderen Veränderungen gibt es? Die Zahlen im Überblick.",
-   "datum": "2026-11-13T10:07:00.000Z",
-   "link": "https://www.zdfheute.de/politik/deutschland/bundeshaushalt-2027-ausgaben-uebersicht-100.html",
-   "stichworte": []
-  },
-  {
-   "id": "zdf-18nheou",
-   "quelle": "ZDFheute",
-   "thema": "Wirtschaft",
-   "kontext": "Weltklimakonferenz in Antalya",
-   "titel": "Bündnis kritisiert fossile Interessen auf der COP",
-   "text": "Kohle, Öl und Gas gelten als große Treiber der Erderwärmung. Ein Bündnis kritisiert, dass an der COP mehr als 100 verschiedene Lobbygruppierungen aus dem Sektor teilnehmen dürfen.",
-   "datum": "2026-11-13T10:03:00.000Z",
-   "link": "https://www.zdfheute.de/wirtschaft/klimakonferenz-cop-lobbyismus-fossile-energien-100.html",
-   "stichworte": []
   },
   {
    "id": "ts-ph3udx",
@@ -1759,17 +1892,6 @@
    ]
   },
   {
-   "id": "zdf-f49ytr",
-   "quelle": "ZDFheute",
-   "thema": "Wirtschaft",
-   "kontext": "Copilot, Teams, Outlook",
-   "titel": "Microsoft-Störung: Diese Dienste sind betroffen",
-   "text": "Die globale Störung bei Microsoft beeinflusst nicht nur die Arbeit mit Outlook, sondern auch andere Systeme. Eine Liste der Funktionen, die derzeit eingeschränkt sind.",
-   "datum": "2026-11-13T09:25:00.000Z",
-   "link": "https://www.zdfheute.de/wirtschaft/unternehmen/microsoft-outlook-stoerung-copilot-teams-100.html",
-   "stichworte": []
-  },
-  {
    "id": "ts-130v7vy",
    "quelle": "tagesschau",
    "thema": "Inland",
@@ -1784,28 +1906,6 @@
     "Straßenverkehr",
     "Verkehrssicherheit"
    ]
-  },
-  {
-   "id": "zdf-67le5o",
-   "quelle": "ZDFheute",
-   "thema": "Nachrichten",
-   "kontext": "phoenix parlament",
-   "titel": "Debatte zur Reform der Nachrichtendienste",
-   "text": "Bundestagsdebatte zur Reform des Nachrichtendienstrechts",
-   "datum": "2026-11-13T09:18:00.000Z",
-   "link": "https://www.phoenix.de/php/mediaplayer/vod_embed.php?cmsid=5247734",
-   "stichworte": []
-  },
-  {
-   "id": "zdf-67le5n",
-   "quelle": "ZDFheute",
-   "thema": "Nachrichten",
-   "kontext": "phoenix parlament",
-   "titel": "Throm (CDU) und Bünger (Linke) zur Reform der Nachrichtendienste",
-   "text": "Alexander Throm (CDU, innenpolitischer Sprecher Bundestagsfraktion) und Clara Bünger (Die Linke, stellv. Fraktionsvorsitzende und innenpolitische Sprecherin) zur Reform der Nachrichtendienste",
-   "datum": "2026-11-13T09:13:00.000Z",
-   "link": "https://www.phoenix.de/php/mediaplayer/vod_embed.php?cmsid=5247733",
-   "stichworte": []
   },
   {
    "id": "ts-3j5zly",
@@ -1897,100 +1997,6 @@
     "Nvidia",
     "Lutnick",
     "US-Senat"
-   ]
-  },
-  {
-   "id": "ts-fonuw2",
-   "quelle": "tagesschau",
-   "thema": "Inland",
-   "kontext": "Steigende Ausgaben und Schulden",
-   "titel": "Bundeshaushalt für 2027 steht",
-   "text": "Der Ausschuss tagte die ganze Nacht und hinkte dem Zeitplan weit hinterher.",
-   "datum": "2026-11-13T06:26:14.100Z",
-   "link": "https://www.tagesschau.de/inland/bundeshaushalt-2027-100.html",
-   "details": "https://www.tagesschau.de/api2u/inland/bundeshaushalt-2027-100.json",
-   "stichworte": [
-    "Bundeshaushalt",
-    "Schulden",
-    "Stromsteuer"
-   ]
-  },
-  {
-   "id": "ts-1chc6xv",
-   "quelle": "tagesschau",
-   "thema": "Inland",
-   "kontext": "Reform der Nachrichtendienste",
-   "titel": "\"Jahrhundertwerk\" oder \"Monster\"?",
-   "text": "Der Bundestag wird heute über eine Reform von Bundesnachrichtendienst und Verfassungsschutz abstimmen.",
-   "datum": "2026-11-13T04:23:02.827Z",
-   "link": "https://www.tagesschau.de/inland/innenpolitik/bundesregierung-reform-nachrichtendienste-100.html",
-   "details": "https://www.tagesschau.de/api2u/inland/innenpolitik/bundesregierung-reform-nachrichtendienste-100.json",
-   "stichworte": [
-    "Bundesregierung",
-    "Geheimdienst"
-   ]
-  },
-  {
-   "id": "ts-1k7m9f3",
-   "quelle": "tagesschau",
-   "thema": "Wirtschaft",
-   "kontext": "Auch Outlook betroffen",
-   "titel": "Microsoft-Dienste weltweit mit Störungen",
-   "text": "Durch einen großflächigen Ausfall von Microsoft-Diensten, darunter Outlook, kommt es weltweit zu Störungen.",
-   "datum": "2026-11-13T03:22:07.307Z",
-   "link": "https://www.tagesschau.de/wirtschaft/unternehmen/microsoft-outlook-ausfall-100.html",
-   "details": "https://www.tagesschau.de/api2u/wirtschaft/unternehmen/microsoft-outlook-ausfall-100.json",
-   "stichworte": [
-    "Microsoft"
-   ]
-  },
-  {
-   "id": "ts-meyp2m",
-   "quelle": "tagesschau",
-   "thema": "Ausland",
-   "kontext": "Nvidia",
-   "titel": "Huang-Affäre könnte zu Trump-Skandal werden",
-   "text": "Laut Medienberichten wusste Trump von der Affäre des Nvidia-Chefs Huang mit einer mutmaßlichen chinesischen Spionin.",
-   "datum": "2026-11-13T02:36:47.614Z",
-   "link": "https://www.tagesschau.de/ausland/amerika/nvidia-trump-100.html",
-   "details": "https://www.tagesschau.de/api2u/ausland/amerika/nvidia-trump-100.json",
-   "stichworte": [
-    "USA",
-    "Nvidia",
-    "Trump"
-   ]
-  },
-  {
-   "id": "ts-1lscvnz",
-   "quelle": "tagesschau",
-   "thema": "Ausland",
-   "kontext": "Friedensgespräche",
-   "titel": "Europa soll mit an den Verhandlungstisch",
-   "text": "Von Putin zu Selenskyj - die US-Unterhändler kommen mit Ankündigungen aus Moskau nach Dublin.",
-   "datum": "2026-11-13T02:19:34.319Z",
-   "link": "https://www.tagesschau.de/ausland/europa/epg-ukraine-usa-europa-100.html",
-   "details": "https://www.tagesschau.de/api2u/ausland/europa/epg-ukraine-usa-europa-100.json",
-   "stichworte": [
-    "Krieg gegen die Ukraine",
-    "Ukraine",
-    "Selenskyj",
-    "US-Sondergesandter Witkoff"
-   ]
-  },
-  {
-   "id": "ts-13vh8n0",
-   "quelle": "tagesschau",
-   "thema": "Ausland",
-   "kontext": "EPG-Treffen in Dublin",
-   "titel": "Momentum für Friedensverhandlungen?",
-   "text": "Das Treffen in Dublin bringt neue Dynamik in die Friedensverhandlungen - am Abend kommen noch die US-Unterhändler Witkoff und Kushner aus Moskau angereist.",
-   "datum": "2026-11-13T01:22:12.286Z",
-   "link": "https://www.tagesschau.de/ausland/europa/epg-dublin-momentum-100.html",
-   "details": "https://www.tagesschau.de/api2u/ausland/europa/epg-dublin-momentum-100.json",
-   "stichworte": [
-    "Krieg gegen die Ukraine",
-    "Ukraine",
-    "EPG"
    ]
   }
  ]
