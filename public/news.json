@@ -1,26 +1,446 @@
 {
- "stand": "2026-11-16T17:21:15.924Z",
+ "stand": "2026-11-17T05:05:47.631Z",
  "quellen": [
   {
    "name": "tagesschau",
    "seite": "https://www.tagesschau.de",
    "ok": true,
-   "anzahl": 33
+   "anzahl": 39
   },
   {
    "name": "ZDFheute",
    "seite": "https://www.zdfheute.de",
    "ok": true,
-   "anzahl": 197
+   "anzahl": 203
   },
   {
    "name": "Deutschlandfunk",
    "seite": "https://www.deutschlandfunk.de",
    "ok": true,
-   "anzahl": 40
+   "anzahl": 22
   }
  ],
  "meldungen": [
+  {
+   "id": "ts-17ar53p",
+   "quelle": "tagesschau",
+   "thema": "Wissen",
+   "kontext": "Neuer Climate Risk Index",
+   "titel": "Wo schlägt die Klimakrise besonders zu?",
+   "text": "Ein neuer Bericht zeigt, welche Länder am stärksten unter klimabedingtem Extremwetter leiden - und mit welchen Folgen.",
+   "datum": "2026-11-17T05:01:07.142Z",
+   "link": "https://www.tagesschau.de/wissen/klima/klimakrisen-laender-risiken-100.html",
+   "details": "https://www.tagesschau.de/api2u/wissen/klima/klimakrisen-laender-risiken-100.json",
+   "stichworte": [
+    "Klimawandel",
+    "Extremwetter",
+    "COP31"
+   ]
+  },
+  {
+   "id": "dlf-45otfh",
+   "quelle": "Deutschlandfunk",
+   "thema": "Nachrichten",
+   "kontext": "Sozialdemokratie",
+   "titel": "Giffey hält sich laut Bericht Bewerbung für SPD-Vorsitz offen",
+   "text": "In das Rennen um den künftigen SPD-Bundesvorsitz kommt womöglich weitere Bewegung. Die amtierende Berliner Wirtschaftssenatorin und frühere Regierende Bürgermeisterin Giffey halte sich eine Bewerbung derzeit offen, schreibt die \"Bild\"-Zeitung.",
+   "datum": "2026-11-17T05:00:14.000Z",
+   "link": "https://www.deutschlandfunk.de/giffey-haelt-sich-laut-bericht-bewerbung-fuer-spd-vorsitz-offen-102.html",
+   "stichworte": []
+  },
+  {
+   "id": "dlf-4lv5ys",
+   "quelle": "Deutschlandfunk",
+   "thema": "Nachrichten",
+   "kontext": "Bundesregierung",
+   "titel": "Koalitionsausschuss will heute über Stromsteuer-Senkung für alle entscheiden",
+   "text": "Die Spitzen von Union und SPD kommen heute zu einem Koalitionsausschuss im Kanzleramt zusammen.",
+   "datum": "2026-11-17T05:00:14.000Z",
+   "link": "https://www.deutschlandfunk.de/koalitionsausschuss-will-heute-ueber-stromsteuer-senkung-fuer-alle-entscheiden-100.html",
+   "stichworte": []
+  },
+  {
+   "id": "dlf-poptho",
+   "quelle": "Deutschlandfunk",
+   "thema": "Nachrichten",
+   "kontext": "Magdeburg",
+   "titel": "Klüssendorf (SPD) fordert parteiübergreifende Ministerpräsidenten-Kandidatur in Sachsen-Anhalt",
+   "text": "In Sachsen-Anhalt sollte es nach Ansicht von SPD-Generalsekretär Klüssendorf einen von CDU, Grünen SPD und der Linken getragenen Kandidatur für die anstehende Ministerpräsidentenwahl geben.",
+   "datum": "2026-11-17T05:00:14.000Z",
+   "link": "https://www.deutschlandfunk.de/kluessendorf-spd-fordert-parteiuebergreifende-ministerpraesidenten-kandidatur-in-sachsen-anhalt-104.html",
+   "stichworte": []
+  },
+  {
+   "id": "dlf-1yzo8i4",
+   "quelle": "Deutschlandfunk",
+   "thema": "Nachrichten",
+   "kontext": "Krieg in der Ukraine",
+   "titel": "Suche beendet: über 70 Tote nach russischem Luftangriff auf Komyschuwacha",
+   "text": "Rund zwei Wochen nach dem schweren russischen Luftangriff auf den Ort Komyschuwacha im Süden der Ukraine haben die Behörden die Suche nach Toten und Vermissten beendet.",
+   "datum": "2026-11-17T05:00:14.000Z",
+   "link": "https://www.deutschlandfunk.de/suche-beendet-ueber-70-tote-nach-russischem-luftangriff-auf-komyschuwacha-102.html",
+   "stichworte": []
+  },
+  {
+   "id": "dlf-4d0y52",
+   "quelle": "Deutschlandfunk",
+   "thema": "Nachrichten",
+   "kontext": "Außenministertreffen",
+   "titel": "Hackerangriffe auf Kühlsysteme: EU plant neue Sanktionen gegen den Iran",
+   "text": "Die Europäische Union will nach den Cyberangriffen auf Kühlsysteme von Supermarktketten neue Sanktionen gegen den Iran verhängen.",
+   "datum": "2026-11-17T05:00:14.000Z",
+   "link": "https://www.deutschlandfunk.de/hackerangriffe-auf-kuehlsysteme-eu-plant-neue-sanktionen-gegen-den-iran-102.html",
+   "stichworte": []
+  },
+  {
+   "id": "dlf-48svc6",
+   "quelle": "Deutschlandfunk",
+   "thema": "Nachrichten",
+   "kontext": "Krieg gegen die Ukraine",
+   "titel": "Klitschko meldet weitere russische Angriffe auf Kiew",
+   "text": "Die russischen Streitkräfte haben in der Nacht erneut Ziele in der ukrainischen Hauptstadt Kiew angegriffen.",
+   "datum": "2026-11-17T05:00:14.000Z",
+   "link": "https://www.deutschlandfunk.de/klitschko-meldet-weitere-russische-angriffe-auf-kiew-102.html",
+   "stichworte": []
+  },
+  {
+   "id": "dlf-1lspe8j",
+   "quelle": "Deutschlandfunk",
+   "thema": "Nachrichten",
+   "kontext": "Berlin",
+   "titel": "Deutsche Fußball-Nationalmannschaft mit Kantersieg gegen Niederlande im Viertelfinale der Nations League",
+   "text": "Die deutsche Fußball-Nationalmannschaft hat das Viertelfinale der Nations League erreicht.",
+   "datum": "2026-11-17T05:00:14.000Z",
+   "link": "https://www.deutschlandfunk.de/deutsche-fussball-nationalmannschaft-mit-kantersieg-gegen-niederlande-im-viertelfinale-der-nations-l-102.html",
+   "stichworte": []
+  },
+  {
+   "id": "dlf-1d3rzfk",
+   "quelle": "Deutschlandfunk",
+   "thema": "Nachrichten",
+   "kontext": "Kaukasus",
+   "titel": "Wadephul reist zunächst nach Aserbaidschan und dann nach Armenien",
+   "text": "Bundesaußenminister Wadephul reist heute nach Aserbaidschan.",
+   "datum": "2026-11-17T05:00:14.000Z",
+   "link": "https://www.deutschlandfunk.de/wadephul-reist-zunaechst-nach-aserbaidschan-und-dann-nach-armenien-102.html",
+   "stichworte": []
+  },
+  {
+   "id": "dlf-pc0900",
+   "quelle": "Deutschlandfunk",
+   "thema": "Nachrichten",
+   "kontext": "Migrationspolitik",
+   "titel": "Deutschland und vier weitere EU-Staaten planen ab 2027 Abschiebezentrum in Ruanda",
+   "text": "Deutschland, Österreich, Dänemark, Griechenland und die Niederlande wollen im kommenden Jahr erste abgelehnte Asylbewerber in ein spezielles Rückführungszentrum im ostafrikanischen Ruanda bringen. Das kündigte Bundesinnenminister Dobrindt am Rande einer Migrationskonferenz in Wien an",
+   "datum": "2026-11-17T05:00:14.000Z",
+   "link": "https://www.deutschlandfunk.de/deutschland-und-vier-weitere-eu-staaten-planen-ab-2027-abschiebezentrum-in-ruanda-102.html",
+   "stichworte": []
+  },
+  {
+   "id": "dlf-xewgfr",
+   "quelle": "Deutschlandfunk",
+   "thema": "Nachrichten",
+   "kontext": "Online-Konferenz",
+   "titel": "Ukraine-Krieg: Europäer beraten gemeinsam mit Kiew und den USA",
+   "text": "Europäische Unterhändler haben mit Vertretern der Ukraine und der USA erste Vorbereitungsgespräche für künftige Verhandlungen mit Russland über ein Ende des Ukraine-Kriegs geführt.",
+   "datum": "2026-11-17T05:00:14.000Z",
+   "link": "https://www.deutschlandfunk.de/ukraine-krieg-europaeer-beraten-gemeinsam-mit-kiew-und-den-usa-104.html",
+   "stichworte": []
+  },
+  {
+   "id": "dlf-9ammxg",
+   "quelle": "Deutschlandfunk",
+   "thema": "Nachrichten",
+   "kontext": "Fragen und Antworten",
+   "titel": "\"Return Hubs\": Worum es bei dem geplanten Abschiebezentrum in Ruanda geht",
+   "text": "Bundesinnenminister Dobrindt strebt die Einrichtung eines Abschiebezentrums in Ruanda gemeinsam mit vier anderen EU-Ländern an. Die Maßnahme ist innerhalb der Bundesregierung umstritten. Außerdem gibt es weitere Hürden für die sogenannten \"Return Hubs\". Ein Überblick.",
+   "datum": "2026-11-17T05:00:14.000Z",
+   "link": "https://www.deutschlandfunk.de/return-hubs-worum-es-bei-dem-geplanten-abschiebezentrum-in-ruanda-geht-104.html",
+   "stichworte": []
+  },
+  {
+   "id": "dlf-is9481",
+   "quelle": "Deutschlandfunk",
+   "thema": "Nachrichten",
+   "kontext": "Wahlversprechen",
+   "titel": "New York: Bürgermeister Mamdani löst umstrittene Polizei-Einheit auf",
+   "text": "New Yorks Bürgermeister Mamdani hat ein zentrales Wahlversprechen eingelöst und eine Spezial-Einheit der Polizei aufgelöst. Der Gruppe wurde vorgeworfen, übermäßige Gewalt gegen Demonstranten angewendet zu haben.",
+   "datum": "2026-11-17T05:00:14.000Z",
+   "link": "https://www.deutschlandfunk.de/new-york-buergermeister-mamdani-loest-umstrittene-polizei-einheit-auf-102.html",
+   "stichworte": []
+  },
+  {
+   "id": "dlf-10dfnx3",
+   "quelle": "Deutschlandfunk",
+   "thema": "Nachrichten",
+   "kontext": "BundID-Zugänge",
+   "titel": "Hacker scheitern mit Angriffen auf Bürgerkonten des Bundes",
+   "text": "Unbekannte Hacker haben mit einer Cyberattacke vergeblich versucht, massenhaft die digitalen Bürgerkonten des Bundes zu kapern.",
+   "datum": "2026-11-17T05:00:14.000Z",
+   "link": "https://www.deutschlandfunk.de/hacker-scheitern-mit-angriffen-auf-buergerkonten-des-bundes-102.html",
+   "stichworte": []
+  },
+  {
+   "id": "dlf-1ltds89",
+   "quelle": "Deutschlandfunk",
+   "thema": "Nachrichten",
+   "kontext": "Lima",
+   "titel": "Papst Leo beendet Südamerikareise mit Freiluftmesse in Peru",
+   "text": "Papst Leo der Vierzehnte hat seine elftägige Südamerikareise mit einer großen Messe in der peruanischen Hauptstadt Lima beendet.",
+   "datum": "2026-11-17T05:00:14.000Z",
+   "link": "https://www.deutschlandfunk.de/papst-leo-beendet-suedamerikareise-mit-freiluftmesse-in-peru-106.html",
+   "stichworte": []
+  },
+  {
+   "id": "dlf-1elcge8",
+   "quelle": "Deutschlandfunk",
+   "thema": "Nachrichten",
+   "kontext": "Berlin",
+   "titel": "Berliner Linksfraktion will heute Ausschluss von Parlamentarierin Emde auf Weg bringen",
+   "text": "Im Berliner Abgeordnetenhaus berät die Fraktion der Partei Die Linke heute über einen angestrebten Fraktionsausschluss ihrer Abgeordneten Emde.",
+   "datum": "2026-11-17T05:00:14.000Z",
+   "link": "https://www.deutschlandfunk.de/berliner-linksfraktion-will-heute-ausschluss-von-parlamentarierin-emde-auf-weg-bringen-100.html",
+   "stichworte": []
+  },
+  {
+   "id": "dlf-10d2r5d",
+   "quelle": "Deutschlandfunk",
+   "thema": "Nachrichten",
+   "kontext": "\"Demokratie leben!\"",
+   "titel": "Beratungsstelle: Bund streicht Gelder gegen Rechtsextremismus-Prävention",
+   "text": "Der Bundesverband Mobile Beratung zur Prävention gegen Rechtsextremismus bekommt im nächsten Jahr nach eigenen Angaben 60 Prozent weniger Geld.",
+   "datum": "2026-11-17T05:00:14.000Z",
+   "link": "https://www.deutschlandfunk.de/beratungsstelle-bund-streicht-gelder-gegen-rechtsextremismus-praevention-102.html",
+   "stichworte": []
+  },
+  {
+   "id": "dlf-1fbd0bs",
+   "quelle": "Deutschlandfunk",
+   "thema": "Nachrichten",
+   "kontext": "Bildung",
+   "titel": "Thüringen: Hörbehinderte Schüler sollen Gebärdensprache als erste Fremdsprache lernen können",
+   "text": "In Thüringen sollen hörbehinderte Schülerinnen und Schüler künftig die Deutsche Gebärdensprache als erste Fremdsprache wählen können.",
+   "datum": "2026-11-17T05:00:14.000Z",
+   "link": "https://www.deutschlandfunk.de/thueringen-hoerbehinderte-schueler-sollen-gebaerdensprache-als-erste-fremdsprache-lernen-koennen-112.html",
+   "stichworte": []
+  },
+  {
+   "id": "dlf-1yojsvy",
+   "quelle": "Deutschlandfunk",
+   "thema": "Nachrichten",
+   "kontext": "Erhebung",
+   "titel": "Wegen Trump: Immer weniger ausländische Studierende in den USA",
+   "text": "Die Zahl der ausländischen Studierenden in den USA nimmt weiter ab. Das geht aus einer Erhebung zum Semesterstart hervor. Der Rückgang wird vor allem auf die Politik der US-Regierung zurückgeführt.",
+   "datum": "2026-11-17T05:00:14.000Z",
+   "link": "https://www.deutschlandfunk.de/wegen-trump-immer-weniger-auslaendische-studierende-in-den-usa-108.html",
+   "stichworte": []
+  },
+  {
+   "id": "dlf-2i420v",
+   "quelle": "Deutschlandfunk",
+   "thema": "Nachrichten",
+   "kontext": "Medienberichte",
+   "titel": "Russland wirbt Frauen aus Afrika mit Bildungsversprechen für Drohnenproduktion an",
+   "text": "Russland soll junge Frauen aus afrikanischen Ländern mit Versprechen auf Bildung und bezahlte Arbeit anwerben – und sie in der Rüstungsindustrie einsetzen. Das berichten das ukrainische Nachrichtenportal \"Gordon\" und der US-Sender \"Fox News\" unter Berufung auf eine Untersuchung des Ukrainischen Zentrums für Sicherheit …",
+   "datum": "2026-11-17T05:00:14.000Z",
+   "link": "https://www.deutschlandfunk.de/russland-wirbt-frauen-aus-afrika-mit-bildungsversprechen-fuer-drohnenproduktion-an-102.html",
+   "stichworte": []
+  },
+  {
+   "id": "dlf-13sdt65",
+   "quelle": "Deutschlandfunk",
+   "thema": "Nachrichten",
+   "kontext": "Film",
+   "titel": "Robert Pattinson wird der neue James Bond",
+   "text": "Robert Pattinson wird der neue James Bond-Darsteller: Der 40-Jährige ist der siebte Schauspieler, der die Rolle des berühmten britischen Spions übernimmt.",
+   "datum": "2026-11-17T05:00:14.000Z",
+   "link": "https://www.deutschlandfunk.de/robert-pattinson-wird-der-neue-james-bond-112.html",
+   "stichworte": []
+  },
+  {
+   "id": "dlf-139tlw8",
+   "quelle": "Deutschlandfunk",
+   "thema": "Nachrichten",
+   "kontext": "Fußball",
+   "titel": "FIFA-Präsidentschaftswahl: UEFA schickt Franzosen Diallo gegen Infantino ins Rennen",
+   "text": "Zwei Tage vor Ende der Bewerbungsfrist hat die UEFA einen Gegenkandidaten für den umstrittenen FIFA-Chef Infantino gefunden. Der Präsident des französischen Fußballverbands, Philippe Diallo, tritt bei der Wahl im März an.",
+   "datum": "2026-11-17T05:00:14.000Z",
+   "link": "https://www.deutschlandfunk.de/fifa-praesidentschaftswahl-uefa-schickt-franzosen-diallo-gegen-infantino-ins-rennen-104.html",
+   "stichworte": []
+  },
+  {
+   "id": "dlf-y988zo",
+   "quelle": "Deutschlandfunk",
+   "thema": "Nachrichten",
+   "kontext": "Wetter",
+   "titel": "Im Nordosten trocken, sonst oft grau und nass, 4 bis 18 Grad",
+   "text": "Das Wetter: Im Nordosten zunächst trocken mit Auflockerungen, im Rest des Landes trüb mit Regen, am Nachmittag in den Nordosten ziehend. Sonst Übergang in Schauerwetter, im Südwesten Auflockerungen. Höchstwerte von Nordost nach Südwest 4 bis 18 Grad. Morgen stark bewölkt und wiederholt Schauer oder Regen.",
+   "datum": "2026-11-17T05:00:14.000Z",
+   "link": "https://www.deutschlandfunk.de/im-nordosten-trocken-sonst-oft-grau-und-nass-4-bis-18-grad-104.html",
+   "stichworte": []
+  },
+  {
+   "id": "zdf-1hfjvfw",
+   "quelle": "ZDFheute",
+   "thema": "Nachrichten",
+   "kontext": "Newsticker",
+   "titel": "Schlagzeilen",
+   "text": "Schlagzeilen zu aktuellen Ereignissen - kurze Nachrichten im Ticker",
+   "datum": "2026-11-17T04:55:00.000Z",
+   "link": "https://www.zdfheute.de/newsticker/schlagzeilen-100.html",
+   "stichworte": []
+  },
+  {
+   "id": "zdf-1dse2y3",
+   "quelle": "ZDFheute",
+   "thema": "Ausland",
+   "kontext": "Trump trifft Xi und Putin in China",
+   "titel": "Droht Trump beim Apec-Gipfel die Rolle des Statisten?",
+   "text": "Trump reist zum Apec-Gipfel nach China, wo er erstmals mit Xi und Putin zusammensitzen wird. Was der US-Präsident erreichen will und warum der Gipfel für ihn heikel werden könnte.",
+   "datum": "2026-11-17T04:16:00.000Z",
+   "link": "https://www.zdfheute.de/politik/ausland/trump-apec-china-xi-putin-treffen-100.html",
+   "stichworte": []
+  },
+  {
+   "id": "zdf-1g6htpm",
+   "quelle": "ZDFheute",
+   "thema": "Ausland",
+   "kontext": "Russlands Ölsektor unter Druck",
+   "titel": "Ukraine trifft russische Raffinerien und Exporthafen",
+   "text": "Die Ukraine setzt Russlands Ölsektor deutlich unter Druck. Innerhalb von einer Woche wurden neun der 35 großen Raffinerien getroffen oder im Betrieb gestört.",
+   "datum": "2026-11-17T04:14:00.000Z",
+   "link": "https://www.zdfheute.de/politik/ausland/ukraine-wochenrueckblick-oelindustrie-starshield-drohnen-rumaenien-100.html",
+   "stichworte": []
+  },
+  {
+   "id": "ts-198cmrc",
+   "quelle": "tagesschau",
+   "thema": "Ausland",
+   "kontext": "Krieg gegen die Ukraine",
+   "titel": "Europas Unterhändler bringen sich in Stellung",
+   "text": "Europa hat erstmals mit den USA und Kiew über eine Beendigung des Kriegs diskutiert.",
+   "datum": "2026-11-17T03:28:15.114Z",
+   "link": "https://www.tagesschau.de/ausland/europa/europa-ukraine-usa-100.html",
+   "details": "https://www.tagesschau.de/api2u/ausland/europa/europa-ukraine-usa-100.json",
+   "stichworte": [
+    "Ukraine",
+    "Russland",
+    "EU",
+    "NATO"
+   ]
+  },
+  {
+   "id": "ts-ch3y76",
+   "quelle": "tagesschau",
+   "thema": "Wirtschaft",
+   "kontext": "Nach Huang-Affäre",
+   "titel": "Bald alles neu in der KI-Chipindustrie?",
+   "text": "Konkurrenten wie AMD oder Qualcomm reiben sich nach dem Abgang von Huang als CEO bei Nvidia schon die Hände.",
+   "datum": "2026-11-17T03:16:17.830Z",
+   "link": "https://www.tagesschau.de/wirtschaft/technologie/ki-chipindustrie-nvidia-100.html",
+   "details": "https://www.tagesschau.de/api2u/wirtschaft/technologie/ki-chipindustrie-nvidia-100.json",
+   "stichworte": [
+    "Künstliche Intelligenz",
+    "Nvidia",
+    "Chipindustrie"
+   ]
+  },
+  {
+   "id": "ts-1ex685c",
+   "quelle": "tagesschau",
+   "thema": "Ausland",
+   "kontext": "Proteste in Frankreich",
+   "titel": "Die Wut der Schüler, die Ohnmacht der Schulen",
+   "text": "Gewerkschaften und Gelbwesten haben in Frankreich zu neuen Protesten aufgerufen. Schüler und Studenten wollen sich beteiligen.",
+   "datum": "2026-11-17T02:20:12.074Z",
+   "link": "https://www.tagesschau.de/ausland/europa/proteste-frankreich-188.html",
+   "details": "https://www.tagesschau.de/api2u/ausland/europa/proteste-frankreich-188.json",
+   "stichworte": [
+    "Frankreich",
+    "Proteste"
+   ]
+  },
+  {
+   "id": "ts-1yo4rao",
+   "quelle": "tagesschau",
+   "thema": "Wirtschaft",
+   "kontext": "Künstliche Intelligenz",
+   "titel": "Kalifornien verklagt OpenAI wegen Cyberangriffen",
+   "text": "Ein gefährliches Produkt ohne angemessene Sicherheitsverfahren oder Aufsicht habe das Unternehmen entwickelt.",
+   "datum": "2026-11-17T01:16:16.030Z",
+   "link": "https://www.tagesschau.de/wirtschaft/unternehmen/openai-klage-kalifornien-100.html",
+   "details": "https://www.tagesschau.de/api2u/wirtschaft/unternehmen/openai-klage-kalifornien-100.json",
+   "stichworte": [
+    "Künstliche Intelligenz",
+    "OpenAI"
+   ]
+  },
+  {
+   "id": "zdf-dv5ls3",
+   "quelle": "ZDFheute",
+   "thema": "Panorama",
+   "kontext": "Hollywood-Star wird Filmagent",
+   "titel": "Wie aus Robert Pattinson ein moderner James Bond werden kann",
+   "text": "Robert Pattinson hat in seiner Karriere ganz unterschiedliche Rollen an Land gezogen. Jetzt wird er der neue 007. Was bringt er mit und wie könnte er die Rolle künftig prägen?",
+   "datum": "2026-11-17T00:39:00.000Z",
+   "link": "https://www.zdfheute.de/panorama/prominente/robert-pattinson-james-bond-007-film-schauspieler-100.html",
+   "stichworte": []
+  },
+  {
+   "id": "zdf-nq77g0",
+   "quelle": "ZDFheute",
+   "thema": "Sport",
+   "kontext": "UEFA Nations League",
+   "titel": "Griechenland siegt und verpasst Viertelfinale",
+   "text": "Griechenland gewinnt das letzte Spiel der Gruppenphase gegen Serbien, verpasst aber den Einzug ins Viertelfinale. Als einer der beiden besten Gruppendritten bleibt das Team sicher in der A-Liga.",
+   "datum": "2026-11-16T23:00:00.000Z",
+   "link": "https://www.zdfheute.de/sport/fussball-nations-league/video/griechenland-serbien-highlights-maenner-zusammenfassung-100.html",
+   "stichworte": []
+  },
+  {
+   "id": "zdf-emm0ch",
+   "quelle": "ZDFheute",
+   "thema": "Sport",
+   "kontext": "UEFA Nations League",
+   "titel": "Kantersieg: DFB-Elf zerlegt die Niederlande",
+   "text": "Die deutsche Nationalmannschaft liefert gegen die Niederlande zum Abschluss der Gruppenphase ein Offensiv-Spektakel. Mit Traumtoren und sehenswerten Kombinationen zerlegt die DFB-Elf die Elftal.",
+   "datum": "2026-11-16T21:45:00.000Z",
+   "link": "https://www.zdfheute.de/sport/fussball-nations-league/video/deutschland-niederlande-spieltag-6-highlights-maenner-zusammenfassung-100.html",
+   "stichworte": []
+  },
+  {
+   "id": "zdf-157ube7",
+   "quelle": "ZDFheute",
+   "thema": "Sport",
+   "kontext": "Nations-League-Sieg gegen Niederlande",
+   "titel": "DFB-Team mit Schützenfest ins Viertelfinale",
+   "text": "Das DFB-Team hat das Viertelfinale in der Nations League erreicht. Gegen den Erzrivalen Niederlande zeigte das Klopp-Team eine beherzte Leistung und siegte verdient mit 5:0.",
+   "datum": "2026-11-16T21:35:00.000Z",
+   "link": "https://www.zdfheute.de/sport/fussball-nations-league-deutschland-dfb-niederlande-spielbericht-100.html",
+   "stichworte": []
+  },
+  {
+   "id": "zdf-blz6m7",
+   "quelle": "ZDFheute",
+   "thema": "Ausland",
+   "kontext": "Politik",
+   "titel": "Aktuelles zum Krieg in der Ukraine",
+   "text": "Seit Februar 2022 führt Russland einen Angriffskrieg gegen die Ukraine, die Kämpfe dauern an. Alle Entwicklungen und Ukraine-News im Liveticker.",
+   "datum": "2026-11-16T21:32:00.000Z",
+   "link": "https://www.zdfheute.de/politik/ausland/ukraine-russland-konflikt-blog-102.html",
+   "stichworte": []
+  },
+  {
+   "id": "zdf-e7g5q0",
+   "quelle": "ZDFheute",
+   "thema": "Inland",
+   "kontext": "Amt des Bundespräsidenten",
+   "titel": "DFB-Präsident rügt AfD-Kandidatur von Weltmeister Berthold",
+   "text": "Thomas Berthold hat sich von der AfD zum Kandidaten für die Wahl des Bundespräsidenten aufstellen lassen. Für DFB-Chef Neuendorf ist das unverständlich - er findet klare Worte.",
+   "datum": "2026-11-16T21:30:00.000Z",
+   "link": "https://www.zdfheute.de/politik/afd-thomas-berthold-kritik-dfb-neuendorf-100.html",
+   "stichworte": []
+  },
   {
    "id": "zdf-wgppw7",
    "quelle": "ZDFheute",
@@ -28,42 +448,117 @@
    "kontext": "Politik",
    "titel": "Iran-Krieg und Nahost-Konflikt: Alle Nachrichten im Liveblog",
    "text": "Die Lage in Nahost ist weiter angespannt - es kommt immer wieder zu Angriffen. Im Westjordanland spitzt sich die Situation zu. Alle Entwicklungen im Liveblog.",
-   "datum": "2026-11-16T17:16:00.000Z",
+   "datum": "2026-11-16T21:30:00.000Z",
    "link": "https://www.zdfheute.de/politik/ausland/iran-israel-usa-angriff-liveblog-100.html",
    "stichworte": []
   },
   {
-   "id": "dlf-odx07m",
-   "quelle": "Deutschlandfunk",
-   "thema": "Nachrichten",
-   "kontext": "Migrationspolitik",
-   "titel": "Deutschland und vier weitere EU-Staaten planen ab 2027 Abschiebezentrum in Ruanda",
-   "text": "Deutschland, Österreich, Dänemark, Griechenland und die Niederlande wollen im kommenden Jahr erste abgelehnte Asylbewerber in ein spezielles Rückführungszentrum im ostafrikanischen Ruanda bringen. Das kündigte Bundesinnenminister Dobrindt am Rande einer Migrationskonferenz in Wien an",
-   "datum": "2026-11-16T17:13:59.000Z",
-   "link": "https://www.deutschlandfunk.de/deutschland-und-vier-weitere-eu-staaten-planen-ab-2027-abschiebezentrum-in-ruanda-100.html",
+   "id": "zdf-418ihj",
+   "quelle": "ZDFheute",
+   "thema": "Sport",
+   "kontext": "Ehrung für Fußballer in Berlin",
+   "titel": "DFB-Abschied für Antonio Rüdiger in der Heimatstadt",
+   "text": "Der ganz große Erfolg für Antonio Rüdiger als Nationalspieler ist ausgeblieben - sein Verhalten sorgte bisweilen für Diskussionen. In seiner Heimatstadt wurde er verabschiedet.",
+   "datum": "2026-11-16T21:07:00.000Z",
+   "link": "https://www.zdfheute.de/sport/fussball-nations-league-deutschland-niederlande-antonio-ruediger-abschied-dfb-elf-100.html",
    "stichworte": []
   },
   {
-   "id": "dlf-7eg5co",
-   "quelle": "Deutschlandfunk",
-   "thema": "Nachrichten",
-   "kontext": "Deutsche Asylpolitik",
-   "titel": "\"Return Hubs\": Worum es bei dem geplanten Abschiebezentrum in Ruanda geht",
-   "text": "Bundesinnenminister Dobrindt strebt die Einrichtung eines Abschiebezentrums in Ruanda gemeinsam mit vier anderen EU-Ländern an. Die Maßnahme ist innerhalb der Bundesregierung umstritten. Außerdem gibt es weitere Hürden für die sogenannten \"Return Hubs\". Ein Überblick.",
-   "datum": "2026-11-16T17:13:59.000Z",
-   "link": "https://www.deutschlandfunk.de/return-hubs-worum-es-bei-dem-geplanten-abschiebezentrum-in-ruanda-geht-100.html",
+   "id": "zdf-1gnn65f",
+   "quelle": "ZDFheute",
+   "thema": "Sport",
+   "kontext": "\"Ewiges Duell\" gegen Kanada",
+   "titel": "Eishockey-WM der Frauen: USA holen zwölften WM-Titel",
+   "text": "Die USA haben bei der Eishockey-WM der Frauen den Titel verteidigt. Im Duell gegen den Dauerrivalen Kanada ließen sich die US-Frauen auch von einem Rückstand nicht beirren.",
+   "datum": "2026-11-16T21:05:00.000Z",
+   "link": "https://www.zdfheute.de/sport/eishockey-wm-frauen-usa-gewinnen-finale-gegen-kanada-100.html",
    "stichworte": []
   },
   {
-   "id": "dlf-zfcf4p",
-   "quelle": "Deutschlandfunk",
-   "thema": "Nachrichten",
-   "kontext": "BundID-Zugänge",
-   "titel": "Hacker scheitern mit Angriffen auf Bürgerkonten des Bundes",
-   "text": "Unbekannte Hacker haben mit einer Cyberattacke vergeblich versucht, massenhaft die digitalen Bürgerkonten des Bundes zu kapern.",
-   "datum": "2026-11-16T17:13:59.000Z",
-   "link": "https://www.deutschlandfunk.de/hacker-scheitern-mit-angriffen-auf-buergerkonten-des-bundes-100.html",
+   "id": "zdf-1ml2o0p",
+   "quelle": "ZDFheute",
+   "thema": "Inland",
+   "kontext": "Einigung mit SPD angekündigt",
+   "titel": "Merz erneuert Versprechen: Stromsteuer soll 2027 sinken",
+   "text": "Kanzler Merz stellt eine Einigung auf die Stromsteuersenkung für Dienstag in Aussicht. Auch Söder drängt auf Entlastungen. Doch es gibt weitere Streitpunkte in der Koalition.",
+   "datum": "2026-11-16T20:45:00.000Z",
+   "link": "https://www.zdfheute.de/politik/deutschland/merz-koalition-stromsteuer-100.html",
    "stichworte": []
+  },
+  {
+   "id": "zdf-1d2x0pl",
+   "quelle": "ZDFheute",
+   "thema": "Inland",
+   "kontext": "Neue Erhebung",
+   "titel": "Mehr Bundeswehr-Soldaten psychisch erkrankt",
+   "text": "Die Zahl der Soldaten mit einer diagnostizierten posttraumatischen Belastungsstörung oder einer anderen psychischen Erkrankung hat 2025 deutlich zugenommen. Was sind die Gründe?",
+   "datum": "2026-11-16T19:30:00.000Z",
+   "link": "https://www.zdfheute.de/politik/deutschland/bundeswehr-soldaten-psychische-erkrankung-100.html",
+   "stichworte": []
+  },
+  {
+   "id": "ts-1k6ijno",
+   "quelle": "tagesschau",
+   "thema": "Inland",
+   "kontext": "Abschiebezentrum geplant",
+   "titel": "Was steckt hinter den Ruanda-Plänen?",
+   "text": "Abgelehnte Asylbewerber sollen in Zukunft nach Ruanda gebracht werden können - auch wenn sie keine Verbindung zu dem Land haben.",
+   "datum": "2026-11-16T18:59:11.973Z",
+   "link": "https://www.tagesschau.de/inland/innenpolitik/ruanda-return-hub-abschiebezentrum-100.html",
+   "details": "https://www.tagesschau.de/api2u/inland/innenpolitik/ruanda-return-hub-abschiebezentrum-100.json",
+   "stichworte": [
+    "FAQ",
+    "Ruanda",
+    "Migration"
+   ]
+  },
+  {
+   "id": "zdf-5hkpi4",
+   "quelle": "ZDFheute",
+   "thema": "Nachrichten",
+   "kontext": "WISO",
+   "titel": "Die Zukunft des Verkehrs – Nie wieder Stau?",
+   "text": "Stau, Verspätung, Ausfall: Wer heute von A nach B will, hat in Deutschland vor allem eins: Frust. Die Zukunft verspricht schnelle, autonome und grüne Lösungen. Verkehrskollaps adé?",
+   "datum": "2026-11-16T18:25:00.000Z",
+   "link": "https://www.zdf.de/video/reportagen/wiso-die-welt-von-morgen-100/die-zukunft-des-verkehrs--nie-wieder-stau-100",
+   "stichworte": []
+  },
+  {
+   "id": "zdf-lqlwry",
+   "quelle": "ZDFheute",
+   "thema": "Sport",
+   "kontext": "Zu Infantinos Gegenkandidat",
+   "titel": "Neuendorf: \"Ein ausgezeichneter Kandidat\"",
+   "text": "DFB-Präsident Bernd Neuendorf spricht im Interview mit Nils Kaben über den Kandidaten der UEFA für das Amt des FIFA-Präsidenten.",
+   "datum": "2026-11-16T17:48:00.000Z",
+   "link": "https://www.zdfheute.de/sport/video/fussball-fifa-uefa-kandidat-dfb-praesident-neuendorf-interview-100.html",
+   "stichworte": []
+  },
+  {
+   "id": "zdf-11jt5c9",
+   "quelle": "ZDFheute",
+   "thema": "Ausland",
+   "kontext": "UN-Klimakonferenz berät Entwurf",
+   "titel": "COP31 startet mit Abschlusserklärung in den Endspurt",
+   "text": "Der erste Entwurf der Abschlusserklärung liegt vor. Bei Elektrifizierung, Klimafinanzierung und dem 1,5-Grad-Ziel zeichnen sich harte Verhandlungen ab.",
+   "datum": "2026-11-16T17:44:00.000Z",
+   "link": "https://www.zdfheute.de/politik/ausland/cop-31-abschlusserklaerung-entwurf-100.html",
+   "stichworte": []
+  },
+  {
+   "id": "ts-lqut87",
+   "quelle": "tagesschau",
+   "thema": "Wirtschaft",
+   "kontext": "Abwarten vor Nvidia-Zahlen",
+   "titel": "DAX bleibt nahe Rekordhoch",
+   "text": "Zum Wochenauftakt fällt der DAX moderat.",
+   "datum": "2026-11-16T17:21:14.248Z",
+   "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-nvidia-rekordhoch-100.html",
+   "details": "https://www.tagesschau.de/api2u/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-nvidia-rekordhoch-100.json",
+   "stichworte": [
+    "Marktbericht",
+    "DAX Dow Jones Börse"
+   ]
   },
   {
    "id": "dlf-1cjugqu",
@@ -110,28 +605,6 @@
    "stichworte": []
   },
   {
-   "id": "dlf-11dn4bg",
-   "quelle": "Deutschlandfunk",
-   "thema": "Nachrichten",
-   "kontext": "Fußball",
-   "titel": "FIFA-Präsidentschaftswahl: UEFA schickt Franzosen Diallo gegen Infantino ins Rennen",
-   "text": "Zwei Tage vor Ende der Bewerbungsfrist hat die UEFA einen Gegenkandidaten für den umstrittenen FIFA-Chef Infantino gefunden. Der Präsident des französischen Fußballverbands, Philippe Diallo, tritt bei der Wahl im März an.",
-   "datum": "2026-11-16T17:13:59.000Z",
-   "link": "https://www.deutschlandfunk.de/fifa-praesidentschaftswahl-uefa-schickt-franzosen-diallo-gegen-infantino-ins-rennen-100.html",
-   "stichworte": []
-  },
-  {
-   "id": "dlf-r060iw",
-   "quelle": "Deutschlandfunk",
-   "thema": "Nachrichten",
-   "kontext": "Film",
-   "titel": "Robert Pattinson wird der neue James Bond",
-   "text": "Robert Pattinson wird der neue James Bond-Darsteller: Der 40-Jährige ist der siebte Schauspieler, der die Rolle des berühmten britischen Spions übernimmt.",
-   "datum": "2026-11-16T17:13:59.000Z",
-   "link": "https://www.deutschlandfunk.de/robert-pattinson-wird-der-neue-james-bond-106.html",
-   "stichworte": []
-  },
-  {
    "id": "dlf-2ul7ii",
    "quelle": "Deutschlandfunk",
    "thema": "Nachrichten",
@@ -143,17 +616,6 @@
    "stichworte": []
   },
   {
-   "id": "dlf-zezicz",
-   "quelle": "Deutschlandfunk",
-   "thema": "Nachrichten",
-   "kontext": "\"Demokratie leben!\"",
-   "titel": "Beratungsstelle: Bund streicht Gelder gegen Rechtsextremismus-Prävention",
-   "text": "Der Bundesverband Mobile Beratung zur Prävention gegen Rechtsextremismus bekommt im nächsten Jahr nach eigenen Angaben 60 Prozent weniger Geld.",
-   "datum": "2026-11-16T17:13:59.000Z",
-   "link": "https://www.deutschlandfunk.de/beratungsstelle-bund-streicht-gelder-gegen-rechtsextremismus-praevention-100.html",
-   "stichworte": []
-  },
-  {
    "id": "dlf-iovk7g",
    "quelle": "Deutschlandfunk",
    "thema": "Nachrichten",
@@ -162,17 +624,6 @@
    "text": "Ein ehemaliger IS-Kämpfer ist in Frankfurt am Main zu einer Freiheitsstrafe von viereinhalb Jahren verurteilt worden.",
    "datum": "2026-11-16T17:13:59.000Z",
    "link": "https://www.deutschlandfunk.de/irakischer-is-kaempfer-in-frankfurt-am-main-zu-viereinhalb-jahren-haft-verurteilt-100.html",
-   "stichworte": []
-  },
-  {
-   "id": "dlf-10myq3r",
-   "quelle": "Deutschlandfunk",
-   "thema": "Nachrichten",
-   "kontext": "Bildung",
-   "titel": "Thüringen: Hörbehinderte Schüler sollen Gebärdensprache als erste Fremdsprache lernen können",
-   "text": "In Thüringen sollen hörbehinderte Schülerinnen und Schüler künftig die Deutsche Gebärdensprache als erste Fremdsprache wählen können.",
-   "datum": "2026-11-16T17:13:59.000Z",
-   "link": "https://www.deutschlandfunk.de/thueringen-hoerbehinderte-schueler-sollen-gebaerdensprache-als-erste-fremdsprache-lernen-koennen-102.html",
    "stichworte": []
   },
   {
@@ -195,17 +646,6 @@
    "text": "Die EU hat die reichste Unternehmerin Russlands, Tatyana Kim, auf ihre Sanktionsliste gesetzt.",
    "datum": "2026-11-16T17:13:59.000Z",
    "link": "https://www.deutschlandfunk.de/eu-verhaengt-sanktionen-gegen-russlands-reichste-unternehmerin-102.html",
-   "stichworte": []
-  },
-  {
-   "id": "dlf-1k0t8h",
-   "quelle": "Deutschlandfunk",
-   "thema": "Nachrichten",
-   "kontext": "Medienberichte",
-   "titel": "Russland wirbt Frauen aus Afrika mit Bildungsversprechen für Drohnenproduktion an",
-   "text": "Russland soll junge Frauen aus afrikanischen Ländern mit Versprechen auf Bildung und bezahlte Arbeit anwerben – und sie in der Rüstungsindustrie einsetzen. Das berichten das ukrainische Nachrichtenportal \"Gordon\" und der US-Sender \"Fox News\" unter Berufung auf eine Untersuchung des Ukrainischen Zentrums für Sicherheit …",
-   "datum": "2026-11-16T17:13:59.000Z",
-   "link": "https://www.deutschlandfunk.de/russland-wirbt-frauen-aus-afrika-mit-bildungsversprechen-fuer-drohnenproduktion-an-100.html",
    "stichworte": []
   },
   {
@@ -501,6 +941,28 @@
    "stichworte": []
   },
   {
+   "id": "zdf-lckssr",
+   "quelle": "ZDFheute",
+   "thema": "Nachrichten",
+   "kontext": "Abschiebungen abgelehnter Asylbewerber",
+   "titel": "\"Da soll jetzt Ruanda in die Bresche springen\"",
+   "text": "Juristisch sei Deutschland nicht für die Abgeschobenen in Ruanda verantwortlich, politisch schon, so Asylrechtsexperte Prof. Daniel Thym. Innenminister Dobrindt habe wenige Details genannt.",
+   "datum": "2026-11-16T16:57:00.000Z",
+   "link": "https://www.zdfheute.de/video/zdfheute-live/thym-ruanda-abschiebungen-video-100.html",
+   "stichworte": []
+  },
+  {
+   "id": "zdf-1g4buyu",
+   "quelle": "ZDFheute",
+   "thema": "Nachrichten",
+   "kontext": "Abschiebezentrum in Ruanda",
+   "titel": "\"Das soll symbolische Wirkung haben\"",
+   "text": "Die Regierung wolle, dass das Abschiebezentrum eine abschreckende Wirkung auf illegale Einwanderer hat, so ZDF-Hauptstadtkorrespondent Wulf Schmiese. Es handle sich um ein Pilotprojekt.",
+   "datum": "2026-11-16T16:56:00.000Z",
+   "link": "https://www.zdfheute.de/video/zdfheute-live/schmiese-ruanda-abschiebungen-video-100.html",
+   "stichworte": []
+  },
+  {
    "id": "zdf-17uct9j",
    "quelle": "ZDFheute",
    "thema": "Ausland",
@@ -566,20 +1028,9 @@
    "thema": "Ausland",
    "kontext": "Bilanz der Papstreise",
    "titel": "Papst Leo XIV.: Emotionale Reise mit politischen Botschaften",
-   "text": "Elf Tage war der Papst in Lateinamerika unterwegs, wurde in Uruguay und Argentinien begeistert gefeiert. Besonders emotional war die Rückkehr nach Peru, wo er 20 Jahre gewirkt hatte.",
+   "text": "Elf Tage war der Papst in Lateinamerika, wurde in Uruguay und Argentinien begeistert gefeiert. Besonders emotional war die Rückkehr nach Peru, wo er 20 Jahre gewirkt hatte.",
    "datum": "2026-11-16T16:24:00.000Z",
    "link": "https://www.zdfheute.de/politik/ausland/papst-leo-xiv-argentinien-peru-lateinamerika-100.html",
-   "stichworte": []
-  },
-  {
-   "id": "zdf-blz6m7",
-   "quelle": "ZDFheute",
-   "thema": "Ausland",
-   "kontext": "Politik",
-   "titel": "Aktuelles zum Krieg in der Ukraine",
-   "text": "Seit Februar 2022 führt Russland einen Angriffskrieg gegen die Ukraine, die Kämpfe dauern an. Alle Entwicklungen und Ukraine-News im Liveticker.",
-   "datum": "2026-11-16T16:20:00.000Z",
-   "link": "https://www.zdfheute.de/politik/ausland/ukraine-russland-konflikt-blog-102.html",
    "stichworte": []
   },
   {
@@ -670,14 +1121,14 @@
    "stichworte": []
   },
   {
-   "id": "zdf-1hfjvfw",
+   "id": "zdf-1g69hxa",
    "quelle": "ZDFheute",
-   "thema": "Nachrichten",
-   "kontext": "Newsticker",
-   "titel": "Schlagzeilen",
-   "text": "Schlagzeilen zu aktuellen Ereignissen - kurze Nachrichten im Ticker",
-   "datum": "2026-11-16T15:18:00.000Z",
-   "link": "https://www.zdfheute.de/newsticker/schlagzeilen-100.html",
+   "thema": "Ausland",
+   "kontext": "Dobrindt will nach Ruanda abschieben",
+   "titel": "Abschiebezentren in Afrika: So scheiterten die Briten damit",
+   "text": "Deutschland und weitere EU-Staaten wollen Abschiebezentren in Afrika aufbauen. Das hatte Großbritannien schon mal versucht - und gab das Vorhaben wieder auf. Das waren die Gründe.",
+   "datum": "2026-11-16T15:00:00.000Z",
+   "link": "https://www.zdfheute.de/politik/ausland/abschiebezentrum-dobrindt-ruanda-grossbritannien-100.html",
    "stichworte": []
   },
   {
@@ -689,17 +1140,6 @@
    "text": "Innenminister Dobrindt plant mit vier weiteren EU-Staaten ein Abschiebezentrum in Ruanda. Doch in der SPD mehren sich kritische Stimmen - unter anderem an den hohen Kosten.",
    "datum": "2026-11-16T15:00:00.000Z",
    "link": "https://www.zdfheute.de/politik/ruanda-abschiebungen-hubs-dobrindt-spd-100.html",
-   "stichworte": []
-  },
-  {
-   "id": "zdf-1g69hxa",
-   "quelle": "ZDFheute",
-   "thema": "Ausland",
-   "kontext": "Dobrindt will nach Ruanda abschieben",
-   "titel": "Abschiebezentren in Afrika: So scheiterten die Briten damit",
-   "text": "Deutschland und weitere EU-Staaten wollen Abschiebezentren in Afrika aufbauen. Das hatte Großbritannien schon mal versucht - und gab das Vorhaben wieder auf. Das waren die Gründe.",
-   "datum": "2026-11-16T15:00:00.000Z",
-   "link": "https://www.zdfheute.de/politik/ausland/abschiebezentrum-dobrindt-ruanda-grossbritannien-100.html",
    "stichworte": []
   },
   {
@@ -754,6 +1194,17 @@
    ]
   },
   {
+   "id": "zdf-1mpxodl",
+   "quelle": "ZDFheute",
+   "thema": "Nachrichten",
+   "kontext": "Lichtinstallationen zur Weihnachtszeit",
+   "titel": "Weihnachtsleuchten in Londons Kew Gardens",
+   "text": "Wenn die Natur Winterschlaf hält, verwandelt sich im Londoner Botanischen Garten Kew die Nacht zur magischen Bühne: Drei Kilometer voller Lichter, Klänge und Weihnachtszauber.",
+   "datum": "2026-11-16T14:51:47.000Z",
+   "link": "https://www.zdfheute.de/video/london-kew-lichtinstallationen-video-100.html",
+   "stichworte": []
+  },
+  {
    "id": "ts-16c3c0x",
    "quelle": "tagesschau",
    "thema": "Ausland",
@@ -780,17 +1231,6 @@
    "text": "Dürfen autonome Waffensysteme ohne menschliches Zutun Ziele suchen und feuern? Über Regeln zum Einsatz von \"Killerrobotern\" beraten Vertreter von 128 Staaten in Genf. Darum geht's.",
    "datum": "2026-11-16T14:33:00.000Z",
    "link": "https://www.zdfheute.de/politik/killerroboter-autonome-waffensysteme-regelen-konferenz-genf-100.html",
-   "stichworte": []
-  },
-  {
-   "id": "zdf-1ml2o0p",
-   "quelle": "ZDFheute",
-   "thema": "Inland",
-   "kontext": "Einigung mit SPD angekündigt",
-   "titel": "Merz erneuert Versprechen: Stromsteuer soll 2027 sinken",
-   "text": "Kanzler Merz stellt eine Einigung auf die Stromsteuersenkung für Dienstag in Aussicht. Auch Söder drängt auf Entlastungen. Doch es gibt weitere Streitpunkte in der Koalition.",
-   "datum": "2026-11-16T14:29:00.000Z",
-   "link": "https://www.zdfheute.de/politik/deutschland/merz-koalition-stromsteuer-100.html",
    "stichworte": []
   },
   {
@@ -1140,160 +1580,6 @@
    "stichworte": []
   },
   {
-   "id": "dlf-1uiyzzk",
-   "quelle": "Deutschlandfunk",
-   "thema": "Nachrichten",
-   "kontext": "Berliner Linke",
-   "titel": "Ramelow fordert Emde zum freiwilligen Verlassen der Fraktion auf",
-   "text": "Der Linken-Politiker Ramelow hat die Berliner Abgeordnete Emde aufgefordert, die Fraktion seiner Partei im Abgeordnetenhaus zu verlassen.",
-   "datum": "2026-11-16T11:08:49.000Z",
-   "link": "https://www.deutschlandfunk.de/ramelow-fordert-emde-zum-freiwilligen-verlassen-der-fraktion-auf-106.html",
-   "stichworte": []
-  },
-  {
-   "id": "dlf-14vg9y0",
-   "quelle": "Deutschlandfunk",
-   "thema": "Nachrichten",
-   "kontext": "Mecklenburg-Vorpommern",
-   "titel": "Ministerpräsidentin Schwesig stellt sich zur Wiederwahl",
-   "text": "In Mecklenburg-Vorpommern stellt sich heute Ministerpräsidentin Schwesig zur Wiederwahl im Schweriner Landtag.",
-   "datum": "2026-11-16T11:08:49.000Z",
-   "link": "https://www.deutschlandfunk.de/ministerpraesidentin-schwesig-stellt-sich-zur-wiederwahl-102.html",
-   "stichworte": []
-  },
-  {
-   "id": "dlf-e2fl6z",
-   "quelle": "Deutschlandfunk",
-   "thema": "Nachrichten",
-   "kontext": "Digitalisierung",
-   "titel": "Schleswig-Holsteins Staatskanzleichef Schrödter fordert mehr digitale Resilienz",
-   "text": "Nach den Ausfällen beim Microsoft-Konzern hat der Chef der Staatskanzlei von Schleswig-Holstein, Schrödter, mehr digitale Unabhängigkeit eingefordert.",
-   "datum": "2026-11-16T11:08:49.000Z",
-   "link": "https://www.deutschlandfunk.de/schleswig-holsteins-staatskanzleichef-schroedter-fordert-mehr-digitale-resilienz-102.html",
-   "stichworte": []
-  },
-  {
-   "id": "dlf-1ymy68p",
-   "quelle": "Deutschlandfunk",
-   "thema": "Nachrichten",
-   "kontext": "Debatte über künftige Spitze",
-   "titel": "Lies warnt SPD vor \"Selbstbeschäftigung\" - Rückhalt für Klingbeil",
-   "text": "Der frühere Arbeitsminister Heil hat als erster seine Kandidatur für den SPD-Vorsitz angekündigt. Daraufhin meldeten sich namhafte Fürsprecher des bisherigen Parteichefs Klingbeil. Der niedersächsische Ministerpräsident Lies warnte vor Streit in der Partei.",
-   "datum": "2026-11-16T11:08:49.000Z",
-   "link": "https://www.deutschlandfunk.de/lies-warnt-spd-vor-selbstbeschaeftigung-rueckhalt-fuer-klingbeil-102.html",
-   "stichworte": []
-  },
-  {
-   "id": "dlf-2v1f2h",
-   "quelle": "Deutschlandfunk",
-   "thema": "Nachrichten",
-   "kontext": "Gesundheit",
-   "titel": "Sprechstunde nur für Selbstzahler? Kritik an Vorstoß von Kassenärzte-Chef Gassen",
-   "text": "Der Vorstandsvorsitzende der Kassenärztlichen Bundesvereinigung, Gassen, hat mit seinen Äußerungen zu möglichen Selbstzahler-Terminen Kritik auf sich gezogen.",
-   "datum": "2026-11-16T11:08:49.000Z",
-   "link": "https://www.deutschlandfunk.de/sprechstunde-nur-fuer-selbstzahler-kritik-an-vorstoss-von-kassenaerzte-chef-gassen-102.html",
-   "stichworte": []
-  },
-  {
-   "id": "dlf-qnsktr",
-   "quelle": "Deutschlandfunk",
-   "thema": "Nachrichten",
-   "kontext": "Bremen",
-   "titel": "Innensenat stoppt Kampagne gegen Islamismus - Kritik an Generalverdacht gegen Muslime",
-   "text": "In Bremen hat der Senat nach Kritik eine Kampagne zur Warnung vor islamistischer Unterwanderung gestoppt.",
-   "datum": "2026-11-16T11:08:49.000Z",
-   "link": "https://www.deutschlandfunk.de/innensenat-stoppt-kampagne-gegen-islamismus-kritik-an-generalverdacht-gegen-muslime-110.html",
-   "stichworte": []
-  },
-  {
-   "id": "dlf-12ua6zu",
-   "quelle": "Deutschlandfunk",
-   "thema": "Nachrichten",
-   "kontext": "Prag",
-   "titel": "Großdemonstration in Tschechien gegen Abschaffung der Rundfunkgebühren",
-   "text": "In der tschechischen Hauptstadt Prag haben Zehntausende Menschen gegen die geplante Abschaffung der Rundfunkgebühren demonstriert.",
-   "datum": "2026-11-16T11:08:49.000Z",
-   "link": "https://www.deutschlandfunk.de/grossdemonstration-in-tschechien-gegen-abschaffung-der-rundfunkgebuehren-102.html",
-   "stichworte": []
-  },
-  {
-   "id": "dlf-xqmk8z",
-   "quelle": "Deutschlandfunk",
-   "thema": "Nachrichten",
-   "kontext": "Verkehrsminister",
-   "titel": "Normalisierung nach Flugstopp in den USA am Montag zu erwarten",
-   "text": "Nach dem landesweiten Flugstopp in den USA rechnet Verkehrsminister Duffy heute mit einer Rückkehr zum Normalbetrieb.",
-   "datum": "2026-11-16T11:08:49.000Z",
-   "link": "https://www.deutschlandfunk.de/normalisierung-nach-flugstopp-in-den-usa-am-montag-zu-erwarten-104.html",
-   "stichworte": []
-  },
-  {
-   "id": "dlf-2kapve",
-   "quelle": "Deutschlandfunk",
-   "thema": "Nachrichten",
-   "kontext": "Baltikum",
-   "titel": "Estland vereitelt Anschlag auf Drohnenfabrik - Grenzübergänge nach Russland werden geschlossen",
-   "text": "Estland will ab dem 1. Dezember alle Grenzübergänge nach Russland schließen. Zuvor hatten Sicherheitskräfte nach Regierungsangaben einen Anschlag auf eine estnische Drohnenfabrik vereitelt.",
-   "datum": "2026-11-16T11:08:49.000Z",
-   "link": "https://www.deutschlandfunk.de/estland-vereitelt-anschlag-auf-drohnenfabrik-grenzuebergaenge-nach-russland-werden-geschlossen-102.html",
-   "stichworte": []
-  },
-  {
-   "id": "dlf-1o8gcv4",
-   "quelle": "Deutschlandfunk",
-   "thema": "Nachrichten",
-   "kontext": "Krieg im Jemen",
-   "titel": "Regierungstruppen ziehen sich nach Kämpfen mit Huthi-Miliz von Meerenge Bab al-Mandab zurück",
-   "text": "Im Jemen ziehen sich die Truppen der international anerkannten Regierung von der strategisch wichtigen Meerenge Bab al-Mandab zurück.",
-   "datum": "2026-11-16T11:08:49.000Z",
-   "link": "https://www.deutschlandfunk.de/regierungstruppen-ziehen-sich-nach-kaempfen-mit-huthi-miliz-von-meerenge-bab-al-mandab-zurueck-102.html",
-   "stichworte": []
-  },
-  {
-   "id": "dlf-123t9g1",
-   "quelle": "Deutschlandfunk",
-   "thema": "Nachrichten",
-   "kontext": "Gazastreifen",
-   "titel": "Großbritannien, Italien, Kanada und Australien fordern schnelle Hilfe",
-   "text": "Vier Staaten haben Israel aufgefordert, schnelle und ungehinderte humanitäre Hilfe im Gazastreifen zuzulassen.",
-   "datum": "2026-11-16T11:08:49.000Z",
-   "link": "https://www.deutschlandfunk.de/grossbritannien-italien-kanada-und-australien-fordern-schnelle-hilfe-100.html",
-   "stichworte": []
-  },
-  {
-   "id": "dlf-14ramj2",
-   "quelle": "Deutschlandfunk",
-   "thema": "Nachrichten",
-   "kontext": "Straße von Hormus",
-   "titel": "Iranische Revolutionsgarden: Öltanker gesunken",
-   "text": "Ein Tanker mit einer Ladung von mehr als zwei Millionen Barrel Öl ist nach iranischen Angaben in der Straße von Hormus gesunken.",
-   "datum": "2026-11-16T11:08:49.000Z",
-   "link": "https://www.deutschlandfunk.de/iranische-revolutionsgarden-oeltanker-gesunken-104.html",
-   "stichworte": []
-  },
-  {
-   "id": "dlf-iddfx3",
-   "quelle": "Deutschlandfunk",
-   "thema": "Nachrichten",
-   "kontext": "USA",
-   "titel": "Country-Sänger Richard Sterban mit 83 Jahren gestorben",
-   "text": "US-Country-Sänger Richard Sterban, langjähriges Mitglied des mehrfach ausgezeichneten Gesangsquartetts The Oak Ridge Boys, ist tot. Er starb im Alter von 83 Jahren im Bundesstaat Tennessee, wie seine Familie mitteilte.",
-   "datum": "2026-11-16T11:08:49.000Z",
-   "link": "https://www.deutschlandfunk.de/country-saenger-richard-sterban-mit-83-jahren-gestorben-106.html",
-   "stichworte": []
-  },
-  {
-   "id": "dlf-1au8kjp",
-   "quelle": "Deutschlandfunk",
-   "thema": "Nachrichten",
-   "kontext": "Tennis",
-   "titel": "Alexander Zverev gewinnt Auftaktmatch bei den ATP Finals",
-   "text": "Tennisprofi Alexander Zverev ist erfolgreich in die ATP Finals in Turin gestartet. Der Weltranglisten-Erste gewann sein Auftaktmatch gegen den Spanier Rafael Jodar.",
-   "datum": "2026-11-16T11:08:49.000Z",
-   "link": "https://www.deutschlandfunk.de/alexander-zverev-gewinnt-auftaktmatch-bei-den-atp-finals-110.html",
-   "stichworte": []
-  },
-  {
    "id": "ts-ap9xu9",
    "quelle": "tagesschau",
    "thema": "Investigativ",
@@ -1377,21 +1663,6 @@
    "datum": "2026-11-16T10:09:00.000Z",
    "link": "https://www.zdfheute.de/politik/deutschland/voelklingen-oberbuergermeister-saarland-altersgrenze-diskriminierung-100.html",
    "stichworte": []
-  },
-  {
-   "id": "ts-lqut87",
-   "quelle": "tagesschau",
-   "thema": "Wirtschaft",
-   "kontext": "DAX tritt auf der Stelle",
-   "titel": "Anleger bleiben vor Nvidia-Bilanz vorsichtig",
-   "text": "Zum Wochenstart rührt sich der DAX bisher kaum, vor der Nvidia-Bilanz halten sich die Anleger zurück.",
-   "datum": "2026-11-16T09:58:43.186Z",
-   "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-nvidia-rekordhoch-100.html",
-   "details": "https://www.tagesschau.de/api2u/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-nvidia-rekordhoch-100.json",
-   "stichworte": [
-    "Marktbericht",
-    "DAX Dow Jones Börse"
-   ]
   },
   {
    "id": "ts-19a7hsk",
@@ -1656,28 +1927,6 @@
    ]
   },
   {
-   "id": "zdf-19afo7p",
-   "quelle": "ZDFheute",
-   "thema": "Panorama",
-   "kontext": "Leben auf der Straße",
-   "titel": "Immer mehr Frauen obdachlos",
-   "text": "Immer mehr Menschen leben auf der Straße, darunter zunehmend Frauen. Birgit lebt seit 30 Jahren auf der Straße und kennt die Gefahren.",
-   "datum": "2026-11-16T05:35:00.000Z",
-   "link": "https://www.zdfheute.de/video/panorama-obdachlosigkeit-frauen-anstieg-video-100.html",
-   "stichworte": []
-  },
-  {
-   "id": "zdf-38y2ng",
-   "quelle": "ZDFheute",
-   "thema": "Nachrichten",
-   "kontext": "Hefeflocken als Ersatz für Parmesan",
-   "titel": "Würzmittel oder Superfood: Was Hefeflocken wirklich taugen",
-   "text": "Hefeflocken gelten als gesund, sie sind würzig und vegan. Ihr Geschmack soll an Parmesan erinnern. Was in den pflanzlichen Flocken steckt und worauf Veganer achten sollten.",
-   "datum": "2026-11-16T05:11:00.000Z",
-   "link": "https://www.zdfheute.de/ratgeber/gesundheit/hefeflocken-naehrwerte-kaeseersatz-superfood-vegan-100.html",
-   "stichworte": []
-  },
-  {
    "id": "ts-qkyclt",
    "quelle": "tagesschau",
    "thema": "Inland",
@@ -1709,39 +1958,6 @@
    ]
   },
   {
-   "id": "zdf-dj0jqq",
-   "quelle": "ZDFheute",
-   "thema": "Ausland",
-   "kontext": "Weltklimakonferenz in Antalya",
-   "titel": "Die \"Action Agenda\": Das freiwillige zweite Gleis",
-   "text": "Mit der \"Global Climate Action Agenda\" wollen Länder freiwillig Klimaziele voranbringen. Die Initiativen sollen nun enger an den UN-Prozess gebunden werden. Was bringen sie bisher?",
-   "datum": "2026-11-16T04:13:00.000Z",
-   "link": "https://www.zdfheute.de/politik/ausland/klimakonferenz-antalya-action-agenda-100.html",
-   "stichworte": []
-  },
-  {
-   "id": "zdf-1tqsf54",
-   "quelle": "ZDFheute",
-   "thema": "Inland",
-   "kontext": "Entbürokratisierung und Autokrise",
-   "titel": "Baden-Württemberg: Wie Grün-Schwarz vorankommt",
-   "text": "Die Regierung in Baden-Württemberg arbeitet bislang demonstrativ harmonisch. Doch die Autoindustrie-Krise bleibt und die Affäre um Boris Palmer sorgt für unangenehme Fragen.",
-   "datum": "2026-11-16T04:12:00.000Z",
-   "link": "https://www.zdfheute.de/politik/deutschland/baden-wuerttemberg-cem-oezdemir-audi-cdu-gruene-100.html",
-   "stichworte": []
-  },
-  {
-   "id": "zdf-qkx3rs",
-   "quelle": "ZDFheute",
-   "thema": "Nachrichten",
-   "kontext": "ZDFinfo Doku",
-   "titel": "Anya Taylor-Joy",
-   "text": "Vom Teenager-Model zur berühmten Schauspielerin: \"The True Story of Anya Taylor-Joy\" erzählt den Werdegang und steilen Aufstieg der jungen Schauspielerin.",
-   "datum": "2026-11-16T04:00:00.000Z",
-   "link": "https://www.zdf.de/video/portraits/the-true-story-of-100/the-true-story-of-anya-taylor-joy-100",
-   "stichworte": []
-  },
-  {
    "id": "ts-6f89y",
    "quelle": "tagesschau",
    "thema": "Ausland",
@@ -1755,17 +1971,6 @@
     "Papst Leo XIV.",
     "Peru"
    ]
-  },
-  {
-   "id": "zdf-cb12ja",
-   "quelle": "ZDFheute",
-   "thema": "Ausland",
-   "kontext": "Nach dem landesweiten Flugstopp",
-   "titel": "USA: Flugverkehr wohl erst Montag wieder vollständig normal",
-   "text": "Die Störungen im US-Flugverkehr haben am Sonntag den dritten Tag in Folge angehalten. Tausende Flüge waren betroffen. Die Lage soll sich zum Wochenstart wieder normalisieren.",
-   "datum": "2026-11-16T01:33:00.000Z",
-   "link": "https://www.zdfheute.de/politik/ausland/usa-flugverkehr-flugstopp-verkehrsminister-duffy-100.html",
-   "stichworte": []
   },
   {
    "id": "ts-16p6ji6",
@@ -1783,72 +1988,6 @@
    ]
   },
   {
-   "id": "zdf-sdtznj",
-   "quelle": "ZDFheute",
-   "thema": "Sport",
-   "kontext": "UEFA Nations League",
-   "titel": "England beendet Spaniens Super-Serie",
-   "text": "Spanien hat nach 43 Partien mal wieder ein Fußball-Länderspiel verloren. In Madrid unterlag der Weltmeister in einer hochspannenden Begegnung mit 2:3 gegen England.",
-   "datum": "2026-11-15T23:00:00.000Z",
-   "link": "https://www.zdfheute.de/sport/fussball-nations-league/video/spanien-england-highlights-maenner-zusammenfassung-100.html",
-   "stichworte": []
-  },
-  {
-   "id": "zdf-m1jo45",
-   "quelle": "ZDFheute",
-   "thema": "Sport",
-   "kontext": "UEFA Nations League",
-   "titel": "Belgien kegelt Italien raus",
-   "text": "Belgiens Fußball-Nationalteam hat Italien in die Schranken gewiesen und sich für die K.o.-Runde der Nations League qualifiziert. In Brüssel gewannen die \"Roten Teufel\" mit 4:1.",
-   "datum": "2026-11-15T23:00:00.000Z",
-   "link": "https://www.zdfheute.de/sport/fussball-nations-league/video/belgien-italien-highlights-maenner-2026-zusammenfassung-100.html",
-   "stichworte": []
-  },
-  {
-   "id": "zdf-1w6psyy",
-   "quelle": "ZDFheute",
-   "thema": "Sport",
-   "kontext": "UEFA Nations League",
-   "titel": "Frankreich schlägt Türkei und feiert Gruppensieg",
-   "text": "Frankreich hat seine Nations-League-Gruppe auf Platz eins beendet. Gegen die Türkei setzte sich das Team von Trainder Zinedine Zidan mit 2:1 durch.",
-   "datum": "2026-11-15T23:00:00.000Z",
-   "link": "https://www.zdfheute.de/sport/fussball-nations-league/video/frankreich-tuerkei-highlights-maenner-zusammenfassung-100.html",
-   "stichworte": []
-  },
-  {
-   "id": "zdf-8vuvo3",
-   "quelle": "ZDFheute",
-   "thema": "Sport",
-   "kontext": "Nations League",
-   "titel": "Belgien düpiert Italien und steht im Viertelfinale",
-   "text": "Belgien hat mit einem eindrucksvollen Sieg gegen Italien das Viertelfinale der Nations League erreicht. Der Gruppensieg ging an Frankreich, das die Türkei besiegte.",
-   "datum": "2026-11-15T22:17:00.000Z",
-   "link": "https://www.zdfheute.de/sport/fussball-nations-league-gruppe-1-belgien-italien-frankreich-tuerkei-100.html",
-   "stichworte": []
-  },
-  {
-   "id": "zdf-12o308h",
-   "quelle": "ZDFheute",
-   "thema": "Sport",
-   "kontext": "Nations League: Gruppe 3",
-   "titel": "England beendet Spaniens Super-Serie und holt Gruppensieg",
-   "text": "Mit einem knappen Sieg in Spanien hat England in der Nations League den Gruppensieg geholt. Für die bereits fürs Viertelfinale qualifizierten Gastgeber endete eine lange Serie.",
-   "datum": "2026-11-15T22:03:00.000Z",
-   "link": "https://www.zdfheute.de/sport/fussball-nations-league-gruppe-3-spanien-england-spielbericht-100.html",
-   "stichworte": []
-  },
-  {
-   "id": "zdf-1p91fov",
-   "quelle": "ZDFheute",
-   "thema": "Inland",
-   "kontext": "Haushaltsstreit",
-   "titel": "Söder: Stromsteuersenkung ist \"Glaubwürdigkeitsfrage\"",
-   "text": "CSU-Chef Markus Söder fordert im Haushaltsstreit eine Einigung bei der Stromsteuersenkung und der kalten Progression. \"Diese beiden Dinge müssen noch vom Tisch\", sagt er im ZDF.",
-   "datum": "2026-11-15T21:02:00.000Z",
-   "link": "https://www.zdfheute.de/politik/deutschland/soeder-csu-koalition-haushalt-stromsteuer-muetterrente-100.html",
-   "stichworte": []
-  },
-  {
    "id": "ts-1tm3gvp",
    "quelle": "tagesschau",
    "thema": "Ausland",
@@ -1860,141 +1999,6 @@
    "details": "https://www.tagesschau.de/api2u/ausland/europa/estland-russland-grenze-geschlossen-100.json",
    "stichworte": [
     "Estland"
-   ]
-  },
-  {
-   "id": "zdf-10p8zw9",
-   "quelle": "ZDFheute",
-   "thema": "Sport",
-   "kontext": "Bundestrainer mit klarer Aussage",
-   "titel": "Klopp: Infantino schlimmer als Blatter",
-   "text": "Jürgen Klopp hat seine Meinung zu FIFA-Chef Gianni Infantino deutlich gemacht: Der Schweizer sei schlimmer als sein viel kritisierter Vorgänger Sepp Blatter.",
-   "datum": "2026-11-15T20:39:00.000Z",
-   "link": "https://www.zdfheute.de/sport/video/fussball-klopp-infantino-fifa-100.html",
-   "stichworte": []
-  },
-  {
-   "id": "zdf-pibxn6",
-   "quelle": "ZDFheute",
-   "thema": "Sport",
-   "kontext": "Ex-Nationalspielerin mit Dreierpack",
-   "titel": "Alex Popp entscheidet Derby BVB gegen Schalke",
-   "text": "Wohl dem, der eine Alexandra Popp in seinen Reihen hat: Die Ex-Nationalspielerin entscheidet das Revierderby gegen Schalke mit drei Treffern zugunsten von Borussia Dortmund.",
-   "datum": "2026-11-15T20:36:07.000Z",
-   "link": "https://www.zdfheute.de/sport/video/fussball-frauen-dortmund-schalke-popp-100.html",
-   "stichworte": []
-  },
-  {
-   "id": "zdf-fs2ilx",
-   "quelle": "ZDFheute",
-   "thema": "Nachrichten",
-   "kontext": "Traditioneller Schafszug",
-   "titel": "600 Schafe ziehen durch Nürnberger Innenstadt",
-   "text": "Diesen Sonntag ist eine Schafsherde samt Schäfer durch Nürnbergs Innenstadt gezogen: Die Tiere wurden wie jeden Herbst von ihren Sommerweiden auf ihre Winterweiden getrieben.",
-   "datum": "2026-11-15T20:32:00.000Z",
-   "link": "https://www.zdfheute.de/video/nuernberg-schafe-tradition-100.html",
-   "stichworte": []
-  },
-  {
-   "id": "zdf-b5fugf",
-   "quelle": "ZDFheute",
-   "thema": "Ausland",
-   "kontext": "Nach Sabotageversuch",
-   "titel": "Estland schließt Grenzübergänge zu Russland",
-   "text": "Nach einem versuchten Brandanschlag auf ein Rüstungsunternehmen schließt Estland seine Grenze zu Russland. Es gebe eindeutige Hinweise auf eine Beteiligung des Geheimdienstes GRU.",
-   "datum": "2026-11-15T20:30:00.000Z",
-   "link": "https://www.zdfheute.de/politik/ausland/estland-grenze-russland-sabotage-drohnenhersteller-100.html",
-   "stichworte": []
-  },
-  {
-   "id": "ts-1qb5cvl",
-   "quelle": "tagesschau",
-   "thema": "Ausland",
-   "kontext": "Israel nach der Wahl",
-   "titel": "Einheitsregierung? Netanjahu wirbt um Eisenkot",
-   "text": "Oppositionspolitiker Eisenkot sucht nach Partnern für eine Koalition. Noch-Premier Netanjahu hat eigene Vorstellungen.",
-   "datum": "2026-11-15T20:23:26.531Z",
-   "link": "https://www.tagesschau.de/ausland/asien/israel-netanjahu-einheitsregierung-100.html",
-   "details": "https://www.tagesschau.de/api2u/ausland/asien/israel-netanjahu-einheitsregierung-100.json",
-   "stichworte": [
-    "Israel"
-   ]
-  },
-  {
-   "id": "ts-1wl6des",
-   "quelle": "tagesschau",
-   "thema": "Inland",
-   "kontext": "Heil zur Bewerbung um SPD-Vorsitz",
-   "titel": "\"Ich habe viel Zuspruch aus der Partei\"",
-   "text": "Auch zu Vizekanzler Klingbeil äußerte sich Heil. Offen ließ er, mit welcher Frau er kandidieren will.",
-   "datum": "2026-11-15T18:44:55.346Z",
-   "link": "https://www.tagesschau.de/inland/innenpolitik/heil-spd-kandidatur-100.html",
-   "details": "https://www.tagesschau.de/api2u/inland/innenpolitik/heil-spd-kandidatur-100.json",
-   "stichworte": [
-    "SPD",
-    "Heil"
-   ]
-  },
-  {
-   "id": "ts-esfg4q",
-   "quelle": "tagesschau",
-   "thema": "Ausland",
-   "kontext": "Ukraine und Russland",
-   "titel": "Serie von Angriffen - auch Energieanlagen betroffen",
-   "text": "Am Wochenende hat es eine Serie russischer Angriffe auf die Ukraine gegeben - laut Präsident Selenskyj sind auch Energieanlagen darunter.",
-   "datum": "2026-11-15T17:54:56.010Z",
-   "link": "https://www.tagesschau.de/ausland/ukraine-russland-angriffe-210.html",
-   "details": "https://www.tagesschau.de/api2u/ausland/ukraine-russland-angriffe-210.json",
-   "stichworte": [
-    "Ukraine",
-    "Russland",
-    "Ukraine-Krieg"
-   ]
-  },
-  {
-   "id": "ts-7dm13b",
-   "quelle": "tagesschau",
-   "thema": "Ausland",
-   "kontext": "Spanische Inselgruppe",
-   "titel": "Hunderte Flüchtlinge auf Kanaren angekommen",
-   "text": "Rund 1.500 Migranten haben innerhalb eines Tages die kanarischen Inseln erreicht - eine Rekordzahl.",
-   "datum": "2026-11-15T17:31:41.404Z",
-   "link": "https://www.tagesschau.de/ausland/europa/fluechtlinge-ankunft-kanaren-100.html",
-   "details": "https://www.tagesschau.de/api2u/ausland/europa/fluechtlinge-ankunft-kanaren-100.json",
-   "stichworte": [
-    "Kanaren",
-    "Flüchtlinge"
-   ]
-  },
-  {
-   "id": "ts-15h5vry",
-   "quelle": "tagesschau",
-   "thema": "Ausland",
-   "kontext": "Proteste in Prag",
-   "titel": "Großdemonstration gegen Rundfunkreform in Tschechien",
-   "text": "Die Teilnehmer befürchten, die Regierung könnte die Sender mit der Reform unter ihre Kontrolle bringen.",
-   "datum": "2026-11-15T15:40:55.479Z",
-   "link": "https://www.tagesschau.de/ausland/europa/demo-tschechien-rundfunk-100.html",
-   "details": "https://www.tagesschau.de/api2u/ausland/europa/demo-tschechien-rundfunk-100.json",
-   "stichworte": [
-    "Tschechien",
-    "Prag",
-    "ÖRR"
-   ]
-  },
-  {
-   "id": "ts-r7xndn",
-   "quelle": "tagesschau",
-   "thema": "Inland",
-   "kontext": "Mobile Notaufnahme im Saarland",
-   "titel": "So sparen sich Pflegeheimbewohner die Klinik",
-   "text": "Klinikaufenthalte werden von vielen älteren Menschen gefürchtet. Im Saarland gibt es nun Diagnostik-LKW.",
-   "datum": "2026-11-15T15:37:17.809Z",
-   "link": "https://www.tagesschau.de/inland/gesellschaft/mobile-notaufnahme-saarland-100.html",
-   "details": "https://www.tagesschau.de/api2u/inland/gesellschaft/mobile-notaufnahme-saarland-100.json",
-   "stichworte": [
-    "Notaufnahme",
-    "Pflegeheim"
    ]
   }
  ]
