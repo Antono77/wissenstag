@@ -1,38 +1,845 @@
 {
- "stand": "2026-11-27T05:20:03.291Z",
+ "stand": "2026-11-27T11:00:31.558Z",
  "quellen": [
   {
    "name": "tagesschau",
    "seite": "https://www.tagesschau.de",
    "ok": true,
-   "anzahl": 37
+   "anzahl": 15
   },
   {
    "name": "ZDFheute",
    "seite": "https://www.zdfheute.de",
    "ok": true,
-   "anzahl": 183
+   "anzahl": 178
   },
   {
    "name": "Deutschlandfunk",
    "seite": "https://www.deutschlandfunk.de",
    "ok": true,
-   "anzahl": 30
+   "anzahl": 37
   }
  ],
  "meldungen": [
   {
+   "id": "dlf-198w2wh",
+   "quelle": "Deutschlandfunk",
+   "thema": "Nachrichten",
+   "kontext": "Bundesparteitag",
+   "titel": "BSW-Co-Vorsitzender De Masi schließt Koalitionen mit AfD aus",
+   "text": "Vor dem Bundesparteitag der BSW in Dresden hat deren Ko-Vorsitzender De Masi die Unterstützung einer AfD-geführten Regierung ausgeschlossen. De Masi sagte im Deutschlandfunk, er glaube nicht, dass es etwa in Sachsen-Anhalt zu einer grundsätzlichen Zusammenarbeit mit der AfD kommen werde.",
+   "datum": "2026-11-27T10:53:55.000Z",
+   "link": "https://www.deutschlandfunk.de/bsw-co-vorsitzender-de-masi-schliesst-koalitionen-mit-afd-aus-100.html",
+   "stichworte": []
+  },
+  {
+   "id": "dlf-pme1wy",
+   "quelle": "Deutschlandfunk",
+   "thema": "Nachrichten",
+   "kontext": "Berlin",
+   "titel": "CDU-Politiker Winkel verteidigt Kompromissvorschlag zur Rente mit 63 - bisher kein Einlenken der SPD",
+   "text": "Der stellvertretende Vorsitzende der Unionsfraktion im Bundestag, Winkel, hat sich bei der Rente mit 63 für einen Kompromiss ausgesprochen. Er verteidigte den Vorschlag, Geringverdienern die Frührente weiterhin abschlagsfrei zu ermöglichen.",
+   "datum": "2026-11-27T10:53:55.000Z",
+   "link": "https://www.deutschlandfunk.de/cdu-politiker-winkel-verteidigt-kompromissvorschlag-zur-rente-mit-63-bisher-kein-einlenken-der-spd-100.html",
+   "stichworte": []
+  },
+  {
+   "id": "dlf-1pj0r35",
+   "quelle": "Deutschlandfunk",
+   "thema": "Nachrichten",
+   "kontext": "Bundeskongress",
+   "titel": "Juso-Chef: Kein Mensch weiß, wofür die SPD heute steht",
+   "text": "Vor dem Bundeskongress der SPD-Nachwuchsorganisation hat Juso-Chef Türmer ein mangelndes Profil seiner Partei beklagt.",
+   "datum": "2026-11-27T10:53:55.000Z",
+   "link": "https://www.deutschlandfunk.de/juso-chef-kein-mensch-weiss-wofuer-die-spd-heute-steht-102.html",
+   "stichworte": []
+  },
+  {
+   "id": "dlf-j7398",
+   "quelle": "Deutschlandfunk",
+   "thema": "Nachrichten",
+   "kontext": "Budget von mehr als 500 Milliarden",
+   "titel": "Bundestag stimmt über den Haushalt 2027 ab",
+   "text": "Im Bundestag stimmen die Abgeordneten heute abschließend über den Bundeshaushalt 2027 ab.",
+   "datum": "2026-11-27T10:53:55.000Z",
+   "link": "https://www.deutschlandfunk.de/bundestag-stimmt-ueber-den-haushalt-2027-ab-100.html",
+   "stichworte": []
+  },
+  {
+   "id": "dlf-10meg68",
+   "quelle": "Deutschlandfunk",
+   "thema": "Nachrichten",
+   "kontext": "Brüssel",
+   "titel": "Beendigung des Sondergipfels zum EU-Haushalt - CDU-Europapolitiker Herbst warnt vor Feilschen um Beträge",
+   "text": "Nach dem Abbruch des Sondertreffens zum EU-Finanzplan für die nächsten Jahre steigt der Druck auf die Staats- und Regierungschefs vor dem Gipfel im Dezember. Bundeskanzler Merz sagte in Brüssel, die Verhandlungspositionen lägen noch zu weit auseinander.",
+   "datum": "2026-11-27T10:53:55.000Z",
+   "link": "https://www.deutschlandfunk.de/beendigung-des-sondergipfels-zum-eu-haushalt-cdu-europapolitiker-herbst-warnt-vor-feilschen-um-betra-100.html",
+   "stichworte": []
+  },
+  {
+   "id": "dlf-m32nx6",
+   "quelle": "Deutschlandfunk",
+   "thema": "Nachrichten",
+   "kontext": "Gipfel ohne Ergebnis",
+   "titel": "Die Streitpunkte beim EU-Haushalt",
+   "text": "Beim EU-Gipfel in Brüssel ist keine Einigung zum nächsten mehrjährigen Haushalt zustande gekommen. Viele Streitpunkte sind offen, so beim Umfang des Budgets, den Einnahmequellen oder den Ukraine-Hilfen.",
+   "datum": "2026-11-27T10:53:55.000Z",
+   "link": "https://www.deutschlandfunk.de/die-streitpunkte-beim-eu-haushalt-100.html",
+   "stichworte": []
+  },
+  {
+   "id": "dlf-iyqtj",
+   "quelle": "Deutschlandfunk",
+   "thema": "Nachrichten",
+   "kontext": "Medien",
+   "titel": "KI-Anbieter sollen für Inhalte zahlen - Bundesregierung drängt auf neue EU-Vergütung",
+   "text": "Die Bundesregierung strebt in der Europäischen Union eine neue Zahlungspflicht für KI-Anbieter an.",
+   "datum": "2026-11-27T10:53:55.000Z",
+   "link": "https://www.deutschlandfunk.de/ki-anbieter-sollen-fuer-inhalte-zahlen-bundesregierung-draengt-auf-neue-eu-verguetung-100.html",
+   "stichworte": []
+  },
+  {
+   "id": "dlf-1i8zjg2",
+   "quelle": "Deutschlandfunk",
+   "thema": "Nachrichten",
+   "kontext": "AfD",
+   "titel": "Weidel kritisiert Zentralrat der Juden als \"fremdgesteuert von der CDU\"",
+   "text": "Die AfD-Bundesvorsitzende Weidel kritisiert den Zentralrat der Juden in Deutschland.",
+   "datum": "2026-11-27T10:53:55.000Z",
+   "link": "https://www.deutschlandfunk.de/weidel-kritisiert-zentralrat-der-juden-als-fremdgesteuert-von-der-cdu-100.html",
+   "stichworte": []
+  },
+  {
+   "id": "dlf-1pujsmk",
+   "quelle": "Deutschlandfunk",
+   "thema": "Nachrichten",
+   "kontext": "Abschluss",
+   "titel": "IG-Metall-Chefin Benner: Tarifvertrag bietet Chancen für Investitionen",
+   "text": "IG-Metall-Chefin Benner hat das Ergebnis der Tarifverhandlungen verteidigt.",
+   "datum": "2026-11-27T10:53:55.000Z",
+   "link": "https://www.deutschlandfunk.de/ig-metall-chefin-benner-tarifvertrag-bietet-chancen-fuer-investitionen-100.html",
+   "stichworte": []
+  },
+  {
+   "id": "dlf-16zkwil",
+   "quelle": "Deutschlandfunk",
+   "thema": "Nachrichten",
+   "kontext": "Weiterhin schwacher Arbeitsmarkt",
+   "titel": "Arbeitslosenzahl im November sinkt leicht",
+   "text": "Der Arbeitsmarkt in Deutschland entwickelt sich weiterhin nur schwach.",
+   "datum": "2026-11-27T10:53:55.000Z",
+   "link": "https://www.deutschlandfunk.de/arbeitslosenzahl-im-november-sinkt-leicht-100.html",
+   "stichworte": []
+  },
+  {
+   "id": "dlf-7ju5d6",
+   "quelle": "Deutschlandfunk",
+   "thema": "Nachrichten",
+   "kontext": "Sachsen-Anhalt",
+   "titel": "MDR-Ausstieg: BSW hält sich Zustimmung zu AfD-Plan offen - Wagenknecht spricht von \"Propagandafunk\" und \"DDR-Fernsehen\"",
+   "text": "Das BSW in Sachsen-Anhalt erwägt, der von der AfD geplanten Kündigung des MDR-Staatsvertrags noch in diesem Jahr zuzustimmen.",
+   "datum": "2026-11-27T10:53:55.000Z",
+   "link": "https://www.deutschlandfunk.de/mdr-ausstieg-bsw-haelt-sich-zustimmung-zu-afd-plan-offen-wagenknecht-spricht-von-propagandafunk-und--100.html",
+   "stichworte": []
+  },
+  {
+   "id": "dlf-bk89wd",
+   "quelle": "Deutschlandfunk",
+   "thema": "Nachrichten",
+   "kontext": "Sachsen-Anhalt",
+   "titel": "Sondersitzung für Ministerpräsidentenwahl einberufen",
+   "text": "In Sachsen-Anhalt kommt der Landtag am 8. Dezember zu einer Sondersitzung für die Wahl des Ministerpräsidenten zusammen.",
+   "datum": "2026-11-27T10:53:55.000Z",
+   "link": "https://www.deutschlandfunk.de/sondersitzung-fuer-ministerpraesidentenwahl-einberufen-100.html",
+   "stichworte": []
+  },
+  {
+   "id": "dlf-tgf1q4",
+   "quelle": "Deutschlandfunk",
+   "thema": "Nachrichten",
+   "kontext": "IW-Studie",
+   "titel": "Junge Menschen von Wohnungsmarktlage \"besonders betroffen\"",
+   "text": "Das Institut der deutschen Wirtschaft sieht junge Menschen von der aktuellen Wohnungsmarktlage besonders betroffen.",
+   "datum": "2026-11-27T10:53:55.000Z",
+   "link": "https://www.deutschlandfunk.de/junge-menschen-von-wohnungsmarktlage-besonders-betroffen-100.html",
+   "stichworte": []
+  },
+  {
+   "id": "dlf-1an4vi5",
+   "quelle": "Deutschlandfunk",
+   "thema": "Nachrichten",
+   "kontext": "Griechische Inseln",
+   "titel": "Mehr als 280 Menschen vor Kreta und Gavdos gerettet",
+   "text": "Vor den griechischen Inseln Kreta und Gavdos hat die Küstenwache mehr als 280 Migranten an Land gebracht.",
+   "datum": "2026-11-27T10:53:55.000Z",
+   "link": "https://www.deutschlandfunk.de/mehr-als-280-menschen-vor-kreta-und-gavdos-gerettet-100.html",
+   "stichworte": []
+  },
+  {
+   "id": "dlf-1x35zv6",
+   "quelle": "Deutschlandfunk",
+   "thema": "Nachrichten",
+   "kontext": "Deutschland",
+   "titel": "Zentralratspräsident Schuster warnt vor Rückzug der Juden aus der Öffentlichkeit",
+   "text": "Der Präsident des Zentralrats der Juden in Deutschland, Schuster, hat vor einem Rückzug jüdischer Menschen aus der Öffentlichkeit gewarnt.",
+   "datum": "2026-11-27T10:53:55.000Z",
+   "link": "https://www.deutschlandfunk.de/zentralratspraesident-schuster-warnt-vor-rueckzug-der-juden-aus-der-oeffentlichkeit-100.html",
+   "stichworte": []
+  },
+  {
+   "id": "dlf-1pbrgpv",
+   "quelle": "Deutschlandfunk",
+   "thema": "Nachrichten",
+   "kontext": "Schnee und Glätte",
+   "titel": "Wintereinbruch in Bayern sorgt für Sperrungen",
+   "text": "In Bayern hat der Wintereinbruch für Verkehrsunfälle und Autobahnsperrungen gesorgt.",
+   "datum": "2026-11-27T10:53:55.000Z",
+   "link": "https://www.deutschlandfunk.de/wintereinbruch-in-bayern-sorgt-fuer-sperrungen-100.html",
+   "stichworte": []
+  },
+  {
+   "id": "dlf-cc7gwo",
+   "quelle": "Deutschlandfunk",
+   "thema": "Nachrichten",
+   "kontext": "Universitäten",
+   "titel": "Zahl der Studierenden in Deutschland ist leicht zurückgegangen",
+   "text": "Die Zahl der Studierenden an deutschen Hochschulen ist leicht zurückgegangen.",
+   "datum": "2026-11-27T10:53:55.000Z",
+   "link": "https://www.deutschlandfunk.de/zahl-der-studierenden-in-deutschland-ist-leicht-zurueckgegangen-100.html",
+   "stichworte": []
+  },
+  {
+   "id": "dlf-kcs6aq",
+   "quelle": "Deutschlandfunk",
+   "thema": "Nachrichten",
+   "kontext": "Britisches Forschungsinstitut",
+   "titel": "Deutschland Hauptziel russischer Sabotage",
+   "text": "Russische Sabotageakte und hybride Kriegsoperationen in Europa haben nach Angaben britischer Wissenschaftler am häufigsten Deutschland zum Ziel, gefolgt von Polen und den baltischen Staaten.",
+   "datum": "2026-11-27T10:53:55.000Z",
+   "link": "https://www.deutschlandfunk.de/deutschland-hauptziel-russischer-sabotage-102.html",
+   "stichworte": []
+  },
+  {
+   "id": "dlf-xcygd8",
+   "quelle": "Deutschlandfunk",
+   "thema": "Nachrichten",
+   "kontext": "Aktion Mensch",
+   "titel": "Arbeitslosigkeit von Menschen mit Schwerbehinderung auf Rekordhoch",
+   "text": "Die Arbeitslosigkeit unter Menschen mit einer Schwerbehinderung hat nach Angaben der \"Aktion Mensch\" 2025 ein Rekordhoch erreicht.",
+   "datum": "2026-11-27T10:53:55.000Z",
+   "link": "https://www.deutschlandfunk.de/arbeitslosigkeit-von-menschen-mit-schwerbehinderung-auf-rekordhoch-104.html",
+   "stichworte": []
+  },
+  {
+   "id": "dlf-1p1hdq8",
+   "quelle": "Deutschlandfunk",
+   "thema": "Nachrichten",
+   "kontext": "\"Black Friday\"",
+   "titel": "Gewerkschaft Verdi ruft zu Streik an deutschen Amazon-Standorten auf",
+   "text": "Anlässlich des heutigen Einkaufsaktionstages Black Friday hat die Gewerkschaft Verdi die Beschäftigten an elf deutschen Amazon-Standorten zum Streik aufgerufen.",
+   "datum": "2026-11-27T10:53:55.000Z",
+   "link": "https://www.deutschlandfunk.de/gewerkschaft-verdi-ruft-zu-streik-an-deutschen-amazon-standorten-auf-102.html",
+   "stichworte": []
+  },
+  {
+   "id": "dlf-qdt63g",
+   "quelle": "Deutschlandfunk",
+   "thema": "Nachrichten",
+   "kontext": "Angriff in Libyen",
+   "titel": "Ukrainischer Außenminister Sybiha: Wollen Krieg nicht auf Libyen ausweiten",
+   "text": "Der ukrainische Außenminister Sybiha hat nach dem Angriff auf russische Schiffe in Libyen sein Bedauern über unbeabsichtigte Folgen geäußert.",
+   "datum": "2026-11-27T10:53:55.000Z",
+   "link": "https://www.deutschlandfunk.de/ukrainischer-aussenminister-sybiha-wollen-krieg-nicht-auf-libyen-ausweiten-100.html",
+   "stichworte": []
+  },
+  {
+   "id": "dlf-1o6imzi",
+   "quelle": "Deutschlandfunk",
+   "thema": "Nachrichten",
+   "kontext": "Ukraine-Krieg",
+   "titel": "IAEA besorgt wegen weiteren Stromausfalls am Atomkraftwerk Saporischschja",
+   "text": "Die ⁠Internationale Atomenergiebehörde hat vor Gefahren durch den erneuten Stromausfall am ukrainischen ‌Atomkraftwerk ⁠Saporischschja gewarnt.",
+   "datum": "2026-11-27T10:53:55.000Z",
+   "link": "https://www.deutschlandfunk.de/iaea-besorgt-wegen-weiteren-stromausfalls-am-atomkraftwerk-saporischschja-100.html",
+   "stichworte": []
+  },
+  {
+   "id": "dlf-cp3mtf",
+   "quelle": "Deutschlandfunk",
+   "thema": "Nachrichten",
+   "kontext": "Endergebnis",
+   "titel": "Rechtsgerichtete Regierung in Neuseeland verliert Mehrheit",
+   "text": "Neuseelands rechtsgerichtete Regierungskoalition unter Premierminister Luxon hat bei der Parlamentswahl ihre Mehrheit verloren.",
+   "datum": "2026-11-27T10:53:55.000Z",
+   "link": "https://www.deutschlandfunk.de/rechtsgerichtete-regierung-in-neuseeland-verliert-mehrheit-100.html",
+   "stichworte": []
+  },
+  {
+   "id": "dlf-kci7fd",
+   "quelle": "Deutschlandfunk",
+   "thema": "Nachrichten",
+   "kontext": "Europa League",
+   "titel": "Eklat nach Krawallen bei Fußballspiel zwischen israelischem und türkischem Klub in Georgien",
+   "text": "Bei einem Europa-League-Spiel zwischen dem türkischen Fußballklub Besiktas Istanbul und dem israelischen Verein Hapoel Beerscheba in Georgien ist es zu Ausschreitungen gekommen.",
+   "datum": "2026-11-27T10:53:55.000Z",
+   "link": "https://www.deutschlandfunk.de/eklat-nach-krawallen-bei-fussballspiel-zwischen-israelischem-und-tuerkischem-klub-in-georgien-100.html",
+   "stichworte": []
+  },
+  {
+   "id": "dlf-10a3q7m",
+   "quelle": "Deutschlandfunk",
+   "thema": "Nachrichten",
+   "kontext": "Kinderrechte",
+   "titel": "\"Save the Children\" mahnt mehr Schutz vor Kinderehen an",
+   "text": "Die Hilfsorganisation \"Save the Children\" hat mehr Schutz von Mädchen vor Kinderehen angemahnt.",
+   "datum": "2026-11-27T10:53:55.000Z",
+   "link": "https://www.deutschlandfunk.de/save-the-children-mahnt-mehr-schutz-vor-kinderehen-an-100.html",
+   "stichworte": []
+  },
+  {
+   "id": "dlf-3jzo1s",
+   "quelle": "Deutschlandfunk",
+   "thema": "Nachrichten",
+   "kontext": "USA",
+   "titel": "Massive Stromausfälle und Verkehrsbehinderungen an Thanksgiving",
+   "text": "Ein schwerer Sturm hat in den USA am Feiertag Thanksgiving massive Stromausfälle und Verkehrsbehinderungen verursacht.",
+   "datum": "2026-11-27T10:53:55.000Z",
+   "link": "https://www.deutschlandfunk.de/massive-stromausfaelle-und-verkehrsbehinderungen-an-thanksgiving-100.html",
+   "stichworte": []
+  },
+  {
+   "id": "dlf-gv7vsf",
+   "quelle": "Deutschlandfunk",
+   "thema": "Nachrichten",
+   "kontext": "Wirtschaft",
+   "titel": "Einigung in der Metall- und Elektroindustrie \"klares Zukunftssignal\"",
+   "text": "Vertreter von Gewerkschaft und Arbeitgebern haben sich zufrieden mit dem Ergebnis des Tarifabschlusses in der Metall- und Elektroindustrie gezeigt. Sie sprachen von etwas \"Besonderem\", beziehungsweise etwas \"Außergewöhnlichem\", das in den Gesprächen gelungen sei.",
+   "datum": "2026-11-27T10:53:55.000Z",
+   "link": "https://www.deutschlandfunk.de/einigung-in-der-metall-und-elektroindustrie-klares-zukunftssignal-104.html",
+   "stichworte": []
+  },
+  {
+   "id": "dlf-1p0fk41",
+   "quelle": "Deutschlandfunk",
+   "thema": "Nachrichten",
+   "kontext": "Europäische Zentralbank",
+   "titel": "Spanier soll neuer EZB-Präsident werden",
+   "text": "Der Spanier de Cos soll neuer Präsident der Europäischen Zentralbank werden.Darauf einigten sich die Staats- und Regierungschefs der EU beim Gipfel in Brüssel, wie der französische Präsident Macron mitteilte. Die Entscheidung muss noch formal bestätigt werden.",
+   "datum": "2026-11-27T10:53:55.000Z",
+   "link": "https://www.deutschlandfunk.de/spanier-soll-neuer-ezb-praesident-werden-112.html",
+   "stichworte": []
+  },
+  {
+   "id": "dlf-1gpqgzh",
+   "quelle": "Deutschlandfunk",
+   "thema": "Nachrichten",
+   "kontext": "Verteidigung",
+   "titel": "Entscheidung über US-Truppenabzug verschiebt sich",
+   "text": "Die USA benötigen für die Überprüfung ihrer Truppenpräsenz in Europa offenbar länger als geplant.",
+   "datum": "2026-11-27T10:53:55.000Z",
+   "link": "https://www.deutschlandfunk.de/entscheidung-ueber-us-truppenabzug-verschiebt-sich-104.html",
+   "stichworte": []
+  },
+  {
+   "id": "dlf-1udmcul",
+   "quelle": "Deutschlandfunk",
+   "thema": "Nachrichten",
+   "kontext": "Gesundheit",
+   "titel": "Bundesweite Krankenkassen wollen Zusatzbeiträge 2027 stabil halten",
+   "text": "Angesichts des Sparpakets im Gesundheitswesen peilen die großen bundesweiten Krankenkassen im neuen Jahr stabile Beiträge für ihre Versicherten an.",
+   "datum": "2026-11-27T10:53:55.000Z",
+   "link": "https://www.deutschlandfunk.de/bundesweite-krankenkassen-wollen-zusatzbeitraege-2027-stabil-halten-106.html",
+   "stichworte": []
+  },
+  {
+   "id": "dlf-ovysfj",
+   "quelle": "Deutschlandfunk",
+   "thema": "Nachrichten",
+   "kontext": "Bundeswehr",
+   "titel": "Erste Frau an der Spitze eines Marinestützpunkts",
+   "text": "Der Marinestützpunkt Eckernförde wird künftig von Fregattenkapitänin Lydia Knaak geführt. Damit hat erstmals eine Frau das Kommando über einen deutschen Marinestützpunkt übernommen. Die 38-Jährige sagte, die Aufgabe erfülle sie mit Riesenstolz.",
+   "datum": "2026-11-27T10:53:55.000Z",
+   "link": "https://www.deutschlandfunk.de/erste-frau-an-der-spitze-eines-marinestuetzpunkts-104.html",
+   "stichworte": []
+  },
+  {
+   "id": "dlf-5mnedv",
+   "quelle": "Deutschlandfunk",
+   "thema": "Nachrichten",
+   "kontext": "Bundestag",
+   "titel": "Linken-Abgeordneten drohen Konsequenzen nach Blockade-Aktion gegen Ex-Mossad-Chef Barnea",
+   "text": "Die Protestaktion von Linken-Abgeordneten bei einer Bundestags-Veranstaltung mit Israels Ex-Geheimdienstchef Barnea hat Konsequenzen.",
+   "datum": "2026-11-27T10:53:55.000Z",
+   "link": "https://www.deutschlandfunk.de/linken-abgeordneten-drohen-konsequenzen-nach-blockade-aktion-gegen-ex-mossad-chef-barnea-102.html",
+   "stichworte": []
+  },
+  {
+   "id": "dlf-esk1uu",
+   "quelle": "Deutschlandfunk",
+   "thema": "Nachrichten",
+   "kontext": "Ehrung",
+   "titel": "Bundestag benennt Gebäude nach Rita Süssmuth und Gerd Poppe",
+   "text": "Der Deutsche Bundestag benennt zwei Gebäude nach Rita Süssmuth und Gerd Poppe.",
+   "datum": "2026-11-27T10:53:55.000Z",
+   "link": "https://www.deutschlandfunk.de/bundestag-benennt-gebaeude-nach-rita-suessmuth-und-gerd-poppe-102.html",
+   "stichworte": []
+  },
+  {
+   "id": "dlf-hp9dcl",
+   "quelle": "Deutschlandfunk",
+   "thema": "Nachrichten",
+   "kontext": "Drogerie",
+   "titel": "Landgericht erlaubt Augenscreening in \"dm\"-Filialen – \"ersetzt aber nicht den Arztbesuch\"",
+   "text": "Die Drogeriemarktkette \"dm\" darf laut einem Urteil des Landgerichts Karlsruhe KI-unterstützte Augenuntersuchungen in ihren Filialen anbieten.",
+   "datum": "2026-11-27T10:53:55.000Z",
+   "link": "https://www.deutschlandfunk.de/landgericht-erlaubt-augenscreening-in-dm-filialen-ersetzt-aber-nicht-den-arztbesuch-114.html",
+   "stichworte": []
+  },
+  {
+   "id": "dlf-dwcl1y",
+   "quelle": "Deutschlandfunk",
+   "thema": "Nachrichten",
+   "kontext": "Teheran",
+   "titel": "Iranischer Drehbuchautor und Menschenrechtsaktivist Mehdi Mahmoudian offenbar festgenommen",
+   "text": "Der iranische Drehbuchautor und Menschenrechtsaktivist Mehdi Mahmoudian ist offenbar erneut festgenommen worden.",
+   "datum": "2026-11-27T10:53:55.000Z",
+   "link": "https://www.deutschlandfunk.de/iranischer-drehbuchautor-und-menschenrechtsaktivist-mehdi-mahmoudian-offenbar-festgenommen-110.html",
+   "stichworte": []
+  },
+  {
+   "id": "dlf-2pat7a",
+   "quelle": "Deutschlandfunk",
+   "thema": "Nachrichten",
+   "kontext": "Fußball",
+   "titel": "Europa League: Hoffenheim schlägt Sturm Graz, Leverkusen gewinnt in Zagreb - Conference League: Freiburg - Enschede 2:1",
+   "text": "In der Fußball Europa League hat die TSG Hoffenheim 3:1 gegen Sturm Graz gewonnen.",
+   "datum": "2026-11-27T10:53:55.000Z",
+   "link": "https://www.deutschlandfunk.de/europa-league-hoffenheim-schlaegt-sturm-graz-leverkusen-gewinnt-in-zagreb-conference-league-freiburg-104.html",
+   "stichworte": []
+  },
+  {
+   "id": "dlf-1t0hk19",
+   "quelle": "Deutschlandfunk",
+   "thema": "Nachrichten",
+   "kontext": "Wetter",
+   "titel": "Bewölkt, im Westen und Norden auch sonnig, -3 bis +3 Grad",
+   "text": "Das Wetter: In der Landesmitte noch zeitweise leichter Schneefall, der langsam abklingt. Im Westen und Norden sonnige Abschnitte, sonst stark bewölkt bis bedeckt bzw. hochnebelig trüb. An der Ostsee noch vereinzelte Schauer. Minus 3 bis plus 3 Grad. Morgen teils Hochnebel, teils Sonne. Minus 3 bis plus 4 Grad.",
+   "datum": "2026-11-27T10:53:55.000Z",
+   "link": "https://www.deutschlandfunk.de/bewoelkt-im-westen-und-norden-auch-sonnig-3-bis-3-grad-114.html",
+   "stichworte": []
+  },
+  {
+   "id": "zdf-680ocy",
+   "quelle": "ZDFheute",
+   "thema": "Nachrichten",
+   "kontext": "phoenix parlament",
+   "titel": "Haushalsdebatte zu Arbeit und Sozialess",
+   "text": "Haushalt 2027 - Debatte zum Etat für Arbeit und Soziales",
+   "datum": "2026-11-27T10:26:00.000Z",
+   "link": "https://www.phoenix.de/php/mediaplayer/vod_embed.php?cmsid=5250534",
+   "stichworte": []
+  },
+  {
+   "id": "zdf-3rrm3j",
+   "quelle": "ZDFheute",
+   "thema": "Panorama",
+   "kontext": "Promi-News in Bildern",
+   "titel": "Anna-Carina Woitschack ist wieder Single",
+   "text": "Sängerin Anna-Carina Woitschack bestätigt Trennung, Königin Máxima strahlt bei Preisverleihung und Starkoch Gordon Ramsay ist erstmals Opa geworden – die aktuellen Promi-News in Bildern.",
+   "datum": "2026-11-27T10:14:00.000Z",
+   "link": "https://www.zdfheute.de/panorama/prominente/stars-promi-news-bilder-november-2026-100.html",
+   "stichworte": []
+  },
+  {
+   "id": "zdf-blz6m7",
+   "quelle": "ZDFheute",
+   "thema": "Ausland",
+   "kontext": "Politik",
+   "titel": "Aktuelles zum Krieg in der Ukraine",
+   "text": "Seit Februar 2022 führt Russland einen Angriffskrieg gegen die Ukraine, die Kämpfe dauern an. Alle Entwicklungen und Ukraine-News im Liveticker.",
+   "datum": "2026-11-27T10:09:00.000Z",
+   "link": "https://www.zdfheute.de/politik/ausland/ukraine-russland-konflikt-blog-102.html",
+   "stichworte": []
+  },
+  {
+   "id": "zdf-1pqpshz",
+   "quelle": "ZDFheute",
+   "thema": "Sport",
+   "kontext": "Biathlet überzeugt zum Auftakt",
+   "titel": "Justus Strelow: Zwischen Sport und Familie",
+   "text": "Mit Platz zwei im Einzel gelang Justus Strelow in Kontiolahti ein nahezu perfekter Start in den Biathlon-Weltcup. Nun freut sich der Wahl-Thüringer auf seine Spezialdisziplin.",
+   "datum": "2026-11-27T10:07:00.000Z",
+   "link": "https://www.zdfheute.de/sport/wintersport/wintersport-biathlon-justus-strelow-portrait-100.html",
+   "stichworte": []
+  },
+  {
+   "id": "zdf-1lv3m50",
+   "quelle": "ZDFheute",
+   "thema": "Sport",
+   "kontext": "Luisa Schulze als Expertin im Einsatz",
+   "titel": "Handball-EM der Frauen: ZDF überträgt DHB-Auftakt",
+   "text": "Die Handball-EM der Frauen steht vor der Tür. Das ZDF überträgt den Turnierauftakt und begleitet das DHB-Team danach weiter durchs Turnier.",
+   "datum": "2026-11-27T10:03:00.000Z",
+   "link": "https://www.zdfheute.de/sport/handball-em-frauen-zdf-luisa-schulze-100.html",
+   "stichworte": []
+  },
+  {
+   "id": "zdf-j4qtea",
+   "quelle": "ZDFheute",
+   "thema": "Panorama",
+   "kontext": "400 Unfälle im südlichen Oberbayern",
+   "titel": "Schnee und Glätte sorgen für Verkehrschaos",
+   "text": "Der Wintereinbruch mit Schneefällen in Bayern und Österreich hat für zahlreiche Unfälle gesorgt. Der Deutsche Wetterdienst warnt auch am Wochenende vor Glatteis.",
+   "datum": "2026-11-27T10:00:00.000Z",
+   "link": "https://www.zdfheute.de/panorama/unfall-bayern-oesterreich-autobahn-schnee-glaette-verkehr-a93-100.html",
+   "stichworte": []
+  },
+  {
+   "id": "ts-1c7hqxu",
+   "quelle": "tagesschau",
+   "thema": "Wirtschaft",
+   "kontext": "Demografischer Wandel",
+   "titel": "Weniger Arbeitskräfte, mehr Qualifikation",
+   "text": "Immer mehr Firmen qualifizieren ihre Mitarbeitenden weiter, um damit dem Fachkräftemangel zu begegnen.",
+   "datum": "2026-11-27T09:57:51.585Z",
+   "link": "https://www.tagesschau.de/wirtschaft/arbeitsmarkt/demografie-fachkraefte-weiterbildung-100.html",
+   "details": "https://www.tagesschau.de/api2u/wirtschaft/arbeitsmarkt/demografie-fachkraefte-weiterbildung-100.json",
+   "stichworte": [
+    "Arbeitsmarkt",
+    "Demografie",
+    "Fachkräfte",
+    "Weiterbildung",
+    "Fachkräftemangel"
+   ]
+  },
+  {
+   "id": "ts-1kj724b",
+   "quelle": "tagesschau",
+   "thema": "Ausland",
+   "kontext": "Gewalt im Westjordanland",
+   "titel": "Israelische Politiker sprechen von \"jüdischem Terror\"",
+   "text": "Die Gewalt radikaler Siedler gegen Palästinenser im Westjordanland hat zuletzt massiv zugenommen.",
+   "datum": "2026-11-27T09:57:35.746Z",
+   "link": "https://www.tagesschau.de/ausland/asien/westjordanland-gewalt-100.html",
+   "details": "https://www.tagesschau.de/api2u/ausland/asien/westjordanland-gewalt-100.json",
+   "stichworte": [
+    "Israel",
+    "Westjordanland",
+    "Palästinenser",
+    "Nahost",
+    "Siedler",
+    "Siedlergewalt"
+   ]
+  },
+  {
+   "id": "ts-562ff4",
+   "quelle": "tagesschau",
+   "thema": "Wirtschaft",
+   "kontext": "Arbeitslosenzahl sinkt nur leicht",
+   "titel": "Der Arbeitsmarkt kommt nicht in Schwung",
+   "text": "Die übliche Belebung des Arbeitsmarktes im Herbst ist auch im November größtenteils ausgeblieben.",
+   "datum": "2026-11-27T09:57:19.711Z",
+   "link": "https://www.tagesschau.de/wirtschaft/arbeitsmarkt/arbeitslosenzahlen-november-108.html",
+   "details": "https://www.tagesschau.de/api2u/wirtschaft/arbeitsmarkt/arbeitslosenzahlen-november-108.json",
+   "stichworte": [
+    "Arbeitsmarkt",
+    "Arbeitslosenzahl"
+   ]
+  },
+  {
+   "id": "ts-1frphhz",
+   "quelle": "tagesschau",
+   "thema": "Wirtschaft",
+   "kontext": "DAX legt weiter zu",
+   "titel": "Anleger nutzen günstige Kurse zum Einkauf",
+   "text": "Der DAX setzt seine Erholung fort, unterstützt von der Aussicht auf einen starke Wall Street.",
+   "datum": "2026-11-27T09:57:08.972Z",
+   "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-geldanlage-176.html",
+   "details": "https://www.tagesschau.de/api2u/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-geldanlage-176.json",
+   "stichworte": [
+    "Marktbericht",
+    "DAX Dow Jones Börse",
+    "KI-Aktien"
+   ]
+  },
+  {
+   "id": "zdf-680oc0",
+   "quelle": "ZDFheute",
+   "thema": "Nachrichten",
+   "kontext": "phoenix vor ort",
+   "titel": "\"Europa braucht solide Finanzen und keine neuen Schulden\"",
+   "text": "Pressekonferenz von Bundeskanzler Friedrich Merz (CDU) zu den Ergebnissen des EU-Sondergipfels zu Beratungen über den erweiterten Finanzrahmen 2028-2035",
+   "datum": "2026-11-27T09:36:00.000Z",
+   "link": "https://www.phoenix.de/php/mediaplayer/vod_embed.php?cmsid=5250521",
+   "stichworte": []
+  },
+  {
+   "id": "ts-10f5jbb",
+   "quelle": "tagesschau",
+   "thema": "Wirtschaft",
+   "kontext": "Black Friday und Weihnachten",
+   "titel": "KI-Agenten als Shopping-Hilfe",
+   "text": "Das Angebot an KI-Agenten steigt. Doch Verbraucherschützer warnen vor Risiken.",
+   "datum": "2026-11-27T09:32:49.380Z",
+   "link": "https://www.tagesschau.de/wirtschaft/verbraucher/ki-agenten-einkaufen-handel-100.html",
+   "details": "https://www.tagesschau.de/api2u/wirtschaft/verbraucher/ki-agenten-einkaufen-handel-100.json",
+   "stichworte": [
+    "KI-Agenten",
+    "Shoppen",
+    "Einzelhandel",
+    "Online-Handel",
+    "Black Friday"
+   ]
+  },
+  {
+   "id": "zdf-wgppw7",
+   "quelle": "ZDFheute",
+   "thema": "Ausland",
+   "kontext": "Politik",
+   "titel": "Iran-Krieg und Nahost-Konflikt: Alle Nachrichten im Liveblog",
+   "text": "Die Lage in Nahost ist weiter angespannt - es kommt immer wieder zu Angriffen. Im Westjordanland spitzt sich die Situation zu. Alle Entwicklungen im Liveblog.",
+   "datum": "2026-11-27T09:27:00.000Z",
+   "link": "https://www.zdfheute.de/politik/ausland/iran-israel-usa-angriff-liveblog-100.html",
+   "stichworte": []
+  },
+  {
+   "id": "zdf-14m7ueh",
+   "quelle": "ZDFheute",
+   "thema": "Wirtschaft",
+   "kontext": "Black Friday und Weihnachten",
+   "titel": "Haben die Deutschen noch Lust auf Shopping?",
+   "text": "Die steigenden Preise haben auch dieses Jahr die Menschen belastet. So sehr, dass sie sich beim Weihnachtseinkauf auch zurückhalten? Die Daten zeigen \"keine guten Vorzeichen\".",
+   "datum": "2026-11-27T09:26:00.000Z",
+   "link": "https://www.zdfheute.de/wirtschaft/weihnachten-black-friday-konsum-wirtschaft-deutschland-100.html",
+   "stichworte": []
+  },
+  {
+   "id": "zdf-1e387f7",
+   "quelle": "ZDFheute",
+   "thema": "Ausland",
+   "kontext": "Treffen wird nicht fortgesetzt",
+   "titel": "Keine Einigung: EU-Sondergipfel zum Haushalt endet vorzeitig",
+   "text": "Sparen oder nicht sparen, das war die Frage beim EU-Sondergipfel zum Haushalt in Brüssel. Ein Ergebnis gab es nicht. Der Gipfel wurde frühzeitig beendet.",
+   "datum": "2026-11-27T09:13:00.000Z",
+   "link": "https://www.zdfheute.de/politik/ausland/eu-gipfel-haushalt-bruessel-europaeische-union-merz-abbruch-100.html",
+   "stichworte": []
+  },
+  {
+   "id": "zdf-1yvgggz",
+   "quelle": "ZDFheute",
+   "thema": "Panorama",
+   "kontext": "Spanien",
+   "titel": "2.000 Cannabis-Pflanzen unter Spielplatz entdeckt",
+   "text": "In der Nähe von Granada hat die Guardia Civil eine professionelle Cannabis-Plantage mit 2.000 Pflanzen entdeckt - an einem denkbar ungewöhnlichen Ort.",
+   "datum": "2026-11-27T08:56:00.000Z",
+   "link": "https://www.zdfheute.de/video/panorama-cannabis-plantage-spielplatz-spanien-100.html",
+   "stichworte": []
+  },
+  {
+   "id": "zdf-16prczb",
+   "quelle": "ZDFheute",
+   "thema": "Inland",
+   "kontext": "BSW streitet über Umgang mit AfD",
+   "titel": "Mohamed Ali: \"Konsequent in der Sache\" entscheiden",
+   "text": "Vor dem BSW-Bundesparteitag streitet die Partei über ihr Verhältnis zur AfD. Die BSW-Chefin schließt eine Koalition mit der AfD aus, sieht aber Chancen für eine Zusammenarbeit.",
+   "datum": "2026-11-27T08:47:00.000Z",
+   "link": "https://www.zdfheute.de/politik/deutschland/bsw-streit-umgang-afd-mohamed-ali-100.html",
+   "stichworte": []
+  },
+  {
+   "id": "ts-ah7k6j",
+   "quelle": "tagesschau",
+   "thema": "Inland",
+   "kontext": "Parteitag in Dresden",
+   "titel": "Wie hält es das BSW mit der AfD?",
+   "text": "Das BSW ringt um den Kurs zur AfD: Die Parteispitze betont Distanz, in Sachsen-Anhalt kommen sie sich recht nahe.",
+   "datum": "2026-11-27T08:22:38.679Z",
+   "link": "https://www.tagesschau.de/inland/innenpolitik/bsw-parteitag-afd-sachsen-anhalt-100.html",
+   "details": "https://www.tagesschau.de/api2u/inland/innenpolitik/bsw-parteitag-afd-sachsen-anhalt-100.json",
+   "stichworte": [
+    "BSW",
+    "AfD",
+    "Sachsen-Anhalt",
+    "Klaus Ernst",
+    "Parteitag"
+   ]
+  },
+  {
+   "id": "ts-1eiwa8",
+   "quelle": "tagesschau",
+   "thema": "Wirtschaft",
+   "kontext": "Proteste in Bangladesch",
+   "titel": "Schnelle Mode, lausige Löhne",
+   "text": "Die Beschäftigten der Textilbranche in Bangladesch fordern bessere Lebens- und Arbeitsbedingungen.",
+   "datum": "2026-11-27T07:59:40.671Z",
+   "link": "https://www.tagesschau.de/wirtschaft/weltwirtschaft/bangladesch-fast-fashion-100.html",
+   "details": "https://www.tagesschau.de/api2u/wirtschaft/weltwirtschaft/bangladesch-fast-fashion-100.json",
+   "stichworte": [
+    "Fast Fashion",
+    "Bangladesch",
+    "Textilindustrie"
+   ]
+  },
+  {
+   "id": "ts-9oo2ev",
+   "quelle": "tagesschau",
+   "thema": "Wirtschaft",
+   "kontext": "Faires Urheberrecht",
+   "titel": "Bundesregierung will KI-Anbieter zur Kasse bitten",
+   "text": "KI-Anbieter sollen nach dem Willen der Bundesregierung künftig für die Erzeugung von Inhalten zahlen.",
+   "datum": "2026-11-27T07:48:12.920Z",
+   "link": "https://www.tagesschau.de/wirtschaft/technologie/ki-urheberrecht-verguetung-100.html",
+   "details": "https://www.tagesschau.de/api2u/wirtschaft/technologie/ki-urheberrecht-verguetung-100.json",
+   "stichworte": [
+    "KI",
+    "Urheberrecht"
+   ]
+  },
+  {
+   "id": "zdf-1th5f85",
+   "quelle": "ZDFheute",
+   "thema": "Sport",
+   "kontext": "FC Bayern kommt nicht zur Ruhe",
+   "titel": "Kahn lobt Kimmich-Aussagen zu Musiala: \"Wichtiges Zeichen\"",
+   "text": "Nach dem Champions-League-Spiel gegen Lille hat sich Bayern-Kapitän Joshua Kimmich vor Jamal Musiala gestellt. Nun bekommt er Lob von Oliver Kahn.",
+   "datum": "2026-11-27T07:26:00.000Z",
+   "link": "https://www.zdfheute.de/sport/fussball-fc-bayern-jamal-musiala-oliver-kahn-aussage-lob-kritik-100.html",
+   "stichworte": []
+  },
+  {
+   "id": "zdf-vy2f61",
+   "quelle": "ZDFheute",
+   "thema": "Nachrichten",
+   "kontext": "Proteste der Gen Z",
+   "titel": "Warum Studentin Lara wütend auf die Politik ist",
+   "text": "Studentin Lara Sommer gehört zur Gen Z. Gemeinsam mit Kommilitonen demonstriert sie in diesen Wochen unter anderem gegen Kürzungen an Unis und für mehr Chancengerechtigkeit.",
+   "datum": "2026-11-27T07:13:00.000Z",
+   "link": "https://www.zdfheute.de/video/politik-gen-z-protest-uni-chancen-video-100.html",
+   "stichworte": []
+  },
+  {
+   "id": "zdf-ur5oqh",
+   "quelle": "ZDFheute",
+   "thema": "Inland",
+   "kontext": "ZDF-Politbarometer",
+   "titel": "Rentenreform: Mehrheit zweifelt an baldiger Einigung",
+   "text": "Die Mehrheit der Deutschen glaubt nicht, dass sich die Bundesregierung im Streit um die Rentenreform in den nächsten Wochen einigen wird. Das zeigt das aktuelle ZDF-Politbarometer.",
+   "datum": "2026-11-27T07:00:00.000Z",
+   "link": "https://www.zdfheute.de/politik/deutschland/politbarometer-rentenreform-einigung-zweifel-100.html",
+   "stichworte": []
+  },
+  {
+   "id": "ts-oadmjl",
+   "quelle": "tagesschau",
+   "thema": "Ausland",
+   "kontext": "Schwere Stürme in den USA",
+   "titel": "Überschwemmungen und Stromausfälle an Thanksgiving",
+   "text": "Am Feiertag Thanksgiving ist ein schwerer Sturm über viele Teile der USA gezogen.",
+   "datum": "2026-11-27T06:55:56.270Z",
+   "link": "https://www.tagesschau.de/ausland/amerika/usa-stuerme-thanksgiving-100.html",
+   "details": "https://www.tagesschau.de/api2u/ausland/amerika/usa-stuerme-thanksgiving-100.json",
+   "stichworte": [
+    "USA",
+    "Thanksgiving",
+    "Unwetter",
+    "Überschwemmungen",
+    "Feiertage"
+   ]
+  },
+  {
+   "id": "ts-1dt3n43",
+   "quelle": "tagesschau",
+   "thema": "Wirtschaft",
+   "kontext": "Interne Unterrichtung",
+   "titel": "SAP meldet verdächtige Aktivitäten",
+   "text": "Hat es einen Hackerangriff gegeben? SAP will das nicht bestätigen, warnt aber seine Mitarbeiter.",
+   "datum": "2026-11-27T06:48:30.521Z",
+   "link": "https://www.tagesschau.de/wirtschaft/unternehmen/sap-hacker-angriff-100.html",
+   "details": "https://www.tagesschau.de/api2u/wirtschaft/unternehmen/sap-hacker-angriff-100.json",
+   "stichworte": [
+    "SAP",
+    "Software-Unternehmen",
+    "Hackerangriff",
+    "Cybersicherheit"
+   ]
+  },
+  {
+   "id": "zdf-qirmkt",
+   "quelle": "ZDFheute",
+   "thema": "Wirtschaft",
+   "kontext": "Wenig Jobs für Menschen mit Behinderung",
+   "titel": "Inklusiver Arbeitsplatz: \"Dann habe ich das alles geschafft\"",
+   "text": "Die Arbeitslosigkeit von Menschen mit Behinderung steigt. Das zeigt das neue Inklusionsbarometer. Wie berufliche Inklusion dennoch gelingen kann, zeigt Paul Lampe bei der Bahn.",
+   "datum": "2026-11-27T06:04:00.000Z",
+   "link": "https://www.zdfheute.de/wirtschaft/arbeitsmarkt-behinderung-inklusion-bahn-aktion-mensch-100.html",
+   "stichworte": []
+  },
+  {
+   "id": "ts-1vgtrr6",
+   "quelle": "tagesschau",
+   "thema": "Ausland",
+   "kontext": "Spanien vor Parlamentswahl",
+   "titel": "Wie die Konservativen die Ära Sánchez abwickeln wollen",
+   "text": "Spaniens konservative Volkspartei PP gilt als Favorit bei der Parlamentswahl am Wochenende.",
+   "datum": "2026-11-27T05:43:42.683Z",
+   "link": "https://www.tagesschau.de/ausland/europa/spanien-wahl-volkspartei-100.html",
+   "details": "https://www.tagesschau.de/api2u/ausland/europa/spanien-wahl-volkspartei-100.json",
+   "stichworte": [
+    "Spanien",
+    "Volkspartei",
+    "PP",
+    "Sánchez",
+    "Parlamentswahl",
+    "Wahl"
+   ]
+  },
+  {
+   "id": "zdf-4n8v0r",
+   "quelle": "ZDFheute",
+   "thema": "Nachrichten",
+   "kontext": "Fernseher als Spion",
+   "titel": "Smart-TVs geben Daten weiter: Wie Sie das verhindern",
+   "text": "Ein Fußballspiel im Fernsehen, später Werbung für Sportkleidung auf dem Handy. Unbemerkt übertragen Smart-TVs Daten an Werbeanbieter. Wie kommt das und wie kann man es vermeiden?",
+   "datum": "2026-11-27T05:34:00.000Z",
+   "link": "https://www.zdfheute.de/ratgeber/fernseher-smart-tv-datenschutz-100.html",
+   "stichworte": []
+  },
+  {
+   "id": "zdf-4n6hcq",
+   "quelle": "ZDFheute",
+   "thema": "Nachrichten",
+   "kontext": "\"Oma der Revolution\"",
+   "titel": "80-Jährige Demonstrantin geht auf Social Media viral",
+   "text": "Seit Monaten demonstrieren Menschen in Albanien gegen die Regierung von Ministerpräsident Edi Rama. Regelmäßig unter ihnen: Die \"Oma der Revolution\".",
+   "datum": "2026-11-27T05:17:00.000Z",
+   "link": "https://www.zdfheute.de/video/albanien-proteste-oma-video-100.html",
+   "stichworte": []
+  },
+  {
+   "id": "zdf-lijuix",
+   "quelle": "ZDFheute",
+   "thema": "Nachrichten",
+   "kontext": "Unwetter in den USA",
+   "titel": "Thanksgiving-Parade in New York erstmals verschoben",
+   "text": "Aufgrund des starken Unwetters an der Ostküste der USA, musste die Thanksgiving Parade zum ersten Mal verschoben werden.",
+   "datum": "2026-11-27T05:15:00.000Z",
+   "link": "https://www.zdfheute.de/video/thanksgiving-parade-abgesagt-video-100.html",
+   "stichworte": []
+  },
+  {
    "id": "ts-t9tjgj",
    "quelle": "tagesschau",
    "thema": "Ausland",
-   "kontext": "Regierung verliert Mehrheit",
-   "titel": "Parlamentswahl in Neuseeland ohne klare Mehrheit",
+   "kontext": "Auszählung der Neuseeland-Wahl",
+   "titel": "Konservative verlieren Mehrheit - Labour hat auch keine",
    "text": "Neuseelands rechtsgerichtete Regierungskoalition unter Premierminister Luxon hat ihre Mehrheit verloren.",
    "datum": "2026-11-27T05:09:05.082Z",
    "link": "https://www.tagesschau.de/ausland/ozeanien/neuseeland-parlamentswahl-106.html",
    "details": "https://www.tagesschau.de/api2u/ausland/ozeanien/neuseeland-parlamentswahl-106.json",
    "stichworte": [
-    "Neuseeland"
+    "Neuseeland",
+    "Wahl",
+    "Parlamentswahl"
    ]
   },
   {
@@ -91,72 +898,6 @@
    "stichworte": []
   },
   {
-   "id": "dlf-xcygd8",
-   "quelle": "Deutschlandfunk",
-   "thema": "Nachrichten",
-   "kontext": "Aktion Mensch",
-   "titel": "Arbeitslosigkeit von Menschen mit Schwerbehinderung auf Rekordhoch",
-   "text": "Die Arbeitslosigkeit unter Menschen mit einer Schwerbehinderung hat nach Angaben der \"Aktion Mensch\" 2025 ein Rekordhoch erreicht.",
-   "datum": "2026-11-27T04:20:51.000Z",
-   "link": "https://www.deutschlandfunk.de/arbeitslosigkeit-von-menschen-mit-schwerbehinderung-auf-rekordhoch-104.html",
-   "stichworte": []
-  },
-  {
-   "id": "dlf-qdt63g",
-   "quelle": "Deutschlandfunk",
-   "thema": "Nachrichten",
-   "kontext": "Angriff in Libyen",
-   "titel": "Ukrainischer Außenminister Sybiha: Wollen Krieg nicht auf Libyen ausweiten",
-   "text": "Der ukrainische Außenminister Sybiha hat nach dem Angriff auf russische Schiffe in Libyen sein Bedauern über unbeabsichtigte Folgen geäußert.",
-   "datum": "2026-11-27T04:20:51.000Z",
-   "link": "https://www.deutschlandfunk.de/ukrainischer-aussenminister-sybiha-wollen-krieg-nicht-auf-libyen-ausweiten-100.html",
-   "stichworte": []
-  },
-  {
-   "id": "dlf-1o6imzi",
-   "quelle": "Deutschlandfunk",
-   "thema": "Nachrichten",
-   "kontext": "Ukraine-Krieg",
-   "titel": "IAEA besorgt wegen weiteren Stromausfalls am Atomkraftwerk Saporischschja",
-   "text": "Die ⁠Internationale Atomenergiebehörde hat vor Gefahren durch den erneuten Stromausfall am ukrainischen ‌Atomkraftwerk ⁠Saporischschja gewarnt.",
-   "datum": "2026-11-27T04:20:51.000Z",
-   "link": "https://www.deutschlandfunk.de/iaea-besorgt-wegen-weiteren-stromausfalls-am-atomkraftwerk-saporischschja-100.html",
-   "stichworte": []
-  },
-  {
-   "id": "dlf-cp3mtf",
-   "quelle": "Deutschlandfunk",
-   "thema": "Nachrichten",
-   "kontext": "Endergebnis",
-   "titel": "Rechtsgerichtete Regierung in Neuseeland verliert Mehrheit",
-   "text": "Neuseelands rechtsgerichtete Regierungskoalition unter Premierminister Luxon hat bei der Parlamentswahl ihre Mehrheit verloren.",
-   "datum": "2026-11-27T04:20:51.000Z",
-   "link": "https://www.deutschlandfunk.de/rechtsgerichtete-regierung-in-neuseeland-verliert-mehrheit-100.html",
-   "stichworte": []
-  },
-  {
-   "id": "dlf-10a3q7m",
-   "quelle": "Deutschlandfunk",
-   "thema": "Nachrichten",
-   "kontext": "Kinderrechte",
-   "titel": "\"Save the Children\" mahnt mehr Schutz vor Kinderehen an",
-   "text": "Die Hilfsorganisation \"Save the Children\" hat mehr Schutz von Mädchen vor Kinderehen angemahnt.",
-   "datum": "2026-11-27T04:20:51.000Z",
-   "link": "https://www.deutschlandfunk.de/save-the-children-mahnt-mehr-schutz-vor-kinderehen-an-100.html",
-   "stichworte": []
-  },
-  {
-   "id": "dlf-3jzo1s",
-   "quelle": "Deutschlandfunk",
-   "thema": "Nachrichten",
-   "kontext": "USA",
-   "titel": "Massive Stromausfälle und Verkehrsbehinderungen an Thanksgiving",
-   "text": "Ein schwerer Sturm hat in den USA am Feiertag Thanksgiving massive Stromausfälle und Verkehrsbehinderungen verursacht.",
-   "datum": "2026-11-27T04:20:51.000Z",
-   "link": "https://www.deutschlandfunk.de/massive-stromausfaelle-und-verkehrsbehinderungen-an-thanksgiving-100.html",
-   "stichworte": []
-  },
-  {
    "id": "dlf-j8es58",
    "quelle": "Deutschlandfunk",
    "thema": "Nachrichten",
@@ -165,94 +906,6 @@
    "text": "Das BSW trifft sich ab heute in Dresden zu seinem vierten Bundesparteitag.",
    "datum": "2026-11-27T04:20:51.000Z",
    "link": "https://www.deutschlandfunk.de/bsw-beginnt-bundesparteitag-ernst-fordert-abgrenzung-zur-afd-100.html",
-   "stichworte": []
-  },
-  {
-   "id": "dlf-gv7vsf",
-   "quelle": "Deutschlandfunk",
-   "thema": "Nachrichten",
-   "kontext": "Wirtschaft",
-   "titel": "Einigung in der Metall- und Elektroindustrie \"klares Zukunftssignal\"",
-   "text": "Vertreter von Gewerkschaft und Arbeitgebern haben sich zufrieden mit dem Ergebnis des Tarifabschlusses in der Metall- und Elektroindustrie gezeigt. Sie sprachen von etwas \"Besonderem\", beziehungsweise etwas \"Außergewöhnlichem\", das in den Gesprächen gelungen sei.",
-   "datum": "2026-11-27T04:20:51.000Z",
-   "link": "https://www.deutschlandfunk.de/einigung-in-der-metall-und-elektroindustrie-klares-zukunftssignal-104.html",
-   "stichworte": []
-  },
-  {
-   "id": "dlf-1p0fk41",
-   "quelle": "Deutschlandfunk",
-   "thema": "Nachrichten",
-   "kontext": "Europäische Zentralbank",
-   "titel": "Spanier soll neuer EZB-Präsident werden",
-   "text": "Der Spanier de Cos soll neuer Präsident der Europäischen Zentralbank werden.Darauf einigten sich die Staats- und Regierungschefs der EU beim Gipfel in Brüssel, wie der französische Präsident Macron mitteilte. Die Entscheidung muss noch formal bestätigt werden.",
-   "datum": "2026-11-27T04:20:51.000Z",
-   "link": "https://www.deutschlandfunk.de/spanier-soll-neuer-ezb-praesident-werden-112.html",
-   "stichworte": []
-  },
-  {
-   "id": "dlf-1gpqgzh",
-   "quelle": "Deutschlandfunk",
-   "thema": "Nachrichten",
-   "kontext": "Verteidigung",
-   "titel": "Entscheidung über US-Truppenabzug verschiebt sich",
-   "text": "Die USA benötigen für die Überprüfung ihrer Truppenpräsenz in Europa offenbar länger als geplant.",
-   "datum": "2026-11-27T04:20:51.000Z",
-   "link": "https://www.deutschlandfunk.de/entscheidung-ueber-us-truppenabzug-verschiebt-sich-104.html",
-   "stichworte": []
-  },
-  {
-   "id": "dlf-1udmcul",
-   "quelle": "Deutschlandfunk",
-   "thema": "Nachrichten",
-   "kontext": "Gesundheit",
-   "titel": "Bundesweite Krankenkassen wollen Zusatzbeiträge 2027 stabil halten",
-   "text": "Angesichts des Sparpakets im Gesundheitswesen peilen die großen bundesweiten Krankenkassen im neuen Jahr stabile Beiträge für ihre Versicherten an.",
-   "datum": "2026-11-27T04:20:51.000Z",
-   "link": "https://www.deutschlandfunk.de/bundesweite-krankenkassen-wollen-zusatzbeitraege-2027-stabil-halten-106.html",
-   "stichworte": []
-  },
-  {
-   "id": "dlf-kcs6aq",
-   "quelle": "Deutschlandfunk",
-   "thema": "Nachrichten",
-   "kontext": "Britisches Forschungsinstitut",
-   "titel": "Deutschland Hauptziel russischer Sabotage",
-   "text": "Russische Sabotageakte und hybride Kriegsoperationen in Europa haben nach Angaben britischer Wissenschaftler am häufigsten Deutschland zum Ziel, gefolgt von Polen und den baltischen Staaten.",
-   "datum": "2026-11-27T04:20:51.000Z",
-   "link": "https://www.deutschlandfunk.de/deutschland-hauptziel-russischer-sabotage-102.html",
-   "stichworte": []
-  },
-  {
-   "id": "dlf-ovysfj",
-   "quelle": "Deutschlandfunk",
-   "thema": "Nachrichten",
-   "kontext": "Bundeswehr",
-   "titel": "Erste Frau an der Spitze eines Marinestützpunkts",
-   "text": "Der Marinestützpunkt Eckernförde wird künftig von Fregattenkapitänin Lydia Knaak geführt. Damit hat erstmals eine Frau das Kommando über einen deutschen Marinestützpunkt übernommen. Die 38-Jährige sagte, die Aufgabe erfülle sie mit Riesenstolz.",
-   "datum": "2026-11-27T04:20:51.000Z",
-   "link": "https://www.deutschlandfunk.de/erste-frau-an-der-spitze-eines-marinestuetzpunkts-104.html",
-   "stichworte": []
-  },
-  {
-   "id": "dlf-5mnedv",
-   "quelle": "Deutschlandfunk",
-   "thema": "Nachrichten",
-   "kontext": "Bundestag",
-   "titel": "Linken-Abgeordneten drohen Konsequenzen nach Blockade-Aktion gegen Ex-Mossad-Chef Barnea",
-   "text": "Die Protestaktion von Linken-Abgeordneten bei einer Bundestags-Veranstaltung mit Israels Ex-Geheimdienstchef Barnea hat Konsequenzen.",
-   "datum": "2026-11-27T04:20:51.000Z",
-   "link": "https://www.deutschlandfunk.de/linken-abgeordneten-drohen-konsequenzen-nach-blockade-aktion-gegen-ex-mossad-chef-barnea-102.html",
-   "stichworte": []
-  },
-  {
-   "id": "dlf-esk1uu",
-   "quelle": "Deutschlandfunk",
-   "thema": "Nachrichten",
-   "kontext": "Ehrung",
-   "titel": "Bundestag benennt Gebäude nach Rita Süssmuth und Gerd Poppe",
-   "text": "Der Deutsche Bundestag benennt zwei Gebäude nach Rita Süssmuth und Gerd Poppe.",
-   "datum": "2026-11-27T04:20:51.000Z",
-   "link": "https://www.deutschlandfunk.de/bundestag-benennt-gebaeude-nach-rita-suessmuth-und-gerd-poppe-102.html",
    "stichworte": []
   },
   {
@@ -267,17 +920,6 @@
    "stichworte": []
   },
   {
-   "id": "dlf-hp9dcl",
-   "quelle": "Deutschlandfunk",
-   "thema": "Nachrichten",
-   "kontext": "Drogerie",
-   "titel": "Landgericht erlaubt Augenscreening in \"dm\"-Filialen – \"ersetzt aber nicht den Arztbesuch\"",
-   "text": "Die Drogeriemarktkette \"dm\" darf laut einem Urteil des Landgerichts Karlsruhe KI-unterstützte Augenuntersuchungen in ihren Filialen anbieten.",
-   "datum": "2026-11-27T04:20:51.000Z",
-   "link": "https://www.deutschlandfunk.de/landgericht-erlaubt-augenscreening-in-dm-filialen-ersetzt-aber-nicht-den-arztbesuch-114.html",
-   "stichworte": []
-  },
-  {
    "id": "dlf-bj5fsg",
    "quelle": "Deutschlandfunk",
    "thema": "Nachrichten",
@@ -286,17 +928,6 @@
    "text": "Der niedersächsische AfD-Vizechef Bothe ist mit seinem Wahleinspruch gegen den Ausschluss von der Landratswahl im Landkreis Lüneburg gescheitert. Der neu konstituierte Kreistag wies den Einspruch des stellvertretenden Landesvorsitzenden mehrheitlich als unbegründet zurück.",
    "datum": "2026-11-27T04:20:51.000Z",
    "link": "https://www.deutschlandfunk.de/afd-scheitert-mit-einspruch-gegen-landratswahl-102.html",
-   "stichworte": []
-  },
-  {
-   "id": "dlf-dwcl1y",
-   "quelle": "Deutschlandfunk",
-   "thema": "Nachrichten",
-   "kontext": "Teheran",
-   "titel": "Iranischer Drehbuchautor und Menschenrechtsaktivist Mehdi Mahmoudian offenbar festgenommen",
-   "text": "Der iranische Drehbuchautor und Menschenrechtsaktivist Mehdi Mahmoudian ist offenbar erneut festgenommen worden.",
-   "datum": "2026-11-27T04:20:51.000Z",
-   "link": "https://www.deutschlandfunk.de/iranischer-drehbuchautor-und-menschenrechtsaktivist-mehdi-mahmoudian-offenbar-festgenommen-110.html",
    "stichworte": []
   },
   {
@@ -355,17 +986,6 @@
    "stichworte": []
   },
   {
-   "id": "dlf-2pat7a",
-   "quelle": "Deutschlandfunk",
-   "thema": "Nachrichten",
-   "kontext": "Fußball",
-   "titel": "Europa League: Hoffenheim schlägt Sturm Graz, Leverkusen gewinnt in Zagreb - Conference League: Freiburg - Enschede 2:1",
-   "text": "In der Fußball Europa League hat die TSG Hoffenheim 3:1 gegen Sturm Graz gewonnen.",
-   "datum": "2026-11-27T04:20:51.000Z",
-   "link": "https://www.deutschlandfunk.de/europa-league-hoffenheim-schlaegt-sturm-graz-leverkusen-gewinnt-in-zagreb-conference-league-freiburg-104.html",
-   "stichworte": []
-  },
-  {
    "id": "dlf-168dm42",
    "quelle": "Deutschlandfunk",
    "thema": "Nachrichten",
@@ -388,29 +1008,19 @@
    "stichworte": []
   },
   {
-   "id": "dlf-1cfws8g",
-   "quelle": "Deutschlandfunk",
-   "thema": "Nachrichten",
-   "kontext": "Wetter",
-   "titel": "Bewölkt, im Westen und Norden auch sonnig, -3 bis +3 Grad",
-   "text": "Das Wetter: Stark bewölkt bis bedeckt, im Westen und Norden sonnige Abschnitte. Gebietsweise leichter Schneefall. Höchsttemperaturen minus 3 bis plus 3 Grad.",
-   "datum": "2026-11-27T04:20:51.000Z",
-   "link": "https://www.deutschlandfunk.de/bewoelkt-im-westen-und-norden-auch-sonnig-3-bis-3-grad-100.html",
-   "stichworte": []
-  },
-  {
    "id": "ts-1rmf454",
    "quelle": "tagesschau",
    "thema": "Inland",
    "kontext": "\"Inklusionsbarometer Arbeit\"",
-   "titel": "Rekordhohe Arbeitslosigkeit bei Menschen mit Schwerbehinderung",
+   "titel": "Rekordarbeitslosigkeit bei Menschen mit Schwerbehinderung",
    "text": "Menschen mit Schwerbehinderung bekommen die gesamtwirtschaftliche Lage besonders stark zu spüren.",
    "datum": "2026-11-27T04:13:07.985Z",
    "link": "https://www.tagesschau.de/inland/gesellschaft/schwerbehinderung-arbeitslose-100.html",
    "details": "https://www.tagesschau.de/api2u/inland/gesellschaft/schwerbehinderung-arbeitslose-100.json",
    "stichworte": [
     "Schwerbehinderte",
-    "Arbeitsmarkt"
+    "Arbeitsmarkt",
+    "Inklusion"
    ]
   },
   {
@@ -425,29 +1035,19 @@
    "stichworte": []
   },
   {
-   "id": "zdf-1e387f7",
-   "quelle": "ZDFheute",
-   "thema": "Ausland",
-   "kontext": "Treffen wird nicht fortgesetzt",
-   "titel": "Keine Einigung: EU-Sondergipfel zum Haushalt endet vorzeitig",
-   "text": "Sparen oder nicht sparen, das war die Frage beim EU-Sondergipfel zum Haushalt in Brüssel. Ein Ergebnis gab es nicht. Der Gipfel wurde frühzeitig beendet.",
-   "datum": "2026-11-27T02:46:00.000Z",
-   "link": "https://www.zdfheute.de/politik/ausland/eu-gipfel-haushalt-bruessel-europaeische-union-merz-abbruch-100.html",
-   "stichworte": []
-  },
-  {
    "id": "ts-18m5mv7",
    "quelle": "tagesschau",
    "thema": "Ausland",
    "kontext": "Bosnien und Herzogowina",
    "titel": "Dodik hebt Sohn auf den Thron",
-   "text": "2025 musste Dodik nach internationalem Druck zurücktreten. Nun macht er seinen Sohn zum Regierungschef.",
+   "text": "2025 musste Milorad Dodik nach internationalem Druck zurücktreten. Nun macht er seinen Sohn zum Regierungschef.",
    "datum": "2026-11-27T01:29:29.945Z",
    "link": "https://www.tagesschau.de/ausland/europa/dodik-bosnien-sohn-100.html",
    "details": "https://www.tagesschau.de/api2u/ausland/europa/dodik-bosnien-sohn-100.json",
    "stichworte": [
     "Bosnien und Herzegowina",
-    "Republika Srpska"
+    "Republika Srpska",
+    "Milorad Dodik"
    ]
   },
   {
@@ -455,7 +1055,7 @@
    "quelle": "ZDFheute",
    "thema": "Inland",
    "kontext": "Haushaltsdebatte bei \"illner\"",
-   "titel": "Quentin Gärtner: \"Als wäre Weihnachten statt Wirtschaftskrise\"",
+   "titel": "\"Als wäre Weihnachten statt Wirtschaftskrise\"",
    "text": "Vor dem Haushalt 2027 schlagen Schwarz und Rot Pflöcke für den Etat 2028 ein. Ein Student fürchtet um die Zukunft, eine Journalistin sieht \"antifaschistische Wirtschaftspolitik\".",
    "datum": "2026-11-27T00:49:00.000Z",
    "link": "https://www.zdfheute.de/politik/deutschland/illner-haushaltsdebatte-frei-koalition-100.html",
@@ -478,14 +1078,15 @@
    "thema": "Ausland",
    "kontext": "Haushaltsberatungen in Brüssel",
    "titel": "Merz verkündet vorzeitiges Ende des EU-Sondergipfels",
-   "text": "Keine Einung wurde beim Sondergipfel gefunden - es geht um viele Milliarden für den EU-Haushalt.",
+   "text": "Keine Einigung wurde beim Sondergipfel gefunden - es geht um viele Milliarden für den EU-Haushalt.",
    "datum": "2026-11-27T00:02:22.544Z",
    "link": "https://www.tagesschau.de/ausland/europa/eu-haushalt-vorzeitig-beendet-100.html",
    "details": "https://www.tagesschau.de/api2u/ausland/europa/eu-haushalt-vorzeitig-beendet-100.json",
    "stichworte": [
     "EU",
     "EU-Sondergipfel",
-    "Friedrich Merz"
+    "Friedrich Merz",
+    "EU-Haushalt"
    ]
   },
   {
@@ -522,39 +1123,6 @@
    "stichworte": []
   },
   {
-   "id": "zdf-lijuix",
-   "quelle": "ZDFheute",
-   "thema": "Nachrichten",
-   "kontext": "Unwetter in den USA",
-   "titel": "Thanksgiving-Parade in New York erstmals verschoben",
-   "text": "Aufgrund des starken Unwetters an der Ostküste der USA, musste die Thanksgiving Parade zum ersten Mal verschoben werden.",
-   "datum": "2026-11-26T21:56:12.000Z",
-   "link": "https://www.zdfheute.de/video/thanksgiving-parade-abgesagt-video-100.html",
-   "stichworte": []
-  },
-  {
-   "id": "zdf-blz6m7",
-   "quelle": "ZDFheute",
-   "thema": "Ausland",
-   "kontext": "Politik",
-   "titel": "Aktuelles zum Krieg in der Ukraine",
-   "text": "Seit Februar 2022 führt Russland einen Angriffskrieg gegen die Ukraine, die Kämpfe dauern an. Alle Entwicklungen und Ukraine-News im Liveticker.",
-   "datum": "2026-11-26T21:40:00.000Z",
-   "link": "https://www.zdfheute.de/politik/ausland/ukraine-russland-konflikt-blog-102.html",
-   "stichworte": []
-  },
-  {
-   "id": "zdf-wgppw7",
-   "quelle": "ZDFheute",
-   "thema": "Ausland",
-   "kontext": "Politik",
-   "titel": "Iran-Krieg und Nahost-Konflikt: Alle Nachrichten im Liveblog",
-   "text": "Die Lage in Nahost ist weiter angespannt - es kommt immer wieder zu Angriffen. Im Westjordanland spitzt sich die Situation zu. Alle Entwicklungen im Liveblog.",
-   "datum": "2026-11-26T21:40:00.000Z",
-   "link": "https://www.zdfheute.de/politik/ausland/iran-israel-usa-angriff-liveblog-100.html",
-   "stichworte": []
-  },
-  {
    "id": "ts-1tlakrx",
    "quelle": "tagesschau",
    "thema": "Ausland",
@@ -579,17 +1147,6 @@
    "text": "Laura Dahlmeier ist posthum in die Hall of Fame des deutschen Sports aufgenommen worden. Ihr Vater nahm die Ehrung stellvertretend entgegen.",
    "datum": "2026-11-26T20:46:00.000Z",
    "link": "https://www.zdfheute.de/sport/biathlon-hall-of-fame-sport-laura-dahlmeier-100.html",
-   "stichworte": []
-  },
-  {
-   "id": "zdf-j4qtea",
-   "quelle": "ZDFheute",
-   "thema": "Panorama",
-   "kontext": "Autobahn A93 zeitweise gesperrt",
-   "titel": "Schnee und Glätte sorgen für Verkehrschaos im Süden",
-   "text": "Nach einem Wintereinbruch hat es in Bayern Unfälle und Staus gegeben. Für Österreich wurden Autofahrer gewarnt, dort solle \"keiner unterwegs sein\". Auch in der Nacht wird es eisig.",
-   "datum": "2026-11-26T20:26:00.000Z",
-   "link": "https://www.zdfheute.de/panorama/unfall-bayern-oesterreich-autobahn-schnee-glaette-verkehr-a93-100.html",
    "stichworte": []
   },
   {
@@ -929,215 +1486,6 @@
    "stichworte": []
   },
   {
-   "id": "dlf-gyo4u1",
-   "quelle": "Deutschlandfunk",
-   "thema": "Nachrichten",
-   "kontext": "Irankrieg",
-   "titel": "Zwei italienische Rheinmetall-Mitarbeiter durch Drohnenangriff in Kuwait getötet",
-   "text": "Bei einem iranischen Drohnenangriff in Kuwait sind zwei italienische Staatsbürger getötet worden, die für das deutsche Rüstungsunternehmen Rheinmetall gearbeitet haben.",
-   "datum": "2026-11-26T17:02:39.000Z",
-   "link": "https://www.deutschlandfunk.de/zwei-italienische-rheinmetall-mitarbeiter-durch-drohnenangriff-in-kuwait-getoetet-100.html",
-   "stichworte": []
-  },
-  {
-   "id": "dlf-1xg5d9d",
-   "quelle": "Deutschlandfunk",
-   "thema": "Nachrichten",
-   "kontext": "Medien",
-   "titel": "Eilantrag gegen Programmreform im Deutschlandfunk erfolglos",
-   "text": "Ein Eilantrag gegen die Programmreform des Deutschlandfunks ist gescheitert.",
-   "datum": "2026-11-26T17:02:39.000Z",
-   "link": "https://www.deutschlandfunk.de/eilantrag-gegen-programmreform-im-deutschlandfunk-erfolglos-100.html",
-   "stichworte": []
-  },
-  {
-   "id": "dlf-1b18eja",
-   "quelle": "Deutschlandfunk",
-   "thema": "Nachrichten",
-   "kontext": "Vor Ibiza",
-   "titel": "Ein Toter bei Tankerunglück - Behörden prüfen mögliche Umweltfolgen",
-   "text": "Vor der spanischen Insel Ibiza ist ein mit Diesel beladener Tanker gesunken.",
-   "datum": "2026-11-26T17:02:39.000Z",
-   "link": "https://www.deutschlandfunk.de/ein-toter-bei-tankerunglueck-behoerden-pruefen-moegliche-umweltfolgen-102.html",
-   "stichworte": []
-  },
-  {
-   "id": "dlf-s51xbr",
-   "quelle": "Deutschlandfunk",
-   "thema": "Nachrichten",
-   "kontext": "Nach Verzögerung",
-   "titel": "Ab Mitte Dezember soll der Führerschein aufs Handy geladen werden können",
-   "text": "Bis Mitte Dezember soll es möglich sein, seinen Führerschein auf ein Smartphone zu laden.",
-   "datum": "2026-11-26T17:02:39.000Z",
-   "link": "https://www.deutschlandfunk.de/ab-mitte-dezember-soll-der-fuehrerschein-aufs-handy-geladen-werden-koennen-100.html",
-   "stichworte": []
-  },
-  {
-   "id": "dlf-zby2w1",
-   "quelle": "Deutschlandfunk",
-   "thema": "Nachrichten",
-   "kontext": "Bundesanwaltschaft",
-   "titel": "Zwei mutmaßliche Mitglieder einer pro-iranischen Terrorgruppe in Köln und Heidelberg festgenommen",
-   "text": "Im Zusammenhang mit einem geplanten Anschlag auf eine Synagoge in Köln sind zwei mutmaßliche Mitglieder einer pro-iranischen Terrorgruppe festgenommen worden.",
-   "datum": "2026-11-26T17:02:39.000Z",
-   "link": "https://www.deutschlandfunk.de/zwei-mutmassliche-mitglieder-einer-pro-iranischen-terrorgruppe-in-koeln-und-heidelberg-festgenommen-100.html",
-   "stichworte": []
-  },
-  {
-   "id": "dlf-19qcbu2",
-   "quelle": "Deutschlandfunk",
-   "thema": "Nachrichten",
-   "kontext": "\"Black Friday\"",
-   "titel": "Verdi ruft zu Warnstreiks an elf deutschen Amazon-Standorten auf",
-   "text": "Die Gewerkschaft Verdi ruft für morgen an elf Standorten des Internethändlers Amazon zu Streiks auf.",
-   "datum": "2026-11-26T17:02:39.000Z",
-   "link": "https://www.deutschlandfunk.de/verdi-ruft-zu-warnstreiks-an-elf-deutschen-amazon-standorten-auf-100.html",
-   "stichworte": []
-  },
-  {
-   "id": "dlf-utd4sc",
-   "quelle": "Deutschlandfunk",
-   "thema": "Nachrichten",
-   "kontext": "Statistisches Bundesamt",
-   "titel": "Reallöhne im Sommer weiter gestiegen",
-   "text": "Die Reallöhne in Deutschland sind im dritten Quartal um rund 1,3 Prozent gestiegen.",
-   "datum": "2026-11-26T17:02:39.000Z",
-   "link": "https://www.deutschlandfunk.de/realloehne-im-sommer-weiter-gestiegen-100.html",
-   "stichworte": []
-  },
-  {
-   "id": "dlf-ruwgpz",
-   "quelle": "Deutschlandfunk",
-   "thema": "Nachrichten",
-   "kontext": "Mobilität",
-   "titel": "Versicherungs-Umfrage: Senioren steigen offenbar häufiger von Auto mit Verbrennungsmotor auf fabrikneues Elektroauto um",
-   "text": "Immer mehr Senioren wechseln offenbar von ihrem Auto mit Verbrennungsmotor auf ein Elektroauto.",
-   "datum": "2026-11-26T17:02:39.000Z",
-   "link": "https://www.deutschlandfunk.de/versicherungs-umfrage-senioren-steigen-offenbar-haeufiger-von-auto-mit-verbrennungsmotor-auf-fabrikn-100.html",
-   "stichworte": []
-  },
-  {
-   "id": "dlf-1ibm6yk",
-   "quelle": "Deutschlandfunk",
-   "thema": "Nachrichten",
-   "kontext": "Datenhoheit",
-   "titel": "Kultur- und Medienstaatsminister Weimer lädt TikTok zu Verhandlungen über Joint Venture ein",
-   "text": "Gemeinsam mit Österreichs Digitalstaatssekretär Pröll hat der deutsche Kultur- und Medienstaatsminister Weimer Vertreter von TikTok offiziell zu Verhandlungen über ein europäisches Joint Venture eingeladen. Weimer betonte dabei, es gehe nicht nur ums Geschäft.",
-   "datum": "2026-11-26T17:02:39.000Z",
-   "link": "https://www.deutschlandfunk.de/kultur-und-medienstaatsminister-weimer-laedt-tiktok-zu-verhandlungen-ueber-joint-venture-ein-100.html",
-   "stichworte": []
-  },
-  {
-   "id": "dlf-nrn3en",
-   "quelle": "Deutschlandfunk",
-   "thema": "Nachrichten",
-   "kontext": "Musiala–Debatte",
-   "titel": "Joshua Kimmich nennt öffentliche Kritik der Vereinsführung ein \"No Go\"",
-   "text": "Der Vizekapitän von Fußball-Bundesligist Bayern München, Joshua Kimmich, hat deutliche Kritik am Umgang der Vereinsführung mit seinem Mitspieler Jamal Musiala geübt.",
-   "datum": "2026-11-26T17:02:39.000Z",
-   "link": "https://www.deutschlandfunk.de/joshua-kimmich-nennt-oeffentliche-kritik-der-vereinsfuehrung-ein-no-go-100.html",
-   "stichworte": []
-  },
-  {
-   "id": "dlf-1vkjob2",
-   "quelle": "Deutschlandfunk",
-   "thema": "Nachrichten",
-   "kontext": "Wegen Meldeversäumnissen bei Dopingkontrollen",
-   "titel": "Fußball-Nationalspielerin Laura Freigang für 16 Monate gesperrt",
-   "text": "WM-Aus für Laura Freigang: Die Fußball-Nationalspielerin wird wegen ihrer Meldeversäumnisse im Zusammenhang mit Dopingkontrollen für 16 Monate gesperrt. Darauf einigten sich die Welt-Anti-Doping-Agentur, die Nationale Anti Doping Agentur, der Deutsche Fußball-Bund und Freigang mittels einer \"Vereinbarung zur …",
-   "datum": "2026-11-26T17:02:39.000Z",
-   "link": "https://www.deutschlandfunk.de/fussball-nationalspielerin-laura-freigang-fuer-16-monate-gesperrt-102.html",
-   "stichworte": []
-  },
-  {
-   "id": "dlf-18pp0kf",
-   "quelle": "Deutschlandfunk",
-   "thema": "Nachrichten",
-   "kontext": "Deutsche Ukraine-Hilfe",
-   "titel": "Ehemalige EKD-Vorsitzende Käßmann fordert Kurswechsel",
-   "text": "In der Diskussion über die deutsche Unterstützung der Ukraine sieht sich die frühere EKD-Ratsvorsitzende Käßmann durch eine jüngste Studie der Körber-Stiftung bestätigt.",
-   "datum": "2026-11-26T17:02:39.000Z",
-   "link": "https://www.deutschlandfunk.de/ehemalige-ekd-vorsitzende-kaessmann-fordert-kurswechsel-100.html",
-   "stichworte": []
-  },
-  {
-   "id": "dlf-1if135i",
-   "quelle": "Deutschlandfunk",
-   "thema": "Nachrichten",
-   "kontext": "Nach Expertenbericht",
-   "titel": "Grünen- und CDU-Politiker fordern Sexkauf-Verbot",
-   "text": "Aus den Reihen von Union und Grünen kommt nach dem Bericht der Expertenkommission zur Prostitution die Forderung nach einem Sexkauf-Verbot. Der Justiziar der Unionsfraktion im Bundestag, Plum, sagte der \"Rheinischen Post\", ein echter Kurswechsel im Prostitutionsrecht sei notwendig.",
-   "datum": "2026-11-26T17:02:39.000Z",
-   "link": "https://www.deutschlandfunk.de/gruenen-und-cdu-politiker-fordern-sexkauf-verbot-100.html",
-   "stichworte": []
-  },
-  {
-   "id": "dlf-ar8usa",
-   "quelle": "Deutschlandfunk",
-   "thema": "Nachrichten",
-   "kontext": "\"Botschafter des Meeres\"",
-   "titel": "Schleswig-Holstein plant Meldekette für Walsichtungen und -strandungen",
-   "text": "Das Land Schleswig-Holstein will den Schutz von Walen in Nord- und Ostsee verbessern. Dazu soll eine Meldekette etabliert werden, die Handlungsabläufe bei Walsichtungen und möglichen Strandungen regelt.",
-   "datum": "2026-11-26T17:02:39.000Z",
-   "link": "https://www.deutschlandfunk.de/schleswig-holstein-plant-meldekette-fuer-walsichtungen-und-strandungen-102.html",
-   "stichworte": []
-  },
-  {
-   "id": "dlf-yrvmvr",
-   "quelle": "Deutschlandfunk",
-   "thema": "Nachrichten",
-   "kontext": "Schulregeln",
-   "titel": "Nordrhein-Westfalen verbietet Gesichtsschleier im Unterricht",
-   "text": "In Nordrhein-Westfalen ist das Tragen von Gesichtsschleiern im Schulunterricht künftig untersagt.",
-   "datum": "2026-11-26T17:02:39.000Z",
-   "link": "https://www.deutschlandfunk.de/nordrhein-westfalen-verbietet-gesichtsschleier-im-unterricht-100.html",
-   "stichworte": []
-  },
-  {
-   "id": "dlf-97g12z",
-   "quelle": "Deutschlandfunk",
-   "thema": "Nachrichten",
-   "kontext": "Rückschlag für Trump",
-   "titel": "Gericht schützt Sender ABC vor Lizenzprüfung durch Trump-Regierung",
-   "text": "Ein US-Bundesgericht hat die Medienaufsichtsbehörde FCC vorerst daran gehindert, die Sendelizenzen des Fernsehsenders ABC vorzeitig zu überprüfen. Richterin Loren AliKhan in Washington gab einem Antrag des Senders auf eine einstweilige Verfügung statt.",
-   "datum": "2026-11-26T17:02:39.000Z",
-   "link": "https://www.deutschlandfunk.de/gericht-schuetzt-sender-abc-vor-lizenzpruefung-durch-trump-regierung-102.html",
-   "stichworte": []
-  },
-  {
-   "id": "dlf-xkco7q",
-   "quelle": "Deutschlandfunk",
-   "thema": "Nachrichten",
-   "kontext": "Kultur",
-   "titel": "Deutscher Kleinkunstpreis 2027 unter anderem an Schweizer Kabarettistin Patti Basler",
-   "text": "Die Schweizer Kabarettistin Patti Basler erhält den Deutschen Kleinkunstpreis 2027 in der Sparte Kabarett.",
-   "datum": "2026-11-26T17:02:39.000Z",
-   "link": "https://www.deutschlandfunk.de/deutscher-kleinkunstpreis-2027-unter-anderem-an-schweizer-kabarettistin-patti-basler-100.html",
-   "stichworte": []
-  },
-  {
-   "id": "dlf-207wmm",
-   "quelle": "Deutschlandfunk",
-   "thema": "Nachrichten",
-   "kontext": "Asteroid Dimorphos",
-   "titel": "\"Weit mehr als eine wissenschaftliche Sensation\": ESA veröffentlicht Bilder der Raumsonde Hera von Asteroiden-Abwehrmission",
-   "text": "Vor vier Jahren krachte erstmals eine Sonde gezielt in einen Asteroiden. Nun wurden erste detaillierte Bilder veröffentlicht. Experten sprechen von einem Beleg, dass die Menschheit den Gefahren aus dem All nicht mehr handlungsunfähig ausgeliefert ist.",
-   "datum": "2026-11-26T17:02:39.000Z",
-   "link": "https://www.deutschlandfunk.de/weit-mehr-als-eine-wissenschaftliche-sensation-esa-veroeffentlicht-bilder-der-raumsonde-hera-von-ast-106.html",
-   "stichworte": []
-  },
-  {
-   "id": "dlf-1ccux67",
-   "quelle": "Deutschlandfunk",
-   "thema": "Nachrichten",
-   "kontext": "Raumfahrt",
-   "titel": "SpaceX darf eine Million Satelliten für KI-Rechenzentren ins All bringen",
-   "text": "Das ​Raumfahrtunternehmen SpaceX darf ein Netzwerk aus einer Million Satelliten für Rechenzentren im Orbit aufbauen.",
-   "datum": "2026-11-26T17:02:39.000Z",
-   "link": "https://www.deutschlandfunk.de/spacex-darf-eine-million-satelliten-fuer-ki-rechenzentren-ins-all-bringen-102.html",
-   "stichworte": []
-  },
-  {
    "id": "zdf-v1xav6",
    "quelle": "ZDFheute",
    "thema": "Sport",
@@ -1213,7 +1561,7 @@
    "quelle": "ZDFheute",
    "thema": "Wirtschaft",
    "kontext": "Hohe Kosten für Personal und Sicherheit",
-   "titel": "Werden Weihnachtsmärkte den Kommunen zu teuer?",
+   "titel": "Den Kommunen zu teuer? Immer mehr Weihnachtsmärkte abgesagt",
    "text": "Hohe Ausgaben bei Personal und Sicherheit machen die Organisation von Weihnachtsmärkten deutschlandweit teuer. Und dann kommt noch die angespannte Kassenlage der Kommunen dazu.",
    "datum": "2026-11-26T16:13:00.000Z",
    "link": "https://www.zdfheute.de/wirtschaft/hohe-kosten-weihnachtsmaerkte-kommunen-100.html",
@@ -1246,6 +1594,17 @@
    "text": "Tech-Bros und Politik: Die Macht von Huang, Musk, Thiel & Co",
    "datum": "2026-11-26T16:10:00.000Z",
    "link": "https://www.zdfheute.de/video/mirko-drotschmann-explained-tech-konzerne-musk-100.html",
+   "stichworte": []
+  },
+  {
+   "id": "zdf-1mxo7f4",
+   "quelle": "ZDFheute",
+   "thema": "Nachrichten",
+   "kontext": "heute journal - der Podcast",
+   "titel": "Nvidia, Trump, Huang: Geld regiert die Welt",
+   "text": "Jensen Huang ist zurück an der Spitze von Nvidia. Er war zurückgetreten, nachdem mehrere Affären öffentlich wurden, darunter eine mit einer mutmaßlichen chinesischen Spionin.",
+   "datum": "2026-11-26T16:00:00.000Z",
+   "link": "https://www.zdfheute.de/video/heute-journal/heute-journal-podcast-folge-95-nvidia-huang-comeback-100.html",
    "stichworte": []
   },
   {
@@ -1483,17 +1842,6 @@
    ]
   },
   {
-   "id": "zdf-he97r6",
-   "quelle": "ZDFheute",
-   "thema": "Nachrichten",
-   "kontext": "Großeinsatz in Giza",
-   "titel": "Schweres Unglück bei Kairo: Tankwagen explodiert",
-   "text": "Nahe der ägyptischen Hauptstadt Kairo führte der Crash eines Tankwagens zu einer verheerenden Kettenreaktion. Dutzende Autos brannten aus, Behörden leiteten Ermittlungen ein.",
-   "datum": "2026-11-26T13:01:00.000Z",
-   "link": "https://www.zdfheute.de/video/aegypten-kairo-grossbrand-unfall-video-100.html",
-   "stichworte": []
-  },
-  {
    "id": "ts-i9ajfy",
    "quelle": "tagesschau",
    "thema": "Ausland",
@@ -1509,17 +1857,6 @@
     "Feuer",
     "Gedenken"
    ]
-  },
-  {
-   "id": "zdf-4fbsny",
-   "quelle": "ZDFheute",
-   "thema": "Wirtschaft",
-   "kontext": "Jeder dritte Euro auf Pump?",
-   "titel": "Bundeshaushalt 2027: Wo Experten Sparpotenzial sehen",
-   "text": "Der Bund wird sich 2027 weiter verschulden - mit Krediten in Höhe von 210 Milliarden Euro. Drei Bereiche, in denen Experten zufolge Milliarden gespart werden könnten.",
-   "datum": "2026-11-26T12:21:00.000Z",
-   "link": "https://www.zdfheute.de/wirtschaft/bundeshaushalt-2027-schulden-sparpotential-100.html",
-   "stichworte": []
   },
   {
    "id": "ts-yvzpqt",
@@ -1541,28 +1878,6 @@
    ]
   },
   {
-   "id": "zdf-14csib",
-   "quelle": "ZDFheute",
-   "thema": "Inland",
-   "kontext": "Migrationspakte mit Drittstaaten",
-   "titel": "Abschiebezentren in Ruanda: Union nennt erstmals Zahlen",
-   "text": "Um abgelehnte Asylbewerber schneller abschieben zu können, will die Bundesregierung mit Ruanda kooperieren. Erstmals nennt die Union konkrete Summen für sogenannte \"Return Hubs\".",
-   "datum": "2026-11-26T11:54:00.000Z",
-   "link": "https://www.zdfheute.de/politik/deutschland/asyl-rueckkehr-abschiebung-zentrum-ruanda-kosten-union-100.html",
-   "stichworte": []
-  },
-  {
-   "id": "zdf-ze7coo",
-   "quelle": "ZDFheute",
-   "thema": "Nachrichten",
-   "kontext": "Schutz für Sexarbeitende",
-   "titel": "Sollte Sexkauf verboten werden?",
-   "text": "Reicht die Regulierung von Sexarbeit oder sollte es ein Sexkaufverbot nach nordischem Modell geben? Bei ZDFheute live diskutieren beide Seiten.",
-   "datum": "2026-11-26T11:40:00.000Z",
-   "link": "https://www.zdfheute.de/video/zdfheute-live/sexkauf-prostitution-kommission-video-100.html",
-   "stichworte": []
-  },
-  {
    "id": "ts-x098lt",
    "quelle": "tagesschau",
    "thema": "Inland",
@@ -1581,28 +1896,6 @@
    ]
   },
   {
-   "id": "zdf-1k0c4ku",
-   "quelle": "ZDFheute",
-   "thema": "Nachrichten",
-   "kontext": "Sachsen-Anhalt",
-   "titel": "BSW-Politikerin Wittig: \"Notfalls auch mit der AfD\"",
-   "text": "Claudia Wittig (BSW) hat bei \"Lanz\" die Bereitschaft zu einer sachbezogenen Zusammenarbeit mit der AfD in Sachsen-Anhalt verteidigt.",
-   "datum": "2026-11-26T11:31:00.000Z",
-   "link": "https://www.zdfheute.de/video/lanz-wittig-bsw-afd-video-100.html",
-   "stichworte": []
-  },
-  {
-   "id": "zdf-1w68xoy",
-   "quelle": "ZDFheute",
-   "thema": "Sport",
-   "kontext": "Mit deutscher Expertise auf Aufstiegskurs",
-   "titel": "Wie Southampton in der größten Krise zu Trainer Eckert stand",
-   "text": "Tonda Eckert ist noch nicht lange Chefcoach und hat in England schon eine unglaubliche Achterbahnfahrt hinter sich. Der Rückhalt seines Klubs FC Southampton könnte sich auszahlen.",
-   "datum": "2026-11-26T11:25:16.000Z",
-   "link": "https://www.zdfheute.de/sport/fussball-fc-southampton-tonda-eckert-championship-aufstieg-spionage-bolzplatz-100.html",
-   "stichworte": []
-  },
-  {
    "id": "ts-7tc7ol",
    "quelle": "tagesschau",
    "thema": "Ausland",
@@ -1617,17 +1910,6 @@
     "EU-Haushalt",
     "Ukraine-Hilfe"
    ]
-  },
-  {
-   "id": "zdf-1hpm0hc",
-   "quelle": "ZDFheute",
-   "thema": "Nachrichten",
-   "kontext": "PolitiX zum Bundeshaushalt",
-   "titel": "Lars Klingbeil: Der Trickser?",
-   "text": "Jeder dritte Euro im Haushalt 2027 ist schuldenfinanziert. Finanzminister Klingbeil muss sich vorwerfen lassen, den Etat nur mit Hilfe diverser Tricks zusammengezimmert zu haben.",
-   "datum": "2026-11-26T11:00:00.000Z",
-   "link": "https://www.zdfheute.de/video/politix/haushalt-klingbeil-merz-koalition-schulden-100.html",
-   "stichworte": []
   },
   {
    "id": "ts-1c860kp",
@@ -1683,61 +1965,6 @@
    ]
   },
   {
-   "id": "zdf-11l3n06",
-   "quelle": "ZDFheute",
-   "thema": "Inland",
-   "kontext": "Streit um langfristige Budgetplanung",
-   "titel": "EU-Sondergipfel zum Haushalt: Merz fordert weitere Kürzung",
-   "text": "Nächste Runde im EU-Budgetstreit: Bei einem Sondergipfel diskutieren die Staats- und Regierungschefs erneut über den Haushalt. Kanzler Merz bekräftigt seine Kürzungsforderung.",
-   "datum": "2026-11-26T10:31:00.000Z",
-   "link": "https://www.zdfheute.de/politik/eu-sondergipfel-finanzen-budget-haushalt-100.html",
-   "stichworte": []
-  },
-  {
-   "id": "zdf-1kzxc8e",
-   "quelle": "ZDFheute",
-   "thema": "Inland",
-   "kontext": "Diskussion in Koalition",
-   "titel": "SPD weist Vorschlag der Union zur \"Rente mit 63\" klar ab",
-   "text": "Die SPD hat einen Vorschlag der Union zur \"Rente mit 63\" als \"so nicht hinnehmbar\" zurückgewiesen. Die abschlagsfreie Rente nach 45 Beitragsjahren müsse für alle erhalten bleiben.",
-   "datum": "2026-11-26T10:05:00.000Z",
-   "link": "https://www.zdfheute.de/politik/deutschland/rente-cdu-vorschlag-63-spd-ablehnung-100.html",
-   "stichworte": []
-  },
-  {
-   "id": "zdf-dw53u1",
-   "quelle": "ZDFheute",
-   "thema": "Panorama",
-   "kontext": "Rechtsextremismus",
-   "titel": "Ex-Neonazi: \"Auf meinem Lebensweg gibt es nur Opfer\"",
-   "text": "Neonazi-Aussteiger Philip Schlaffer warnt vor der Radikalisierung in Kinderzimmern. Auf seine eigene Zeit in der Szene blickt er überaus kritisch.",
-   "datum": "2026-11-26T10:01:00.000Z",
-   "link": "https://www.zdfheute.de/video/panorama-rechts-extremismus-trend-100.html",
-   "stichworte": []
-  },
-  {
-   "id": "zdf-1x21m1i",
-   "quelle": "ZDFheute",
-   "thema": "Panorama",
-   "kontext": "Überschwemmungen und Sturmwarnungen",
-   "titel": "Unwetter bedrohen Thanksgiving-Feiern in den USA",
-   "text": "Überschwemmungen an der Westküste, Sturm- und Regenwarnungen an der Ostküste: Thanksgiving in den USA droht ins Wasser zu fallen. Die berühmte Parade in New York wurde verschoben.",
-   "datum": "2026-11-26T09:53:00.000Z",
-   "link": "https://www.zdfheute.de/panorama/thanksgiving-usa-unwetter-warnung-parade-verschoben-100.html",
-   "stichworte": []
-  },
-  {
-   "id": "zdf-680mvp",
-   "quelle": "ZDFheute",
-   "thema": "Nachrichten",
-   "kontext": "phoenix vor ort",
-   "titel": "SPD-Spitzen zum Orange Day",
-   "text": "SPD-Spitzen anlässlich des Int. Tages zur Beseitigung von Gewalt gegen Frauen mit Jjustizministerin Stefanie Hubig, der Vorsitzenden der SPD FRAUEN, Carmen Wegge, SPD-Generalsekretär Tim Klüssendorf, und dem Fraktionsvorsitzen Matthias Miersch (25.11.26)",
-   "datum": "2026-11-26T09:40:00.000Z",
-   "link": "https://www.phoenix.de/php/mediaplayer/vod_embed.php?cmsid=5250339",
-   "stichworte": []
-  },
-  {
    "id": "ts-p1ulwi",
    "quelle": "tagesschau",
    "thema": "Inland",
@@ -1754,17 +1981,6 @@
     "Köln",
     "Heidelberg"
    ]
-  },
-  {
-   "id": "zdf-680mwc",
-   "quelle": "ZDFheute",
-   "thema": "Nachrichten",
-   "kontext": "phoenix vor ort",
-   "titel": "EU-Finanzrahmen: \"Nach wie vor ist das Volumen zu hoch\"",
-   "text": "Doorstep von Bundeskanzler Friedrich Merz (CDU) vor Beginn des EU-Gipfels",
-   "datum": "2026-11-26T09:28:00.000Z",
-   "link": "https://www.phoenix.de/php/mediaplayer/vod_embed.php?cmsid=5250341",
-   "stichworte": []
   },
   {
    "id": "ts-3oalmo",
@@ -1786,28 +2002,6 @@
    ]
   },
   {
-   "id": "zdf-ulu6ew",
-   "quelle": "ZDFheute",
-   "thema": "Nachrichten",
-   "kontext": "Teuer ist nicht gleich prickelnd",
-   "titel": "Stiftung Warentest: Alkoholfreier Sekt im Test",
-   "text": "Stiftung Warentest hat 17 alkoholfreie Schaumweine getestet: Ein französischer Tropfen überzeugt geschmacklich und gute Alternativen gibt es schon für knapp drei Euro.",
-   "datum": "2026-11-26T09:05:00.000Z",
-   "link": "https://www.zdfheute.de/ratgeber/alkoholfreier-sekt-stiftung-warentest-100.html",
-   "stichworte": []
-  },
-  {
-   "id": "zdf-tsr1mj",
-   "quelle": "ZDFheute",
-   "thema": "Nachrichten",
-   "kontext": "plan b",
-   "titel": "Bye-bye, Schulterschmerz!",
-   "text": "Steife Schultern, verspannter Nacken? Viele kämpfen täglich mit Schmerzen. Ungewöhnliche Therapien machen Hoffnung. Von Mikropartikeln über Stammzellen bis Dry Needling: Was steckt dahinter?",
-   "datum": "2026-11-26T09:00:00.000Z",
-   "link": "https://www.zdf.de/video/dokus/plan-b-was-macht-uns-gesund-102/schulter-schmerzen-102",
-   "stichworte": []
-  },
-  {
    "id": "ts-170yqvt",
    "quelle": "tagesschau",
    "thema": "Wirtschaft",
@@ -1821,185 +2015,6 @@
     "Commerzbank",
     "UniCredit",
     "Hauptversammlung"
-   ]
-  },
-  {
-   "id": "ts-3k7qb2",
-   "quelle": "tagesschau",
-   "thema": "Ausland",
-   "kontext": "Umgang mit EU-Geldern",
-   "titel": "Der Kampf der Ukraine gegen Korruption",
-   "text": "Journalisten und Politiker decken immer wieder Fälle mutmaßlicher Korruption auf - und bewegen damit etwas.",
-   "datum": "2026-11-26T07:53:31.383Z",
-   "link": "https://www.tagesschau.de/ausland/europa/ukraine-korruption-118.html",
-   "details": "https://www.tagesschau.de/api2u/ausland/europa/ukraine-korruption-118.json",
-   "stichworte": [
-    "Ukraine",
-    "Korruption",
-    "Russland",
-    "EU",
-    "EU-Hilfen"
-   ]
-  },
-  {
-   "id": "ts-pzciqy",
-   "quelle": "tagesschau",
-   "thema": "Wirtschaft",
-   "kontext": "Start verzögert sich",
-   "titel": "Digitaler Führerschein erst ab Mitte Dezember",
-   "text": "Statt Ende November kann man in Deutschland den digitalen Führerschein wohl erst ab Mitte Dezember nutzen.",
-   "datum": "2026-11-26T07:10:45.432Z",
-   "link": "https://www.tagesschau.de/wirtschaft/verbraucher/digitaler-fuehrerschein-verspaetung-start-mitte-dezember-100.html",
-   "details": "https://www.tagesschau.de/api2u/wirtschaft/verbraucher/digitaler-fuehrerschein-verspaetung-start-mitte-dezember-100.json",
-   "stichworte": [
-    "Führerschein",
-    "Autofahren"
-   ]
-  },
-  {
-   "id": "ts-ll5map",
-   "quelle": "tagesschau",
-   "thema": "Ausland",
-   "kontext": "Indonesien",
-   "titel": "13 Tote aus überfluteter Goldmine geborgen",
-   "text": "Heftige Regenfälle haben in illegalen Goldmine auf Java zwei Stollen geflutet. Hilfe kam erst spät.",
-   "datum": "2026-11-26T06:59:54.777Z",
-   "link": "https://www.tagesschau.de/ausland/asien/tote-aus-gefluteter-goldmine-geborgen-indonesien-100.html",
-   "details": "https://www.tagesschau.de/api2u/ausland/asien/tote-aus-gefluteter-goldmine-geborgen-indonesien-100.json",
-   "stichworte": [
-    "Unglück",
-    "Goldmine",
-    "Indonesien"
-   ]
-  },
-  {
-   "id": "ts-vioqvt",
-   "quelle": "tagesschau",
-   "thema": "Investigativ",
-   "kontext": "Schlauchboote im Ärmelkanal",
-   "titel": "Deutscher Firmenchef soll Schleuser beliefert haben",
-   "text": "Bei fast einem Drittel der Überfahrten sollen zuletzt Boote oder Motoren einer deutschen Firma genutzt worden sein.",
-   "datum": "2026-11-26T05:00:30.863Z",
-   "link": "https://www.tagesschau.de/investigativ/ndr-wdr/schleuser-aermelkanal-deutschland-100.html",
-   "details": "https://www.tagesschau.de/api2u/investigativ/ndr-wdr/schleuser-aermelkanal-deutschland-100.json",
-   "stichworte": [
-    "Schleuser",
-    "Ärmelkanal"
-   ]
-  },
-  {
-   "id": "ts-1b4sg56",
-   "quelle": "tagesschau",
-   "thema": "Investigativ",
-   "kontext": "Umsetzung von EU-Richtlinie",
-   "titel": "Deutschland schützt Lieferanten zu schlecht",
-   "text": "Um Mitarbeiter von Lieferdienst-Plattformen besser zu schützen, hat die EU eine Richtlinie beschlossen.",
-   "datum": "2026-11-26T05:00:09.567Z",
-   "link": "https://www.tagesschau.de/investigativ/rbb/lieferdienste-subunternehmer-100.html",
-   "details": "https://www.tagesschau.de/api2u/investigativ/rbb/lieferdienste-subunternehmer-100.json",
-   "stichworte": [
-    "Lieferdienste",
-    "Subunternehmer",
-    "EU",
-    "Arbeitsrecht"
-   ]
-  },
-  {
-   "id": "ts-16n7ac2",
-   "quelle": "tagesschau",
-   "thema": "Ausland",
-   "kontext": "Feiertag in den USA",
-   "titel": "Wetterchaos an Thanksgiving befürchtet",
-   "text": "Im Osten naht ein Sturm heran, im Westen sorgt eine extreme Springflut für Überschwemmungen und Schäden.",
-   "datum": "2026-11-26T04:41:15.750Z",
-   "link": "https://www.tagesschau.de/ausland/amerika/sturm-usa-152.html",
-   "details": "https://www.tagesschau.de/api2u/ausland/amerika/sturm-usa-152.json",
-   "stichworte": [
-    "USA",
-    "Kalifornien",
-    "Wetter",
-    "Springflut",
-    "Überschwemmungen",
-    "Thanksgiving"
-   ]
-  },
-  {
-   "id": "ts-xy327m",
-   "quelle": "tagesschau",
-   "thema": "Ausland",
-   "kontext": "EU-Haushalt",
-   "titel": "Kampf um bis zu zwei Billionen Euro",
-   "text": "Die Staats- und Regierungschefs der 27 EU-Länder beraten in Brüssel über den langfristigen EU-Haushalt.",
-   "datum": "2026-11-26T04:00:53.968Z",
-   "link": "https://www.tagesschau.de/ausland/europa/eu-haushalt-digitalsteuer-100.html",
-   "details": "https://www.tagesschau.de/api2u/ausland/europa/eu-haushalt-digitalsteuer-100.json",
-   "stichworte": [
-    "EU",
-    "Haushalt",
-    "Digitalsteuer"
-   ]
-  },
-  {
-   "id": "ts-10zar1x",
-   "quelle": "tagesschau",
-   "thema": "Wirtschaft",
-   "kontext": "Für KI-Rechenzentren",
-   "titel": "SpaceX darf eine Million Satelliten ins All schicken",
-   "text": "Die US-Behörden gaben grünes Licht für das Vorhaben, das die enorme Nachfrage nach KI-Rechenleistung befriedigen soll.",
-   "datum": "2026-11-26T01:58:55.098Z",
-   "link": "https://www.tagesschau.de/wirtschaft/unternehmen/spacex-eine-million-satelliten-100.html",
-   "details": "https://www.tagesschau.de/api2u/wirtschaft/unternehmen/spacex-eine-million-satelliten-100.json",
-   "stichworte": [
-    "SpaceX",
-    "Künstliche Intelligenz",
-    "Weltraum",
-    "Satelliten",
-    "KI",
-    "Elon Musk"
-   ]
-  },
-  {
-   "id": "ts-oj2kku",
-   "quelle": "tagesschau",
-   "thema": "Ausland",
-   "kontext": "Ägypten",
-   "titel": "Mindestens 30 Tote bei Großbrand auf Autobahn",
-   "text": "Ein mit Treibstoff beladener Lkw hat bei einem Unfall in der Stadt Gizeh einen Großbrand ausgelöst.",
-   "datum": "2026-11-25T21:10:04.344Z",
-   "link": "https://www.tagesschau.de/ausland/afrika/aegypten-brand-gizeh-tote-100.html",
-   "details": "https://www.tagesschau.de/api2u/ausland/afrika/aegypten-brand-gizeh-tote-100.json",
-   "stichworte": [
-    "Ägypten"
-   ]
-  },
-  {
-   "id": "ts-sl1ziy",
-   "quelle": "tagesschau",
-   "thema": "Inland",
-   "kontext": "Streit um \"Rente mit 63\"",
-   "titel": "Unionsabgeordnete schlagen \"Respekt-Rente\" vor",
-   "text": "Für Menschen mit kleinem Einkommen soll die \"Rente mit 63\" bestehen bleiben.",
-   "datum": "2026-11-25T20:40:23.901Z",
-   "link": "https://www.tagesschau.de/inland/innenpolitik/rente-kompromiss-koalition-100.html",
-   "details": "https://www.tagesschau.de/api2u/inland/innenpolitik/rente-kompromiss-koalition-100.json",
-   "stichworte": [
-    "Rente mit 63",
-    "Rentenreform"
-   ]
-  },
-  {
-   "id": "ts-tw4qej",
-   "quelle": "tagesschau",
-   "thema": "Ausland",
-   "kontext": "Prozess gegen Israels Premier",
-   "titel": "Wird Bestechungsvorwurf gegen Netanjahu fallen gelassen?",
-   "text": "Seit Jahren muss sich Israels Premier wegen Betrugs, Untreue und Bestechlichkeit vor Gericht verantworten.",
-   "datum": "2026-11-25T19:50:08.909Z",
-   "link": "https://www.tagesschau.de/ausland/asien/israel-netanjahu-korruptionsvorwuerfe-100.html",
-   "details": "https://www.tagesschau.de/api2u/ausland/asien/israel-netanjahu-korruptionsvorwuerfe-100.json",
-   "stichworte": [
-    "Israel",
-    "Netanjahu"
    ]
   }
  ]
